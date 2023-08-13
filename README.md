@@ -1,5 +1,7 @@
-# what-i-think
+# SSD
 
-내가 다시 찾아볼것들에 대해 정리합니다
+머리속(memory)에 모든것이 들어갈순 없기에
 
-### [Click Me!](https://github.com/Star-ho/what-i-think/issues)
+기억해야 할것들, 기억하고 싶은것들(data)을 issue(SSD)에기록합니다.
+
+### [GO SSD!](https://github.com/Star-ho/what-i-think/issues)
