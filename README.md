@@ -4,4 +4,4 @@
 
 기억해야 할것들, 기억하고 싶은것들(data)을 issue(SSD)에기록합니다.
 
-### [GO SSD!](https://github.com/Star-ho/what-i-think/issues)
+### [GO SSD!](https://github.com/Star-ho/SSD/issues?q=is%3Aopen+is%3Aissue+-label%3Awriting...)
