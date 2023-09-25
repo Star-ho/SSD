@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "임시/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
+                "file": "임시/생각정리/좋은 팀원의 조건.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "임시/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
+                "file": "임시/생각정리/좋은 팀원의 조건.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "임시/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
+                "file": "임시/생각정리/좋은 팀원의 조건.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "임시/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md"
+                "file": "임시/생각정리/좋은 팀원의 조건.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "3257b8548ddd13bf",
   "lastOpenFiles": [
+    "임시/생각정리/설명할때.md",
+    "임시/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
     "임시/shell command",
     "2023-09-24.md",
-    "임시/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
     "임시/Database/Database 확인해야할것들.md",
     "임시/어떤 java 배포판을 사용할것인가?.md",
     "임시/New!/GraalVM.md",
@@ -193,7 +194,6 @@
     "Database/Untitled",
     "NIO관련",
     "임시/보안관련",
-    "임시/면접자료",
-    "임시/생각정리"
+    "임시/면접자료"
   ]
 }
