@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-24.md",
+                "file": "임시/etc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-24.md",
+                "file": "임시/etc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-24.md",
+                "file": "임시/etc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-24.md"
+                "file": "임시/etc.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "3257b8548ddd13bf",
   "lastOpenFiles": [
-    "임시/Database/Database 확인해야할것들.md",
     "2023-09-24.md",
+    "임시/etc.md",
+    "임시/Database/Database 확인해야할것들.md",
     "임시/어떤 java 배포판을 사용할것인가?.md",
     "임시/New!/GraalVM.md",
     "임시/Architecture/CQRS.md",
@@ -186,7 +187,6 @@
     "Untitled.canvas",
     "임시/생각정리/창업시.md",
     "JAVA & Kotlin.md",
-    "DeepL.md",
     "임시",
     "임시/Computer Science",
     "임시/프론트엔드",
