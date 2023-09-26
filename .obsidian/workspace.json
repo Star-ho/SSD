@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "5ccbd0b784448aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d74c43a040f24806",
             "type": "leaf",
             "state": {
@@ -42,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ccbd0b784448aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7-성호의 Second Brain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten.md",
+                "file": "7-성호의 Second Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten.md",
+                "file": "7-성호의 Second Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten.md"
+                "file": "7-성호의 Second Brain.md"
               }
             }
           },
@@ -182,9 +182,10 @@
   },
   "active": "5ccbd0b784448aa2",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Zettlecasten.md",
+    "6-Zettlecasten.md",
     "5-PARA Method.md",
+    "7-성호의 Second Brain.md",
+    "Untitled.canvas",
     "작성중...md",
     "2023-09-24.md",
     "Pasted image 20230926224851.png",
@@ -205,7 +206,7 @@
     "임시/코드짤떄/reponse에 vo OR entity.md",
     "임시/코드짤떄/어떤걸 캡슐화 할것인가?.md",
     "임시/코드짤떄/속도 개선을 위해.md",
-    "2-Resource/Tools/화면분할 in mac.md",
+    "Tools/화면분할 in mac.md",
     "임시/생각정리/토론할때.md",
     "임시/생각정리/설명할때.md",
     "임시/생각정리/좋은 팀원의 조건.md",
