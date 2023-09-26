@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "임시/Architecture/OOD.md",
+                "file": "임시/JAVA & Kotlin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fbc453535cbb6e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-09-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d74c43a040f24806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "임시/Architecture/OOD.md",
+                "file": "PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "임시/Architecture/OOD.md",
+                "file": "PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "임시/Architecture/OOD.md"
+                "file": "PARA.md"
               }
             }
           },
@@ -155,15 +180,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3257b8548ddd13bf",
+  "active": "d74c43a040f24806",
   "lastOpenFiles": [
-    "임시/코드짤떄/mind.md",
+    "Pasted image 20230926224851.png",
+    "2023-09-24.md",
+    "PARA.md",
+    "Resource",
+    "임시/JNI.md",
+    "임시/JAVA & Kotlin.md",
+    "임시/Computer Science/value에 대해.md",
+    "임시/Computer Science/SDD vs HDD 읽기 쓰기 방법.md",
+    "임시/Computer Science/DNS평가순서.md",
+    "임시/Computer Science/cpu-memory-sdd(hdd).md",
     "임시/Architecture/OOD.md",
+    "임시/코드짤떄/mind.md",
     "임시/코드짤떄/reponse에 vo OR entity.md",
     "임시/코드짤떄/어떤걸 캡슐화 할것인가?.md",
     "임시/코드짤떄/속도 개선을 위해.md",
-    "임시/Computer Science/value에 대해.md",
-    "Tools/화면분할 in mac.md",
+    "Resource/Tools/화면분할 in mac.md",
     "임시/생각정리/토론할때.md",
     "임시/생각정리/설명할때.md",
     "임시/생각정리/좋은 팀원의 조건.md",
@@ -174,18 +208,10 @@
     "임시/생각정리/10계명...md",
     "임시/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
     "임시/shell command",
-    "2023-09-24.md",
     "임시/Database/Database 확인해야할것들.md",
     "임시/어떤 java 배포판을 사용할것인가?.md",
-    "임시/New!/GraalVM.md",
-    "임시/Architecture/CQRS.md",
     "임시/New!",
-    "임시/Database/PostgreSQL vs MariaDB.md",
     "Pasted image 20230924231237.png",
-    "임시/Architecture/redis 분산락.md",
-    "임시/면접자료/경력 기술서에.md",
-    "임시/Computer Science/cpu-memory-sdd(hdd).md",
-    "임시/Computer Science/SDD vs HDD 읽기 쓰기 방법.md",
     "임시/코드짤떄",
     "Untitled.canvas",
     "임시",
@@ -193,7 +219,6 @@
     "임시/프론트엔드",
     "Database/Untitled",
     "임시/NIO관련",
-    "임시/보안관련",
-    "임시/면접자료"
+    "임시/보안관련"
   ]
 }
