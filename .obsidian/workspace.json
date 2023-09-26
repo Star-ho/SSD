@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "임시/Computer Science/value에 대해.md",
+                "file": "임시/Architecture/OOD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "임시/Computer Science/value에 대해.md",
+                "file": "임시/Architecture/OOD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "임시/Computer Science/value에 대해.md",
+                "file": "임시/Architecture/OOD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "임시/Computer Science/value에 대해.md"
+                "file": "임시/Architecture/OOD.md"
               }
             }
           },
@@ -157,8 +157,13 @@
   },
   "active": "3257b8548ddd13bf",
   "lastOpenFiles": [
-    "Tools/화면분할 in mac.md",
+    "임시/코드짤떄/mind.md",
+    "임시/Architecture/OOD.md",
+    "임시/코드짤떄/reponse에 vo OR entity.md",
+    "임시/코드짤떄/어떤걸 캡슐화 할것인가?.md",
+    "임시/코드짤떄/속도 개선을 위해.md",
     "임시/Computer Science/value에 대해.md",
+    "Tools/화면분할 in mac.md",
     "임시/생각정리/토론할때.md",
     "임시/생각정리/설명할때.md",
     "임시/생각정리/좋은 팀원의 조건.md",
@@ -167,7 +172,6 @@
     "임시/Spring/Spring jpa test annotation.md",
     "임시/Spring/database library.md",
     "임시/생각정리/10계명...md",
-    "임시/코드짤떄/어떤걸 캡슐화 할것인가?.md",
     "임시/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
     "임시/shell command",
     "2023-09-24.md",
@@ -182,10 +186,6 @@
     "임시/면접자료/경력 기술서에.md",
     "임시/Computer Science/cpu-memory-sdd(hdd).md",
     "임시/Computer Science/SDD vs HDD 읽기 쓰기 방법.md",
-    "임시/Computer Science/DNS평가순서.md",
-    "임시/코드짤떄/속도 개선을 위해.md",
-    "임시/코드짤떄/reponse에 vo OR entity.md",
-    "임시/면접자료/Garbage collection.md",
     "임시/코드짤떄",
     "Untitled.canvas",
     "임시",
