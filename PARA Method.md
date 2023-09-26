@@ -14,4 +14,8 @@
 - 위 세개에 포함이 되지 않는것들
 
 참고링크
+PARA
 https://fortelabs.com/blog/para/
+
+Zettlecasten
+https://zettelkasten.de/posts/overview/
