@@ -17,5 +17,3 @@
 PARA
 https://fortelabs.com/blog/para/
 
-Zettlecasten
-https://zettelkasten.de/posts/overview/
