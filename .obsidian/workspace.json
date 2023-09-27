@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "쿼리 실행시간 보는보는법.md",
+                "file": "작성중...md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec3b7a3c2b1ca235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "깊은 고민을 잘한다.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "쿼리 실행시간 보는보는법.md",
+                "file": "깊은 고민을 잘한다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "쿼리 실행시간 보는보는법.md",
+                "file": "깊은 고민을 잘한다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "쿼리 실행시간 보는보는법.md"
+                "file": "깊은 고민을 잘한다.md"
               }
             }
           },
@@ -155,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e681e7dd672d3ed",
+  "active": "ec3b7a3c2b1ca235",
   "lastOpenFiles": [
     "작성중...md",
+    "깊은 고민을 잘한다.md",
     "쿼리 실행시간 보는보는법.md",
+    "README.md",
     "2023-09-24.md",
     "공부할 자료들.md",
     "7-성호의 Second Brain.md",
@@ -189,8 +204,6 @@
     "임시/생각정리/좋은 팀원의 조건.md",
     "임시/InfraStructure/redis 직렬화 역직렬화 이슈.md",
     "임시/New!/virtual thread syncronized lock.md",
-    "임시/Spring/Spring jpa test annotation.md",
-    "임시/Spring/database library.md",
     "임시/shell command",
     "임시/New!",
     "임시/코드짤떄",
