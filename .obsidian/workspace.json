@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-성호의 Second Brain.md",
+                "file": "0-Temp/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f91f76ce3bea018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Area/Database/쿼리 튜닝시.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-성호의 Second Brain.md",
+                "file": "0-Temp/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7-성호의 Second Brain.md",
+                "file": "0-Temp/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7-성호의 Second Brain.md"
+                "file": "0-Temp/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md"
               }
             }
           },
@@ -168,46 +180,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "eee04013331cb38d",
   "lastOpenFiles": [
-    "6-Zettlecasten.md",
-    "Untitled.md",
-    "5-PARA Method.md",
-    "작성중...md",
-    "0-임시/테스트 짤때는 stub들은 중복이 필요하면 깔끔하게 중복.md",
-    "깊은 고민을 잘한다.md",
-    "쿼리 실행시간 보는보는법.md",
-    "README.md",
-    "2023-09-24.md",
-    "공부할 자료들.md",
-    "7-성호의 Second Brain.md",
+    "0-Temp/NIO관련/nio 모델 관련 글.md",
+    "4-Future/JAVA/GraalVM.md",
+    "4-Future/JAVA",
+    "4-Future/JAVA/virtual thread syncronized lock.md",
+    "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
+    "4-Future/Database/kafka ui.md",
+    "4-Future/Database/오픈스택.md",
+    "4-Future/Database/맵리듀스.md",
+    "0-Temp/InfraStructure/안정해시.md",
+    "0-Temp/Database/MVCC.md",
+    "0-Temp/Database/hibernate Session 과 DB Connection.md",
+    "0-Temp/Database/Database 확인해야할것들.md",
+    "0-Temp/Database/Bulk Insert.md",
+    "0-Temp/Database/쿼리 실행시간 보는법.md",
+    "0-Temp/Database/쿼리 실행 순서.md",
+    "0-Temp/Computer Science/value에 대해.md",
+    "0-Temp/Computer Science/SDD vs HDD 읽기 쓰기 방법.md",
+    "0-Temp/Computer Science/DNS평가순서.md",
+    "0-Temp/Computer Science/cpu-memory-sdd(hdd).md",
+    "0-Temp/Architecture/redis 분산락.md",
+    "0-Temp/Architecture/OOD.md",
+    "0-Temp/Architecture/MSA 패턴.md",
+    "0-Temp/Architecture/CQRS.md",
+    "2-Area/Architecture/이유.md",
+    "2-Area/Architecture",
+    "4-Future/Database/PostgreSQL vs MariaDB.md",
+    "4-Future/Database/IDOR.md",
+    "3-Resource/Database/DB 날려먹었을때 복구방법.md",
+    "3-Resource/Database",
+    "2-Area/Database",
+    "4-Future/Database",
+    "5-Archive",
     "Untitled.canvas",
     "Pasted image 20230926224851.png",
     "Img/Pasted image 20230924231237.png",
     "Img",
-    "0-임시/JAVA & Kotlin.md",
-    "4-Archive",
-    "3-Area",
-    "1-Project",
-    "2-Resource",
-    "0-임시/JNI.md",
-    "0-임시/Computer Science/value에 대해.md",
-    "0-임시/Computer Science/SDD vs HDD 읽기 쓰기 방법.md",
-    "0-임시/Computer Science/DNS평가순서.md",
-    "0-임시/Computer Science/cpu-memory-sdd(hdd).md",
-    "0-임시/Architecture/OOD.md",
-    "0-임시/코드짤떄/mind.md",
-    "0-임시/코드짤떄/reponse에 vo OR entity.md",
-    "0-임시/코드짤떄/어떤걸 캡슐화 할것인가?.md",
-    "0-임시/코드짤떄/속도 개선을 위해.md",
-    "4-Archive/Tools/화면분할 in mac.md",
-    "0-임시/생각정리/토론할때.md",
-    "0-임시/생각정리/설명할때.md",
-    "0-임시/생각정리/좋은 팀원의 조건.md",
-    "0-임시/shell command",
-    "0-임시/New!",
-    "0-임시/코드짤떄",
-    "0-임시",
-    "0-임시/Computer Science"
+    "4-Future",
+    "2-Area",
+    "1-Project"
   ]
 }
