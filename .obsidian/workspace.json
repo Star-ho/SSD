@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d14b119fc9480891",
+        "id": "9997d41949a34a63",
         "type": "tabs",
         "children": [
           {
-            "id": "3257b8548ddd13bf",
+            "id": "6e681e7dd672d3ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-PARA Method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d74c43a040f24806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-PARA Method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ccbd0b784448aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7-성호의 Second Brain.md",
+                "file": "쿼리 실행시간 보는보는법.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-성호의 Second Brain.md",
+                "file": "쿼리 실행시간 보는보는법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7-성호의 Second Brain.md",
+                "file": "쿼리 실행시간 보는보는법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7-성호의 Second Brain.md"
+                "file": "쿼리 실행시간 보는보는법.md"
               }
             }
           },
@@ -180,14 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ccbd0b784448aa2",
+  "active": "6e681e7dd672d3ed",
   "lastOpenFiles": [
+    "작성중...md",
+    "쿼리 실행시간 보는보는법.md",
+    "2023-09-24.md",
+    "공부할 자료들.md",
+    "7-성호의 Second Brain.md",
     "6-Zettlecasten.md",
     "5-PARA Method.md",
-    "7-성호의 Second Brain.md",
     "Untitled.canvas",
-    "작성중...md",
-    "2023-09-24.md",
     "Pasted image 20230926224851.png",
     "Img/Pasted image 20230924231237.png",
     "Img",
@@ -206,7 +183,7 @@
     "임시/코드짤떄/reponse에 vo OR entity.md",
     "임시/코드짤떄/어떤걸 캡슐화 할것인가?.md",
     "임시/코드짤떄/속도 개선을 위해.md",
-    "Tools/화면분할 in mac.md",
+    "4-Archive/Tools/화면분할 in mac.md",
     "임시/생각정리/토론할때.md",
     "임시/생각정리/설명할때.md",
     "임시/생각정리/좋은 팀원의 조건.md",
@@ -214,8 +191,6 @@
     "임시/New!/virtual thread syncronized lock.md",
     "임시/Spring/Spring jpa test annotation.md",
     "임시/Spring/database library.md",
-    "임시/생각정리/10계명...md",
-    "임시/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
     "임시/shell command",
     "임시/New!",
     "임시/코드짤떄",
