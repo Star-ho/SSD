@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e681e7dd672d3ed",
+            "id": "7a783c59b8ac48e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "작성중...md",
+                "file": "5-PARA Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec3b7a3c2b1ca235",
+            "id": "eee04013331cb38d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-PARA Method.md",
+                "file": "6-Zettlecasten.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-PARA Method.md",
+                "file": "6-Zettlecasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-PARA Method.md",
+                "file": "6-Zettlecasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-PARA Method.md"
+                "file": "6-Zettlecasten.md"
               }
             }
           },
@@ -168,13 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec3b7a3c2b1ca235",
+  "active": "eee04013331cb38d",
   "lastOpenFiles": [
-    "6-Zettlecasten.md",
     "5-PARA Method.md",
+    "6-Zettlecasten.md",
+    "작성중...md",
     "임시/테스트 짤때는 stub들은 중복이 필요하면 깔끔하게 중복.md",
     "깊은 고민을 잘한다.md",
-    "작성중...md",
     "쿼리 실행시간 보는보는법.md",
     "README.md",
     "2023-09-24.md",
