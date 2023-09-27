@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Zettlecasten.md",
+                "file": "7-성호의 Second Brain.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Zettlecasten.md",
+                "file": "7-성호의 Second Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-Zettlecasten.md",
+                "file": "7-성호의 Second Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-Zettlecasten.md"
+                "file": "7-성호의 Second Brain.md"
               }
             }
           },
@@ -168,13 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eee04013331cb38d",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "6-Zettlecasten.md",
     "Untitled.md",
     "5-PARA Method.md",
-    "6-Zettlecasten.md",
     "작성중...md",
-    "임시/테스트 짤때는 stub들은 중복이 필요하면 깔끔하게 중복.md",
+    "0-임시/테스트 짤때는 stub들은 중복이 필요하면 깔끔하게 중복.md",
     "깊은 고민을 잘한다.md",
     "쿼리 실행시간 보는보는법.md",
     "README.md",
@@ -185,29 +185,29 @@
     "Pasted image 20230926224851.png",
     "Img/Pasted image 20230924231237.png",
     "Img",
-    "임시/JAVA & Kotlin.md",
+    "0-임시/JAVA & Kotlin.md",
     "4-Archive",
     "3-Area",
     "1-Project",
     "2-Resource",
-    "임시/JNI.md",
-    "임시/Computer Science/value에 대해.md",
-    "임시/Computer Science/SDD vs HDD 읽기 쓰기 방법.md",
-    "임시/Computer Science/DNS평가순서.md",
-    "임시/Computer Science/cpu-memory-sdd(hdd).md",
-    "임시/Architecture/OOD.md",
-    "임시/코드짤떄/mind.md",
-    "임시/코드짤떄/reponse에 vo OR entity.md",
-    "임시/코드짤떄/어떤걸 캡슐화 할것인가?.md",
-    "임시/코드짤떄/속도 개선을 위해.md",
+    "0-임시/JNI.md",
+    "0-임시/Computer Science/value에 대해.md",
+    "0-임시/Computer Science/SDD vs HDD 읽기 쓰기 방법.md",
+    "0-임시/Computer Science/DNS평가순서.md",
+    "0-임시/Computer Science/cpu-memory-sdd(hdd).md",
+    "0-임시/Architecture/OOD.md",
+    "0-임시/코드짤떄/mind.md",
+    "0-임시/코드짤떄/reponse에 vo OR entity.md",
+    "0-임시/코드짤떄/어떤걸 캡슐화 할것인가?.md",
+    "0-임시/코드짤떄/속도 개선을 위해.md",
     "4-Archive/Tools/화면분할 in mac.md",
-    "임시/생각정리/토론할때.md",
-    "임시/생각정리/설명할때.md",
-    "임시/생각정리/좋은 팀원의 조건.md",
-    "임시/shell command",
-    "임시/New!",
-    "임시/코드짤떄",
-    "임시",
-    "임시/Computer Science"
+    "0-임시/생각정리/토론할때.md",
+    "0-임시/생각정리/설명할때.md",
+    "0-임시/생각정리/좋은 팀원의 조건.md",
+    "0-임시/shell command",
+    "0-임시/New!",
+    "0-임시/코드짤떄",
+    "0-임시",
+    "0-임시/Computer Science"
   ]
 }
