@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-성호의 Second Brain.md",
+                "file": "3-Resource/Database/DB 날려먹었을때 복구방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-성호의 Second Brain.md",
+                "file": "3-Resource/Database/DB 날려먹었을때 복구방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7-성호의 Second Brain.md",
+                "file": "3-Resource/Database/DB 날려먹었을때 복구방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7-성호의 Second Brain.md"
+                "file": "3-Resource/Database/DB 날려먹었을때 복구방법.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "4bd82d25589992c5",
   "lastOpenFiles": [
+    "7-성호의 Second Brain.md",
     "0-Temp/코드짤떄/reponse에 vo OR entity.md",
     "0-Temp/코드짤떄/mind.md",
     "0-Temp/코드짤떄/어떤걸 캡슐화 할것인가?.md",
@@ -168,7 +169,6 @@
     "2-Area/면접자료/면접 가이드.md",
     "2-Area/면접자료/과제 만들때.md",
     "2-Area/면접자료/경력 기술서에.md",
-    "7-성호의 Second Brain.md",
     "5-Archive/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
     "0-Temp/NIO관련/nio 모델 관련 글.md",
     "4-Future/JAVA/GraalVM.md",
