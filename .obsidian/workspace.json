@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/DB 날려먹었을때 복구방법.md",
+                "file": "0-Temp/Architecture/DDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/DB 날려먹었을때 복구방법.md",
+                "file": "0-Temp/Architecture/DDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/DB 날려먹었을때 복구방법.md",
+                "file": "0-Temp/Architecture/DDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/DB 날려먹었을때 복구방법.md"
+                "file": "0-Temp/Architecture/DDD.md"
               }
             }
           },
@@ -155,15 +155,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bd82d25589992c5",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "0-Temp/Architecture/이유.md",
+    "0-Temp/Architecture/DDD.md",
+    "2-Area/생각정리/기분, 태도.md",
+    "3-Resource/Architechure/OOD.md",
+    "3-Resource/Architechure",
+    "3-Resource/Database/DB 날려먹었을때 복구방법.md",
     "7-성호의 Second Brain.md",
     "0-Temp/코드짤떄/reponse에 vo OR entity.md",
     "0-Temp/코드짤떄/mind.md",
     "0-Temp/코드짤떄/어떤걸 캡슐화 할것인가?.md",
     "0-Temp/코드짤떄/속도 개선을 위해.md",
     "5-PARA Method.md",
-    "4-Future/Tools/JRebel.md",
+    "5-Archive/Tools/JRebel.md",
     "0-Temp/JAVA & Kotlin.md",
     "0-Temp/Garbage collection.md",
     "2-Area/면접자료/면접 가이드.md",
@@ -179,11 +185,6 @@
     "4-Future/Database/오픈스택.md",
     "4-Future/Database/맵리듀스.md",
     "0-Temp/InfraStructure/안정해시.md",
-    "0-Temp/Database/MVCC.md",
-    "0-Temp/Database/hibernate Session 과 DB Connection.md",
-    "0-Temp/Database/Database 확인해야할것들.md",
-    "0-Temp/Database/Bulk Insert.md",
-    "0-Temp/Database/쿼리 실행시간 보는법.md",
     "2-Area/Architecture",
     "3-Resource/Database",
     "2-Area/Database",
@@ -194,7 +195,6 @@
     "Img/Pasted image 20230924231237.png",
     "Img",
     "4-Future",
-    "2-Area",
-    "1-Project"
+    "2-Area"
   ]
 }
