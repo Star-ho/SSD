@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/아키텍처 패턴, 아키텍처 스타일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7afd7462144488b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Temp/세마포어, 뮤텍스.md",
+                "file": "2-Area/생각정리/좋은 말투.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "속도 개선",
+                "query": "mat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/세마포어, 뮤텍스.md",
+                "file": "2-Area/생각정리/좋은 말투.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/세마포어, 뮤텍스.md",
+                "file": "2-Area/생각정리/좋은 말투.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/세마포어, 뮤텍스.md"
+                "file": "2-Area/생각정리/좋은 말투.md"
               }
             }
           },
@@ -180,11 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "c92e75070c03e182",
   "lastOpenFiles": [
-    "쿼리 실행시간 보는보는법.md",
-    "0-Temp/세마포어, 뮤텍스.md",
+    "3-Resource/Infrastructure/Split brain.md",
+    "2-Area/생각정리/좋은 말투.md",
+    "Pasted image 20230928180134.png",
+    "5-Archive/디멀티플렉싱.md",
+    "3-Resource/Infrastructure",
+    "5-Archive/팬아웃.md",
     "0-Temp/아키텍처 패턴, 아키텍처 스타일.md",
+    "4-Future/Study Matirials/공부할자료.md",
+    "4-Future/Study Matirials/유쾌한 스프링방 콘서트.md",
+    "4-Future/Study Matirials/dev handbook.md",
+    "0-Temp/세마포어, 뮤텍스.md",
+    "쿼리 실행시간 보는보는법.md",
     "0-Temp/자료구조/hashmap vs hashtable vs ConcurrentHashMap.md",
     "0-Temp/자료구조",
     "0-Temp/pub sub 패턴.md",
@@ -203,13 +200,6 @@
     "0-Temp/코드짤떄/mind.md",
     "0-Temp/코드짤떄/어떤걸 캡슐화 할것인가?.md",
     "0-Temp/코드짤떄/속도 개선을 위해.md",
-    "5-PARA Method.md",
-    "5-Archive/Tools/JRebel.md",
-    "0-Temp/JAVA & Kotlin.md",
-    "0-Temp/Garbage collection.md",
-    "2-Area/면접자료/면접 가이드.md",
-    "2-Area/면접자료/과제 만들때.md",
-    "2-Area/면접자료/경력 기술서에.md",
     "4-Future/JAVA",
     "2-Area/Architecture",
     "3-Resource/Database",
@@ -219,7 +209,6 @@
     "Untitled.canvas",
     "Pasted image 20230926224851.png",
     "Img/Pasted image 20230924231237.png",
-    "Img",
-    "4-Future"
+    "Img"
   ]
 }
