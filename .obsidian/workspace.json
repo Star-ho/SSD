@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/System Design, Software Design, Archetecture.md",
+                "file": "0-Temp/Software Design/mono repo vs micro repo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/System Design, Software Design, Archetecture.md",
+                "file": "0-Temp/Software Design/mono repo vs micro repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/System Design, Software Design, Archetecture.md",
+                "file": "0-Temp/Software Design/mono repo vs micro repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/System Design, Software Design, Archetecture.md"
+                "file": "0-Temp/Software Design/mono repo vs micro repo.md"
               }
             }
           },
@@ -157,7 +157,11 @@
   },
   "active": "86a613a62be9d9af",
   "lastOpenFiles": [
+    "0-Temp/docker를 사용하면 안되는 케이스.md",
+    "0-Temp/Software Design/mono repo vs micro repo.md",
+    "0-Temp/Software Design/Entity, VO.md",
     "0-Temp/System Design, Software Design, Archetecture.md",
+    "0-Temp/Software Design",
     "3-Resource/Spring/JPA entity manager, persistence context.md",
     "3-Resource/Architechure/Untitled",
     "3-Resource/Tool/jooq, kotlin-jdsl.md",
@@ -188,12 +192,8 @@
     "4-Future/Study Matirials/dev handbook.md",
     "0-Temp/세마포어, 뮤텍스.md",
     "쿼리 실행시간 보는보는법.md",
-    "0-Temp/자료구조/hashmap vs hashtable vs ConcurrentHashMap.md",
     "0-Temp/자료구조",
-    "5-Archive/Tools/Locust.md",
-    "5-Archive/Tools/테스트 픽스처 도구.md",
     "3-Resource/Architechure",
-    "4-Future/JAVA",
     "Untitled.canvas",
     "Pasted image 20230926224851.png",
     "Img/Pasted image 20230924231237.png"
