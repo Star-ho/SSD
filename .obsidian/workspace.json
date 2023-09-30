@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ad5be20dfc62858a",
+        "id": "0fcd3ff0e6e91c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "4bd82d25589992c5",
+            "id": "86a613a62be9d9af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Temp/pub sub 패턴.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c92e75070c03e182",
+            "id": "d626bc2edfe71566",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/생각정리/좋은 말투.md",
+                "file": "3-Resource/Tool/jooq, kotlin-jdsl.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/생각정리/좋은 말투.md",
+                "file": "3-Resource/Tool/jooq, kotlin-jdsl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/생각정리/좋은 말투.md",
+                "file": "3-Resource/Tool/jooq, kotlin-jdsl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/생각정리/좋은 말투.md"
+                "file": "3-Resource/Tool/jooq, kotlin-jdsl.md"
               }
             }
           },
@@ -168,10 +164,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c92e75070c03e182",
+  "active": "d626bc2edfe71566",
   "lastOpenFiles": [
+    "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+    "3-Resource/Tool/jooq, kotlin-jdsl.md",
+    "3-Resource/Tool",
+    "5-Archive/Programming-languege/Static vs Dynamic,Strong vs Weak.md",
+    "3-Resource/Concept",
+    "3-Resource/Untitled.md",
+    "mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
+    "5-Archive/Programming-languege",
+    "5-Archive/Spring",
+    "5-Archive/shell command/프로세스 관련 명령어.md",
+    "5-Archive/shell command/파일목록 보기, 파일디스크립터.md",
+    "0-Temp/pub sub 패턴.md",
     "3-Resource/Infrastructure/Split brain.md",
-    "2-Area/생각정리/좋은 말투.md",
+    "3-Resource/Database/DB 날려먹었을때 복구방법.md",
+    "3-Resource/Architechure/OOD.md",
+    "2-Area/Database/쿼리 튜닝시.md",
+    "0-Temp/생각정리/좋은 말투.md",
     "Pasted image 20230928180134.png",
     "5-Archive/디멀티플렉싱.md",
     "3-Resource/Infrastructure",
@@ -184,31 +195,16 @@
     "쿼리 실행시간 보는보는법.md",
     "0-Temp/자료구조/hashmap vs hashtable vs ConcurrentHashMap.md",
     "0-Temp/자료구조",
-    "0-Temp/pub sub 패턴.md",
     "5-Archive/Tools/Locust.md",
     "5-Archive/Tools/테스트 픽스처 도구.md",
     "5-Archive/Tools/드로윙 툴.md",
     "0-Temp/InfraStructure/캐시 히트율 70프로 이상.md",
-    "0-Temp/Architecture/DDD.md",
-    "0-Temp/Architecture/이유.md",
-    "2-Area/생각정리/기분, 태도.md",
-    "3-Resource/Architechure/OOD.md",
     "3-Resource/Architechure",
-    "3-Resource/Database/DB 날려먹었을때 복구방법.md",
-    "7-성호의 Second Brain.md",
-    "0-Temp/코드짤떄/reponse에 vo OR entity.md",
-    "0-Temp/코드짤떄/mind.md",
-    "0-Temp/코드짤떄/어떤걸 캡슐화 할것인가?.md",
-    "0-Temp/코드짤떄/속도 개선을 위해.md",
     "4-Future/JAVA",
     "2-Area/Architecture",
     "3-Resource/Database",
-    "2-Area/Database",
-    "4-Future/Database",
-    "5-Archive",
     "Untitled.canvas",
     "Pasted image 20230926224851.png",
-    "Img/Pasted image 20230924231237.png",
-    "Img"
+    "Img/Pasted image 20230924231237.png"
   ]
 }
