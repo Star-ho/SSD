@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/mysql foreign key.md",
+                "file": "0-Temp/Java/Annotation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/mysql foreign key.md",
+                "file": "0-Temp/Java/Annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/mysql foreign key.md",
+                "file": "0-Temp/Java/Annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/mysql foreign key.md"
+                "file": "0-Temp/Java/Annotation.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "86a613a62be9d9af",
   "lastOpenFiles": [
-    "0-Temp/JNI.md",
     "0-Temp/Database/mysql foreign key.md",
+    "0-Temp/Java/Annotation.md",
+    "0-Temp/Java",
+    "0-Temp/JNI.md",
     "0-Temp/mono repo vs micro repo.md",
     "0-Temp/JAVA & Kotlin.md",
     "0-Temp/어떤 java 배포판을 사용할것인가?.md",
@@ -191,9 +193,7 @@
     "5-Archive/디멀티플렉싱.md",
     "3-Resource/Infrastructure",
     "5-Archive/팬아웃.md",
-    "0-Temp/아키텍처 패턴, 아키텍처 스타일.md",
     "0-Temp/자료구조",
-    "3-Resource/Architechure",
     "Untitled.canvas",
     "Pasted image 20230926224851.png",
     "Img/Pasted image 20230924231237.png"
