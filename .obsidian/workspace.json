@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Java/Java built in Annotation.md",
+                "file": "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Java/Java built in Annotation.md",
+                "file": "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Java/Java built in Annotation.md",
+                "file": "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Java/Java built in Annotation.md"
+                "file": "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md"
               }
             }
           },
@@ -157,7 +157,11 @@
   },
   "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "0-Temp/InfraStructure/캐시 히트율 70프로 이상.md",
+    "0-Temp/InfraStructure/안정해시.md",
     "0-Temp/Database/mysql foreign key.md",
+    "0-Temp/Database/MVCC.md",
+    "0-Temp/Database/innodb.md",
     "2-Area/Java/Java built in Annotation.md",
     "2-Area/Java",
     "0-Temp/JNI.md",
@@ -187,12 +191,8 @@
     "3-Resource/Infrastructure/Split brain.md",
     "3-Resource/Database/DB 날려먹었을때 복구방법.md",
     "3-Resource/Architechure/OOD.md",
-    "2-Area/Database/쿼리 튜닝시.md",
-    "0-Temp/생각정리/좋은 말투.md",
     "Pasted image 20230928180134.png",
-    "5-Archive/디멀티플렉싱.md",
     "3-Resource/Infrastructure",
-    "5-Archive/팬아웃.md",
     "0-Temp/자료구조",
     "Untitled.canvas",
     "Pasted image 20230926224851.png",
