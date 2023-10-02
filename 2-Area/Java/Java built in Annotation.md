@@ -36,16 +36,15 @@ Indicates how long annotations with the annotated interface are to be retained
 
 > Source vs Class
 > 	Source는 컴파일된 바이트 코드에서 아예 보이지 않음
-> 	Class는 보이지만 invisible이라는 주석이 붙음
-> 	라이브러리를 만들때 
+> 	Class는 바이트코드에서 보이지만 invisible이라는 주석이 붙음
+> 	바이트코드로 된 라이브러리를 만들때 사용
 
 > Class vs Runtime
+> 	런타임에 사용 가능 여부에 따라 다름
 > 	@Lorg/example/RetentionSourceAnnotation;() // invisible <- Class
 > 	@Lorg/example/RetentionSourceAnnotation;() <- Runtime
-> 	bytecode를 보면 RetentionPolicy가 Class일때 컴파일된 코드에서 invisible이라는 주석이 붙음
-> 	주석이 따로 기능을 할지.. 궁금하다...
-> 		추가자료 
-> 		https://www.javassist.org/html/javassist/bytecode/AnnotationsAttribute.html
+> 	javaasist 라이브러로 두개다 확인가능
+> 	https://www.javassist.org/html/javassist/bytecode/AnnotationsAttribute.html
 
 
 https://docs.oracle.com/javase/tutorial/java/annotations/predefined.html
