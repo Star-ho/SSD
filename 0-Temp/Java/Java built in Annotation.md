@@ -27,15 +27,25 @@ Indicates how long annotations with the annotated interface are to be retained
 
 ## Class
 - 클래스파일에는 기록되지만, vm에 올라갈떄 사라짐
+- 런타임시 리플렉션으로 정보를 가져올 수 없음
  
 ## Runtime
 - 클래스파일에도 기록되고, vm에 올라감
-- 
+- 런타임시 리플렉션으로 정보를 가져올 수 있음
+
+
+> Source vs Class
+> 	Source는 컴파일된 코드에서 아예 보이지 않음
+> 	Class는 보이지만 invisible이라는 주석이 붙음
+> 	라이브러리를 만들때 
 
 > Class vs Runtime
-@Lorg/example/RetentionSourceAnnotation;() // invisible <- Class
-@Lorg/example/RetentionSourceAnnotation;() <- Runtime
-but
+> 	@Lorg/example/RetentionSourceAnnotation;() // invisible <- Class
+> 	@Lorg/example/RetentionSourceAnnotation;() <- Runtime
+> 	bytecode를 보면 RetentionPolicy가 Class일때 컴파일된 코드에서 invisible이라는 주석이 붙음
+> 	주석이 따로 기능을 할지.. 궁금하다...
+> 		추가자료 
+> 		https://www.javassist.org/html/javassist/bytecode/AnnotationsAttribute.html
 
 
 위 세가지가 무엇을 의미하는가?
@@ -45,6 +55,6 @@ Runtime은 vm에 올라가니 reflection으로 확인이 가능한데 Source와 
 
 
 https://docs.oracle.com/javase/tutorial/java/annotations/predefined.html
-
+https://minkukjo.github.io/language/2020/09/30/Java-02/
 
 #Annotation
