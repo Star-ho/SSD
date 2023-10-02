@@ -27,12 +27,20 @@ Indicates how long annotations with the annotated interface are to be retained
 
 ## Class
 - 클래스파일에는 기록되지만, vm에 올라갈떄 사라짐
-
+ 
 ## Runtime
 - 클래스파일에도 기록되고, vm에 올라감
+- 
+
+> Class vs Runtime
+@Lorg/example/RetentionSourceAnnotation;() // invisible <- Class
+@Lorg/example/RetentionSourceAnnotation;() <- Runtime
+but
+
 
 위 세가지가 무엇을 의미하는가?
 Runtime은 vm에 올라가니 reflection으로 확인이 가능한데 Source와 Class는 무슨 차이인가?
+
 
 
 
