@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Sung-ho/어떤 개발자가 될것인가.md",
+                "file": "5-Archive/Spring/spring boot yaml.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Query",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Sung-ho/어떤 개발자가 될것인가.md",
+                "file": "5-Archive/Spring/spring boot yaml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Sung-ho/어떤 개발자가 될것인가.md",
+                "file": "5-Archive/Spring/spring boot yaml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Sung-ho/어떤 개발자가 될것인가.md"
+                "file": "5-Archive/Spring/spring boot yaml.md"
               }
             }
           },
@@ -157,9 +157,15 @@
   },
   "active": "2d7d4fffdf2ffbff",
   "lastOpenFiles": [
+    "0-Temp/생각정리/webflux사용 후기.md",
+    "5-Archive/Spring/spring boot yaml.md",
+    "2-Area/0-Sung-ho/ProjectReview/이번에 로그시스템을 만든것에 대한 회고.md",
+    "2-Area/0-Sung-ho/개발 이후 고려해야.md",
+    "2-Area/0-Sung-ho/ProjectReview",
+    "0-Temp/Concept/CQRS.md",
+    "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
     "2-Area/Database/Count(*) vs Count(Column).md",
-    "2-Area/Sung-ho/어떤 개발자가 될것인가.md",
-    "2-Area/Sung-ho",
+    "2-Area/0-Sung-ho",
     "2-Area/Untitled.md",
     "1-Project/Untitled.md",
     "0-Temp/Database/쿼리 실행 순서.md",
@@ -181,12 +187,7 @@
     "5-Archive/Concept/Forward Proxy, Reverse Proxy.md",
     "Pasted image 20231003225917.png",
     "Pasted image 20231003225905.png",
-    "5-Archive/Tools/Clippy.md",
-    "3-Resource/Infrastructure/Forward Proxy, Reverse Proxy.md",
-    "5-Archive/Tip/인텔리제이 java 버전 변경 시.md",
-    "5-Archive/Java/kotlin, coroutine, kotest 버전별 호환 목록.md",
     "5-Archive/Tip",
-    "5-Archive/Concept/SPI(Service Provider Interface).md",
     "0-Temp/Concept/Untitled",
     "0-Temp/Concept",
     "0-Temp/Java",
@@ -195,7 +196,6 @@
     "5-Archive/Concept",
     "5-Archive/Computer-Science",
     "5-Archive/Java",
-    "6-aa",
     "Pasted image 20231002231423.png",
     "Pasted image 20230928180134.png",
     "Untitled.canvas",
