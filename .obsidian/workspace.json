@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "5-Archive/Tools/Kotlin Auto fill.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ipc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "5-Archive/Tools/Kotlin Auto fill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "5-Archive/Tools/Kotlin Auto fill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "5-Archive/Tools/Kotlin Auto fill.md"
               }
             }
           },
@@ -157,8 +157,13 @@
   },
   "active": "2d7d4fffdf2ffbff",
   "lastOpenFiles": [
-    "Untitled.md",
+    "5-Archive/Tools/p6spy.md",
+    "5-Archive/Tools/MybatisX.md",
+    "5-Archive/Tools/Kotlin Auto fill.md",
+    "3-Resource/Tool/jooq.md",
+    "3-Resource/Tool/kotlin-jdsl.md",
     "README.md",
+    "Untitled.md",
     "0-Temp/쿼리 실행시간 보는보는법.md",
     "0-Temp/깊은 고민을 잘한다.md",
     "5-Archive/Tools/DeepL.md",
@@ -181,12 +186,7 @@
     "2-Area/Database/Sargable query.md",
     "3-Resource/Infrastructure/Forward Proxy, Reverse Proxy.md",
     "4-Future/Study Matirials/MSA 관련 유튜브.md",
-    "8-성호의 Second Brain.md",
-    "5-Archive/Tools/Cucumber.md",
-    "5-Archive/Java/JLS, JSR, JEP.md",
-    "0-Temp/Softeware Architecture/이유.md",
     "5-Archive/Java",
-    "0-Temp/Softeware Architecture/redis 분산락.md",
     "6-aa",
     "Pasted image 20231002231423.png",
     "2-Area/Java",
