@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ae48eaa6fb08caff",
+        "id": "ca7c3bd703f92544",
         "type": "tabs",
         "children": [
           {
-            "id": "e6a359b70b1975d0",
+            "id": "2d7d4fffdf2ffbff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/Database/DB PK 자연키 vs 대체키.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ipc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Database/DB PK 자연키 vs 대체키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Database/DB PK 자연키 vs 대체키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-Area/Database/DB PK 자연키 vs 대체키.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,15 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6a359b70b1975d0",
+  "active": "2d7d4fffdf2ffbff",
   "lastOpenFiles": [
-    "2-Area/Database/Sargable query.md",
-    "2-Area/Database/DB PK 자연키 vs 대체키.md",
-    "4-Future/Study Matirials/MSA 관련 유튜브.md",
+    "5-Archive/Computer-Science/0.0.0.0 ip address.md",
+    "0-Temp/루프백, ipc.md",
+    "5-Archive/Computer-Science",
+    "2-Area/Java/Java built in Annotation.md",
+    "2-Area/Software Design/Entity, VO.md",
     "2-Area/Cache Passivation, Expiration, Eviction.md",
-    "2-Area/Database/Cardinality.md",
-    "2-Area/Database/Clustered Index, non-Clustered Index.md",
+    "2-Area/Database/DB PK 자연키 vs 대체키.md",
     "2-Area/Database/Covering Indexes(커버링 인덱스).md",
+    "2-Area/Database/Clustered Index, non-Clustered Index.md",
+    "2-Area/Database/쿼리 튜닝시.md",
+    "2-Area/Database/Cardinality.md",
+    "2-Area/Database/Sargable query.md",
+    "3-Resource/Infrastructure/Forward Proxy, Reverse Proxy.md",
+    "4-Future/Study Matirials/MSA 관련 유튜브.md",
     "7-성호의 Second Brain.md",
     "5-Archive/Tools/Cucumber.md",
     "5-Archive/Java/JLS, JSR, JEP.md",
@@ -178,14 +177,8 @@
     "0-Temp/Garbage collection.md",
     "0-Temp/JAVA & Kotlin.md",
     "0-Temp/JNI.md",
-    "0-Temp/mono repo vs micro repo.md",
-    "0-Temp/pub sub 패턴.md",
-    "0-Temp/subquery vs 여러개 query.md",
-    "0-Temp/System Design, Software Design, Archetecture.md",
     "6-aa",
-    "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
     "Pasted image 20231002231423.png",
-    "4-Future/JAVA/데이터 지향 프로그래밍.md",
     "2-Area/Java",
     "2-Area/Software Design",
     "3-Resource/Architechure/Untitled",
@@ -193,7 +186,6 @@
     "3-Resource/Tool",
     "3-Resource/Concept",
     "5-Archive/Programming-languege",
-    "5-Archive/Spring",
     "Pasted image 20230928180134.png",
     "Untitled.canvas",
     "Pasted image 20230926224851.png",

@@ -26,3 +26,6 @@ Fixed: Select ... WHERE OrderDate < DateAdd(mm,-30,GetDate())
 
 [https://en.wikipedia.org/wiki/Sargable](https://en.wikipedia.org/wiki/Sargable)  
 [https://stackoverflow.com/questions/799584/what-makes-a-sql-statement-sargable](https://stackoverflow.com/questions/799584/what-makes-a-sql-statement-sargable)
+
+#Database
+#Query-turning 
