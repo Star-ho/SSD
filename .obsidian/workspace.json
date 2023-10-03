@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Concept/파티셔닝.md",
+                "file": "0-Temp/InfraStructure/redis, memcached 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Concept/파티셔닝.md",
+                "file": "0-Temp/InfraStructure/redis, memcached 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Concept/파티셔닝.md",
+                "file": "0-Temp/InfraStructure/redis, memcached 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Concept/파티셔닝.md"
+                "file": "0-Temp/InfraStructure/redis, memcached 차이.md"
               }
             }
           },
@@ -157,8 +157,17 @@
   },
   "active": "2d7d4fffdf2ffbff",
   "lastOpenFiles": [
-    "3-Resource/Concept/HTTP Method PUT vs PATCH.md",
+    "0-Temp/Database/데이터베이스 커넥션이 많을때.md",
+    "0-Temp/InfraStructure/redis, memcached 차이.md",
+    "0-Temp/생각정리/코드에 대해.md",
+    "0-Temp/면접자료/etc....md",
+    "0-Temp/Java/gradle.md",
+    "0-Temp/Java/java garbage collector.md",
+    "0-Temp/Database/Database Buffer Cache.md",
+    "5-Archive/Concept/OpenTelemetry.md",
+    "0-Temp/Database/파티셔닝시 락은 어떻게 걸릴까?.md",
     "3-Resource/Concept/파티셔닝.md",
+    "3-Resource/Concept/HTTP Method PUT vs PATCH.md",
     "5-Archive/Concept/Forward Proxy, Reverse Proxy.md",
     "Pasted image 20231003225917.png",
     "Pasted image 20231003225905.png",
@@ -179,17 +188,8 @@
     "0-Temp/Java/Codecove.md",
     "0-Temp/Concept/Untitled",
     "0-Temp/Concept",
-    "0-Temp/Java/JaCoCo.md",
     "0-Temp/Java",
-    "3-Resource/Java&Kotlin/JUnit.md",
-    "5-Archive/Tools/Kotlin Auto fill.md",
     "3-Resource/Java&Kotlin",
-    "5-Archive/Tools/p6spy.md",
-    "5-Archive/Tools/MybatisX.md",
-    "3-Resource/Tool/jooq.md",
-    "3-Resource/Tool/kotlin-jdsl.md",
-    "README.md",
-    "Untitled.md",
     "Pasted image 20230926224851.png",
     "5-Archive/Concept",
     "5-Archive/Computer-Science",
