@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Archive/Tools/Untitled.md",
+                "file": "0-Temp/InfraStructure/elastic search hot cold warm.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bytebuf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Archive/Tools/Untitled.md",
+                "file": "0-Temp/InfraStructure/elastic search hot cold warm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Archive/Tools/Untitled.md",
+                "file": "0-Temp/InfraStructure/elastic search hot cold warm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Archive/Tools/Untitled.md"
+                "file": "0-Temp/InfraStructure/elastic search hot cold warm.md"
               }
             }
           },
@@ -157,8 +157,19 @@
   },
   "active": "2d7d4fffdf2ffbff",
   "lastOpenFiles": [
-    "0-Temp/bytebuf, bytebuffer.md",
+    "0-Temp/커밋 전략.md",
+    "0-Temp/InfraStructure/elastic search hot cold warm.md",
     "5-Archive/Tools/Untitled.md",
+    "5-Archive/Tools/Untitled 1.md",
+    "0-Temp/Spring/jpa 쓰기지연.md",
+    "5-Archive/Concept/영속성.md",
+    "0-Temp/InfraStructure/Zookeeper.md",
+    "0-Temp/Java/plain jar, excutable jar, fat jar.md",
+    "0-Temp/Database/해시조인.md",
+    "4-Future/Spring/Dynamic update.md",
+    "4-Future/Spring",
+    "0-Temp/bytebuf, bytebuffer.md",
+    "0-Temp/Java/google jib.md",
     "5-Archive/Tools/gradle plugin.md",
     "0-Temp/InfraStructure/codebuild queued, provisioning.md",
     "0-Temp/InfraStructure/메세지 브로커.md",
@@ -173,18 +184,8 @@
     "0-Temp/Database/mysql 옵티마이저 트레이스.md",
     "0-Temp/Database/JOIN을 쓰는 이유.md",
     "5-Archive/Spring/spring boot yaml.md",
-    "0-Temp/생각정리/webflux사용 후기.md",
-    "2-Area/0-Sung-ho/ProjectReview/이번에 로그시스템을 만든것에 대한 회고.md",
-    "2-Area/0-Sung-ho/개발 이후 고려해야.md",
     "2-Area/0-Sung-ho/ProjectReview",
-    "0-Temp/Concept/CQRS.md",
-    "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
-    "2-Area/Database/Count(*) vs Count(Column).md",
     "2-Area/0-Sung-ho",
-    "2-Area/Untitled.md",
-    "1-Project/Untitled.md",
-    "0-Temp/Database/쿼리 실행 순서.md",
-    "0-Temp/Database/쿼리 실행시간 보는법.md",
     "Pasted image 20231003225917.png",
     "Pasted image 20231003225905.png",
     "5-Archive/Tip",
@@ -195,7 +196,6 @@
     "Pasted image 20230926224851.png",
     "5-Archive/Concept",
     "5-Archive/Computer-Science",
-    "5-Archive/Java",
     "Pasted image 20231002231423.png",
     "Pasted image 20230928180134.png",
     "Untitled.canvas",
