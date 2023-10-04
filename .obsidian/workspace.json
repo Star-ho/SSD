@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Archive/Spring/spring boot yaml.md",
+                "file": "0-Temp/Spring/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Archive/Spring/spring boot yaml.md",
+                "file": "0-Temp/Spring/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Archive/Spring/spring boot yaml.md",
+                "file": "0-Temp/Spring/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Archive/Spring/spring boot yaml.md"
+                "file": "0-Temp/Spring/Untitled.md"
               }
             }
           },
@@ -157,8 +157,13 @@
   },
   "active": "2d7d4fffdf2ffbff",
   "lastOpenFiles": [
-    "0-Temp/생각정리/webflux사용 후기.md",
+    "0-Temp/InfraStructure/redis vs memcached.md",
+    "0-Temp/Spring/Untitled.md",
+    "0-Temp/Computer Science/동기, 비동기 IO.md",
+    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
+    "0-Temp/Database/JOIN을 쓰는 이유.md",
     "5-Archive/Spring/spring boot yaml.md",
+    "0-Temp/생각정리/webflux사용 후기.md",
     "2-Area/0-Sung-ho/ProjectReview/이번에 로그시스템을 만든것에 대한 회고.md",
     "2-Area/0-Sung-ho/개발 이후 고려해야.md",
     "2-Area/0-Sung-ho/ProjectReview",
@@ -180,11 +185,6 @@
     "0-Temp/Java/gradle.md",
     "0-Temp/Java/java garbage collector.md",
     "0-Temp/Database/Database Buffer Cache.md",
-    "5-Archive/Concept/OpenTelemetry.md",
-    "0-Temp/Database/파티셔닝시 락은 어떻게 걸릴까?.md",
-    "3-Resource/Concept/파티셔닝.md",
-    "3-Resource/Concept/HTTP Method PUT vs PATCH.md",
-    "5-Archive/Concept/Forward Proxy, Reverse Proxy.md",
     "Pasted image 20231003225917.png",
     "Pasted image 20231003225905.png",
     "5-Archive/Tip",
