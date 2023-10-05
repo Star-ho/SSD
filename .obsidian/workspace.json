@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/빌드타임 줄이기.md",
+                "file": "2-Area/0-Sung-ho/공부법.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "build-too",
+                "query": "tag:#Nomalization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/빌드타임 줄이기.md",
+                "file": "2-Area/0-Sung-ho/공부법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/빌드타임 줄이기.md",
+                "file": "2-Area/0-Sung-ho/공부법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/빌드타임 줄이기.md"
+                "file": "2-Area/0-Sung-ho/공부법.md"
               }
             }
           },
@@ -156,10 +155,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "4dc32b1cec7d0bad",
   "lastOpenFiles": [
-    "5-Archive/Computer-Science/webserver, was 발전과정.md",
+    "0-Temp/Database/인덱스 직접 구현해보기.md",
+    "2-Area/0-Sung-ho/공부법.md",
+    "0-Temp/InfraStructure/redis에 대해 공부해보자.md",
+    "2-Area/Spring/JPA 영속성전이, 프록시객체.md",
+    "0-Temp/InfraStructure/Mongodb multikey index.md",
+    "2-Area/Spring",
+    "2-Area/Spring.md",
+    "2-Area/0-Sung-ho/글쓸때.md",
+    "0-Temp/Database/왜 데이터베이스에 날리는 두번째 쿼리는 빠를까?.md",
+    "0-Temp/Database/쿼리 튜닝 관련 명령어.md",
+    "0-Temp/InfraStructure/Elastic search.md",
+    "2-Area/Concept/Test.md",
+    "0-Temp/Softeware Architecture/OOP.md",
+    "2-Area/Concept/Reactive Manifesto.md",
+    "3-Resource/Database/정규화 역정규화.md",
+    "2-Area/Concept",
     "0-Temp/빌드타임 줄이기.md",
+    "5-Archive/Computer-Science/webserver, was 발전과정.md",
     "0-Temp/rdb 쓰기 초당 1000정도만 넘어도 부하걸림 고민해볼것.md",
     "0-Temp/대용량 트래픽 상황 답찾기.md",
     "0-Temp/Computer Science/DNS평가순서.md",
@@ -170,20 +185,6 @@
     "2-Area/Software Design/Aggregate.md",
     "2-Area/Software Design/Entity, VO.md",
     "2-Area/Software Design/Service.md",
-    "0-Temp/Softeware Architecture/모듈, 패키지.md",
-    "5-Archive/Tools/Eclips memory Analyzer.md",
-    "5-Archive/Tools/ETC.md",
-    "5-Archive/Tools/Dev tool.md",
-    "5-Archive/Tools/ctop.md",
-    "5-Archive/Tools/Clippy.md",
-    "5-Archive/Tools/Brotli.md",
-    "5-Archive/Tools/화면분할 in mac.md",
-    "5-Archive/Tools/드로윙 툴.md",
-    "5-Archive/Tools/p6spy.md",
-    "5-Archive/Tools/MybatisX.md",
-    "5-Archive/Tools/memory-measurer.md",
-    "5-Archive/Tools/Java Development Kit Version 20 Tool Specifications.md",
-    "0-Temp/Concept/대규모 트래픽 상황 가정시.md",
     "Img/Pasted image 20230926224851.png",
     "5-Archive/Database",
     "4-Future/Spring",
@@ -195,8 +196,6 @@
     "0-Temp/Concept/Untitled",
     "0-Temp/Concept",
     "0-Temp/Java",
-    "3-Resource/Java&Kotlin",
-    "5-Archive/Concept",
     "Img/Pasted image 20231002231423.png",
     "Img/Pasted image 20230928180134.png",
     "Untitled.canvas",
