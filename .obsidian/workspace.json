@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/mysql buffer pool.md",
+                "file": "5-Archive/Tools/Eclips memory Analyzer.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buffer pool",
+                "query": "tag:#Heap-dump",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/mysql buffer pool.md",
+                "file": "5-Archive/Tools/Eclips memory Analyzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/mysql buffer pool.md",
+                "file": "5-Archive/Tools/Eclips memory Analyzer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/mysql buffer pool.md"
+                "file": "5-Archive/Tools/Eclips memory Analyzer.md"
               }
             }
           },
@@ -157,12 +157,24 @@
   },
   "active": "2167e5ec3e60afd6",
   "lastOpenFiles": [
-    "0-Temp/Database/Database Buffer Cache.md",
+    "5-Archive/Tools/ETC.md",
+    "5-Archive/Tools/Eclips memory Analyzer.md",
+    "5-Archive/Tools/Dev tool.md",
+    "5-Archive/Tools/ctop.md",
+    "5-Archive/Tools/Clippy.md",
+    "5-Archive/Tools/Brotli.md",
+    "5-Archive/Tools/화면분할 in mac.md",
+    "5-Archive/Tools/드로윙 툴.md",
+    "5-Archive/Tools/p6spy.md",
+    "5-Archive/Tools/MybatisX.md",
+    "5-Archive/Tools/memory-measurer.md",
+    "5-Archive/Tools/Java Development Kit Version 20 Tool Specifications.md",
+    "0-Temp/Concept/대규모 트래픽 상황 가정시.md",
     "0-Temp/Database/mysql buffer pool.md",
+    "0-Temp/Database/Database Buffer Cache.md",
     "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
     "0-Temp/Database/database partitioning 종류 및 장단점.md",
     "0-Temp/Java/JVM Optimizing.md",
-    "5-Archive/Tools/Java Development Kit Version 20 Tool Specifications.md",
     "5-Archive/Tools/Byte Buddy.md",
     "Img/Pasted image 20230926224851.png",
     "4-Future/Database/데비지움, CDC.md",
@@ -172,19 +184,7 @@
     "0-Temp/InfraStructure/redis 고려해볼점.md",
     "0-Temp/InfraStructure/Untitled.md",
     "0-Temp/Concept/멱등성.md",
-    "0-Temp/생각정리/협업시 중요한거.md",
-    "0-Temp/Database/s-lock x-lock.md",
-    "0-Temp/troubleshooting 참고자료.md",
-    "5-Archive/Database/그룹별 순위 가져오기.md",
-    "0-Temp/Spring/jpa 개괄적인 정리.md",
     "5-Archive/Database",
-    "4-Future/Database/Untitled.md",
-    "0-Temp/Concept/leader election.md",
-    "0-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
-    "0-Temp/InfraStructure/elastic search hot cold warm.md",
-    "0-Temp/커밋 전략.md",
-    "5-Archive/Tools/Untitled 1.md",
-    "0-Temp/Spring/jpa 쓰기지연.md",
     "4-Future/Spring",
     "2-Area/0-Sung-ho/ProjectReview",
     "2-Area/0-Sung-ho",
