@@ -17,3 +17,8 @@ test-v2.example.com
 
 A recode는 fixed한 ip를 domain과 연결
 cname은 domain과 domain을 연결
+
+++
+A recode,  
+cname  
+nx domain
