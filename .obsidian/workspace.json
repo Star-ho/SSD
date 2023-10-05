@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Archive/Tools/Eclips memory Analyzer.md",
+                "file": "2-Area/Software Design/Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Archive/Tools/Eclips memory Analyzer.md",
+                "file": "2-Area/Software Design/Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Archive/Tools/Eclips memory Analyzer.md",
+                "file": "2-Area/Software Design/Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Archive/Tools/Eclips memory Analyzer.md"
+                "file": "2-Area/Software Design/Service.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "2167e5ec3e60afd6",
   "lastOpenFiles": [
-    "5-Archive/Tools/ETC.md",
     "5-Archive/Tools/Eclips memory Analyzer.md",
+    "2-Area/Software Design/Service.md",
+    "5-Archive/Tools/ETC.md",
     "5-Archive/Tools/Dev tool.md",
     "5-Archive/Tools/ctop.md",
     "5-Archive/Tools/Clippy.md",
@@ -183,7 +184,6 @@
     "0-Temp/생각정리/신뢰자본.md",
     "0-Temp/InfraStructure/redis 고려해볼점.md",
     "0-Temp/InfraStructure/Untitled.md",
-    "0-Temp/Concept/멱등성.md",
     "5-Archive/Database",
     "4-Future/Spring",
     "2-Area/0-Sung-ho/ProjectReview",
