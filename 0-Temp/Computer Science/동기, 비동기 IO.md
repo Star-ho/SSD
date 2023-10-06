@@ -3,3 +3,10 @@
 비동기IO는 유저 버퍼에 페이지락을 걸고 다이렉트로 쏴버려서 1번의 카피를 생략 합니다
 
 근데 이게 대용량 데이터 송수신이 아니면 오히려 비동기IO가 훨씬 느린 현상이 나타나곤 합니다
+
+sync io vs async io in kernel level
+로 google 검색
+
+https://medium.com/nerd-for-tech/what-is-asynchronous-i-o-b37994359471
+
+https://lwn.net/Articles/216200/

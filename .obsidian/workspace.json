@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Computer Science/동기, 비동기 IO.md",
+                "file": "0-Temp/Computer Science/루프백, ipc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Computer Science/동기, 비동기 IO.md",
+                "file": "0-Temp/Computer Science/루프백, ipc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Computer Science/동기, 비동기 IO.md",
+                "file": "0-Temp/Computer Science/루프백, ipc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Computer Science/동기, 비동기 IO.md"
+                "file": "0-Temp/Computer Science/루프백, ipc.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   },
   "active": "4dc32b1cec7d0bad",
   "lastOpenFiles": [
+    "0-Temp/Computer Science/동기, 비동기 IO.md",
     "0-Temp/Computer Science/루프백이면 tcpip로 통신하는게 아니라 ipc로 통신.md",
     "0-Temp/Computer Science/세마포어, 뮤텍스.md",
     "0-Temp/Computer Science/루프백, ipc.md",
-    "0-Temp/Computer Science/동기, 비동기 IO.md",
     "0-Temp/쓰레드덤프, 힙덤프.md",
     "0-Temp/Softeware Architecture/제어의 역전,관심사의 분리.md",
     "0-Temp/Computer Science/raid 0,1,2,3.md",
