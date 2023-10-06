@@ -1,0 +1,2 @@
+[  
+https://stackoverflow.com/questions/45379146/how-do-i-create-a-temporary-table-from-a-query-that-i-am-running-in-sql](https://stackoverflow.com/questions/45379146/how-do-i-create-a-temporary-table-from-a-query-that-i-am-running-in-sql)

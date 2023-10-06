@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/0-Sung-ho/공부법.md",
+                "file": "0-Temp/쓰레드덤프, 힙덤프.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/0-Sung-ho/공부법.md",
+                "file": "0-Temp/쓰레드덤프, 힙덤프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/0-Sung-ho/공부법.md",
+                "file": "0-Temp/쓰레드덤프, 힙덤프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/0-Sung-ho/공부법.md"
+                "file": "0-Temp/쓰레드덤프, 힙덤프.md"
               }
             }
           },
@@ -157,8 +157,18 @@
   },
   "active": "4dc32b1cec7d0bad",
   "lastOpenFiles": [
-    "0-Temp/Database/인덱스 직접 구현해보기.md",
+    "0-Temp/Softeware Architecture/제어의 역전,관심사의 분리.md",
+    "0-Temp/쓰레드덤프, 힙덤프.md",
+    "0-Temp/Computer Science/raid 0,1,2,3.md",
+    "0-Temp/Database/database upgrade 전략.md",
+    "0-Temp/Database/sql query 임시테이블.md",
+    "0-Temp/Database/쿼리캐시.md",
+    "0-Temp/Concept/대규모 트래픽 상황 가정시.md",
+    "0-Temp/Concept/eventually consistency.md",
+    "0-Temp/InfraStructure/elasticsearch shard, replica.md",
+    "0-Temp/Database/mysql Full-Text Searches.md",
     "2-Area/0-Sung-ho/공부법.md",
+    "0-Temp/Database/인덱스 직접 구현해보기.md",
     "0-Temp/InfraStructure/redis에 대해 공부해보자.md",
     "2-Area/Spring/JPA 영속성전이, 프록시객체.md",
     "0-Temp/InfraStructure/Mongodb multikey index.md",
@@ -175,16 +185,6 @@
     "2-Area/Concept",
     "0-Temp/빌드타임 줄이기.md",
     "5-Archive/Computer-Science/webserver, was 발전과정.md",
-    "0-Temp/rdb 쓰기 초당 1000정도만 넘어도 부하걸림 고민해볼것.md",
-    "0-Temp/대용량 트래픽 상황 답찾기.md",
-    "0-Temp/Computer Science/DNS평가순서.md",
-    "0-Temp/Spring/Spring bean.md",
-    "4-Future/JAVA/데이터 지향 프로그래밍.md",
-    "2-Area/Software Design/협력, 책임, 역할.md",
-    "2-Area/Software Design/Aggregate 생명주기(Factory, Repository).md",
-    "2-Area/Software Design/Aggregate.md",
-    "2-Area/Software Design/Entity, VO.md",
-    "2-Area/Software Design/Service.md",
     "Img/Pasted image 20230926224851.png",
     "5-Archive/Database",
     "4-Future/Spring",
