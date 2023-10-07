@@ -1,0 +1,1 @@
+https://dev.mysql.com/doc/refman/8.0/en/information-schema-optimizer-trace-table.html

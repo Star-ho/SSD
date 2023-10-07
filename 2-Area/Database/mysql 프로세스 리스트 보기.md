@@ -24,10 +24,12 @@ select * from information_schema.PROCESSLIST;
 - 쓰레드가 현재 상태에 있던 시간
 - 초단위
 ### STATE
-- 
+- 스레드가 수행 중인 작업, 이벤트의 상태입니다
+- [참고 링크](https://dev.mysql.com/doc/refman/8.0/en/general-thread-states.html)
 
 ### INFO
-
+- 쓰레드가 실행하고있는 구문을 보여줌
+- nll일 때는 구문을 실행하고 있지 않다는것
 
 https://dev.mysql.com/doc/refman/8.0/en/information-schema-processlist-table.html
 

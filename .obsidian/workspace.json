@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a1619c8610d2d2e",
+        "id": "5985e600314fa7d0",
         "type": "tabs",
         "children": [
           {
-            "id": "a1b8427cb72d80e1",
+            "id": "b28fb759fdefcaa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/mysql 프로세스 리스트 보기.md",
+                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/mysql 프로세스 리스트 보기.md",
+                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/mysql 프로세스 리스트 보기.md",
+                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/mysql 프로세스 리스트 보기.md"
+                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md"
               }
             }
           },
@@ -155,16 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1b8427cb72d80e1",
+  "active": "b28fb759fdefcaa3",
   "lastOpenFiles": [
+    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
+    "2-Area/Database/mysql 프로세스 리스트 보기.md",
     "Pasted image 20231007162016.png",
     "Pasted image 20231007161901.png",
     "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
     "0-Temp/Database/mysql binlog.md",
-    "0-Temp/Database/mysql 프로세스 리스트 보기.md",
     "0-Temp/Database/database foreign key.md",
     "0-Temp/Database/mysql buffer pool.md",
-    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
     "0-Temp/Database/쿼리 실행시간 보는법.md",
     "0-Temp/Database/쿼리 튜닝 관련 명령어.md",
     "0-Temp/Database/쿼리 실행시간 보는보는법.md",
