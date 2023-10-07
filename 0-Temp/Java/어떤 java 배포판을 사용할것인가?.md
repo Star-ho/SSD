@@ -1,1 +1,0 @@
-https://whichjdk.com/ko/

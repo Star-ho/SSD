@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "2-Area/Java/Java built in Annotation.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Nomalization",
+                "query": "annotation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "2-Area/Java/Java built in Annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "2-Area/Java/Java built in Annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md"
+                "file": "2-Area/Java/Java built in Annotation.md"
               }
             }
           },
@@ -157,33 +158,36 @@
   },
   "active": "b28fb759fdefcaa3",
   "lastOpenFiles": [
+    "0-Temp/Computer Science/forward, redirect 차이점.md",
+    "0-Temp/Database/database foreign key.md",
+    "0-Temp/생각정리/인생...md",
+    "System Design Big Archive.pdf",
+    "0-Temp/Database/MySQL에서 스냅샷과 undo log.md",
+    "0-Temp/생각정리/새로운 코드, 프로젝트, 남의코드를 볼때.md",
+    "0-Temp/Computer Science/세마포어, 뮤텍스.md",
+    "0-Temp/Softeware Architecture/아키텍처 패턴, 아키텍처 스타일.md",
+    "0-Temp/Spring/jpql에서 특정 문자가 붙을떄.md",
+    "ByteByteGo_LinkedIn_PDF.pdf",
+    "0-Temp/AnemicDomainModel.md",
+    "5-Archive/Tools/Locust.md",
+    "8-성호의 Second Brain.md",
+    "0-Temp/Java&Kotlin/coroutine 블로그.md",
+    "4-Future/Database/PostgreSQL vs MariaDB.md",
+    "4-Future/Database/kafka ui.md",
+    "4-Future/Database/IDOR.md",
+    "4-Future/Database/DragonFly.md",
+    "4-Future/Database/오픈스택.md",
+    "4-Future/Database/맵리듀스.md",
+    "4-Future/Database/데비지움, CDC.md",
+    "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
     "0-Temp/Database/mysql 옵티마이저 트레이스.md",
     "2-Area/Database/mysql 프로세스 리스트 보기.md",
     "Pasted image 20231007162016.png",
     "Pasted image 20231007161901.png",
-    "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
     "0-Temp/Database/mysql binlog.md",
-    "0-Temp/Database/database foreign key.md",
     "0-Temp/Database/mysql buffer pool.md",
     "0-Temp/Database/쿼리 실행시간 보는법.md",
     "0-Temp/Database/쿼리 튜닝 관련 명령어.md",
-    "0-Temp/Database/쿼리 실행시간 보는보는법.md",
-    "0-Temp/Database/파티셔닝시 락은 어떻게 걸릴까?.md",
-    "0-Temp/Database/쿼리캐시.md",
-    "0-Temp/Database/왜 데이터베이스에 날리는 두번째 쿼리는 빠를까?.md",
-    "0-Temp/Database/인덱스 직접 구현해보기.md",
-    "0-Temp/Database/쿼리 실행 순서.md",
-    "0-Temp/Computer Science/raid 0,1,2,3.md",
-    "0-Temp/Computer Science/DNS평가순서.md",
-    "0-Temp/Computer Science/cpu-memory-sdd(hdd).md",
-    "0-Temp/Computer Science/동기, 비동기 IO.md",
-    "0-Temp/Computer Science/세마포어, 뮤텍스.md",
-    "0-Temp/Concept/eventually consistency.md",
-    "0-Temp/Database/데이터베이스 커넥션이 많을때.md",
-    "0-Temp/Concept/CQRS.md",
-    "0-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
-    "0-Temp/Concept/architecture sinkhole anti-pattern.md",
-    "0-Temp/Concept/멱등성.md",
     "2-Area/Spring",
     "2-Area/Concept",
     "Img/Pasted image 20230926224851.png",
@@ -195,8 +199,6 @@
     "Img/Pasted image 20231003225905.png",
     "5-Archive/Tip",
     "0-Temp/Concept/Untitled",
-    "0-Temp/Concept",
-    "0-Temp/Java",
     "Img/Pasted image 20231002231423.png",
     "Img/Pasted image 20230928180134.png",
     "Untitled.canvas",
