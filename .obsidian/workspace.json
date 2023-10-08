@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/InfraStructure/DLQ(Dead Letter Queue).md",
+                "file": "2-Area/Concept/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/InfraStructure/DLQ(Dead Letter Queue).md",
+                "file": "2-Area/Concept/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/InfraStructure/DLQ(Dead Letter Queue).md",
+                "file": "2-Area/Concept/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/InfraStructure/DLQ(Dead Letter Queue).md"
+                "file": "2-Area/Concept/Test.md"
               }
             }
           },
@@ -157,33 +157,33 @@
   },
   "active": "b28fb759fdefcaa3",
   "lastOpenFiles": [
+    "2-Area/Concept/Reactive Manifesto.md",
+    "2-Area/Concept/Test.md",
+    "0-Temp/트라이로 검색어 자동완성.md",
+    "0-Temp/테스트 짤때는 stub들은 중복이 필요하면 깔끔하게 중복.md",
+    "0-Temp/Spring/Spring version upgrade.md",
+    "0-Temp/Spring/spring modulith.md",
+    "0-Temp/Spring/Spring jpa test annotation.md",
+    "0-Temp/Spring/Spring JDBC PLUS.md",
+    "0-Temp/Spring/Spring Batch 속도개선.md",
+    "0-Temp/Spring/Spring bean.md",
+    "0-Temp/Spring/jpql에서 특정 문자가 붙을떄.md",
+    "0-Temp/Spring/jpa 쓰기지연.md",
+    "0-Temp/Spring/jpa 개괄적인 정리.md",
+    "4-Future/Study Matirials/System Design Case Studies.md",
+    "0-Temp/troubleshooting 참고자료.md",
+    "0-Temp/subquery vs 여러개 query.md",
+    "0-Temp/shadcn.md",
+    "0-Temp/rdb 쓰기 초당 1000정도만 넘어도 부하걸림 고민해볼것.md",
+    "0-Temp/pub sub 패턴.md",
+    "0-Temp/guru design-patterns.md",
+    "0-Temp/AnemicDomainModel.md",
+    "0-Temp/InfraStructure/DLQ(Dead Letter Queue).md",
     "0-Temp/InfraStructure/Elastic search.md",
     "0-Temp/Java&Kotlin/어떤 java 배포판을 사용할것인가?.md",
     "5-Archive/Java/kotlin vs java.md",
     "0-Temp/Java&Kotlin/Large Object.md",
-    "0-Temp/Java&Kotlin/JVM Optimizing.md",
-    "0-Temp/Java&Kotlin/JNI.md",
-    "0-Temp/Java&Kotlin/java garbage collector.md",
-    "0-Temp/Java&Kotlin/JaCoCo.md",
-    "0-Temp/Java&Kotlin/gradle.md",
-    "0-Temp/Java&Kotlin/Garbage collection.md",
-    "0-Temp/Java&Kotlin/google jib.md",
-    "0-Temp/Java&Kotlin/equals와 hashcode는 항상 오버라이딩을.md",
-    "0-Temp/Java&Kotlin/coroutine 블로그.md",
-    "0-Temp/Java&Kotlin/Codecove.md",
-    "0-Temp/Concept/value에 대해.md",
-    "0-Temp/Concept/leader election.md",
-    "0-Temp/Concept/eventually consistency.md",
-    "0-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
-    "0-Temp/Concept/CQRS.md",
-    "0-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md",
-    "0-Temp/Concept/architecture sinkhole anti-pattern.md",
-    "4-Future/Concept/Concurrency vs Parallelism.md",
     "4-Future/Concept",
-    "0-Temp/Softeware Architecture/System Design, Software Architecture, Software Design.md",
-    "0-Temp/코드짤떄/reponse에 vo OR entity.md",
-    "0-Temp/Computer Science/동기, 비동기 IO.md",
-    "0-Temp/코드짤떄/속도 개선을 위해.md",
     "2-Area/1-Weekly-Reading",
     "System Design Big Archive.pdf",
     "ByteByteGo_LinkedIn_PDF.pdf",
