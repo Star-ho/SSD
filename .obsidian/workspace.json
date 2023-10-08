@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/query tuning file sort.md",
+                "file": "2-Area/1-Weekly-Reading/개발 이후 고려해야 할 점들.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "annotation",
+                "query": "java kotlin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/query tuning file sort.md",
+                "file": "2-Area/1-Weekly-Reading/개발 이후 고려해야 할 점들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/query tuning file sort.md",
+                "file": "2-Area/1-Weekly-Reading/개발 이후 고려해야 할 점들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/query tuning file sort.md"
+                "file": "2-Area/1-Weekly-Reading/개발 이후 고려해야 할 점들.md"
               }
             }
           },
@@ -155,36 +155,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b28fb759fdefcaa3",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
-    "0-Temp/앤서블 스크립트.md",
+    "2-Area/1-Weekly-Reading/mind.md",
+    "2-Area/1-Weekly-Reading",
+    "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
+    "2-Area/0-Sung-ho/글쓸때.md",
+    "2-Area/0-Sung-ho/공부법.md",
+    "2-Area/1-Weekly-Reading/개발 이후 고려해야 할 점들.md",
+    "0-Temp/코드짤떄/reponse에 vo OR entity.md",
+    "0-Temp/코드짤떄/어떤걸 캡슐화 할것인가?.md",
+    "0-Temp/코드짤떄/속도 개선을 위해.md",
+    "0-Temp/자료구조/hashmap vs hashtable vs ConcurrentHashMap.md",
+    "0-Temp/bytebuf, bytebuffer.md",
+    "0-Temp/Database/mysql index leftmost rule.md",
+    "0-Temp/Database/왜 데이터베이스에 날리는 두번째 쿼리는 빠를까?.md",
+    "0-Temp/Database/mysql only_full_group_by.md",
+    "0-Temp/InfraStructure/Kafka의 graceful shutdown.md",
+    "0-Temp/Java&Kotlin/Large Object.md",
+    "0-Temp/Database/mysql master-slave 동기화 방식.md",
+    "0-Temp/Database/backward index scan.md",
+    "0-Temp/Database/drop table 시 복구할수 있는 방법.md",
+    "0-Temp/Database/postgresql trash can.md",
+    "0-Temp/Java&Kotlin/kotlin vs java.md",
     "0-Temp/Database/query tuning file sort.md",
+    "0-Temp/앤서블 스크립트.md",
     "0-Temp/guru design-patterns.md",
     "0-Temp/뉴렐릭, 와탭, 데이터독.md",
     "0-Temp/트라이로 검색어 자동완성.md",
-    "0-Temp/msa testing 전략.md",
-    "0-Temp/쿠팡 아키텍처.md",
-    "0-Temp/InfraStructure/DLQ.md",
-    "0-Temp/shadcn.md",
-    "0-Temp/System Design Case Studies.md",
-    "0-Temp/Java&Kotlin/equals와 hashcode는 항상 오버라이딩을.md",
-    "2-Area/Java/Java built in Annotation.md",
-    "0-Temp/Computer Science/forward, redirect 차이점.md",
-    "0-Temp/Database/database foreign key.md",
-    "0-Temp/생각정리/인생...md",
     "System Design Big Archive.pdf",
-    "0-Temp/Database/MySQL에서 스냅샷과 undo log.md",
-    "0-Temp/생각정리/새로운 코드, 프로젝트, 남의코드를 볼때.md",
-    "0-Temp/Computer Science/세마포어, 뮤텍스.md",
-    "0-Temp/Softeware Architecture/아키텍처 패턴, 아키텍처 스타일.md",
-    "0-Temp/Spring/jpql에서 특정 문자가 붙을떄.md",
     "ByteByteGo_LinkedIn_PDF.pdf",
-    "0-Temp/AnemicDomainModel.md",
-    "5-Archive/Tools/Locust.md",
-    "8-성호의 Second Brain.md",
-    "0-Temp/Java&Kotlin/coroutine 블로그.md",
-    "4-Future/Database/PostgreSQL vs MariaDB.md",
-    "4-Future/Database/kafka ui.md",
     "Pasted image 20231007162016.png",
     "Pasted image 20231007161901.png",
     "2-Area/Spring",
@@ -197,7 +197,6 @@
     "Img/Pasted image 20231003225917.png",
     "Img/Pasted image 20231003225905.png",
     "5-Archive/Tip",
-    "0-Temp/Concept/Untitled",
     "Img/Pasted image 20231002231423.png",
     "Img/Pasted image 20230928180134.png",
     "Untitled.canvas",
