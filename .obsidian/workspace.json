@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Softeware Architecture/System Design, Software Architecture, Software Design.md",
+                "file": "0-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Softeware Architecture/System Design, Software Architecture, Software Design.md",
+                "file": "0-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Softeware Architecture/System Design, Software Architecture, Software Design.md",
+                "file": "0-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Softeware Architecture/System Design, Software Architecture, Software Design.md"
+                "file": "0-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md"
               }
             }
           },
@@ -158,6 +157,13 @@
   },
   "active": "b28fb759fdefcaa3",
   "lastOpenFiles": [
+    "0-Temp/Concept/CQRS.md",
+    "0-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
+    "0-Temp/Concept/architecture sinkhole anti-pattern.md",
+    "0-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md",
+    "4-Future/Concept/Concurrency vs Parallelism.md",
+    "4-Future/Concept",
+    "0-Temp/Softeware Architecture/System Design, Software Architecture, Software Design.md",
     "0-Temp/코드짤떄/reponse에 vo OR entity.md",
     "0-Temp/Computer Science/동기, 비동기 IO.md",
     "0-Temp/코드짤떄/속도 개선을 위해.md",
@@ -179,12 +185,6 @@
     "2-Area/0-Sung-ho/공부법.md",
     "0-Temp/자료구조/hashmap vs hashtable vs ConcurrentHashMap.md",
     "0-Temp/bytebuf, bytebuffer.md",
-    "0-Temp/Database/mysql index leftmost rule.md",
-    "0-Temp/Database/왜 데이터베이스에 날리는 두번째 쿼리는 빠를까?.md",
-    "0-Temp/Database/mysql only_full_group_by.md",
-    "0-Temp/InfraStructure/Kafka의 graceful shutdown.md",
-    "0-Temp/Java&Kotlin/Large Object.md",
-    "0-Temp/Database/mysql master-slave 동기화 방식.md",
     "System Design Big Archive.pdf",
     "ByteByteGo_LinkedIn_PDF.pdf",
     "Pasted image 20231007162016.png",
@@ -198,7 +198,6 @@
     "2-Area/0-Sung-ho",
     "Img/Pasted image 20231003225917.png",
     "Img/Pasted image 20231003225905.png",
-    "5-Archive/Tip",
     "Img/Pasted image 20231002231423.png",
     "Img/Pasted image 20230928180134.png",
     "Untitled.canvas",
