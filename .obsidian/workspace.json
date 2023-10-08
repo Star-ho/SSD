@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/앤서블 스크립트.md",
+                "file": "0-Temp/Database/query tuning file sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/앤서블 스크립트.md",
+                "file": "0-Temp/Database/query tuning file sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/앤서블 스크립트.md",
+                "file": "0-Temp/Database/query tuning file sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/앤서블 스크립트.md"
+                "file": "0-Temp/Database/query tuning file sort.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "b28fb759fdefcaa3",
   "lastOpenFiles": [
-    "0-Temp/guru design-patterns.md",
     "0-Temp/앤서블 스크립트.md",
+    "0-Temp/Database/query tuning file sort.md",
+    "0-Temp/guru design-patterns.md",
     "0-Temp/뉴렐릭, 와탭, 데이터독.md",
     "0-Temp/트라이로 검색어 자동완성.md",
     "0-Temp/msa testing 전략.md",
@@ -184,7 +185,6 @@
     "0-Temp/Java&Kotlin/coroutine 블로그.md",
     "4-Future/Database/PostgreSQL vs MariaDB.md",
     "4-Future/Database/kafka ui.md",
-    "4-Future/Database/IDOR.md",
     "Pasted image 20231007162016.png",
     "Pasted image 20231007161901.png",
     "2-Area/Spring",
