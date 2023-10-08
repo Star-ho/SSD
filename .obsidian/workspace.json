@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md",
+                "file": "0-Temp/InfraStructure/DLQ(Dead Letter Queue).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md",
+                "file": "0-Temp/InfraStructure/DLQ(Dead Letter Queue).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md",
+                "file": "0-Temp/InfraStructure/DLQ(Dead Letter Queue).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md"
+                "file": "0-Temp/InfraStructure/DLQ(Dead Letter Queue).md"
               }
             }
           },
@@ -157,34 +157,34 @@
   },
   "active": "b28fb759fdefcaa3",
   "lastOpenFiles": [
-    "0-Temp/Concept/CQRS.md",
+    "0-Temp/InfraStructure/Elastic search.md",
+    "0-Temp/Java&Kotlin/어떤 java 배포판을 사용할것인가?.md",
+    "5-Archive/Java/kotlin vs java.md",
+    "0-Temp/Java&Kotlin/Large Object.md",
+    "0-Temp/Java&Kotlin/JVM Optimizing.md",
+    "0-Temp/Java&Kotlin/JNI.md",
+    "0-Temp/Java&Kotlin/java garbage collector.md",
+    "0-Temp/Java&Kotlin/JaCoCo.md",
+    "0-Temp/Java&Kotlin/gradle.md",
+    "0-Temp/Java&Kotlin/Garbage collection.md",
+    "0-Temp/Java&Kotlin/google jib.md",
+    "0-Temp/Java&Kotlin/equals와 hashcode는 항상 오버라이딩을.md",
+    "0-Temp/Java&Kotlin/coroutine 블로그.md",
+    "0-Temp/Java&Kotlin/Codecove.md",
+    "0-Temp/Concept/value에 대해.md",
+    "0-Temp/Concept/leader election.md",
+    "0-Temp/Concept/eventually consistency.md",
     "0-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
-    "0-Temp/Concept/architecture sinkhole anti-pattern.md",
+    "0-Temp/Concept/CQRS.md",
     "0-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md",
+    "0-Temp/Concept/architecture sinkhole anti-pattern.md",
     "4-Future/Concept/Concurrency vs Parallelism.md",
     "4-Future/Concept",
     "0-Temp/Softeware Architecture/System Design, Software Architecture, Software Design.md",
     "0-Temp/코드짤떄/reponse에 vo OR entity.md",
     "0-Temp/Computer Science/동기, 비동기 IO.md",
     "0-Temp/코드짤떄/속도 개선을 위해.md",
-    "0-Temp/코드짤떄/어떤걸 캡슐화 할것인가?.md",
-    "0-Temp/생각정리/기분, 태도.md",
-    "0-Temp/생각정리/개발자.md",
-    "0-Temp/생각정리/개발익혀야할것들.md",
-    "2-Area/1-Weekly-Reading/mind.md",
-    "2-Area/1-Weekly-Reading/인생...md",
-    "2-Area/1-Weekly-Reading/개발 이후 고려해야 할 점들.md",
-    "4-Future/Study Matirials/유쾌한 스프링방 콘서트.md",
-    "4-Future/Study Matirials/우형 프리코스 github.md",
-    "0-Temp/생각정리/좋은 팀원의 조건.md",
-    "0-Temp/생각정리/좋은 말투.md",
-    "0-Temp/생각정리/webflux사용 후기.md",
     "2-Area/1-Weekly-Reading",
-    "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
-    "2-Area/0-Sung-ho/글쓸때.md",
-    "2-Area/0-Sung-ho/공부법.md",
-    "0-Temp/자료구조/hashmap vs hashtable vs ConcurrentHashMap.md",
-    "0-Temp/bytebuf, bytebuffer.md",
     "System Design Big Archive.pdf",
     "ByteByteGo_LinkedIn_PDF.pdf",
     "Pasted image 20231007162016.png",
