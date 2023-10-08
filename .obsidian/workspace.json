@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Java/Java built in Annotation.md",
+                "file": "0-Temp/앤서블 스크립트.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Java/Java built in Annotation.md",
+                "file": "0-Temp/앤서블 스크립트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Java/Java built in Annotation.md",
+                "file": "0-Temp/앤서블 스크립트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Java/Java built in Annotation.md"
+                "file": "0-Temp/앤서블 스크립트.md"
               }
             }
           },
@@ -158,6 +157,17 @@
   },
   "active": "b28fb759fdefcaa3",
   "lastOpenFiles": [
+    "0-Temp/guru design-patterns.md",
+    "0-Temp/앤서블 스크립트.md",
+    "0-Temp/뉴렐릭, 와탭, 데이터독.md",
+    "0-Temp/트라이로 검색어 자동완성.md",
+    "0-Temp/msa testing 전략.md",
+    "0-Temp/쿠팡 아키텍처.md",
+    "0-Temp/InfraStructure/DLQ.md",
+    "0-Temp/shadcn.md",
+    "0-Temp/System Design Case Studies.md",
+    "0-Temp/Java&Kotlin/equals와 hashcode는 항상 오버라이딩을.md",
+    "2-Area/Java/Java built in Annotation.md",
     "0-Temp/Computer Science/forward, redirect 차이점.md",
     "0-Temp/Database/database foreign key.md",
     "0-Temp/생각정리/인생...md",
@@ -175,19 +185,8 @@
     "4-Future/Database/PostgreSQL vs MariaDB.md",
     "4-Future/Database/kafka ui.md",
     "4-Future/Database/IDOR.md",
-    "4-Future/Database/DragonFly.md",
-    "4-Future/Database/오픈스택.md",
-    "4-Future/Database/맵리듀스.md",
-    "4-Future/Database/데비지움, CDC.md",
-    "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
-    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
-    "2-Area/Database/mysql 프로세스 리스트 보기.md",
     "Pasted image 20231007162016.png",
     "Pasted image 20231007161901.png",
-    "0-Temp/Database/mysql binlog.md",
-    "0-Temp/Database/mysql buffer pool.md",
-    "0-Temp/Database/쿼리 실행시간 보는법.md",
-    "0-Temp/Database/쿼리 튜닝 관련 명령어.md",
     "2-Area/Spring",
     "2-Area/Concept",
     "Img/Pasted image 20230926224851.png",
