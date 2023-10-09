@@ -1,7 +1,11 @@
 
-architecture
+Architecture
+구성요소들의 청사진
+
 
 Design
+하나의 구성요소를 어떻게 만들지
+
 
 
 

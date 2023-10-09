@@ -4,4 +4,7 @@
 
 과연 어떻게될지....
 
-[https://opentelemetry.io/docs/concepts/](https://opentelemetry.io/docs/concepts/)
+https://opentelemetry.io/docs/concepts/
+
+#Tracing
+#OpenTelemetry
