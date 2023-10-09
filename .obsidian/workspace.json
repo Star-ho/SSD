@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Softeware Architecture/CQRS.md",
+                "file": "0-Temp/Softeware Architecture/CQRS(Command and Query Responsibility Segregation).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Softeware Architecture/CQRS.md",
+                "file": "0-Temp/Softeware Architecture/CQRS(Command and Query Responsibility Segregation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Softeware Architecture/CQRS.md",
+                "file": "0-Temp/Softeware Architecture/CQRS(Command and Query Responsibility Segregation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Softeware Architecture/CQRS.md"
+                "file": "0-Temp/Softeware Architecture/CQRS(Command and Query Responsibility Segregation).md"
               }
             }
           },
@@ -157,7 +157,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "88f17208f5693183",
   "lastOpenFiles": [
     "0-Temp/Java&Kotlin/kotlin sealed class.md",
     "5-Archive/Concept/OpenTelemetry.md",
