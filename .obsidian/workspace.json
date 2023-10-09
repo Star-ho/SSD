@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OpenTelemetry",
+                "query": "tag:#Software-design",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "88f17208f5693183",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
     "0-Temp/Java&Kotlin/kotlin sealed class.md",
     "5-Archive/Concept/OpenTelemetry.md",
