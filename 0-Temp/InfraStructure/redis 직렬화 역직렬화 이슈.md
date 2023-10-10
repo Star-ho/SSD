@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/30795262/redis-serialization-and-deserialization
