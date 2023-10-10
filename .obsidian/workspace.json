@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/InfraStructure/레디스 용량 줄이기.md",
+                "file": "0-Temp/InfraStructure/메세지 브로커.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/InfraStructure/레디스 용량 줄이기.md",
+                "file": "0-Temp/InfraStructure/메세지 브로커.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/InfraStructure/레디스 용량 줄이기.md",
+                "file": "0-Temp/InfraStructure/메세지 브로커.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/InfraStructure/레디스 용량 줄이기.md"
+                "file": "0-Temp/InfraStructure/메세지 브로커.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "88f17208f5693183",
   "lastOpenFiles": [
-    "2-Area/Software Design/CQRS(Command and Query Responsibility Segregation).md",
     "0-Temp/InfraStructure/레디스 용량 줄이기.md",
+    "2-Area/Software Design/CQRS(Command and Query Responsibility Segregation).md",
     "0-Temp/Java&Kotlin/kotlin sealed class.md",
     "5-Archive/Concept/OpenTelemetry.md",
     "README.md",
