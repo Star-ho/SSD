@@ -1,0 +1,1 @@
+Create, Drop과 같은 DDL문과 Insert, Update, Delete와 같은 DML문을 통해서 데이터의 변화가 발생할 경우 해당 이벤트들을 기록하는 로그 파일이다.

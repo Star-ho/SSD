@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/InfraStructure/redis vs memcached.md",
+                "file": "0-Temp/Database/database foreign key.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/InfraStructure/redis vs memcached.md",
+                "file": "0-Temp/Database/database foreign key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/InfraStructure/redis vs memcached.md",
+                "file": "0-Temp/Database/database foreign key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/InfraStructure/redis vs memcached.md"
+                "file": "0-Temp/Database/database foreign key.md"
               }
             }
           },
@@ -158,32 +158,32 @@
   },
   "active": "88f17208f5693183",
   "lastOpenFiles": [
+    "0-Temp/Database/aurora vs mysql.md",
+    "0-Temp/Database/backward index scan.md",
+    "0-Temp/Database/해시조인.md",
+    "0-Temp/Database/쿼리 튜닝 관련 명령어.md",
+    "0-Temp/Database/쿼리캐시.md",
+    "0-Temp/Database/쿼리 실행시간 보는법.md",
+    "0-Temp/Database/mysql binlog.md",
+    "0-Temp/Database/mysql Full-Text Searches.md",
+    "0-Temp/Database/mysql buffer pool.md",
+    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
+    "0-Temp/Database/MVCC.md",
+    "0-Temp/Database/JOIN을 쓰는 이유.md",
+    "0-Temp/Database/innodb.md",
+    "0-Temp/Database/drop table 시 복구할수 있는 방법.md",
+    "0-Temp/Database/hibernate Session 과 DB Connection.md",
+    "0-Temp/Database/database upgrade 전략.md",
+    "3-Resource/Tool/Codecove.md",
+    "0-Temp/Java&Kotlin/어떤 java 배포판을 사용할것인가?.md",
+    "0-Temp/Java&Kotlin/coroutine 블로그.md",
+    "0-Temp/InfraStructure/Zookeeper.md",
+    "0-Temp/InfraStructure/redis vs memcached.md",
     "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
     "0-Temp/InfraStructure/redis 고려해볼점.md",
     "0-Temp/InfraStructure/Mongodb multikey index.md",
     "0-Temp/InfraStructure/Kafka의 graceful shutdown.md",
     "0-Temp/InfraStructure/elastic search hot cold warm.md",
-    "0-Temp/InfraStructure/elasticsearch rollover.md",
-    "0-Temp/InfraStructure/Elastic search.md",
-    "0-Temp/InfraStructure/codebuild queued, provisioning.md",
-    "0-Temp/InfraStructure/캐시 히트율 70프로 이상.md",
-    "0-Temp/InfraStructure/메세지 브로커.md",
-    "0-Temp/InfraStructure/레디스 용량 줄이기.md",
-    "0-Temp/Database/sql query 임시테이블.md",
-    "0-Temp/Database/s-lock x-lock.md",
-    "0-Temp/Database/MySQL에서 스냅샷과 undo log.md",
-    "0-Temp/Database/mysql only_full_group_by.md",
-    "0-Temp/Database/query tuning file sort.md",
-    "0-Temp/Database/postgresql trash can.md",
-    "0-Temp/Database/mysql master-slave 동기화 방식.md",
-    "0-Temp/Database/mysql index leftmost rule.md",
-    "0-Temp/Database/mysql buffer pool.md",
-    "0-Temp/Database/mysql binlog.md",
-    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
-    "0-Temp/Database/MVCC.md",
-    "5-Archive/Database/DB 날려먹었을때 복구방법.md",
-    "0-Temp/Database/mysql Full-Text Searches.md",
-    "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
