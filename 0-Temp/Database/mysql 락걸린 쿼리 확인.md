@@ -1,11 +1,14 @@
-mysql 5.7
-select * from information_schema.INNODB_LOCKS;  
-
 mysql 8.0
 select * from performance_schema.data_locks;
 
+https://dev.mysql.com/doc/refman/8.0/en/performance-schema-data-locks-table.html
+- 테이블에 대한 설명
 
-https://sarc.io/index.php/mariadb/1697-mysql-8-0-lock-session
+
+mysql 5.7
+select * from information_schema.INNODB_LOCKS;  
+
+
 #Database 
 #Query 
 #lock 
