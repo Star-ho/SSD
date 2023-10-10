@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "0-Temp/InfraStructure/redis 고려해볼점.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "0-Temp/InfraStructure/redis 고려해볼점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "0-Temp/InfraStructure/redis 고려해볼점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/mysql 락걸린 쿼리 확인.md"
+                "file": "0-Temp/InfraStructure/redis 고려해볼점.md"
               }
             }
           },
@@ -158,32 +158,32 @@
   },
   "active": "88f17208f5693183",
   "lastOpenFiles": [
-    "0-Temp/Database/Bulk Insert.md",
-    "0-Temp/Database/Database 확인해야할것들.md",
-    "0-Temp/Database/쿼리캐시.md",
-    "0-Temp/Database/backward index scan.md",
-    "0-Temp/Database/파티셔닝시 락은 어떻게 걸릴까?.md",
-    "0-Temp/troubleshooting 참고자료.md",
-    "0-Temp/subquery vs 여러개 query.md",
-    "0-Temp/rdb 쓰기 초당 1000정도만 넘어도 부하걸림 고민해볼것.md",
-    "0-Temp/pub sub 패턴.md",
-    "0-Temp/msa testing 전략.md",
-    "5-Archive/Concept/DLQ(Dead Letter Queue).md",
+    "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
+    "0-Temp/InfraStructure/redis 고려해볼점.md",
+    "0-Temp/InfraStructure/Mongodb multikey index.md",
+    "0-Temp/InfraStructure/Kafka의 graceful shutdown.md",
+    "0-Temp/InfraStructure/elastic search hot cold warm.md",
+    "0-Temp/InfraStructure/elasticsearch rollover.md",
+    "0-Temp/InfraStructure/Elastic search.md",
     "0-Temp/InfraStructure/codebuild queued, provisioning.md",
     "0-Temp/InfraStructure/캐시 히트율 70프로 이상.md",
-    "0-Temp/InfraStructure/안정해시.md",
     "0-Temp/InfraStructure/메세지 브로커.md",
     "0-Temp/InfraStructure/레디스 용량 줄이기.md",
-    "2-Area/Software Design/CQRS(Command and Query Responsibility Segregation).md",
-    "0-Temp/Java&Kotlin/kotlin sealed class.md",
-    "5-Archive/Concept/OpenTelemetry.md",
-    "README.md",
-    "0-Temp/Softeware Architecture/System Design, Software Architecture, Software Design.md",
-    "0-Temp/Softeware Architecture/모듈, 패키지.md",
-    "4-Future/JAVA/데이터 지향 프로그래밍.md",
+    "0-Temp/Database/sql query 임시테이블.md",
+    "0-Temp/Database/s-lock x-lock.md",
+    "0-Temp/Database/MySQL에서 스냅샷과 undo log.md",
+    "0-Temp/Database/mysql only_full_group_by.md",
     "0-Temp/Database/query tuning file sort.md",
+    "0-Temp/Database/postgresql trash can.md",
     "0-Temp/Database/mysql master-slave 동기화 방식.md",
+    "0-Temp/Database/mysql index leftmost rule.md",
     "0-Temp/Database/mysql buffer pool.md",
+    "0-Temp/Database/mysql binlog.md",
+    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
+    "0-Temp/Database/MVCC.md",
+    "5-Archive/Database/DB 날려먹었을때 복구방법.md",
+    "0-Temp/Database/mysql Full-Text Searches.md",
+    "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
