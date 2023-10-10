@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Softeware Architecture/CQRS(Command and Query Responsibility Segregation).md",
+                "file": "2-Area/Software Design/CQRS(Command and Query Responsibility Segregation).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Softeware Architecture/CQRS(Command and Query Responsibility Segregation).md",
+                "file": "2-Area/Software Design/CQRS(Command and Query Responsibility Segregation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Softeware Architecture/CQRS(Command and Query Responsibility Segregation).md",
+                "file": "2-Area/Software Design/CQRS(Command and Query Responsibility Segregation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Softeware Architecture/CQRS(Command and Query Responsibility Segregation).md"
+                "file": "2-Area/Software Design/CQRS(Command and Query Responsibility Segregation).md"
               }
             }
           },
@@ -157,7 +156,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "88f17208f5693183",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
     "0-Temp/Java&Kotlin/kotlin sealed class.md",
     "5-Archive/Concept/OpenTelemetry.md",

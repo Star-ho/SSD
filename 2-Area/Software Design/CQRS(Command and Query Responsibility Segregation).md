@@ -9,15 +9,19 @@
 
 ### Command
 - 객체의 상태를 변화시키는 메서드
-- 리턴값이 존
-- commnd는 특정한 객체를 변경하는 메서드이므로 side effect가 존재
-	- 리턴값이 없음
-	- query에서 사용할 수 없음
-- 위와같이 사용하므로써 디버깅시 side effect에 관한 부분은 command만 검사하면 됨
+- 리턴값이 존재하지 않음
+- commnd는 객체의 상태를 변경하는 메서드이므로 side effect가 존재
+- query에서 호출할 수 없음
 
+### 장점
+- 디버깅시 조회에 관한 부분은 Query에서, side effect에 관한 부분은 command만 검사하면 됨
+- 복잡성이 줄어든다
+
+### 단점
 - 하지만 command임에도 리턴값이 필요한 상황이 존재한다
-- ex) 최종 변경사항을 리턴해줘야하는 경우
-- command라는 네이밍을 가지고 메서드명도 충분히 command라는걸 표현함에도 이걸 쿼리처럼 사용하는 사람이 문제
+- ex) 최종 변경사항을 리턴해줘야하는 경우, Stack의 pop메서드
+- command라는 네이밍을 가지고 메서드명도 충분히 command라는걸 표현함에도 이걸 쿼리처럼 사용하는 사람이 문제라는 결론
+
 
 
 > Query
@@ -38,3 +42,4 @@ https://martinfowler.com/bliki/CommandQuerySeparation.html
 https://blog.ploeh.dk/2014/08/11/cqs-versus-server-generated-ids/
 
 #Software-design 
+#CQRS
