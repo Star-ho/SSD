@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Untitled.md",
+                "file": "0-Temp/sftp 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Untitled.md",
+                "file": "0-Temp/sftp 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Untitled.md",
+                "file": "0-Temp/sftp 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Untitled.md"
+                "file": "0-Temp/sftp 명령어.md"
               }
             }
           },
@@ -159,7 +159,7 @@
   "active": "88f17208f5693183",
   "lastOpenFiles": [
     "0-Temp/Database/database foreign key.md",
-    "0-Temp/Untitled.md",
+    "0-Temp/sftp 명령어.md",
     "0-Temp/Database/aurora vs mysql.md",
     "0-Temp/Database/backward index scan.md",
     "0-Temp/Database/해시조인.md",
