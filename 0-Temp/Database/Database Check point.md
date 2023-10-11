@@ -3,6 +3,10 @@
 - 이 체크포인트는 성공적으로 저장된 것이므로 체크포인트 장애나 충돌로 인한 복구시 체크포인트 이후의 로그를 사용하여 복구하면 시간이 단축됨
 - 레코드 뿐만 아니라 트랜잭션 정보도 저장함
 
+![[Pasted image 20231011230739.png]]
+
+위 상황에서 T1, T2, T3는 redo
+
 https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_checkpoint
 https://learn.microsoft.com/en-us/sql/relational-databases/logs/database-checkpoints-sql-server?view=sql-server-ver16
 
