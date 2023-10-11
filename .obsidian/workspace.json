@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/database foreign key.md",
+                "file": "0-Temp/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/database foreign key.md",
+                "file": "0-Temp/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/database foreign key.md",
+                "file": "0-Temp/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/database foreign key.md"
+                "file": "0-Temp/Untitled.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "88f17208f5693183",
   "lastOpenFiles": [
+    "0-Temp/Database/database foreign key.md",
+    "0-Temp/Untitled.md",
     "0-Temp/Database/aurora vs mysql.md",
     "0-Temp/Database/backward index scan.md",
     "0-Temp/Database/해시조인.md",
@@ -182,8 +184,6 @@
     "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
     "0-Temp/InfraStructure/redis 고려해볼점.md",
     "0-Temp/InfraStructure/Mongodb multikey index.md",
-    "0-Temp/InfraStructure/Kafka의 graceful shutdown.md",
-    "0-Temp/InfraStructure/elastic search hot cold warm.md",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
