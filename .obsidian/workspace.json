@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/querydsl projection 결과 매핑.md",
+                "file": "0-Temp/Database/Redo log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/querydsl projection 결과 매핑.md",
+                "file": "0-Temp/Database/Redo log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/querydsl projection 결과 매핑.md",
+                "file": "0-Temp/Database/Redo log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/querydsl projection 결과 매핑.md"
+                "file": "0-Temp/Database/Redo log.md"
               }
             }
           },
@@ -158,12 +158,18 @@
   },
   "active": "1ec988a56d59c322",
   "lastOpenFiles": [
-    "5-Archive/shell command/프로세스 관련 명령어.md",
+    "0-Temp/Database/innodb.md",
+    "0-Temp/Database/Redo log.md",
+    "0-Temp/대용량 파일 업로드 lfs.md",
+    "0-Temp/대용량 트래픽 상황 답찾기.md",
+    "0-Temp/뉴렐릭, 와탭, 데이터독.md",
+    "0-Temp/쓰레드덤프, 힙덤프.md",
+    "0-Temp/UniCode.md",
     "0-Temp/querydsl projection 결과 매핑.md",
+    "5-Archive/shell command/프로세스 관련 명령어.md",
     "0-Temp/Database/Database LSN.md",
     "0-Temp/Database/database foreign key.md",
     "0-Temp/Database/database undo log.md",
-    "0-Temp/Database/database redo log.md",
     "3-Resource/Database/Database Check point.md",
     "Pasted image 20231011230739.png",
     "0-Temp/Database/Database Buffer Cache.md",
@@ -172,19 +178,13 @@
     "0-Temp/리모트컨피그.md",
     "uuidv8.md",
     "0-Temp/생각정리/사업 아이템.md",
-    "0-Temp/대용량 트래픽 상황 답찾기.md",
-    "0-Temp/UniCode.md",
     "Untitled.md",
     "0-Temp/spring restdocs.md",
     "0-Temp/생각정리/장애에 대해서.md",
-    "0-Temp/대용량 파일 업로드 lfs.md",
     "0-Temp/생각정리/회사 정할 때 절대 불변의 1원칙.md",
     "0-Temp/cloud config 로 비즈니스를 통제하지 말자.md",
     "0-Temp/sftp 명령어.md",
     "0-Temp/Database/aurora vs mysql.md",
-    "0-Temp/Database/backward index scan.md",
-    "0-Temp/Database/해시조인.md",
-    "0-Temp/Database/쿼리 튜닝 관련 명령어.md",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
