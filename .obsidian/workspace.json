@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Archive/shell command/프로세스 관련 명령어.md",
+                "file": "0-Temp/querydsl projection 결과 매핑.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Archive/shell command/프로세스 관련 명령어.md",
+                "file": "0-Temp/querydsl projection 결과 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Archive/shell command/프로세스 관련 명령어.md",
+                "file": "0-Temp/querydsl projection 결과 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Archive/shell command/프로세스 관련 명령어.md"
+                "file": "0-Temp/querydsl projection 결과 매핑.md"
               }
             }
           },
@@ -159,6 +158,8 @@
   },
   "active": "1ec988a56d59c322",
   "lastOpenFiles": [
+    "5-Archive/shell command/프로세스 관련 명령어.md",
+    "0-Temp/querydsl projection 결과 매핑.md",
     "0-Temp/Database/Database LSN.md",
     "0-Temp/Database/database foreign key.md",
     "0-Temp/Database/database undo log.md",
@@ -184,8 +185,6 @@
     "0-Temp/Database/backward index scan.md",
     "0-Temp/Database/해시조인.md",
     "0-Temp/Database/쿼리 튜닝 관련 명령어.md",
-    "0-Temp/Database/쿼리캐시.md",
-    "0-Temp/Database/쿼리 실행시간 보는법.md",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
