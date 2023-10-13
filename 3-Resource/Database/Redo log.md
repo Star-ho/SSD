@@ -12,4 +12,4 @@ https://velog.io/@pk3669/Mysql-Redo-Undo-Log
 https://dev.mysql.com/doc/refman/8.0/en/innodb-redo-log.html
 #Database 
 #Redo-log
-
+#Innodb 
