@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/Doublewrite buffer.md",
+                "file": "0-Temp/Database/Undo log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/Doublewrite buffer.md",
+                "file": "0-Temp/Database/Undo log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/Doublewrite buffer.md",
+                "file": "0-Temp/Database/Undo log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/Doublewrite buffer.md"
+                "file": "0-Temp/Database/Undo log.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "1ec988a56d59c322",
   "lastOpenFiles": [
-    "0-Temp/Database/Undo log.md",
     "0-Temp/Database/Doublewrite buffer.md",
+    "0-Temp/Database/Undo log.md",
     "0-Temp/Database/Database Buffer Cache.md",
     "0-Temp/Database/Redo log.md",
     "0-Temp/Database/innodb.md",

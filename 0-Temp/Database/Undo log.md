@@ -3,7 +3,11 @@
 	- 롤백시 사용
 - 다른 트랜잭션에서 일관된 read작업의 일부로 원본데이터를 확인해야 할때, 수정되지 않은 데이터는 undo log에서 확인할 수 있음
 	- Dirty read해결
-- undo log segment에 존재
+- rollback segments에 포함된 undo log segment에 존재
+	- rollback segments의 undo log는 insert와 update로 나누어짐
+	- insert undo log는 트랜잭션 롤백에만 사용이 되므로 트랜잭션이 커밋되면 폐기됨
+	- update undo log는 일관적 읽기에 사용되며 
+	- [참고](https://dev.mysql.com/doc/refman/8.0/en/innodb-multi-versioning.html)
 - 아래 4가지 경우에 undo log가 생성됨
 	- 사용자가 정의한 테이블의 insert문
 	- 사용자가 정의한 테이블의 update, delete문
