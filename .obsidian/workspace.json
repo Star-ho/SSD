@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/Log Buffer.md",
+                "file": "0-Temp/Database/aurora vs mysql.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yum in",
+                "query": "tag:#Innodb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/Log Buffer.md",
+                "file": "0-Temp/Database/aurora vs mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/Log Buffer.md",
+                "file": "0-Temp/Database/aurora vs mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/Log Buffer.md"
+                "file": "0-Temp/Database/aurora vs mysql.md"
               }
             }
           },
@@ -158,7 +158,9 @@
   },
   "active": "f4db47e29e03edec",
   "lastOpenFiles": [
-    "0-Temp/Database/Log Buffer.md",
+    "0-Temp/Database/backward index scan.md",
+    "0-Temp/Database/인덱스 직접 구현해보기.md",
+    "3-Resource/Database/Log Buffer.md",
     "3-Resource/Database/Undo log.md",
     "3-Resource/Database/Redo log.md",
     "3-Resource/Database/Database Check point.md",
@@ -183,8 +185,6 @@
     "0-Temp/리모트컨피그.md",
     "uuidv8.md",
     "0-Temp/생각정리/사업 아이템.md",
-    "Untitled.md",
-    "0-Temp/spring restdocs.md",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
