@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/Redo log.md",
+                "file": "0-Temp/Database/Database Buffer Cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/Redo log.md",
+                "file": "0-Temp/Database/Database Buffer Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/Redo log.md",
+                "file": "0-Temp/Database/Database Buffer Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/Redo log.md"
+                "file": "0-Temp/Database/Database Buffer Cache.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "1ec988a56d59c322",
   "lastOpenFiles": [
-    "0-Temp/Database/innodb.md",
     "0-Temp/Database/Redo log.md",
+    "0-Temp/Database/Database Buffer Cache.md",
+    "0-Temp/Database/innodb.md",
     "0-Temp/대용량 파일 업로드 lfs.md",
     "0-Temp/대용량 트래픽 상황 답찾기.md",
     "0-Temp/뉴렐릭, 와탭, 데이터독.md",
@@ -172,7 +173,6 @@
     "0-Temp/Database/database undo log.md",
     "3-Resource/Database/Database Check point.md",
     "Pasted image 20231011230739.png",
-    "0-Temp/Database/Database Buffer Cache.md",
     "0-Temp/Database/MySQL에서 스냅샷과 undo log.md",
     "0-Temp/피처 플래그.md",
     "0-Temp/리모트컨피그.md",
