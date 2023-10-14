@@ -11,7 +11,11 @@
 		- [Point-in-Time (Incremental) Recovery](https://dev.mysql.com/doc/refman/8.0/en/point-in-time-recovery.html "7.5 Point-in-Time (Incremental) Recovery")에서는 bin log로 recovery진행
 - bin log를 사용하는것은 server의 performance가 줄어들지만 replication이나 recover로 인한 이점이 더 많다고 판단함
 	- default로 켜짐
-- 완료된 이벤트나 트랜잭션예상치못한 중단에도 
+- 완료된 이벤트나 트랜잭션만 로깅되므로 예상치못한 중단에도 저항성을 가짐
+	- redo log나 undo로그가 있는데도 필요할까? 라는 생각
+- 로그형태
+	- **Statement-based logging**
+	-  **Row-based logging**
 
 
 #wait-to-update
