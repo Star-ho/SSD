@@ -17,22 +17,11 @@
 	- Statement-based logging 
 ```
 원래 쿼리
-update PRODUCT  
-set PRODUCT.LABEL = '1'  
-where id = 8;
+update PRODUCT
+set PRODUCT.LABEL = RAND()
+where id = 1 or id = 2
 ```
-
-```
-log에 남은 내용
-
-# at 6100
-#231014 22:34:23 server id 1  end_log_pos 6289 CRC32 0x36af659b Query thread_id=25 exec_time=0 error_code=0
-SET TIMESTAMP=1697290463/*!*/;
-/* ApplicationName=DataGrip 2023.1.2 */ update PRODUCT
-set PRODUCT.LABEL = '1'
-where id = 8
-```
-
+![[Pasted image 20231014225459.png]]
 - Row-based logging
 ```
 원래 쿼리
@@ -41,6 +30,10 @@ set PRODUCT.LABEL = RAND()
 where id = 1 or id = 2;
 ```
 ![[Pasted image 20231014225322.png]]
+- mixed logging
+	- default로 Statement-based logging 이지만, 특정상황에서 Row-based logging함
+> mixed logging은 중요하지 않을것 같아 기회가 생기면 추후 작성
+
 
 |특징|Statement-based log|Row-based log|
 |-------|---------|-----|
@@ -50,5 +43,6 @@ where id = 1 or id = 2;
 |복구|어려움|
 
 
+https://dev.mysql.com/doc/refman/8.0/en/binary-log-setting.html
 
 #wait-to-update

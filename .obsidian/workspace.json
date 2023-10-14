@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/mysql binlog.md",
+                "file": "0-Temp/Database/Write-Ahead Logging.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Innodb",
+                "query": "Ahead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/mysql binlog.md",
+                "file": "0-Temp/Database/Write-Ahead Logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/mysql binlog.md",
+                "file": "0-Temp/Database/Write-Ahead Logging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/mysql binlog.md"
+                "file": "0-Temp/Database/Write-Ahead Logging.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "f4db47e29e03edec",
   "lastOpenFiles": [
+    "0-Temp/Database/mysql binlog.md",
+    "0-Temp/Database/Write-Ahead Logging.md",
+    "Pasted image 20231014225459.png",
     "Pasted image 20231014225322.png",
     "0-Temp/Database/B+ Tree의 fan-out.md",
     "0-Temp/InfraStructure/Zookeeper.md",
@@ -170,7 +173,6 @@
     "0-Temp/Database/s-lock x-lock.md",
     "0-Temp/Database/mysql relay log.md",
     "0-Temp/Database/mysql buffer pool.md",
-    "0-Temp/Database/mysql binlog.md",
     "0-Temp/Database/MVCC.md",
     "0-Temp/Database/innodb.md",
     "0-Temp/Database/hibernate Session 과 DB Connection.md",
@@ -202,7 +204,6 @@
     "real-resource/Pasted image 20231003225905.png",
     "real-resource/Pasted image 20231002231423.png",
     "real-resource/Pasted image 20230928180134.png",
-    "Untitled.canvas",
-    "real-resource/Pasted image 20230924231237.png"
+    "Untitled.canvas"
   ]
 }
