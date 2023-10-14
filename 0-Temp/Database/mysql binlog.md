@@ -14,8 +14,17 @@
 - 완료된 이벤트나 트랜잭션만 로깅되므로 예상치못한 중단에도 저항성을 가짐
 	- redo log나 undo로그가 있는데도 필요할까? 라는 생각
 - 로그형태
-	- **Statement-based logging**
-	-  **Row-based logging**
+	- Statement-based logging
+	- Row-based logging
+
+|특징|Statement-based log|Row-based log|
+|-------|---------|-----|
+|변경 사항 추적|쿼리 수준|행 수준|
+|성능|많은 변경 사항의 경우 더 좋음|적은 변경 사항의 경우 더 좋음|
+|log 파일 크기|작음|클 수 있음|
+|log 파일 읽기|쉽음|어려움|
+|복구|어려움|
+
 
 
 #wait-to-update
