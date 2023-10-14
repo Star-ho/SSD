@@ -15,7 +15,55 @@
 	- redo log나 undo로그가 있는데도 필요할까? 라는 생각
 - 로그형태
 	- Statement-based logging
-	- Row-based logging
+	- 원래 쿼리
+```
+update PRODUCT  
+set PRODUCT.LABEL = '1'  
+where id = 8;
+```
+
+
+```
+log에 남은 내용
+
+# at 6100
+#231014 22:34:23 server id 1  end_log_pos 6289 CRC32 0x36af659b Query thread_id=25 exec_time=0 error_code=0
+SET TIMESTAMP=1697290463/*!*/;
+/* ApplicationName=DataGrip 2023.1.2 */ update PRODUCT
+set PRODUCT.LABEL = '1'
+where id = 8
+```
+
+
+- Row-based logging
+```
+원래 쿼리
+update PRODUCT  
+set PRODUCT.LABEL = '1'  
+where id = 8;
+
+log에 남은 내용
+#231014 22:39:32 server id 1  end_log_pos 8318 CRC32 0x0c3f7580 Update_rows: table id 249 flags: STMT_END_F
+
+### UPDATE `dreamstore`.`product`
+### WHERE
+###   @1=3
+###   @2=1
+###   @3='2022-12-03 14:29:27'
+###   @4='2022-12-03 14:29:27'
+###   @5='1'
+###   @6=1000
+### SET
+###   @1=3
+###   @2=1
+###   @3='2022-12-03 14:29:27'
+###   @4='2022-12-03 14:29:27'
+###   @5='3'
+###   @6=1000
+```
+
+
+
 
 |특징|Statement-based log|Row-based log|
 |-------|---------|-----|
