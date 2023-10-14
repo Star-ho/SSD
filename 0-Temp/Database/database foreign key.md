@@ -12,3 +12,5 @@ mysql foreign key, join lock
 외래키가 걸려잇으면 외래키 친구들에게도 s락이 걸리면서  
 [https://stackoverflow.com/questions/83147/whats-wrong-with-foreign-keys](https://stackoverflow.com/questions/83147/whats-wrong-with-foreign-keys)|
 
+
+#wait-to-update

@@ -20,3 +20,4 @@ MySQL 기준으로 넵 커밋티드랑 리피터블 격리 래밸에서만 사�
 #Database 
 #MySQL
 
+#wait-to-update
