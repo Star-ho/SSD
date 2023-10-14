@@ -47,11 +47,16 @@ where id = 1 or id = 2;
 - 로깅 주체
 	- Binary log는 mysql서버에서 로깅
 	- redo로그는 innodb 엔진에서 로깅
-- 
+	- 
+- 로그 레벨
+	- Binary log는 sql문에 대한 논리적인 로깅
+	- redo로그는 데이터 페이지에 대한 물리적인 로깅
+	- 
 
 > 아래 명령어를 사용하여 로그파일 확인함
 > mysqlbinlog --base64-output=DECODE-ROWS  -v binlog.000025
 
 https://dev.mysql.com/doc/refman/8.0/en/binary-log-setting.html
+https://dev.mysql.com/doc/refman/8.0/en/binary-log.html
 
 #wait-to-update
