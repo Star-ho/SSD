@@ -14,14 +14,13 @@
 - 완료된 이벤트나 트랜잭션만 로깅되므로 예상치못한 중단에도 저항성을 가짐
 	- redo log나 undo로그가 있는데도 필요할까? 라는 생각
 - 로그형태
-	- Statement-based logging
-	- 원래 쿼리
+	- Statement-based logging 
 ```
+원래 쿼리
 update PRODUCT  
 set PRODUCT.LABEL = '1'  
 where id = 8;
 ```
-
 
 ```
 log에 남은 내용
@@ -34,36 +33,14 @@ set PRODUCT.LABEL = '1'
 where id = 8
 ```
 
-
 - Row-based logging
 ```
 원래 쿼리
 update PRODUCT  
-set PRODUCT.LABEL = '1'  
-where id = 8;
-
-log에 남은 내용
-#231014 22:39:32 server id 1  end_log_pos 8318 CRC32 0x0c3f7580 Update_rows: table id 249 flags: STMT_END_F
-
-### UPDATE `dreamstore`.`product`
-### WHERE
-###   @1=3
-###   @2=1
-###   @3='2022-12-03 14:29:27'
-###   @4='2022-12-03 14:29:27'
-###   @5='1'
-###   @6=1000
-### SET
-###   @1=3
-###   @2=1
-###   @3='2022-12-03 14:29:27'
-###   @4='2022-12-03 14:29:27'
-###   @5='3'
-###   @6=1000
+set PRODUCT.LABEL = RAND()  
+where id = 1 or id = 2;
 ```
-
-
-
+![[Pasted image 20231014225322.png]]
 
 |특징|Statement-based log|Row-based log|
 |-------|---------|-----|
