@@ -12,7 +12,6 @@
 - bin log를 사용하는것은 server의 performance가 줄어들지만 replication이나 recover로 인한 이점이 더 많다고 판단함
 	- default로 켜짐
 - 완료된 이벤트나 트랜잭션만 로깅되므로 예상치못한 중단에도 저항성을 가짐
-	- redo log나 undo로그가 있는데도 필요할까? 라는 생각
 - 로그형태
 	- Statement-based logging 
 ```
@@ -22,6 +21,7 @@ set PRODUCT.LABEL = RAND()
 where id = 1 or id = 2
 ```
 ![[Pasted image 20231014225459.png]]
+
 - Row-based logging
 ```
 원래 쿼리
@@ -42,6 +42,15 @@ where id = 1 or id = 2;
 |log 파일 크기|작음|클 수 있음|
 |복구|어려움|
 
+
+## Binary log vs redo log
+- 로깅 주체
+	- Binary log는 mysql서버에서 로깅
+	- redo로그는 innodb 엔진에서 로깅
+- 
+
+> 아래 명령어를 사용하여 로그파일 확인함
+> mysqlbinlog --base64-output=DECODE-ROWS  -v binlog.000025
 
 https://dev.mysql.com/doc/refman/8.0/en/binary-log-setting.html
 

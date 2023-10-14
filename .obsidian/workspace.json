@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/Write-Ahead Logging.md",
+                "file": "0-Temp/Database/mysql Binanry Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/Write-Ahead Logging.md",
+                "file": "0-Temp/Database/mysql Binanry Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/Write-Ahead Logging.md",
+                "file": "0-Temp/Database/mysql Binanry Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/Write-Ahead Logging.md"
+                "file": "0-Temp/Database/mysql Binanry Log.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "f4db47e29e03edec",
   "lastOpenFiles": [
-    "0-Temp/Database/mysql binlog.md",
     "0-Temp/Database/Write-Ahead Logging.md",
+    "0-Temp/Database/mysql Binanry Log.md",
     "Pasted image 20231014225459.png",
     "Pasted image 20231014225322.png",
     "0-Temp/Database/B+ Tree의 fan-out.md",
