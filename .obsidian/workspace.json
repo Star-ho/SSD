@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Computer Science/동기, 비동기 IO.md",
+                "file": "0-Temp/Database/JOIN을 쓰는 이유.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ahead",
+                "query": "join",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Computer Science/동기, 비동기 IO.md",
+                "file": "0-Temp/Database/JOIN을 쓰는 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Computer Science/동기, 비동기 IO.md",
+                "file": "0-Temp/Database/JOIN을 쓰는 이유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Computer Science/동기, 비동기 IO.md"
+                "file": "0-Temp/Database/JOIN을 쓰는 이유.md"
               }
             }
           },
@@ -158,6 +159,7 @@
   },
   "active": "f4db47e29e03edec",
   "lastOpenFiles": [
+    "0-Temp/Computer Science/동기, 비동기 IO.md",
     "0-Temp/Computer Science/Untitled.md",
     "0-Temp/Database/mysql Binanry Log.md",
     "0-Temp/Database/Write-Ahead Logging.md",
@@ -185,7 +187,6 @@
     "0-Temp/InfraStructure/캐시 히트율 70프로 이상.md",
     "0-Temp/InfraStructure/안정해시.md",
     "0-Temp/InfraStructure/메세지 브로커.md",
-    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
     "Pasted image 20231011230739.png",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
