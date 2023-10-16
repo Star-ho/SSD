@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/영단어 공부.md",
+                "file": "0-Temp/Database/Doublewrite buffer.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wait",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/영단어 공부.md",
+                "file": "0-Temp/Database/Doublewrite buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/영단어 공부.md",
+                "file": "0-Temp/Database/Doublewrite buffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/영단어 공부.md"
+                "file": "0-Temp/Database/Doublewrite buffer.md"
               }
             }
           },
@@ -158,12 +159,13 @@
   },
   "active": "e1700b4ea49b767d",
   "lastOpenFiles": [
-    "2-Area/0-Sung-ho/개발업무 중 생성형 ai에 대해.md",
+    "0-Temp/Database/B+ Tree의 fan-out.md",
+    "0-Temp/면접자료/링크드인 추가해야 하는 사람.md",
     "0-Temp/영단어 공부.md",
+    "2-Area/0-Sung-ho/개발업무 중 생성형 ai에 대해.md",
     "0-Temp/면접자료/Untitled.md",
     "0-Temp/Softeware Architecture/DDD.md",
     "0-Temp/Database/Doublewrite buffer.md",
-    "0-Temp/면접자료/링크드인 추가해야 하는 사람.md",
     "0-Temp/Database/JOIN을 쓰는 이유.md",
     "0-Temp/Computer Science/동기, 비동기 IO.md",
     "0-Temp/Computer Science/Untitled.md",
@@ -171,7 +173,6 @@
     "0-Temp/Database/Write-Ahead Logging.md",
     "Pasted image 20231014225459.png",
     "Pasted image 20231014225322.png",
-    "0-Temp/Database/B+ Tree의 fan-out.md",
     "0-Temp/InfraStructure/Zookeeper.md",
     "0-Temp/InfraStructure/redis에 대해 공부해보자.md",
     "0-Temp/InfraStructure/redis vs memcached.md",
