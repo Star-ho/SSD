@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/Database LSN.md",
+                "file": "2-Area/Database/Database LSN.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/Database LSN.md",
+                "file": "2-Area/Database/Database LSN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/Database LSN.md",
+                "file": "2-Area/Database/Database LSN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/Database LSN.md"
+                "file": "2-Area/Database/Database LSN.md"
               }
             }
           },
@@ -157,10 +156,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b8e23c8d3be21a2f",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
     "2-Area/Database/Double Write Buffer.md",
-    "0-Temp/Database/Database LSN.md",
+    "2-Area/Database/Database LSN.md",
     "0-Temp/Database/Database Buffer Cache.md",
     "0-Temp/Database/B+ Tree의 fan-out.md",
     "0-Temp/면접자료/링크드인 추가해야 하는 사람.md",
