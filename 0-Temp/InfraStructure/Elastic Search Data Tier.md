@@ -1,9 +1,16 @@
-- 시계열 인덱스일때 매우 유용
-- 많은 경우, 시계열로 인덱스를 잡았다면 최근 데이터를 자주보고, 옛날 데이터를 덜 보게 될것이다.
-- Data Tier는 Content, Hot, Warm, Cold, Frozen 4개의 티어로 나누고 Fronzen에서 계속 보관하거나 삭제를 하는 방법도 있다.
-- Content Tier는 실제로 사용하고 있는 데이터 이고 이후 데이터들은 Content Tier에서 
-- Hot으로 갈수록 더 최근, 자주 접근하는 데이터이고 Frozen으로 갈수로 옛날, 잘 접근하지 않는 데이터이다.
-- 
+- Data Tier는 Content, Hot, Warm, Cold, Frozen 5개의 티어로 나눔
+
+- Data Tier는 정말 사용하는 데이터(상품의 카탈로그)같은 것으로 다른 티어들과 다르게 시간의 지남에 따라 티어를 이동하지 않음
+
+- Hot, Warm, Cold, Frozen는 Time series data의 관리시 매우 유용함
+	- 특히 시계열 인덱스일때 매우 유용
+- 많은 경우, 자주 접하는 데이터와 자주 접하지 않는 데이터가 나누어 
+	- 시계열일 경우 최근 데이터를 자주보고 시간이 지난 데이터를 덜 볼 것임
+	- ex) 로그 데이터
+
+- Hot으로 갈수록 더 최근, 자주 접근하는 데이터이고 Frozen으로 갈수로 옛날, 잘 접근하지 않는 데이터
+- 데이터 관리 방법
+	- 자주 접근하는 티어(ex Hot tier)는 더 좋은 장비(SSD, memory)를 두고 덜 접근하는 티어(Fozen)에는 낮은장비, 혹은 스냅샷을 이용하어 ㅈ
 
   
 https://www.elastic.co/guide/en/elasticsearch/reference/current/data-tiers.html
