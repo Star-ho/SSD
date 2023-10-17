@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/mysql 옵티마이저 트레이스.md",
+                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/mysql 옵티마이저 트레이스.md",
+                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/mysql 옵티마이저 트레이스.md",
+                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/mysql 옵티마이저 트레이스.md"
+                "file": "0-Temp/생각정리/복잡성을 줄이는법.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "b8e23c8d3be21a2f",
   "lastOpenFiles": [
+    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
     "0-Temp/생각정리/복잡성을 줄이는법.md",
     "5-Archive/Tools/드로윙 툴.md",
     "2-Area/Database/Database LSN.md",
@@ -186,7 +187,6 @@
     "0-Temp/Database/sql query 임시테이블.md",
     "0-Temp/Database/s-lock x-lock.md",
     "0-Temp/Database/mysql relay log.md",
-    "0-Temp/Database/mysql buffer pool.md",
     "Pasted image 20231011230739.png",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
