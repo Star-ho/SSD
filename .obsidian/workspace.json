@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Database/Database LSN.md",
+                "file": "5-Archive/Tools/드로윙 툴.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lsn",
+                "query": "드로윙",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Database/Database LSN.md",
+                "file": "5-Archive/Tools/드로윙 툴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Database/Database LSN.md",
+                "file": "5-Archive/Tools/드로윙 툴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Database/Database LSN.md"
+                "file": "5-Archive/Tools/드로윙 툴.md"
               }
             }
           },
@@ -156,10 +157,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "b8e23c8d3be21a2f",
   "lastOpenFiles": [
-    "2-Area/Database/Double Write Buffer.md",
     "2-Area/Database/Database LSN.md",
+    "2-Area/Database/Double Write Buffer.md",
     "0-Temp/Database/Database Buffer Cache.md",
     "0-Temp/Database/B+ Tree의 fan-out.md",
     "0-Temp/면접자료/링크드인 추가해야 하는 사람.md",
