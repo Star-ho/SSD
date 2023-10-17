@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/생각정리/새로운 코드, 프로젝트, 남의코드를 볼때.md",
+                "file": "0-Temp/Database/MVCC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/생각정리/새로운 코드, 프로젝트, 남의코드를 볼때.md",
+                "file": "0-Temp/Database/MVCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/생각정리/새로운 코드, 프로젝트, 남의코드를 볼때.md",
+                "file": "0-Temp/Database/MVCC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/생각정리/새로운 코드, 프로젝트, 남의코드를 볼때.md"
+                "file": "0-Temp/Database/MVCC.md"
               }
             }
           },
@@ -158,34 +158,34 @@
   },
   "active": "5b614aebfa7f7c00",
   "lastOpenFiles": [
+    "0-Temp/Database/drop table 시 복구할수 있는 방법.md",
+    "0-Temp/Database/elastic search master node vs data node.md",
+    "0-Temp/Database/database upgrade 전략.md",
+    "0-Temp/InfraStructure/elasticsearch rollover.md",
+    "2-Area/0-Sung-ho/좋은 개발자가 되는법.md",
+    "2-Area/0-Sung-ho/쿼리 튜닝시.md",
+    "2-Area/0-Sung-ho/외래키, 양방향 연관관계.md",
+    "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
+    "2-Area/0-Sung-ho/글쓸때.md",
+    "2-Area/0-Sung-ho/공부법.md",
+    "2-Area/0-Sung-ho/개발업무 중 생성형 ai에 대해.md",
+    "0-Temp/생각정리/좋은 말투.md",
+    "0-Temp/생각정리/창업시.md",
+    "0-Temp/생각정리/코드에 대해.md",
+    "0-Temp/생각정리/webflux사용 후기.md",
+    "0-Temp/생각정리/회사 정할 때 절대 불변의 1원칙.md",
+    "0-Temp/생각정리/협업시 중요한거.md",
+    "0-Temp/생각정리/토론할때.md",
+    "0-Temp/생각정리/신뢰자본.md",
+    "0-Temp/생각정리/장애에 대해서.md",
+    "0-Temp/생각정리/설명할때.md",
+    "0-Temp/생각정리/새로운 코드, 프로젝트, 남의코드를 볼때.md",
     "0-Temp/생각정리/사업 아이템.md",
     "0-Temp/생각정리/복잡성을 줄이는법.md",
     "0-Temp/생각정리/내가 생각하는 난이도 정리.md",
     "0-Temp/생각정리/기분, 태도.md",
-    "2-Area/0-Sung-ho/쿼리 튜닝시.md",
-    "2-Area/Database/mysql Binanry Log.md",
-    "0-Temp/영단어 공부.md",
-    "0-Temp/Database/elastic search master node vs data node.md",
-    "0-Temp/면접자료/링크드인 추가해야 하는 사람.md",
-    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
-    "5-Archive/Tools/드로윙 툴.md",
-    "2-Area/Database/Database LSN.md",
-    "2-Area/Database/Double Write Buffer.md",
-    "0-Temp/Database/Database Buffer Cache.md",
-    "0-Temp/Database/B+ Tree의 fan-out.md",
-    "2-Area/0-Sung-ho/개발업무 중 생성형 ai에 대해.md",
-    "0-Temp/면접자료/Untitled.md",
-    "0-Temp/Softeware Architecture/DDD.md",
-    "0-Temp/Database/JOIN을 쓰는 이유.md",
-    "0-Temp/Computer Science/동기, 비동기 IO.md",
-    "0-Temp/Computer Science/Untitled.md",
-    "0-Temp/Database/Write-Ahead Logging.md",
     "Pasted image 20231014225459.png",
     "Pasted image 20231014225322.png",
-    "0-Temp/InfraStructure/Zookeeper.md",
-    "0-Temp/InfraStructure/redis에 대해 공부해보자.md",
-    "0-Temp/InfraStructure/redis vs memcached.md",
-    "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
     "Pasted image 20231011230739.png",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
