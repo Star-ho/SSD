@@ -11,6 +11,7 @@
 		- [Point-in-Time (Incremental) Recovery](https://dev.mysql.com/doc/refman/8.0/en/point-in-time-recovery.html "7.5 Point-in-Time (Incremental) Recovery")에서는 bin log로 recovery진행
 - bin log를 사용하는것은 server의 performance가 줄어들지만 replication이나 recover로 인한 이점이 더 많다고 판단함
 	- default로 켜짐
+- 수명은 디폴트 30일
 - 완료된 이벤트나 트랜잭션만 로깅되므로 예상치못한 중단에도 저항성을 가짐
 - 로그형태
 	- Statement-based logging 
@@ -42,23 +43,27 @@ where id = 1 or id = 2;
 |log 파일 크기|작음|클 수 있음|
 |복구|어려움|
 
-
+> 아래 명령어를 사용하여 로그파일 확인함
+> mysqlbinlog --base64-output=DECODE-ROWS  -v binlog.000025
 ## Binary log vs redo log
+
 - 로깅 주체
 	- Binary log는 mysql서버에서 로깅
 	- redo로그는 innodb 엔진에서 로깅
 - 로그 레벨
 	- Binary log는 sql문에 대한 논리적인 로깅
 	- redo로그는 데이터 페이지에 대한 물리적인 로깅
-- 
+- 목적
+	- Binary log는 특점시점 복구 및 복제에 사용
+	- redo log는 장애시 트랜잭션 내구성을 보장하기 위해 사용
+		> aws aurora에서는 redo log와 storage를 복제에 사용
 
 
-
-> 아래 명령어를 사용하여 로그파일 확인함
-> mysqlbinlog --base64-output=DECODE-ROWS  -v binlog.000025
 
 https://dev.mysql.com/doc/refman/8.0/en/binary-log-setting.html
 https://dev.mysql.com/doc/refman/8.0/en/binary-log.html
 https://www.alibabacloud.com/blog/what-are-the-differences-and-functions-of-the-redo-log-undo-log-and-binlog-in-mysql_598035
 
-#wait-to-update
+#Database 
+#Innodb 
+#Binary-log

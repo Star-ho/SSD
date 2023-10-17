@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c30bf4d8a7d573c1",
+        "id": "b188d98185d2d8c2",
         "type": "tabs",
         "children": [
           {
-            "id": "b8e23c8d3be21a2f",
+            "id": "5b614aebfa7f7c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
+                "file": "0-Temp/생각정리/새로운 코드, 프로젝트, 남의코드를 볼때.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "optimi",
+                "query": "단어",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
+                "file": "0-Temp/생각정리/새로운 코드, 프로젝트, 남의코드를 볼때.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
+                "file": "0-Temp/생각정리/새로운 코드, 프로젝트, 남의코드를 볼때.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/생각정리/복잡성을 줄이는법.md"
+                "file": "0-Temp/생각정리/새로운 코드, 프로젝트, 남의코드를 볼때.md"
               }
             }
           },
@@ -157,24 +156,29 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b8e23c8d3be21a2f",
+  "active": "5b614aebfa7f7c00",
   "lastOpenFiles": [
-    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
+    "0-Temp/생각정리/사업 아이템.md",
     "0-Temp/생각정리/복잡성을 줄이는법.md",
+    "0-Temp/생각정리/내가 생각하는 난이도 정리.md",
+    "0-Temp/생각정리/기분, 태도.md",
+    "2-Area/0-Sung-ho/쿼리 튜닝시.md",
+    "2-Area/Database/mysql Binanry Log.md",
+    "0-Temp/영단어 공부.md",
+    "0-Temp/Database/elastic search master node vs data node.md",
+    "0-Temp/면접자료/링크드인 추가해야 하는 사람.md",
+    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
     "5-Archive/Tools/드로윙 툴.md",
     "2-Area/Database/Database LSN.md",
     "2-Area/Database/Double Write Buffer.md",
     "0-Temp/Database/Database Buffer Cache.md",
     "0-Temp/Database/B+ Tree의 fan-out.md",
-    "0-Temp/면접자료/링크드인 추가해야 하는 사람.md",
-    "0-Temp/영단어 공부.md",
     "2-Area/0-Sung-ho/개발업무 중 생성형 ai에 대해.md",
     "0-Temp/면접자료/Untitled.md",
     "0-Temp/Softeware Architecture/DDD.md",
     "0-Temp/Database/JOIN을 쓰는 이유.md",
     "0-Temp/Computer Science/동기, 비동기 IO.md",
     "0-Temp/Computer Science/Untitled.md",
-    "0-Temp/Database/mysql Binanry Log.md",
     "0-Temp/Database/Write-Ahead Logging.md",
     "Pasted image 20231014225459.png",
     "Pasted image 20231014225322.png",
@@ -182,11 +186,6 @@
     "0-Temp/InfraStructure/redis에 대해 공부해보자.md",
     "0-Temp/InfraStructure/redis vs memcached.md",
     "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
-    "0-Temp/InfraStructure/elastic search hot cold warm.md",
-    "0-Temp/InfraStructure/Elastic search.md",
-    "0-Temp/Database/sql query 임시테이블.md",
-    "0-Temp/Database/s-lock x-lock.md",
-    "0-Temp/Database/mysql relay log.md",
     "Pasted image 20231011230739.png",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
