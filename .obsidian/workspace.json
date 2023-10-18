@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/InfraStructure/elasticsearch shard, replica.md",
+                "file": "0-Temp/validation.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/InfraStructure/elasticsearch shard, replica.md",
+                "file": "0-Temp/validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/InfraStructure/elasticsearch shard, replica.md",
+                "file": "0-Temp/validation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/InfraStructure/elasticsearch shard, replica.md"
+                "file": "0-Temp/validation.md"
               }
             }
           },
@@ -157,8 +156,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "805c2457fe83adea",
   "lastOpenFiles": [
+    "0-Temp/InfraStructure/elasticsearch shard, replica.md",
+    "0-Temp/validation.md",
     "0-Temp/InfraStructure/Elastic search.md",
     "0-Temp/InfraStructure/Untitled.md",
     "3-Resource/Infrastructure/Elastic Search Data Tier.md",
@@ -186,8 +187,6 @@
     "0-Temp/생각정리/좋은 말투.md",
     "0-Temp/생각정리/창업시.md",
     "0-Temp/생각정리/코드에 대해.md",
-    "0-Temp/생각정리/webflux사용 후기.md",
-    "0-Temp/생각정리/회사 정할 때 절대 불변의 1원칙.md",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
