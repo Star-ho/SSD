@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/MVCC.md",
+                "file": "0-Temp/InfraStructure/Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/MVCC.md",
+                "file": "0-Temp/InfraStructure/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/MVCC.md",
+                "file": "0-Temp/InfraStructure/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/MVCC.md"
+                "file": "0-Temp/InfraStructure/Redis.md"
               }
             }
           },
@@ -192,6 +191,11 @@
   },
   "active": "ba0d4cacba8f6093",
   "lastOpenFiles": [
+    "0-Temp/InfraStructure/redis 고려해볼점.md",
+    "0-Temp/InfraStructure/Redis.md",
+    "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
+    "0-Temp/InfraStructure/redis vs memcached.md",
+    "0-Temp/Database/MVCC.md",
     "0-Temp/InfraStructure/Elastic Search Document.md",
     "Untitled.md",
     "0-Temp/InfraStructure/Untitled 1.md",
@@ -206,7 +210,6 @@
     "0-Temp/InfraStructure/Elastic search.md",
     "0-Temp/InfraStructure/Untitled.md",
     "3-Resource/Infrastructure/Elastic Search Data Tier.md",
-    "0-Temp/Database/MVCC.md",
     "0-Temp/Database/쿼리 실행 순서.md",
     "0-Temp/Database/인덱스 직접 구현해보기.md",
     "0-Temp/Database/왜 데이터베이스에 날리는 두번째 쿼리는 빠를까?.md",
@@ -217,10 +220,6 @@
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
     "0-Temp/Database/drop table 시 복구할수 있는 방법.md",
-    "0-Temp/Database/database upgrade 전략.md",
-    "0-Temp/InfraStructure/elasticsearch rollover.md",
-    "2-Area/0-Sung-ho/좋은 개발자가 되는법.md",
-    "2-Area/0-Sung-ho/쿼리 튜닝시.md",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
