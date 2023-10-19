@@ -45,14 +45,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/Lock의 종류.md",
+                "file": "0-Temp/문제상황.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22c98eaa8670916c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Temp/딜리게이터, 데코레이터 패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acc9335702df5f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문제2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1e0de12bc764a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "가상화 관련 용어정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -118,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/Lock의 종류.md",
+                "file": "가상화 관련 용어정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/Lock의 종류.md",
+                "file": "가상화 관련 용어정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/Lock의 종류.md"
+                "file": "가상화 관련 용어정리.md"
               }
             }
           },
@@ -189,34 +225,34 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ba0d4cacba8f6093",
+  "active": "b1e0de12bc764a7e",
   "lastOpenFiles": [
-    "0-Temp/Database/격리레벨별 구현방법.md",
+    "문제2.md",
+    "가상화 관련 용어정리.md",
+    "0-Temp/딜리게이터, 데코레이터 패턴.md",
+    "2-Area/Concept/rest api.md",
+    "0-Temp/Untitled.md",
+    "0-Temp/DBWR, LGWR.md",
+    "0-Temp/오브젝트 스토리지.md",
+    "ansible, terraform.md",
+    "0-Temp/문제상황.md",
+    "0-Temp/테스트 관련 라이브러리.md",
+    "4-Future/Study Matirials/개발관련 유튜브.md",
+    "4-Future/Study Matirials/공부할자료.md",
+    "4-Future/Study Matirials/MSA 관련 유튜브.md",
+    "5-Archive/Tools/ctop.md",
+    "5-Archive/Tools/Cucumber.md",
+    "5-Archive/디멀티플렉싱.md",
+    "5-Archive/Tip/인텔리제이 java 버전 변경 시.md",
+    "0-Temp/Computer Science/하드웨어에서 램으로 데이터를 읽어오는 과정.md",
+    "0-Temp/면접자료/f-lab 이력서 모음.md",
+    "0-Temp/Java&Kotlin/java garbage collector.md",
+    "0-Temp/aws sqs.md",
+    "0-Temp/InfraStructure/es rollover.md",
+    "0-Temp/생각정리/공부할때.md",
+    "0-Temp/면접자료/etc....md",
     "0-Temp/Database/Lock의 종류.md",
-    "0-Temp/Redisson Lock.md",
-    "0-Temp/duplicate request 처리.md",
-    "0-Temp/생각정리/개발하다 막혔을때.md",
-    "0-Temp/Database/s-lock x-lock.md",
-    "0-Temp/Database/Write-Ahead Logging.md",
-    "0-Temp/Database/mysql relay log.md",
-    "0-Temp/Database/mysql index leftmost rule.md",
-    "0-Temp/Database/mysql Full-Text Searches.md",
-    "0-Temp/Database/mysql buffer pool.md",
-    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
-    "0-Temp/Database/MVCC.md",
-    "0-Temp/Database/JOIN을 쓰는 이유.md",
-    "0-Temp/Database/innodb.md",
-    "0-Temp/Database/hibernate Session 과 DB Connection.md",
-    "0-Temp/Database/database foreign key.md",
-    "0-Temp/Database/Database Buffer Cache.md",
-    "0-Temp/Database/Bulk Insert.md",
-    "0-Temp/Database/쿼리 튜닝 관련 명령어.md",
-    "0-Temp/Database/쿼리 실행시간 보는법.md",
-    "0-Temp/InfraStructure/elasticsearch shard, replica.md",
-    "0-Temp/Database/elastic search master node vs data node.md",
-    "0-Temp/면접자료/링크드인 추가해야 하는 사람.md",
-    "0-Temp/InfraStructure/Redis cache strategy.md",
-    "0-Temp/InfraStructure/Redis.md",
+    "0-Temp/Database/격리레벨별 구현방법.md",
     "real-resource/Pasted image 20231014225459.png",
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",

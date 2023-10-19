@@ -1,0 +1,1 @@
+https://f-lab.kr/publish/resumes
