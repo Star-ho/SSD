@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/생각정리/많은 자료.md",
+                "file": "0-Temp/생각정리/투명한 소통.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/생각정리/많은 자료.md",
+                "file": "0-Temp/생각정리/투명한 소통.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/생각정리/많은 자료.md",
+                "file": "0-Temp/생각정리/투명한 소통.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/생각정리/많은 자료.md"
+                "file": "0-Temp/생각정리/투명한 소통.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "805c2457fe83adea",
   "lastOpenFiles": [
-    "0-Temp/validation.md",
     "0-Temp/생각정리/많은 자료.md",
+    "0-Temp/생각정리/투명한 소통.md",
+    "0-Temp/validation.md",
     "0-Temp/생각정리/코드에 대해.md",
     "생각정리.md",
     "0-Temp/InfraStructure/elasticsearch shard, replica.md",
@@ -198,7 +199,6 @@
     "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
     "2-Area/0-Sung-ho/글쓸때.md",
     "2-Area/0-Sung-ho/공부법.md",
-    "2-Area/0-Sung-ho/개발업무 중 생성형 ai에 대해.md",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
