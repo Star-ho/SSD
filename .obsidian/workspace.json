@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5ae773c22fc30bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Temp/생각정리/코드에 대해.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -158,8 +170,10 @@
   },
   "active": "805c2457fe83adea",
   "lastOpenFiles": [
-    "0-Temp/InfraStructure/elasticsearch shard, replica.md",
+    "0-Temp/생각정리/코드에 대해.md",
+    "생각정리.md",
     "0-Temp/validation.md",
+    "0-Temp/InfraStructure/elasticsearch shard, replica.md",
     "0-Temp/InfraStructure/Elastic search.md",
     "0-Temp/InfraStructure/Untitled.md",
     "3-Resource/Infrastructure/Elastic Search Data Tier.md",
@@ -185,8 +199,6 @@
     "2-Area/0-Sung-ho/공부법.md",
     "2-Area/0-Sung-ho/개발업무 중 생성형 ai에 대해.md",
     "0-Temp/생각정리/좋은 말투.md",
-    "0-Temp/생각정리/창업시.md",
-    "0-Temp/생각정리/코드에 대해.md",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
