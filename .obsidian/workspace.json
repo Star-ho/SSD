@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/InfraStructure/Redis.md",
+                "file": "0-Temp/Database/s-lock x-lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wait-to-update #Data",
+                "query": "tag:#wait-to-update",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/InfraStructure/Redis.md",
+                "file": "0-Temp/Database/s-lock x-lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/InfraStructure/Redis.md",
+                "file": "0-Temp/Database/s-lock x-lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/InfraStructure/Redis.md"
+                "file": "0-Temp/Database/s-lock x-lock.md"
               }
             }
           },
@@ -189,37 +190,37 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ba0d4cacba8f6093",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
-    "0-Temp/InfraStructure/redis 고려해볼점.md",
-    "0-Temp/InfraStructure/Redis.md",
-    "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
-    "0-Temp/InfraStructure/redis vs memcached.md",
+    "0-Temp/Database/Write-Ahead Logging.md",
+    "0-Temp/Database/mysql relay log.md",
+    "0-Temp/Database/mysql index leftmost rule.md",
+    "0-Temp/Database/mysql Full-Text Searches.md",
+    "0-Temp/Database/mysql buffer pool.md",
+    "0-Temp/Database/mysql 옵티마이저 트레이스.md",
     "0-Temp/Database/MVCC.md",
-    "0-Temp/InfraStructure/Elastic Search Document.md",
-    "Untitled.md",
-    "0-Temp/InfraStructure/Untitled 1.md",
-    "0-Temp/InfraStructure/Elastic Search Index.md",
+    "0-Temp/Database/JOIN을 쓰는 이유.md",
+    "0-Temp/Database/innodb.md",
+    "0-Temp/Database/hibernate Session 과 DB Connection.md",
+    "0-Temp/Database/database foreign key.md",
+    "0-Temp/Database/Database Buffer Cache.md",
+    "0-Temp/Database/Bulk Insert.md",
+    "0-Temp/Database/쿼리 튜닝 관련 명령어.md",
+    "0-Temp/Database/쿼리 실행시간 보는법.md",
+    "0-Temp/Database/s-lock x-lock.md",
     "0-Temp/InfraStructure/elasticsearch shard, replica.md",
     "0-Temp/Database/elastic search master node vs data node.md",
-    "0-Temp/생각정리/투명한 소통.md",
-    "0-Temp/생각정리/많은 자료.md",
-    "0-Temp/validation.md",
-    "0-Temp/생각정리/코드에 대해.md",
-    "생각정리.md",
-    "0-Temp/InfraStructure/Elastic search.md",
-    "0-Temp/InfraStructure/Untitled.md",
-    "3-Resource/Infrastructure/Elastic Search Data Tier.md",
-    "0-Temp/Database/쿼리 실행 순서.md",
-    "0-Temp/Database/인덱스 직접 구현해보기.md",
-    "0-Temp/Database/왜 데이터베이스에 날리는 두번째 쿼리는 빠를까?.md",
-    "0-Temp/테스트 짤때는 stub들은 중복이 필요하면 깔끔하게 중복.md",
-    "0-Temp/대용량 파일 업로드 lfs.md",
-    "0-Temp/대용량 트래픽 상황 답찾기.md",
+    "0-Temp/면접자료/링크드인 추가해야 하는 사람.md",
+    "0-Temp/InfraStructure/Redis cache strategy.md",
+    "0-Temp/InfraStructure/Redis.md",
+    "0-Temp/InfraStructure/redis 고려해볼점.md",
+    "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
+    "0-Temp/InfraStructure/redis vs memcached.md",
+    "0-Temp/InfraStructure/Elastic Search Document.md",
+    "Untitled.md",
     "real-resource/Pasted image 20231014225459.png",
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
-    "0-Temp/Database/drop table 시 복구할수 있는 방법.md",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
