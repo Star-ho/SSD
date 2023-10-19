@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Database/s-lock x-lock.md",
+                "file": "0-Temp/Database/Lock의 종류.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wait-to-update",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Database/s-lock x-lock.md",
+                "file": "0-Temp/Database/Lock의 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Database/s-lock x-lock.md",
+                "file": "0-Temp/Database/Lock의 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Database/s-lock x-lock.md"
+                "file": "0-Temp/Database/Lock의 종류.md"
               }
             }
           },
@@ -190,8 +189,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "ba0d4cacba8f6093",
   "lastOpenFiles": [
+    "0-Temp/Database/격리레벨별 구현방법.md",
+    "0-Temp/Database/Lock의 종류.md",
+    "0-Temp/Redisson Lock.md",
+    "0-Temp/duplicate request 처리.md",
+    "0-Temp/생각정리/개발하다 막혔을때.md",
+    "0-Temp/Database/s-lock x-lock.md",
     "0-Temp/Database/Write-Ahead Logging.md",
     "0-Temp/Database/mysql relay log.md",
     "0-Temp/Database/mysql index leftmost rule.md",
@@ -207,17 +212,11 @@
     "0-Temp/Database/Bulk Insert.md",
     "0-Temp/Database/쿼리 튜닝 관련 명령어.md",
     "0-Temp/Database/쿼리 실행시간 보는법.md",
-    "0-Temp/Database/s-lock x-lock.md",
     "0-Temp/InfraStructure/elasticsearch shard, replica.md",
     "0-Temp/Database/elastic search master node vs data node.md",
     "0-Temp/면접자료/링크드인 추가해야 하는 사람.md",
     "0-Temp/InfraStructure/Redis cache strategy.md",
     "0-Temp/InfraStructure/Redis.md",
-    "0-Temp/InfraStructure/redis 고려해볼점.md",
-    "0-Temp/InfraStructure/redis 직렬화 역직렬화 이슈.md",
-    "0-Temp/InfraStructure/redis vs memcached.md",
-    "0-Temp/InfraStructure/Elastic Search Document.md",
-    "Untitled.md",
     "real-resource/Pasted image 20231014225459.png",
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
