@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "가상화 관련 용어정리.md",
+                "file": "0-Temp/확인해봐야할 도구들.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "가상화 관련 용어정리.md",
+                "file": "0-Temp/확인해봐야할 도구들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "가상화 관련 용어정리.md",
+                "file": "0-Temp/확인해봐야할 도구들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "가상화 관련 용어정리.md"
+                "file": "0-Temp/확인해봐야할 도구들.md"
               }
             }
           },
@@ -227,8 +227,9 @@
   },
   "active": "b1e0de12bc764a7e",
   "lastOpenFiles": [
-    "문제2.md",
     "가상화 관련 용어정리.md",
+    "0-Temp/확인해봐야할 도구들.md",
+    "문제2.md",
     "0-Temp/딜리게이터, 데코레이터 패턴.md",
     "2-Area/Concept/rest api.md",
     "0-Temp/Untitled.md",
@@ -252,7 +253,6 @@
     "0-Temp/생각정리/공부할때.md",
     "0-Temp/면접자료/etc....md",
     "0-Temp/Database/Lock의 종류.md",
-    "0-Temp/Database/격리레벨별 구현방법.md",
     "real-resource/Pasted image 20231014225459.png",
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
