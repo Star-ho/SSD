@@ -8,87 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "805c2457fe83adea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Temp/InfraStructure/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5ae773c22fc30bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Temp/생각정리/코드에 대해.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44588f6c959874ae",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ba0d4cacba8f6093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Temp/문제상황.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22c98eaa8670916c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Temp/딜리게이터, 데코레이터 패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acc9335702df5f2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "문제2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b1e0de12bc764a7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/0-이직자료/지원동기 작성시 팁.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/0-이직자료/지원동기 작성시 팁.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/0-이직자료/지원동기 작성시 팁.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/0-이직자료/지원동기 작성시 팁.md"
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md"
               }
             }
           },
@@ -225,34 +156,36 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "b1e0de12bc764a7e",
   "lastOpenFiles": [
-    "0-Temp/생각정리/복잡성을 줄이는법.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 예시.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/광고 플랫폼이란.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/협업관련.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/자소서 항목.md",
+    "문제2.md",
+    "0-Temp/딜리게이터, 데코레이터 패턴.md",
+    "0-Temp/문제상황.md",
+    "0-Temp/생각정리/코드에 대해.md",
+    "0-Temp/InfraStructure/Untitled 1.md",
     "0-Temp/0-이직자료/지원동기 작성시 팁.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼",
+    "0-Temp/0-이직자료/Untitled.md",
+    "0-Temp/0-이직자료/test.md",
+    "0-Temp/0-이직자료/123231",
+    "0-Temp/생각정리/복잡성을 줄이는법.md",
     "0-Temp/파일 write.md",
     "0-Temp/빌드가 안될떄.md",
     "README.md.md",
     "0-Temp/0-이직자료/면접대비 자료.md",
     "0-Temp/확인해봐야할 도구들.md",
     "가상화 관련 용어정리.md",
-    "문제2.md",
-    "0-Temp/딜리게이터, 데코레이터 패턴.md",
     "2-Area/Concept/rest api.md",
     "0-Temp/Untitled.md",
     "0-Temp/DBWR, LGWR.md",
     "0-Temp/오브젝트 스토리지.md",
     "ansible, terraform.md",
-    "0-Temp/문제상황.md",
     "0-Temp/테스트 관련 라이브러리.md",
-    "4-Future/Study Matirials/개발관련 유튜브.md",
-    "4-Future/Study Matirials/공부할자료.md",
-    "4-Future/Study Matirials/MSA 관련 유튜브.md",
-    "5-Archive/Tools/ctop.md",
-    "5-Archive/Tools/Cucumber.md",
-    "5-Archive/디멀티플렉싱.md",
-    "5-Archive/Tip/인텔리제이 java 버전 변경 시.md",
-    "0-Temp/Computer Science/하드웨어에서 램으로 데이터를 읽어오는 과정.md",
-    "0-Temp/0-이직자료/f-lab 이력서 모음.md",
     "real-resource/Pasted image 20231014225459.png",
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
@@ -267,8 +200,6 @@
     "real-resource/Pasted image 20230926224851.png",
     "5-Archive/Database",
     "4-Future/Spring",
-    "2-Area/0-Sung-ho/ProjectReview",
-    "2-Area/0-Sung-ho",
     "real-resource/Pasted image 20231003225917.png",
     "real-resource/Pasted image 20231003225905.png",
     "real-resource/Pasted image 20231002231423.png",
