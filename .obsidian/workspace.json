@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/파일 write.md",
+                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/파일 write.md",
+                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/파일 write.md",
+                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/파일 write.md"
+                "file": "0-Temp/생각정리/복잡성을 줄이는법.md"
               }
             }
           },
@@ -227,8 +227,8 @@
   },
   "active": "b1e0de12bc764a7e",
   "lastOpenFiles": [
-    "0-Temp/빌드가 안될떄.md",
     "0-Temp/파일 write.md",
+    "0-Temp/빌드가 안될떄.md",
     "README.md.md",
     "0-Temp/면접자료/면접대비 자료.md",
     "0-Temp/확인해봐야할 도구들.md",
