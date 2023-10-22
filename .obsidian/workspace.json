@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
+                "file": "6-PARA Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
+                "file": "6-PARA Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
+                "file": "6-PARA Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md"
+                "file": "6-PARA Method.md"
               }
             }
           },
@@ -156,36 +156,36 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "a8e2d22dda0adefb",
   "lastOpenFiles": [
-    "0-Temp/0-이직자료/네이버-광고플랫폼/0-자소서 항목.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/광고 플랫폼이란.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/1-지원동기 마무리.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 질문.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/협업관련.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 예시.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md",
-    "Untitled 1.md",
-    "지원동기 gpt질문2.md",
-    "Untitled.md",
-    "문제2.md",
-    "0-Temp/딜리게이터, 데코레이터 패턴.md",
-    "0-Temp/문제상황.md",
-    "0-Temp/생각정리/코드에 대해.md",
-    "0-Temp/InfraStructure/Untitled 1.md",
-    "0-Temp/0-이직자료/지원동기 작성시 팁.md",
+    "7-Zettlecasten.md",
+    "6-PARA Method.md",
+    "0-Temp/Java&Kotlin/virtual thread syncronized lock.md",
+    "0-Temp/Java&Kotlin/GraalVM.md",
+    "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
+    "4-Future/Study Matirials/System Design Case Studies.md",
+    "4-Future/Study Matirials/MSA 관련 유튜브.md",
+    "4-Future/Study Matirials/dev handbook.md",
+    "4-Future/Study Matirials/우형 프리코스 github.md",
+    "4-Future/Study Matirials/유쾌한 스프링방 콘서트.md",
+    "4-Future/Study Matirials/개발관련 유튜브.md",
+    "4-Future/Spring/Dynamic update.md",
+    "4-Future/Security/BGP hijacking.md",
+    "4-Future/Database/PostgreSQL vs MariaDB.md",
+    "4-Future/Database/kafka ui.md",
+    "4-Future/Database/IDOR.md",
+    "4-Future/Database/DragonFly.md",
+    "4-Future/Database/오픈스택.md",
+    "4-Future/Database/맵리듀스.md",
+    "4-Future/Database/데비지움, CDC.md",
+    "4-Future/Concept/Concurrency vs Parallelism.md",
+    "3-Resource/Tool/kotlin-jdsl.md",
+    "3-Resource/Tool/jooq.md",
+    "3-Resource/Tool/Codecove.md",
+    "3-Resource/Spring/JPA entity manager, persistence context.md",
+    "3-Resource/Java&Kotlin/JUnit.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼",
-    "0-Temp/0-이직자료/Untitled.md",
-    "0-Temp/0-이직자료/test.md",
     "0-Temp/0-이직자료/123231",
-    "0-Temp/생각정리/복잡성을 줄이는법.md",
-    "0-Temp/파일 write.md",
-    "0-Temp/빌드가 안될떄.md",
-    "README.md.md",
     "real-resource/Pasted image 20231014225459.png",
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
