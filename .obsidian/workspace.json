@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,8 +35,12 @@
             "id": "1e954e90459c0b6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/협업관련.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -51,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/협업관련.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/협업관련.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md"
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/협업관련.md"
               }
             }
           },
@@ -188,12 +193,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b1e0de12bc764a7e",
+  "active": "1e954e90459c0b6a",
   "lastOpenFiles": [
-    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 질문.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md",
+    "Untitled 1.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
     "지원동기 gpt질문2.md",
     "Untitled.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/자소서 항목.md",
@@ -216,8 +223,6 @@
     "README.md.md",
     "0-Temp/0-이직자료/면접대비 자료.md",
     "0-Temp/확인해봐야할 도구들.md",
-    "가상화 관련 용어정리.md",
-    "2-Area/Concept/rest api.md",
     "real-resource/Pasted image 20231014225459.png",
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
