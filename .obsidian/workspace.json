@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
+                "file": "0-Temp/0-이직자료/지원동기 작성시 팁.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
+                "file": "0-Temp/0-이직자료/지원동기 작성시 팁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/생각정리/복잡성을 줄이는법.md",
+                "file": "0-Temp/0-이직자료/지원동기 작성시 팁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/생각정리/복잡성을 줄이는법.md"
+                "file": "0-Temp/0-이직자료/지원동기 작성시 팁.md"
               }
             }
           },
@@ -225,12 +225,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b1e0de12bc764a7e",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "0-Temp/생각정리/복잡성을 줄이는법.md",
+    "0-Temp/0-이직자료/지원동기 작성시 팁.md",
     "0-Temp/파일 write.md",
     "0-Temp/빌드가 안될떄.md",
     "README.md.md",
-    "0-Temp/면접자료/면접대비 자료.md",
+    "0-Temp/0-이직자료/면접대비 자료.md",
     "0-Temp/확인해봐야할 도구들.md",
     "가상화 관련 용어정리.md",
     "문제2.md",
@@ -250,9 +252,7 @@
     "5-Archive/디멀티플렉싱.md",
     "5-Archive/Tip/인텔리제이 java 버전 변경 시.md",
     "0-Temp/Computer Science/하드웨어에서 램으로 데이터를 읽어오는 과정.md",
-    "0-Temp/면접자료/f-lab 이력서 모음.md",
-    "0-Temp/Java&Kotlin/java garbage collector.md",
-    "0-Temp/aws sqs.md",
+    "0-Temp/0-이직자료/f-lab 이력서 모음.md",
     "real-resource/Pasted image 20231014225459.png",
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
