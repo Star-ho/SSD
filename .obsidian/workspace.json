@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-PARA Method.md",
+                "file": "8-성호의 Second Brain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-PARA Method.md",
+                "file": "8-성호의 Second Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-PARA Method.md",
+                "file": "8-성호의 Second Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-PARA Method.md"
+                "file": "8-성호의 Second Brain.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "a8e2d22dda0adefb",
   "lastOpenFiles": [
-    "7-Zettlecasten.md",
     "6-PARA Method.md",
+    "7-Zettlecasten.md",
     "0-Temp/Java&Kotlin/virtual thread syncronized lock.md",
     "0-Temp/Java&Kotlin/GraalVM.md",
     "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
