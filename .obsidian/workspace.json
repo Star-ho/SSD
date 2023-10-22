@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md"
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md"
               }
             }
           },
@@ -158,10 +158,11 @@
   },
   "active": "b1e0de12bc764a7e",
   "lastOpenFiles": [
-    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 예시.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/광고 플랫폼이란.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/협업관련.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 예시.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/광고 플랫폼이란.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/자소서 항목.md",
     "문제2.md",
     "0-Temp/딜리게이터, 데코레이터 패턴.md",
@@ -185,7 +186,6 @@
     "0-Temp/DBWR, LGWR.md",
     "0-Temp/오브젝트 스토리지.md",
     "ansible, terraform.md",
-    "0-Temp/테스트 관련 라이브러리.md",
     "real-resource/Pasted image 20231014225459.png",
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
