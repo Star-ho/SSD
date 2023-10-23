@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-성호의 Second Brain.md",
+                "file": "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "refl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8-성호의 Second Brain.md",
+                "file": "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8-성호의 Second Brain.md",
+                "file": "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-성호의 Second Brain.md"
+                "file": "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md"
               }
             }
           },
@@ -156,13 +157,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a8e2d22dda0adefb",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
-    "6-PARA Method.md",
-    "7-Zettlecasten.md",
     "0-Temp/Java&Kotlin/virtual thread syncronized lock.md",
     "0-Temp/Java&Kotlin/GraalVM.md",
     "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
+    "6-PARA Method.md",
+    "7-Zettlecasten.md",
+    "8-성호의 Second Brain.md",
     "4-Future/Study Matirials/System Design Case Studies.md",
     "4-Future/Study Matirials/MSA 관련 유튜브.md",
     "4-Future/Study Matirials/dev handbook.md",
@@ -183,7 +185,6 @@
     "3-Resource/Tool/jooq.md",
     "3-Resource/Tool/Codecove.md",
     "3-Resource/Spring/JPA entity manager, persistence context.md",
-    "3-Resource/Java&Kotlin/JUnit.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼",
     "0-Temp/0-이직자료/123231",
     "real-resource/Pasted image 20231014225459.png",
