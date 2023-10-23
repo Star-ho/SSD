@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
+                "file": "5-Archive/shell command/파일목록 보기, 파일디스크립터.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "refl",
+                "query": "prot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
+                "file": "5-Archive/shell command/파일목록 보기, 파일디스크립터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
+                "file": "5-Archive/shell command/파일목록 보기, 파일디스크립터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md"
+                "file": "5-Archive/shell command/파일목록 보기, 파일디스크립터.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   },
   "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
+    "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
     "0-Temp/Java&Kotlin/virtual thread syncronized lock.md",
     "0-Temp/Java&Kotlin/GraalVM.md",
-    "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
     "6-PARA Method.md",
     "7-Zettlecasten.md",
     "8-성호의 Second Brain.md",
