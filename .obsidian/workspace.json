@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
+                "file": "0-Temp/Java&Kotlin/plain jar, excutable jar, fat jar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prot",
+                "query": "#service",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
+                "file": "0-Temp/Java&Kotlin/plain jar, excutable jar, fat jar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
+                "file": "0-Temp/Java&Kotlin/plain jar, excutable jar, fat jar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md"
+                "file": "0-Temp/Java&Kotlin/plain jar, excutable jar, fat jar.md"
               }
             }
           },
@@ -193,11 +194,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "21fb0730be149d0a",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
+    "5-Archive/Tools/p6spy.md",
+    "0-Temp/빌드타임 줄이기.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/1-지원동기 마무리.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 gpt.md",
@@ -219,8 +222,6 @@
     "2-Area/0-Sung-ho/글쓸때.md",
     "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
     "2-Area/0-Sung-ho/좋은 개발자가 되는법.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/0-자소서 항목.md",
-    "5-Archive/shell command/파일목록 보기, 파일디스크립터.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼",
     "0-Temp/0-이직자료/123231",
     "real-resource/Pasted image 20231014225459.png",
