@@ -23,8 +23,12 @@
             "id": "dbb566747ff5f0f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -39,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 gpt.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 gpt.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 gpt.md"
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md"
               }
             }
           },
@@ -176,12 +181,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a8e2d22dda0adefb",
+  "active": "dbb566747ff5f0f2",
   "lastOpenFiles": [
-    "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
-    "Untitled 2.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 gpt.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/역량상의 강점.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
@@ -203,7 +209,6 @@
     "0-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
     "0-Temp/Java&Kotlin/virtual thread syncronized lock.md",
     "0-Temp/Java&Kotlin/GraalVM.md",
-    "6-PARA Method.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼",
     "0-Temp/0-이직자료/123231",
     "real-resource/Pasted image 20231014225459.png",
