@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "21fb0730be149d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dbb566747ff5f0f2",
             "type": "leaf",
             "state": {
@@ -30,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "21fb0730be149d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled.md"
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md"
               }
             }
           },
@@ -184,9 +184,9 @@
   "active": "21fb0730be149d0a",
   "lastOpenFiles": [
     "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 gpt.md",
-    "0-Temp/생각정리/개발자.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled.md",
+    "0-Temp/생각정리/개발자.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/역량상의 강점.md",
