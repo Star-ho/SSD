@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "7c8a75aea72fcf04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dbb566747ff5f0f2",
             "type": "leaf",
             "state": {
@@ -67,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 질문.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 질문.md",
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 질문.md"
+                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md"
               }
             }
           },
@@ -204,15 +193,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a8e2d22dda0adefb",
+  "active": "6939d4912502f1a6",
   "lastOpenFiles": [
-    "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 gpt.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 질문.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 gpt.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 1.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/협업관련.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 질문.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 예시.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문.md",
     "0-Temp/생각정리/개발자.md",
