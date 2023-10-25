@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Concept/Test.md",
+                "file": "0-Temp/0-이직자료/과제 만들때.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
+                "file": "SSD.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Concept/Test.md",
+                "file": "SSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Concept/Test.md",
+                "file": "SSD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Concept/Test.md"
+                "file": "SSD.md"
               }
             }
           },
@@ -193,34 +193,35 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "21fb0730be149d0a",
+  "active": "6939d4912502f1a6",
   "lastOpenFiles": [
-    "2-Area/Concept/rest api.md",
+    "5-성호의 Second Brain.md",
+    "SSD.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기 gpt질문2.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
+    "0-Temp/0-이직자료/과제 만들때.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/광고 플랫폼이란.md",
+    "Untitled.md",
+    "7-Zettlecasten.md",
+    "2-Area/0-Sung-ho/개발업무 중 생성형 ai에 대해.md",
+    "3-Resource/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
+    "3-Resource/Software-Design",
+    "2-Area/Software Design/Entity, VO.md",
+    "2-Area/Software Design/Service.md",
+    "2-Area/Software Design/Aggregate 생명주기(Factory, Repository).md",
+    "2-Area/Software Design/Aggregate.md",
+    "2-Area/Software Design/협력, 책임, 역할.md",
+    "3-Resource/Java&Kotlin/Java built in Annotation.md",
+    "2-Area/Concept/Test.md",
+    "0-Temp/rest api.md",
     "2-Area/Concept/Reactive Manifesto.md",
     "3-Resource/Database/쿼리 튜닝시.md",
     "3-Resource/Database/Cardinality.md",
-    "5-성호의 Second Brain.md",
     "4-Archive/Tools/드로윙 툴.md",
     "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
     "4-Archive/Computer-Science/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
-    "4-Archive/Concept/Static vs Dynamic,Strong vs Weak.md",
-    "4-Archive/JAVA/Bazel.md",
-    "4-Archive/Database/그룹별 순위 가져오기.md",
-    "4-Archive/Concept/영속성.md",
-    "0-Temp/ansible, terraform.md",
-    "문제2.md",
-    "0-Temp/가상화 관련 용어정리.md",
-    "6-PARA Method.md",
-    "7-Zettlecasten.md",
-    "4-Archive/Tools/p6spy.md",
-    "0-Temp/생각정리/복잡하지 않은 코드란?.md",
-    "0-Temp/Java&Kotlin/plain jar, excutable jar, fat jar.md",
-    "0-Temp/빌드타임 줄이기.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/1-지원동기 마무리.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled.md",
-    "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼",
     "0-Temp/0-이직자료/123231",
     "real-resource/Pasted image 20231014225459.png",
@@ -236,7 +237,6 @@
     "2-Area/Concept",
     "real-resource/Pasted image 20230926224851.png",
     "5-Archive/Database",
-    "4-Archive/Spring",
     "real-resource/Pasted image 20231003225917.png",
     "real-resource/Pasted image 20231003225905.png",
     "real-resource/Pasted image 20231002231423.png",
