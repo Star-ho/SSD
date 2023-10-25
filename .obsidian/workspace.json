@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/생각정리/복잡하지 않은 코드란?.md",
+                "file": "5-Archive/Tools/p6spy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "객체",
+                "query": "p6",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/생각정리/복잡하지 않은 코드란?.md",
+                "file": "5-Archive/Tools/p6spy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/생각정리/복잡하지 않은 코드란?.md",
+                "file": "5-Archive/Tools/p6spy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/생각정리/복잡하지 않은 코드란?.md"
+                "file": "5-Archive/Tools/p6spy.md"
               }
             }
           },
@@ -194,8 +194,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "21fb0730be149d0a",
   "lastOpenFiles": [
+    "0-Temp/생각정리/복잡하지 않은 코드란?.md",
     "0-Temp/Java&Kotlin/plain jar, excutable jar, fat jar.md",
     "5-Archive/Tools/p6spy.md",
     "0-Temp/빌드타임 줄이기.md",
@@ -217,7 +218,6 @@
     "0-Temp/0-이직자료/네이버-광고플랫폼/광고 플랫폼이란.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md",
     "0-Temp/생각정리/코드에 대해.md",
-    "0-Temp/생각정리/복잡하지 않은 코드란?.md",
     "0-Temp/생각정리/많은 자료.md",
     "2-Area/0-Sung-ho/공부법.md",
     "2-Area/0-Sung-ho/글쓸때.md",
