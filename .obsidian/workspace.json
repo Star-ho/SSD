@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eefdb8d876a19b1f",
+        "id": "08b2b151d7e17b8a",
         "type": "tabs",
         "children": [
           {
-            "id": "69d920da47c5228a",
+            "id": "f0156e0fb8af7e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/0-Sung-ho/앤드류 후버만 루틴.md",
+                "file": "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/0-Sung-ho/앤드류 후버만 루틴.md",
+                "file": "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/0-Sung-ho/앤드류 후버만 루틴.md",
+                "file": "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/0-Sung-ho/앤드류 후버만 루틴.md"
+                "file": "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md"
               }
             }
           },
@@ -156,10 +156,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "69d920da47c5228a",
+  "active": "f0156e0fb8af7e94",
   "lastOpenFiles": [
-    "5-Temp/생각정리/리팩토링.md",
+    "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
+    "5-Temp/Softeware Architecture/Even Driven Architecture.md",
+    "5-Temp/Softeware Architecture/Even Driven Architecture/Untitled.md",
+    "5-Temp/Softeware Architecture/Even Driven Architecture/예제 블로그.md",
     "2-Area/0-Sung-ho/앤드류 후버만 루틴.md",
+    "5-Temp/생각정리/리팩토링.md",
     "5-Temp/InfraStructure/docker로 패키지파일 설치할때 느리면.md",
     "2-Area/0-Sung-ho/좋은 개발자가 되는법.md",
     "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
@@ -181,10 +185,6 @@
     "5-Temp/Java&Kotlin/java wrapper class vs primitive in jpa.md",
     "5-Temp/Database/Lock의 종류.md",
     "5-Temp/Database/JOIN을 쓰는 이유.md",
-    "5-Temp/Database/s-lock x-lock.md",
-    "5-Temp/Java&Kotlin/컴플리터블퓨처 예외처리는 exceptionally 메서드로 처리하셔야져.md",
-    "5-Temp/Database/Untitled.md",
-    "5-Temp/Database/data base lock.md",
     "5-Temp/aws/Untitled",
     "5-Temp/aws",
     "5-Temp/Softeware Architecture/Even Driven Architecture",
