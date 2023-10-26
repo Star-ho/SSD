@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/InfraStructure/Redis.md",
+                "file": "1-Project/InnoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Temp/InfraStructure/Redis.md",
+                "file": "1-Project/InnoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Temp/InfraStructure/Redis.md",
+                "file": "1-Project/InnoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Temp/InfraStructure/Redis.md"
+                "file": "1-Project/InnoDB.md"
               }
             }
           },
@@ -158,6 +158,10 @@
   },
   "active": "69d920da47c5228a",
   "lastOpenFiles": [
+    "Pasted image 20231026205445.png",
+    "1-Project/Temp에 있는것들 정리.md",
+    "1-Project/InnoDB.md",
+    "SSD.md",
     "0-Temp/InfraStructure/Redis.md",
     "0-Temp/InfraStructure/레디스 용량 줄이기.md",
     "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
@@ -171,7 +175,6 @@
     "2-Area/read, write, jpa?.md",
     "2-Area/복잡하지 않은 코드란?.md",
     "2-Area/1-Weekly-Reading/코드 작성시.md",
-    "SSD.md",
     "5-성호의 Second Brain.md",
     "Untitled 3.md",
     "Untitled 1.md",
@@ -182,10 +185,7 @@
     "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/광고 플랫폼이란.md",
     "7-Zettlecasten.md",
-    "3-Resource/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
     "3-Resource/Software-Design",
-    "2-Area/Software Design/Entity, VO.md",
-    "2-Area/Software Design/Service.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼",
     "0-Temp/0-이직자료/123231",
     "real-resource/Pasted image 20231014225459.png",
