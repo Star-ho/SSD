@@ -1,0 +1,1 @@
+https://mvnrepository.com/artifact/io.awspring.cloud/spring-cloud-aws-parameter-store
