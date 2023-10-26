@@ -1,0 +1,1 @@
+https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/
