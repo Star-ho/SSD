@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
+                "file": "5-Temp/Database/sql isolation model.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "컨텍스트",
+                "query": "annotation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
+                "file": "5-Temp/Database/sql isolation model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
+                "file": "5-Temp/Database/sql isolation model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md"
+                "file": "5-Temp/Database/sql isolation model.md"
               }
             }
           },
@@ -158,6 +158,15 @@
   },
   "active": "69d920da47c5228a",
   "lastOpenFiles": [
+    "5-Temp/Reactive/webflux.md",
+    "5-Temp/Database/sql isolation model.md",
+    "5-Temp/Java&Kotlin/우형 jvm memory leak.md",
+    "5-Temp/Java&Kotlin/kotlin data class.md",
+    "5-Temp/Java&Kotlin/kotlin ==, ===.md",
+    "3-Resource/Java&Kotlin/Java built in Annotation.md",
+    "5-Temp/Computer Science/하드웨어에서 램으로 데이터를 읽어오는 과정.md",
+    "2-Area/0-Sung-ho/영양제.md",
+    "5-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
     "5-Temp/0-이직자료/네이버-광고플랫폼/1-지원동기 마무리.md",
     "5-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
     "5-Temp/0-이직자료/네이버-광고플랫폼/0-자소서 항목.md",
@@ -176,15 +185,6 @@
     "5-Temp/Computer Science/SDD vs HDD 읽기 쓰기 방법.md",
     "5-Temp/Computer Science/raid 0,1,2,3.md",
     "5-Temp/Computer Science/forward, redirect 차이점.md",
-    "5-Temp/Computer Science/DNS평가순서.md",
-    "5-Temp/Computer Science/cpu-memory-sdd(hdd).md",
-    "5-Temp/Computer Science/하드웨어에서 램으로 데이터를 읽어오는 과정.md",
-    "5-Temp/Computer Science/세마포어, 뮤텍스.md",
-    "5-Temp/Computer Science/동기, 비동기 IO.md",
-    "5-Temp/코드짤떄/reponse에  VO or Entity.md",
-    "5-Temp/코드짤떄/속도 개선을 위해.md",
-    "5-Temp/코드짤떄/어떤걸 캡슐화 할것인가?.md",
-    "5-Temp/생각정리/내가 생각하는 난이도 정리.md",
     "4-Archive/0-Think",
     "3-Resource/Software-Design",
     "5-Temp/0-이직자료/네이버-광고플랫폼",
