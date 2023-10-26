@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a858541161c1e4cd",
+        "id": "eefdb8d876a19b1f",
         "type": "tabs",
         "children": [
           {
-            "id": "a8e2d22dda0adefb",
+            "id": "69d920da47c5228a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 질문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21fb0730be149d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Temp/0-이직자료/과제 만들때.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6939d4912502f1a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/1-Weekly-Reading/테스트 코드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbb566747ff5f0f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Temp/생각정리/개발자.md",
+                "file": "0-Temp/InfraStructure/Redis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/1-Weekly-Reading/테스트 코드.md",
+                "file": "0-Temp/InfraStructure/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/1-Weekly-Reading/테스트 코드.md",
+                "file": "0-Temp/InfraStructure/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/1-Weekly-Reading/테스트 코드.md"
+                "file": "0-Temp/InfraStructure/Redis.md"
               }
             }
           },
@@ -193,9 +156,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6939d4912502f1a6",
+  "active": "69d920da47c5228a",
   "lastOpenFiles": [
+    "0-Temp/InfraStructure/Redis.md",
+    "0-Temp/InfraStructure/레디스 용량 줄이기.md",
+    "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
+    "4-Archive/0-Think/개발업무 중 생성형 ai에 대해.md",
+    "2-Area/0-Sung-ho/공부법.md",
+    "4-Archive/0-Think",
+    "4-Archive/Think.md",
+    "0-Temp/생각정리/개발자.md",
+    "0-Temp/0-이직자료/네이버-광고플랫폼/직무 역량상의 강점 질문.md",
+    "0-Temp/0-이직자료/과제 만들때.md",
+    "2-Area/read, write, jpa?.md",
     "2-Area/복잡하지 않은 코드란?.md",
+    "2-Area/1-Weekly-Reading/코드 작성시.md",
     "SSD.md",
     "5-성호의 Second Brain.md",
     "Untitled 3.md",
@@ -205,23 +180,12 @@
     "0-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/지원동기.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/Untitled 2.md",
-    "0-Temp/0-이직자료/과제 만들때.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼/광고 플랫폼이란.md",
     "7-Zettlecasten.md",
-    "2-Area/0-Sung-ho/개발업무 중 생성형 ai에 대해.md",
     "3-Resource/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
     "3-Resource/Software-Design",
     "2-Area/Software Design/Entity, VO.md",
     "2-Area/Software Design/Service.md",
-    "2-Area/Software Design/Aggregate 생명주기(Factory, Repository).md",
-    "2-Area/Software Design/Aggregate.md",
-    "2-Area/Software Design/협력, 책임, 역할.md",
-    "3-Resource/Java&Kotlin/Java built in Annotation.md",
-    "2-Area/Concept/Test.md",
-    "0-Temp/rest api.md",
-    "2-Area/Concept/Reactive Manifesto.md",
-    "3-Resource/Database/쿼리 튜닝시.md",
-    "3-Resource/Database/Cardinality.md",
     "0-Temp/0-이직자료/네이버-광고플랫폼",
     "0-Temp/0-이직자료/123231",
     "real-resource/Pasted image 20231014225459.png",
@@ -236,7 +200,6 @@
     "2-Area/Spring",
     "2-Area/Concept",
     "real-resource/Pasted image 20230926224851.png",
-    "5-Archive/Database",
     "real-resource/Pasted image 20231003225917.png",
     "real-resource/Pasted image 20231003225905.png",
     "real-resource/Pasted image 20231002231423.png",
