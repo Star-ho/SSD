@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
+                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
+                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
+                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md"
+                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/3-협업 마무리.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   "active": "69d920da47c5228a",
   "lastOpenFiles": [
     "5-Temp/0-이직자료/네이버-광고플랫폼/1-지원동기 마무리.md",
+    "5-Temp/0-이직자료/네이버-광고플랫폼/2-역량 상의 강점과 본 업무를 수행한다면 기대하는 시너지.md",
     "5-Temp/0-이직자료/네이버-광고플랫폼/0-자소서 항목.md",
     "3-Resource/Spring/JPA entity manager, persistence context.md",
     "4-Archive/0-Think/개발업무 중 생성형 ai에 대해.md",
@@ -184,7 +185,6 @@
     "5-Temp/코드짤떄/속도 개선을 위해.md",
     "5-Temp/코드짤떄/어떤걸 캡슐화 할것인가?.md",
     "5-Temp/생각정리/내가 생각하는 난이도 정리.md",
-    "5-Temp/생각정리/깊은 고민을 잘한다.md",
     "4-Archive/0-Think",
     "3-Resource/Software-Design",
     "5-Temp/0-이직자료/네이버-광고플랫폼",
