@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
+                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/Untitled 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
+                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
+                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md"
+                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/Untitled 2.md"
               }
             }
           },
@@ -156,8 +156,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f0156e0fb8af7e94",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/0-자소서 항목.md",
+    "5-Temp/0-이직자료/네이버-광고플랫폼/틀린거.md",
+    "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
     "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
     "5-Temp/Softeware Architecture/Even Driven Architecture.md",
     "5-Temp/Softeware Architecture/Even Driven Architecture/Untitled.md",
@@ -183,8 +186,6 @@
     "5-Temp/Database/Postgresql vs mysql.md",
     "4-Archive/Database/PostgreSQL vs MariaDB.md",
     "5-Temp/Java&Kotlin/java wrapper class vs primitive in jpa.md",
-    "5-Temp/Database/Lock의 종류.md",
-    "5-Temp/Database/JOIN을 쓰는 이유.md",
     "5-Temp/aws/Untitled",
     "5-Temp/aws",
     "5-Temp/Softeware Architecture/Even Driven Architecture",
@@ -197,7 +198,6 @@
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
     "real-resource/ByteByteGo_LinkedIn_PDF.pdf",
-    "real-resource/System Design Big Archive.pdf",
     "real-resource/Pasted image 20231007162016.png",
     "real-resource/Pasted image 20231007161901.png",
     "real-resource/Pasted image 20230926224851.png",
