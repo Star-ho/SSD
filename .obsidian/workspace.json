@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/틀린거.md",
+                "file": "5-Temp/0-이직자료/면접대비 자료.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/틀린거.md",
+                "file": "5-Temp/0-이직자료/면접대비 자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/틀린거.md",
+                "file": "5-Temp/0-이직자료/면접대비 자료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버-광고플랫폼/틀린거.md"
+                "file": "5-Temp/0-이직자료/면접대비 자료.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "f0156e0fb8af7e94",
   "lastOpenFiles": [
+    "5-Temp/0-이직자료/면접 가이드.md",
+    "5-Temp/0-이직자료/면접대비 자료.md",
+    "5-Temp/0-이직자료/네이버-광고플랫폼/틀린거.md",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/Untitled 2.md",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/0-자소서 항목.md",
-    "5-Temp/0-이직자료/네이버-광고플랫폼/틀린거.md",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
     "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
     "5-Temp/Softeware Architecture/Even Driven Architecture.md",
@@ -184,8 +186,6 @@
     "4-Archive/Tip/Time zone 관련 팁.md",
     "5-Temp/레이지 로딩, 패스트 바잉.md",
     "5-Temp/aws/IMDSv2.md",
-    "5-Temp/Database/Postgresql vs mysql.md",
-    "4-Archive/Database/PostgreSQL vs MariaDB.md",
     "5-Temp/aws/Untitled",
     "5-Temp/aws",
     "5-Temp/Softeware Architecture/Even Driven Architecture",
