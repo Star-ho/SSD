@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08b2b151d7e17b8a",
+        "id": "d7daf34d3cb3a3f5",
         "type": "tabs",
         "children": [
           {
-            "id": "f0156e0fb8af7e94",
+            "id": "631c3c7543eca213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
+                "file": "5-Temp/Spring/JAVA에서 JPA Entity 사용시.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "postgre",
+                "query": "==",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
+                "file": "5-Temp/Spring/JAVA에서 JPA Entity 사용시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
+                "file": "5-Temp/Spring/JAVA에서 JPA Entity 사용시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md"
+                "file": "5-Temp/Spring/JAVA에서 JPA Entity 사용시.md"
               }
             }
           },
@@ -156,11 +156,23 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f0156e0fb8af7e94",
+  "active": "631c3c7543eca213",
   "lastOpenFiles": [
+    "5-Temp/네트워크 소켓에 대해왜만들어지고어떻게 사용되는지.md",
+    "5-Temp/Spring/JAVA에서 JPA Entity 사용시.md",
+    "5-Temp/Database/Lock의 종류.md",
+    "5-Temp/linux service 만들기 관련 글정리.md",
+    "5-Temp/Java&Kotlin/컴플리터블퓨처 예외처리는 exceptionally 메서드로 처리하셔야져.md",
+    "Untitled 3.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 4.md",
+    "5-Temp/로깅 vs println.md",
+    "5-Temp/빈스톡.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/Untitled 1.md",
     "5-Temp/InfraStructure/가령 캐시디비로 redis를 썻다고하면, 캐시디비랑 관계형디비 차이가 뭐냐부터 해서.md",
     "5-Temp/0-이직자료/네이버 파이낸셜",
@@ -174,18 +186,6 @@
     "5-Temp/Softeware Architecture/Even Driven Architecture.md",
     "5-Temp/Softeware Architecture/Even Driven Architecture/Untitled.md",
     "5-Temp/Softeware Architecture/Even Driven Architecture/예제 블로그.md",
-    "2-Area/0-Sung-ho/앤드류 후버만 루틴.md",
-    "5-Temp/생각정리/리팩토링.md",
-    "5-Temp/InfraStructure/docker로 패키지파일 설치할때 느리면.md",
-    "2-Area/0-Sung-ho/좋은 개발자가 되는법.md",
-    "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
-    "5-Temp/생각정리/Untitled.md",
-    "5-Temp/중급 이상의 자료.md",
-    "5-Temp/Computer Science/레이턴시 까지 계산해서 데이터가 얼마만에올지 예측해보기.md",
-    "5-Temp/Computer Science/동기, 비동기 IO.md",
-    "5-Temp/Computer Science/네트워크 소켓.md",
-    "5-Temp/Computer Science/L4, L7 로드밸런서.md",
-    "5-Temp/git gui.md",
     "5-Temp/Untitled",
     "5-Temp/aws/Untitled",
     "5-Temp/aws",

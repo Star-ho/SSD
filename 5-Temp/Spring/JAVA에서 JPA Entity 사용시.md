@@ -1,0 +1,1 @@
+https://velog.io/@chiyongs/JPA-Entity-Wrapper-class-or-Primitive-type
