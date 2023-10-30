@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Spring/JAVA에서 JPA Entity 사용시.md",
+                "file": "5-Temp/api 테스트를 어떻게 할지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6d5fb9e101d17d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/Request 와 DTO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76e53dcd5cddfaf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "테라폼 설명.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "==",
+                "query": "dto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Spring/JAVA에서 JPA Entity 사용시.md",
+                "file": "5-Temp/Request 와 DTO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Spring/JAVA에서 JPA Entity 사용시.md",
+                "file": "5-Temp/Request 와 DTO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Spring/JAVA에서 JPA Entity 사용시.md"
+                "file": "5-Temp/Request 와 DTO.md"
               }
             }
           },
@@ -156,36 +181,36 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "631c3c7543eca213",
+  "active": "a6d5fb9e101d17d7",
   "lastOpenFiles": [
-    "5-Temp/네트워크 소켓에 대해왜만들어지고어떻게 사용되는지.md",
-    "5-Temp/Spring/JAVA에서 JPA Entity 사용시.md",
+    "5-Temp/코드짤떄/reponse에  VO or Entity.md",
+    "5-Temp/Request 와 DTO.md",
+    "5-Temp/msa 트랜잭션 관리.md",
+    "2-Area/Software Design/Entity, VO.md",
+    "5-Temp/Softeware Architecture/saga의 2가지 패턴, outbox 패턴.md",
     "5-Temp/Database/Lock의 종류.md",
-    "5-Temp/linux service 만들기 관련 글정리.md",
-    "5-Temp/Java&Kotlin/컴플리터블퓨처 예외처리는 exceptionally 메서드로 처리하셔야져.md",
-    "Untitled 3.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Untitled 4.md",
-    "5-Temp/로깅 vs println.md",
-    "5-Temp/빈스톡.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/Untitled 1.md",
-    "5-Temp/InfraStructure/가령 캐시디비로 redis를 썻다고하면, 캐시디비랑 관계형디비 차이가 뭐냐부터 해서.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜",
-    "5-Temp/0-이직자료/면접대비 자료.md",
-    "5-Temp/0-이직자료/면접 가이드.md",
-    "5-Temp/0-이직자료/네이버-광고플랫폼/틀린거.md",
-    "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/Untitled 2.md",
-    "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/0-자소서 항목.md",
-    "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
-    "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
+    "스택 자료구조.md",
+    "테라폼 설명.md",
+    "5-Temp/api 테스트를 어떻게 할지.md",
+    "5-Temp/Softeware Architecture/redis 분산락.md",
+    "5-Temp/Softeware Architecture/MSA archtechure.md",
+    "5-Temp/Softeware Architecture/OOD.md",
+    "5-Temp/Softeware Architecture/MSA 패턴.md",
     "5-Temp/Softeware Architecture/Even Driven Architecture.md",
-    "5-Temp/Softeware Architecture/Even Driven Architecture/Untitled.md",
-    "5-Temp/Softeware Architecture/Even Driven Architecture/예제 블로그.md",
+    "5-Temp/Softeware Architecture/System Design, Software Architecture, Software Design.md",
+    "5-Temp/Softeware Architecture/mono repo vs micro repo.md",
+    "5-Temp/Softeware Architecture/OOP.md",
+    "5-Temp/Database/data base lock.md",
+    "5-Temp/Database/postgresql에 partial index.md",
+    "5-Temp/카니코.md",
+    "2-Area/0-Sung-ho/앤드류 후버만 루틴.md",
+    "5-Temp/생각정리/10배의 성과를 내는 개발자란?.md",
+    "5-Temp/Computer Science/레이턴시 까지 계산해서 데이터가 얼마만에올지 예측해보기.md",
+    "5-Temp/Database/Postgresql vs mysql.md",
+    "5-Temp/Spring/JAVA에서 JPA Entity 사용시.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜/Untitled 1.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜",
+    "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
     "5-Temp/Untitled",
     "5-Temp/aws/Untitled",
     "5-Temp/aws",
