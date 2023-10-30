@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/Untitled.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/Untitled.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/Untitled.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/Untitled.md"
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "f0156e0fb8af7e94",
   "lastOpenFiles": [
-    "5-Temp/0-이직자료/네이버 파이낸셜/Untitled 1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/Untitled.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜/Untitled 1.md",
     "5-Temp/InfraStructure/가령 캐시디비로 redis를 썻다고하면, 캐시디비랑 관계형디비 차이가 뭐냐부터 해서.md",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/면접대비 자료.md",
@@ -186,7 +187,6 @@
     "5-Temp/git gui.md",
     "5-Temp/Untitled",
     "5-Temp/생각정리/된다 안된다, 내가 못한다 의 정의?.md",
-    "5-Temp/Database/mysql multi threading.md",
     "5-Temp/aws/Untitled",
     "5-Temp/aws",
     "5-Temp/Softeware Architecture/Even Driven Architecture",
