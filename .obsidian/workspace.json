@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/동시성 문제 해결.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/동시성 문제 해결.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/동시성 문제 해결.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/동시성 문제 해결.md"
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md"
               }
             }
           },
@@ -158,19 +158,20 @@
   },
   "active": "748db22e5293f5c1",
   "lastOpenFiles": [
-    "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
     "5-Temp/동시성 문제 해결.md",
+    "5-Temp/@Transactional에 대해.md",
+    "5-Temp/분산 트랜잭션.md",
+    "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
     "5-Temp/innodb는 조회할때 해당 row에 lock이 걸려있는지 어떻게 확인하니?.md",
     "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
     "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
     "5-Temp/Order by와 row num.md",
     "5-Temp/ElastiCache + Spring Session + Spring Security Memory Leak.md",
     "5-Temp/TransactionalEventListener.md",
-    "5-Temp/@Transactional에 대해.md",
     "테라폼 설명.md",
     "5-Temp/api 테스트를 어떻게 할지.md",
     "5-Temp/Request 와 DTO.md",
@@ -184,7 +185,6 @@
     "5-Temp/Computer Science/arm x86.md",
     "5-Temp/Pojo란.md",
     "5-Temp/Computer Science/Untitled.md",
-    "5-Temp/join시 secondery index.md",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
     "5-Temp/aws/Untitled",
