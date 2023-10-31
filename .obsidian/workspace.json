@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "17ac24465044aa33",
+        "id": "e563f561699adf72",
         "type": "tabs",
         "children": [
           {
-            "id": "748db22e5293f5c1",
+            "id": "23de5f54970d91dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/분산 트랜잭션.md",
+                "file": "5-Temp/join시 secondery index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/분산 트랜잭션.md",
+                "file": "5-Temp/join시 secondery index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/분산 트랜잭션.md",
+                "file": "5-Temp/join시 secondery index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/분산 트랜잭션.md"
+                "file": "5-Temp/join시 secondery index.md"
               }
             }
           },
@@ -156,9 +156,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "748db22e5293f5c1",
+  "active": "23de5f54970d91dc",
   "lastOpenFiles": [
-    "5-Temp/동시성 문제 해결.md",
+    "5-Temp/innodb는 조회할때 해당 row에 lock이 걸려있는지 어떻게 확인하니?.md",
+    "5-Temp/guru design-patterns.md",
+    "5-Temp/DBWR, LGWR.md",
+    "5-Temp/AnemicDomainModel.md",
+    "5-Temp/커밋 전략.md",
+    "5-Temp/생각정리.md",
+    "5-Temp/Database/Innodb Change Buffer.md",
+    "5-Temp/동시성 문제(Concurrency Issue).md",
+    "5-Temp/분산 트랜잭션.md",
     "5-Temp/대용량 파일 업로드 lfs.md",
     "5-Temp/Java&Kotlin/kotlin listOf()는 emptyList() 의 alias다..md",
     "5-Temp/따닥 방지.md",
@@ -169,22 +177,14 @@
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
     "5-Temp/@Transactional에 대해.md",
-    "5-Temp/분산 트랜잭션.md",
     "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
-    "5-Temp/innodb는 조회할때 해당 row에 lock이 걸려있는지 어떻게 확인하니?.md",
     "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
     "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
     "5-Temp/Order by와 row num.md",
     "5-Temp/ElastiCache + Spring Session + Spring Security Memory Leak.md",
     "5-Temp/TransactionalEventListener.md",
-    "테라폼 설명.md",
-    "5-Temp/api 테스트를 어떻게 할지.md",
-    "5-Temp/Request 와 DTO.md",
-    "5-Temp/커머스 도메인 별 중요한것들.md",
-    "5-Temp/duplicate request 처리.md",
-    "5-Temp/정적 클래스란?.md",
-    "Untitled 1.md",
+    "5-Temp/테라폼 설명.md",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
     "5-Temp/aws/Untitled",
