@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md"
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   "active": "748db22e5293f5c1",
   "lastOpenFiles": [
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
     "5-Temp/Order by와 row num.md",
     "5-Temp/ElastiCache + Spring Session + Spring Security Memory Leak.md",
     "5-Temp/TransactionalEventListener.md",
