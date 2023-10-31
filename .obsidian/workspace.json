@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "5-Temp/innodb는 조회할때 해당 row에 lock이 걸려있는지 어떻게 확인하니?.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "5-Temp/innodb는 조회할때 해당 row에 lock이 걸려있는지 어떻게 확인하니?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "5-Temp/innodb는 조회할때 해당 row에 lock이 걸려있는지 어떻게 확인하니?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/mysql 락걸린 쿼리 확인.md"
+                "file": "5-Temp/innodb는 조회할때 해당 row에 lock이 걸려있는지 어떻게 확인하니?.md"
               }
             }
           },
@@ -159,6 +158,9 @@
   },
   "active": "748db22e5293f5c1",
   "lastOpenFiles": [
+    "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
+    "5-Temp/innodb는 조회할때 해당 row에 lock이 걸려있는지 어떻게 확인하니?.md",
+    "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
@@ -183,11 +185,8 @@
     "5-Temp/join시 secondery index.md",
     "5-Temp/kotest와 coroutine의 상관관계.md",
     "Untitled.md",
-    "5-Temp/msa 트랜잭션 관리.md",
-    "2-Area/Software Design/Entity, VO.md",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
-    "5-Temp/Untitled",
     "5-Temp/aws/Untitled",
     "5-Temp/aws",
     "5-Temp/Softeware Architecture/Even Driven Architecture",
