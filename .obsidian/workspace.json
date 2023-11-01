@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/오브젝트 스토리지.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/오브젝트 스토리지.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/오브젝트 스토리지.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/오브젝트 스토리지.md"
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md"
               }
             }
           },
@@ -158,10 +158,11 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2-2.md",
+    "5-Temp/오브젝트 스토리지.md",
     "5-Temp/영단어 공부.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2-2.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
     "5-Temp/join시 secondery index.md",
@@ -183,7 +184,6 @@
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
     "5-Temp/@Transactional에 대해.md",
     "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
-    "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
     "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
