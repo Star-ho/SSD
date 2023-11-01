@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
+                "file": "5-Temp/가상화 관련 용어정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
+                "file": "5-Temp/가상화 관련 용어정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
+                "file": "5-Temp/가상화 관련 용어정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md"
+                "file": "5-Temp/가상화 관련 용어정리.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "23de5f54970d91dc",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
-    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2-2.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2-2.md",
     "5-Temp/오브젝트 스토리지.md",
     "5-Temp/영단어 공부.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
