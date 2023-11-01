@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/동시성(Concurrency).md",
+                "file": "3-Resource/Series/Concurrency/Mutex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/동시성(Concurrency).md",
+                "file": "3-Resource/Series/Concurrency/Mutex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/동시성(Concurrency).md",
+                "file": "3-Resource/Series/Concurrency/Mutex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/동시성(Concurrency).md"
+                "file": "3-Resource/Series/Concurrency/Mutex.md"
               }
             }
           },
@@ -139,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,6 +159,9 @@
   },
   "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "real-resource/Pasted image 20231101224800.png",
+    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
+    "3-Resource/Series/Concurrency/Mutex.md",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
     "5-Temp/대용량 파일 업로드 lfs.md",
@@ -178,13 +182,11 @@
     "5-Temp/커밋 전략.md",
     "5-Temp/생각정리.md",
     "5-Temp/Database/Innodb Change Buffer.md",
-    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
     "5-Temp/분산 트랜잭션.md",
     "5-Temp/Java&Kotlin/kotlin listOf()는 emptyList() 의 alias다..md",
     "5-Temp/따닥 방지.md",
     "5-Temp/Softeware Architecture/redis 분산락.md",
     "5-Temp/Softeware Architecture/msa 의 비용.md",
-    "5-Temp/InfraStructure/RabbitMQ vs Kafka.md",
     "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
@@ -194,7 +196,6 @@
     "real-resource/Pasted image 20231026205445.png",
     "4-Archive/0-Think",
     "3-Resource/Software-Design",
-    "5-Temp/0-이직자료/네이버-광고플랫폼",
     "real-resource/Pasted image 20231014225459.png",
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
