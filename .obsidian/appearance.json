@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "baseFontSize": 15,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "default"
+  ],
+  "cssTheme": "Minimal"
 }
