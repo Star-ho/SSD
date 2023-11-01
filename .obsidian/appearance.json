@@ -1,8 +1,9 @@
 {
   "accentColor": "",
-  "baseFontSize": 15,
+  "baseFontSize": 17,
   "enabledCssSnippets": [
     "default"
   ],
-  "cssTheme": "Minimal"
+  "cssTheme": "Things",
+  "translucency": true
 }
