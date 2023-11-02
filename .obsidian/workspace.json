@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex.md",
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex.md"
+                "file": "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "3-Resource/Series/Concurrency/Mutex.md",
     "3-Resource/Series/Concurrency/동시성(Concurrency).md",
     "5-Temp/0-이직자료/f-lab 이력서 모음.md",
     "5-Temp/0-이직자료/etc....md",
@@ -166,7 +167,6 @@
     "5-Temp/0-이직자료/신기한 회사.md",
     "5-Temp/0-이직자료/면접대비 자료.md",
     "5-Temp/0-이직자료/면접 가이드.md",
-    "3-Resource/Series/Concurrency/Mutex.md",
     "real-resource/Pasted image 20231101224800.png",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
