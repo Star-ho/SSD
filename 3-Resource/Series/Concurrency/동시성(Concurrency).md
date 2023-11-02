@@ -31,20 +31,21 @@
 	- Semaphore
 	- Guava’s  Monitor
 
-3. 데이터베이스에서 lock, isolation level
-	- Shared Lock
-	- Exclusive Lock
-	- row lock
-	- Record Lock
-	- Gap Lock
-	- Next-key Lock
+3. 데이터베이스에서 동시성 문제 처리
+	- lock의 종류
+		- Shared Lock
+		- Exclusive Lock
+	- lock을 거는 대상에 따라
+		- row lock
+		- Record Lock
+		- Gap Lock
+		- Next-key Lock
+		- auto increment lock
+		- table lock
+		- insert intention lock
 	- isolation level
-	- auto increment lock
-	- table lock
-		- read lock
-		- write lock
 
-4. 레디스를 이용한 분산락
+5. 레디스를 이용한 분산락
 	- Distribution Lock
 
 https://stackoverflow.com/questions/11600520/synchronized-vs-reentrantlock-on-performance
