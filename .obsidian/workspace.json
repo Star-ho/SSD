@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex(Lock).md",
+                "file": "3-Resource/Series/Concurrency/Semaphore.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex(Lock).md",
+                "file": "3-Resource/Series/Concurrency/Semaphore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex(Lock).md",
+                "file": "3-Resource/Series/Concurrency/Semaphore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex(Lock).md"
+                "file": "3-Resource/Series/Concurrency/Semaphore.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "3-Resource/Series/Concurrency/Mutex(Lock).md",
     "3-Resource/Series/Concurrency/Semaphore.md",
     "3-Resource/Series/Concurrency/Critical section(임계영역).md",
-    "3-Resource/Series/Concurrency/Mutex(Lock).md",
     "3-Resource/Series/Concurrency/동시성(Concurrency).md",
     "5-Temp/globalrollbackonparticipationfailure.md",
     "4-Archive/Concept/Artifact.md",
