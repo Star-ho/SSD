@@ -10,7 +10,7 @@
 - 화장실에 사람이 있다면, 사람이 나와 키를 줄때까지 기다려야함
 
 https://learn.microsoft.com/ko-kr/dotnet/api/system.threading.mutex?view=net-7.0#remarks
+https://en.wikipedia.org/wiki/Lock_(computer_science)
 
-임계영역에 대한 설명도 추가하기
 
 #wait-to-update 
