@@ -9,9 +9,12 @@
 - 화장실에 아무도 없다면 키를 가져갈 수 있음
 - 화장실에 사람이 있다면, 사람이 나와 키를 줄때까지 기다려야함
 
+> Mutex와 Lock은 동일한 개념임
+> Mutex는 Lock보다는 시스템 전체에 적용될 수 있음
+
 https://learn.microsoft.com/ko-kr/dotnet/api/system.threading.mutex?view=net-7.0#remarks
 https://en.wikipedia.org/wiki/Lock_(computer_science)
-
+https://stackoverflow.com/questions/2332765/what-is-the-difference-between-lock-mutex-and-semaphore
 
 #Mutex
 #Concurrency

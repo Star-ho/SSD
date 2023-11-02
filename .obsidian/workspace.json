@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Critical section.md",
+                "file": "3-Resource/Series/Concurrency/Semaphore.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Critical section.md",
+                "file": "3-Resource/Series/Concurrency/Semaphore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Critical section.md",
+                "file": "3-Resource/Series/Concurrency/Semaphore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Critical section.md"
+                "file": "3-Resource/Series/Concurrency/Semaphore.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
-    "3-Resource/Series/Concurrency/Mutex.md",
-    "3-Resource/Series/Concurrency/Critical section.md",
+    "3-Resource/Series/Concurrency/Critical section(임계영역).md",
+    "3-Resource/Series/Concurrency/Semaphore.md",
+    "3-Resource/Series/Concurrency/Mutex(Lock).md",
     "3-Resource/Series/Concurrency/동시성(Concurrency).md",
     "5-Temp/globalrollbackonparticipationfailure.md",
     "4-Archive/Concept/Artifact.md",
@@ -187,7 +188,6 @@
     "5-Temp/innodb는 조회할때 해당 row에 lock이 걸려있는지 어떻게 확인하니?.md",
     "5-Temp/guru design-patterns.md",
     "5-Temp/DBWR, LGWR.md",
-    "5-Temp/AnemicDomainModel.md",
     "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
