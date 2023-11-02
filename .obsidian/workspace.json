@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex.md",
+                "file": "5-Temp/0-이직자료/f-lab 이력서 모음.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plugin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex.md",
+                "file": "5-Temp/0-이직자료/f-lab 이력서 모음.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex.md",
+                "file": "5-Temp/0-이직자료/f-lab 이력서 모음.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Mutex.md"
+                "file": "5-Temp/0-이직자료/f-lab 이력서 모음.md"
               }
             }
           },
@@ -158,11 +157,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "5-Temp/0-이직자료/etc....md",
+    "5-Temp/0-이직자료/지원동기 작성시 팁.md",
+    "5-Temp/0-이직자료/신기한 회사.md",
+    "5-Temp/0-이직자료/면접대비 자료.md",
+    "5-Temp/0-이직자료/면접 가이드.md",
+    "3-Resource/Series/Concurrency/Mutex.md",
     "real-resource/Pasted image 20231101224800.png",
     "3-Resource/Series/Concurrency/동시성(Concurrency).md",
-    "3-Resource/Series/Concurrency/Mutex.md",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
     "5-Temp/대용량 파일 업로드 lfs.md",
@@ -184,10 +188,6 @@
     "5-Temp/생각정리.md",
     "5-Temp/Database/Innodb Change Buffer.md",
     "5-Temp/분산 트랜잭션.md",
-    "5-Temp/Java&Kotlin/kotlin listOf()는 emptyList() 의 alias다..md",
-    "5-Temp/따닥 방지.md",
-    "5-Temp/Softeware Architecture/redis 분산락.md",
-    "5-Temp/Softeware Architecture/msa 의 비용.md",
     "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
@@ -205,7 +205,6 @@
     "real-resource/Pasted image 20230926224851.png",
     "real-resource/Pasted image 20231003225917.png",
     "real-resource/Pasted image 20231003225905.png",
-    "real-resource/Pasted image 20231002231423.png",
     "Untitled.canvas"
   ]
 }
