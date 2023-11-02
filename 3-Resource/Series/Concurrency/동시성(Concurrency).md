@@ -21,17 +21,18 @@
 
 
 ## 해결책
-1. 기본 개념
+1. 개념
+	- critical section
 	- mutex
 	- semaphore
 
-2. JAVA에서 코드레벨  lock [참고자료](https://www.baeldung.com/java-mutex)
+3. JAVA에서 코드레벨  lock [참고자료](https://www.baeldung.com/java-mutex)
 	- synchronized
 	- lock
 	- Semaphore
 	- Guava’s  Monitor
 
-3. 데이터베이스에서 동시성 문제 처리
+4. 데이터베이스에서 동시성 문제 처리
 	- lock의 종류
 		- Shared Lock
 		- Exclusive Lock
