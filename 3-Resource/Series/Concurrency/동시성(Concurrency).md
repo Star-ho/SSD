@@ -39,6 +39,10 @@
 	- Gap Lock
 	- Next-key Lock
 	- isolation level
+	- auto increment lock
+	- table lock
+		- read lock
+		- write lock
 
 4. 레디스를 이용한 분산락
 	- Distribution Lock
