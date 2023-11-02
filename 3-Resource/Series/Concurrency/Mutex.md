@@ -13,4 +13,5 @@ https://learn.microsoft.com/ko-kr/dotnet/api/system.threading.mutex?view=net-7.0
 https://en.wikipedia.org/wiki/Lock_(computer_science)
 
 
-#wait-to-update 
+#Mutex
+#Concurrency
