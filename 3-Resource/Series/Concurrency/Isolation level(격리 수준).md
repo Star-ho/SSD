@@ -7,10 +7,9 @@
 - Dirty Read(더티 리드)와 Non-Repeatable Read(반복 불가능한 읽기) 문제가 발생가능
 
 ## Read Committed
-- 트랜잭션이 커밋된 데이터만 다른 트랜잭션에서 읽을 수 있음
-- 다른 트랜잭션이 변경한 데이터는 읽을 수 없음
-- Non-Repeatable Read 문제는 해결되지만, Phantom Read(유령 읽기) 문제는 발생함
-
+- 다른 트랜잭션에서 커밋되지 않은 데이터는 읽을수 없음
+- Dirty Read(더티 리드)문제는 해결되지만, Phantom Read(유령 읽기) 문제는 발생함
+- 
 
 ## REPEATABLE READ
 - 한 트랜잭션 내에서 같은 쿼리를 여러 번 실행했을 때, 항상 동일한 결과를 얻을 수 있음
@@ -18,5 +17,14 @@
 
 - Innodb의 default isolation level임
 
-## Serializable
+## [Serializable](https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_serializable)
+- 어떤 한 트랜잭션이 데이터를 읽었다면, lock을 걸어 이 트랜잭션이 끝날때까지 다른트랜잭션이 읽기, 쓰기가 불가능하도록 하는 level
+
 - autocommit이 활성화 되어있지 않으면, select 문을 select ... for share 문으로 변경함
+
+
+Mysql doc을 보고 작성했으며, ANSI Isolation level이 궁금하다면 [참고](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
+
+
+https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_isolation_level
+https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_serializable
