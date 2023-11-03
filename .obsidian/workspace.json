@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Isolation level.md",
+                "file": "2-Area/Software Design/Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Isolation level.md",
+                "file": "2-Area/Software Design/Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Isolation level.md",
+                "file": "2-Area/Software Design/Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Isolation level.md"
+                "file": "2-Area/Software Design/Service.md"
               }
             }
           },
@@ -159,8 +159,11 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
-    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
+    "2-Area/0-Sung-ho/인생 팁/어떤걸 살때 할인하는걸 찾고싶다면?.md",
+    "2-Area/0-Sung-ho/인생 팁/집구할떄.md",
     "3-Resource/Series/Concurrency/Isolation level.md",
+    "2-Area/0-Sung-ho/인생 팁",
+    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
     "3-Resource/Series/Concurrency/Critical section(임계영역).md",
     "3-Resource/Series/Concurrency/Semaphore.md",
     "3-Resource/Series/Concurrency/Mutex(Lock).md",
@@ -186,8 +189,6 @@
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
     "5-Temp/join시 secondery index.md",
-    "5-Temp/innodb는 조회할때 해당 row에 lock이 걸려있는지 어떻게 확인하니?.md",
-    "5-Temp/guru design-patterns.md",
     "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
@@ -196,7 +197,6 @@
     "5-Temp/Softeware Architecture/Even Driven Architecture",
     "real-resource/Pasted image 20231026205445.png",
     "4-Archive/0-Think",
-    "3-Resource/Software-Design",
     "real-resource/Pasted image 20231014225459.png",
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
