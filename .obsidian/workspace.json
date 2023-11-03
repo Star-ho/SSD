@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Software Design/Service.md",
+                "file": "5-Temp/가상화 관련 용어정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Software Design/Service.md",
+                "file": "5-Temp/가상화 관련 용어정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Software Design/Service.md",
+                "file": "5-Temp/가상화 관련 용어정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Software Design/Service.md"
+                "file": "5-Temp/가상화 관련 용어정리.md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
+    "2-Area/Software Design/Service.md",
     "2-Area/0-Sung-ho/인생 팁/어떤걸 살때 할인하는걸 찾고싶다면?.md",
     "2-Area/0-Sung-ho/인생 팁/집구할떄.md",
     "3-Resource/Series/Concurrency/Isolation level.md",
@@ -169,7 +173,6 @@
     "3-Resource/Series/Concurrency/Mutex(Lock).md",
     "5-Temp/globalrollbackonparticipationfailure.md",
     "4-Archive/Concept/Artifact.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
     "5-Temp/0-이직자료/f-lab 이력서 모음.md",
     "5-Temp/0-이직자료/etc....md",
     "5-Temp/0-이직자료/지원동기 작성시 팁.md",
@@ -185,10 +188,7 @@
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2-2.md",
     "5-Temp/오브젝트 스토리지.md",
     "5-Temp/영단어 공부.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
-    "5-Temp/join시 secondery index.md",
     "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
