@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
+                "file": "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
+                "file": "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
+                "file": "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Shared Lock(S-lock).md"
+                "file": "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md"
               }
             }
           },
@@ -159,36 +159,36 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
-    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
+    "5-Temp/Computer Science/하이퍼쓰레딩.md",
+    "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md",
+    "5-Temp/Database/non-clustered index in join.md",
+    "5-Temp/Database/Innodb Change Buffer를 통한 보조 인덱스 IO 개선.md",
+    "5-Temp/Database/MySQL에서 스냅샷과 undo log.md",
+    "5-Temp/Database/JOIN을 쓰는 이유.md",
+    "5-Temp/Database/Lock의 종류.md",
+    "5-Temp/Database/Innodb Change Buffer.md",
+    "5-Temp/Database/innodb.md",
+    "5-Temp/Database/database foreign key.md",
+    "5-Temp/Database/Bulk Insert.md",
+    "5-Temp/Database/data base lock.md",
+    "5-Temp/Database/backward index scan.md",
+    "5-Temp/Database/B+ Tree의 fan-out.md",
+    "5-Temp/Database/aurora vs mysql.md",
+    "5-Temp/Database/해시조인.md",
+    "5-Temp/Database/쿼리 튜닝 관련 명령어.md",
+    "5-Temp/Database/쿼리 실행시간 보는법.md",
+    "5-Temp/Database/쿼리 실행 순서.md",
+    "5-Temp/Database/인덱스 직접 구현해보기.md",
+    "5-Temp/Database/왜 데이터베이스에 날리는 두번째 쿼리는 빠를까?.md",
+    "5-Temp/Database/면접질문 정규화와 반정규화에 대해 질문하시길래.md",
+    "5-Temp/따닥 방지.md",
+    "5-Temp/Database/격리레벨별 구현방법.md",
     "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
-    "3-Resource/Series/Concurrency/Mutex(Lock).md",
-    "3-Resource/Series/Concurrency/Isolation level(격리 수준).md",
-    "3-Resource/Series/Concurrency/Consistent Read(일관된 읽기).md",
-    "3-Resource/Series/Concurrency/Critical section(임계영역).md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
-    "2-Area/복잡하지 않은 코드란?.md",
-    "5-Temp/가상화 관련 용어정리.md",
-    "2-Area/Software Design/Service.md",
-    "2-Area/0-Sung-ho/인생 팁/어떤걸 살때 할인하는걸 찾고싶다면?.md",
-    "2-Area/0-Sung-ho/인생 팁/집구할떄.md",
+    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
     "2-Area/0-Sung-ho/인생 팁",
-    "3-Resource/Series/Concurrency/Semaphore.md",
-    "5-Temp/globalrollbackonparticipationfailure.md",
-    "4-Archive/Concept/Artifact.md",
-    "5-Temp/0-이직자료/f-lab 이력서 모음.md",
-    "5-Temp/0-이직자료/etc....md",
-    "5-Temp/0-이직자료/지원동기 작성시 팁.md",
-    "5-Temp/0-이직자료/신기한 회사.md",
-    "5-Temp/0-이직자료/면접대비 자료.md",
-    "5-Temp/0-이직자료/면접 가이드.md",
     "real-resource/Pasted image 20231101224800.png",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
-    "5-Temp/대용량 파일 업로드 lfs.md",
-    "5-Temp/@Transactional에 대해.md",
     "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",

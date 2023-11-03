@@ -1,0 +1,1 @@
+non-clustered index가 join 에서는 어떻게 동작할지?
