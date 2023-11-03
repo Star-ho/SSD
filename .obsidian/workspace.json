@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/가상화 관련 용어정리.md",
+                "file": "3-Resource/Series/Concurrency/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/가상화 관련 용어정리.md",
+                "file": "3-Resource/Series/Concurrency/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/가상화 관련 용어정리.md",
+                "file": "3-Resource/Series/Concurrency/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/가상화 관련 용어정리.md"
+                "file": "3-Resource/Series/Concurrency/Untitled.md"
               }
             }
           },
@@ -159,6 +159,11 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
+    "3-Resource/Series/Concurrency/Untitled.md",
+    "3-Resource/Series/Concurrency/Critical section(임계영역).md",
+    "2-Area/복잡하지 않은 코드란?.md",
+    "5-Temp/가상화 관련 용어정리.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
@@ -167,8 +172,6 @@
     "2-Area/0-Sung-ho/인생 팁/집구할떄.md",
     "3-Resource/Series/Concurrency/Isolation level.md",
     "2-Area/0-Sung-ho/인생 팁",
-    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
-    "3-Resource/Series/Concurrency/Critical section(임계영역).md",
     "3-Resource/Series/Concurrency/Semaphore.md",
     "3-Resource/Series/Concurrency/Mutex(Lock).md",
     "5-Temp/globalrollbackonparticipationfailure.md",
@@ -184,11 +187,8 @@
     "3-Resource/Series",
     "5-Temp/대용량 파일 업로드 lfs.md",
     "5-Temp/@Transactional에 대해.md",
-    "5-Temp/가상화 관련 용어정리.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2-2.md",
     "5-Temp/오브젝트 스토리지.md",
-    "5-Temp/영단어 공부.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/gpt 2.md",
     "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
