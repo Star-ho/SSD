@@ -34,10 +34,10 @@
 	- Guava’s  Monitor
 
 4. 데이터베이스에서 동시성 문제 처리
-	- lock의 종류
+	- lock mode
 		- Shared Lock
 		- Exclusive Lock
-	- lock을 거는 대상에 따라
+	- lock type
 		- row lock
 		- Record Lock
 		- Gap Lock

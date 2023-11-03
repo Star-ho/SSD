@@ -1,0 +1,1 @@
+- Innodb의 default isolation level은 repeatable read
