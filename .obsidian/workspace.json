@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Isolation level(격리 수준).md",
+                "file": "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Isolation level(격리 수준).md",
+                "file": "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Isolation level(격리 수준).md",
+                "file": "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Isolation level(격리 수준).md"
+                "file": "3-Resource/Series/Concurrency/Shared Lock(S-lock).md"
               }
             }
           },
@@ -159,15 +159,16 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
+    "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
+    "3-Resource/Series/Concurrency/Mutex(Lock).md",
+    "3-Resource/Series/Concurrency/Isolation level(격리 수준).md",
     "3-Resource/Series/Concurrency/Consistent Read(일관된 읽기).md",
     "3-Resource/Series/Concurrency/Critical section(임계영역).md",
-    "3-Resource/Series/Concurrency/Isolation level(격리 수준).md",
-    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/gpt 1.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1.md",
-    "3-Resource/Series/Concurrency/S-lock.md",
     "2-Area/복잡하지 않은 코드란?.md",
     "5-Temp/가상화 관련 용어정리.md",
     "2-Area/Software Design/Service.md",
@@ -175,7 +176,6 @@
     "2-Area/0-Sung-ho/인생 팁/집구할떄.md",
     "2-Area/0-Sung-ho/인생 팁",
     "3-Resource/Series/Concurrency/Semaphore.md",
-    "3-Resource/Series/Concurrency/Mutex(Lock).md",
     "5-Temp/globalrollbackonparticipationfailure.md",
     "4-Archive/Concept/Artifact.md",
     "5-Temp/0-이직자료/f-lab 이력서 모음.md",

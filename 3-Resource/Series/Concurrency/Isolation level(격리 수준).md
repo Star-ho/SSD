@@ -4,12 +4,11 @@
 - 가장 낮은 격리 수준
 - 커밋되지 않은 다른 트랜잭션의 변경 내용을 읽을 수 있음
 - 어떤 트랜잭션의 변경 내용이 COMMIT이나 ROLLBACK과 상관없이 다른 트랜잭션에서 보여짐
-- Dirty Read(더티 리드)와 Non-Repeatable Read(반복 불가능한 읽기) 문제가 발생가능
 
 ## Read Committed
 - 다른 트랜잭션에서 커밋되지 않은 데이터는 읽을수 없음
 - Dirty Read(더티 리드)문제는 해결되지만, Phantom Read(유령 읽기) 문제는 발생함
-- 
+
 
 ## REPEATABLE READ
 - 한 트랜잭션 내에서 같은 쿼리를 여러 번 실행했을 때, 항상 동일한 결과를 얻을 수 있음
