@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Consistent Read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6464a6f37415356e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Resource/Series/Concurrency/Consistent Read.md",
+                "file": "3-Resource/Series/Concurrency/Isolation level(격리 수준).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Consistent Read.md",
+                "file": "3-Resource/Series/Concurrency/Isolation level(격리 수준).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Consistent Read.md",
+                "file": "3-Resource/Series/Concurrency/Isolation level(격리 수준).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Consistent Read.md"
+                "file": "3-Resource/Series/Concurrency/Isolation level(격리 수준).md"
               }
             }
           },
@@ -171,9 +159,9 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "3-Resource/Series/Concurrency/Consistent Read(일관된 읽기).md",
     "3-Resource/Series/Concurrency/Critical section(임계영역).md",
     "3-Resource/Series/Concurrency/Isolation level(격리 수준).md",
-    "3-Resource/Series/Concurrency/Consistent Read.md",
     "3-Resource/Series/Concurrency/동시성(Concurrency).md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
     "5-Temp/0-이직자료/네이버 파이낸셜/질문 1-1.md",

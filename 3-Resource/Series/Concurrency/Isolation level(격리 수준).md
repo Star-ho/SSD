@@ -16,6 +16,7 @@
 - 한 트랜잭션 내에서 같은 쿼리를 여러 번 실행했을 때, 항상 동일한 결과를 얻을 수 있음
 - 첫번째 읽기 작업이 이루어진 때를 기준으로 스냅샷을 생성함
 
-- Innodb의 default isolation level은 repeatable read
+- Innodb의 default isolation level임
 
 ## Serializable
+- autocommit이 활성화 되어있지 않으면, select 문을 select ... for share 문으로 변경함
