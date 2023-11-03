@@ -3,6 +3,7 @@
 
 - REPEATABLE READ
 - 
+- 첫번째 읽기 작업이 이루어진 때를 기준으로 스냅샷을 생성함
 
 - Innodb의 default isolation level은 repeatable read
 - 

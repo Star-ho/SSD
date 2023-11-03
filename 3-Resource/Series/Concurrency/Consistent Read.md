@@ -1,2 +1,2 @@
 - 일관된 읽기
-- 
+- REPEATABLE READ와 READ COMMITTED에서 기본으로 사용됨
