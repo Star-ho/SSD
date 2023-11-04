@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Softeware Architecture/MSA 패턴.md",
+                "file": "1-Project/Micro Sevice Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Softeware Architecture/MSA 패턴.md",
+                "file": "1-Project/Micro Sevice Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Softeware Architecture/MSA 패턴.md",
+                "file": "1-Project/Micro Sevice Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Softeware Architecture/MSA 패턴.md"
+                "file": "1-Project/Micro Sevice Pattern.md"
               }
             }
           },
@@ -159,10 +159,14 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "Pasted image 20231104223236.png",
+    "1-Project/Temp에 있는것들 정리.md",
+    "1-Project/Micro Sevice Pattern.md",
+    "1-Project/InnoDB.md",
+    "5-Temp/Softeware Architecture/MSA 패턴.md",
     "5-Temp/Softeware Architecture/msa 의 비용.md",
     "5-Temp/Softeware Architecture/mono repo vs micro repo.md",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/직무 역량상의 강점 질문.md",
-    "5-Temp/Softeware Architecture/MSA 패턴.md",
     "5-Temp/테스트 문서화.md",
     "4-Archive/Frontend/빌드시간 단축.md",
     "5-Temp/custom http method.md",
@@ -181,10 +185,6 @@
     "5-Temp/Database/database foreign key.md",
     "5-Temp/Database/Bulk Insert.md",
     "5-Temp/Database/data base lock.md",
-    "5-Temp/Database/backward index scan.md",
-    "5-Temp/Database/B+ Tree의 fan-out.md",
-    "5-Temp/Database/aurora vs mysql.md",
-    "5-Temp/Database/해시조인.md",
     "2-Area/0-Sung-ho/인생 팁",
     "real-resource/Pasted image 20231101224800.png",
     "3-Resource/Series/Concurrency",
