@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "모듈 ",
+                "query": "빌드",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,8 +157,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "5-Temp/Softeware Architecture/msa 의 비용.md",
+    "5-Temp/Softeware Architecture/mono repo vs micro repo.md",
+    "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/직무 역량상의 강점 질문.md",
+    "5-Temp/Softeware Architecture/MSA 패턴.md",
     "5-Temp/테스트 문서화.md",
     "4-Archive/Frontend/빌드시간 단축.md",
     "5-Temp/custom http method.md",
@@ -182,10 +185,6 @@
     "5-Temp/Database/B+ Tree의 fan-out.md",
     "5-Temp/Database/aurora vs mysql.md",
     "5-Temp/Database/해시조인.md",
-    "5-Temp/Database/쿼리 튜닝 관련 명령어.md",
-    "5-Temp/Database/쿼리 실행시간 보는법.md",
-    "5-Temp/Database/쿼리 실행 순서.md",
-    "5-Temp/Database/인덱스 직접 구현해보기.md",
     "2-Area/0-Sung-ho/인생 팁",
     "real-resource/Pasted image 20231101224800.png",
     "3-Resource/Series/Concurrency",
