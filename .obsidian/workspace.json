@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
+                "file": "3-Resource/Software-Design/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
+                "file": "3-Resource/Software-Design/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
+                "file": "3-Resource/Software-Design/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md"
+                "file": "3-Resource/Software-Design/Untitled.md"
               }
             }
           },
@@ -160,6 +159,9 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
+    "3-Resource/Software-Design/Untitled.md",
+    "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
     "5-Temp/Softeware Architecture/MSA 패턴.md",
     "5-Temp/Softeware Architecture/MSA archtechure.md",
     "5-Temp/Softeware Architecture/msa 의 비용.md",
@@ -184,9 +186,6 @@
     "5-Temp/Database/JOIN을 쓰는 이유.md",
     "5-Temp/Database/Lock의 종류.md",
     "5-Temp/Database/Innodb Change Buffer.md",
-    "5-Temp/Database/innodb.md",
-    "5-Temp/Database/database foreign key.md",
-    "5-Temp/Database/Bulk Insert.md",
     "2-Area/0-Sung-ho/인생 팁",
     "real-resource/Pasted image 20231101224800.png",
     "3-Resource/Series/Concurrency",
