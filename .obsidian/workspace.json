@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/Micro Sevice Pattern.md",
+                "file": "5-Temp/Softeware Architecture/MSA 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "빌드",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/Micro Sevice Pattern.md",
+                "file": "5-Temp/Softeware Architecture/MSA 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/Micro Sevice Pattern.md",
+                "file": "5-Temp/Softeware Architecture/MSA 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/Micro Sevice Pattern.md"
+                "file": "5-Temp/Softeware Architecture/MSA 패턴.md"
               }
             }
           },
@@ -159,12 +159,14 @@
   },
   "active": "23de5f54970d91dc",
   "lastOpenFiles": [
+    "5-Temp/Softeware Architecture/MSA archtechure.md",
+    "5-Temp/Softeware Architecture/msa 의 비용.md",
+    "5-Temp/Softeware Architecture/saga의 2가지 패턴, outbox 패턴.md",
+    "1-Project/Micro Sevice Pattern.md",
     "Pasted image 20231104223236.png",
     "1-Project/Temp에 있는것들 정리.md",
-    "1-Project/Micro Sevice Pattern.md",
     "1-Project/InnoDB.md",
     "5-Temp/Softeware Architecture/MSA 패턴.md",
-    "5-Temp/Softeware Architecture/msa 의 비용.md",
     "5-Temp/Softeware Architecture/mono repo vs micro repo.md",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/직무 역량상의 강점 질문.md",
     "5-Temp/테스트 문서화.md",
@@ -184,7 +186,6 @@
     "5-Temp/Database/innodb.md",
     "5-Temp/Database/database foreign key.md",
     "5-Temp/Database/Bulk Insert.md",
-    "5-Temp/Database/data base lock.md",
     "2-Area/0-Sung-ho/인생 팁",
     "real-resource/Pasted image 20231101224800.png",
     "3-Resource/Series/Concurrency",
@@ -204,7 +205,6 @@
     "real-resource/Pasted image 20231007161901.png",
     "real-resource/Pasted image 20230926224851.png",
     "real-resource/Pasted image 20231003225917.png",
-    "real-resource/Pasted image 20231003225905.png",
     "Untitled.canvas"
   ]
 }
