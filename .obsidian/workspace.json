@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md",
+                "file": "5-Temp/Softeware Architecture/MSA 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "모듈 ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md",
+                "file": "5-Temp/Softeware Architecture/MSA 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md",
+                "file": "5-Temp/Softeware Architecture/MSA 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md"
+                "file": "5-Temp/Softeware Architecture/MSA 패턴.md"
               }
             }
           },
@@ -157,10 +158,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "23de5f54970d91dc",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
-    "5-Temp/Computer Science/하이퍼쓰레딩.md",
+    "5-Temp/테스트 문서화.md",
+    "4-Archive/Frontend/빌드시간 단축.md",
+    "5-Temp/custom http method.md",
+    "5-Temp/InfraStructure/Untitled 2.md",
+    "5-Temp/InfraStructure/redis 테이블 컬럼.md",
+    "5-Temp/Java&Kotlin/Untitled.md",
     "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md",
+    "5-Temp/Computer Science/하이퍼쓰레딩.md",
     "5-Temp/Database/non-clustered index in join.md",
     "5-Temp/Database/Innodb Change Buffer를 통한 보조 인덱스 IO 개선.md",
     "5-Temp/Database/MySQL에서 스냅샷과 undo log.md",
@@ -179,12 +186,6 @@
     "5-Temp/Database/쿼리 실행시간 보는법.md",
     "5-Temp/Database/쿼리 실행 순서.md",
     "5-Temp/Database/인덱스 직접 구현해보기.md",
-    "5-Temp/Database/왜 데이터베이스에 날리는 두번째 쿼리는 빠를까?.md",
-    "5-Temp/Database/면접질문 정규화와 반정규화에 대해 질문하시길래.md",
-    "5-Temp/따닥 방지.md",
-    "5-Temp/Database/격리레벨별 구현방법.md",
-    "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
-    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
     "2-Area/0-Sung-ho/인생 팁",
     "real-resource/Pasted image 20231101224800.png",
     "3-Resource/Series/Concurrency",

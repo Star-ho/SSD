@@ -1,0 +1,1 @@
+https://cloud.google.com/apis/design/custom_methods?hl=ko
