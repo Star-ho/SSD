@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A는 B다 라는 말을 했을 때 어떻게 신뢰할 수 있는가?.md",
+                "file": "5-Temp/마인드셋/장애에 대해서.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Software-Design/Untitled.md",
+                "file": "5-Temp/마인드셋/장애에 대해서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Software-Design/Untitled.md",
+                "file": "5-Temp/마인드셋/장애에 대해서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Software-Design/Untitled.md"
+                "file": "5-Temp/마인드셋/장애에 대해서.md"
               }
             }
           },
@@ -169,12 +170,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c82366bd12d53beb",
+  "active": "e1f9e6e9f0a36779",
   "lastOpenFiles": [
+    "5-Temp/마인드셋/A는 B다 라는 말을 했을 때 어떻게 신뢰할 수 있는가?.md",
+    "3-Resource/Software-Design/Untitled.md",
     "3-Resource/Software-Design/Saga Pattern.md",
     "Pasted image 20231105210948.png",
     "4-Archive/Computer-Science/왜 Block IO보다  NonBlock IO가 느릴까?.md",
-    "A는 B다 라는 말을 했을 때 어떻게 신뢰할 수 있는가?.md",
     "5-Temp/Reactive/nio 모델 관련 글.md",
     "Pasted image 20231105205052.png",
     "Pasted image 20231105204700.png",
@@ -188,7 +190,6 @@
     "5-Temp/ACID.md",
     "5-Temp/InfraStructure/메세지 브로커.md",
     "3-Resource/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
-    "3-Resource/Software-Design/Untitled.md",
     "3-Resource/Series/Concurrency/동시성(Concurrency).md",
     "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
     "5-Temp/Softeware Architecture/MSA archtechure.md",
