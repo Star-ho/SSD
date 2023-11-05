@@ -63,3 +63,4 @@
 		- Segregated Access of Global Atomicity의 약어
 
 https://stackoverflow.com/questions/63319018/why-the-pattern-for-microservices-distributed-transactions-named-as-saga
+https://microservices.io/patterns/data/saga.html
