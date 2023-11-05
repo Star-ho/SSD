@@ -159,6 +159,10 @@
   },
   "active": "c82366bd12d53beb",
   "lastOpenFiles": [
+    "Pasted image 20231105170101.png",
+    "Pasted image 20231105170046.png",
+    "Pasted image 20231105170040.png",
+    "Pasted image 20231105170022.png",
     "5-Temp/Softeware Architecture/MSA 패턴.md",
     "5-Temp/Softeware Architecture/msa 의 비용.md",
     "5-Temp/Softeware Architecture/Saga Pattern.md",
@@ -185,7 +189,6 @@
     "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md",
     "5-Temp/Computer Science/하이퍼쓰레딩.md",
     "5-Temp/Database/non-clustered index in join.md",
-    "5-Temp/Database/Innodb Change Buffer를 통한 보조 인덱스 IO 개선.md",
     "2-Area/0-Sung-ho/인생 팁",
     "real-resource/Pasted image 20231101224800.png",
     "3-Resource/Series/Concurrency",
@@ -202,9 +205,6 @@
     "real-resource/Pasted image 20231014225322.png",
     "real-resource/Pasted image 20231011230739.png",
     "real-resource/Pasted image 20231007162016.png",
-    "real-resource/Pasted image 20231007161901.png",
-    "real-resource/Pasted image 20230926224851.png",
-    "real-resource/Pasted image 20231003225917.png",
     "Untitled.canvas"
   ]
 }
