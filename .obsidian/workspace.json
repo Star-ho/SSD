@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "841d91bfce06bae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "왜 Block IO보다  NonBlock IO가 느릴까?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1f9e6e9f0a36779",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Non-Blocking-IO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "왜 Block IO보다  NonBlock IO가 느릴까?.md",
+                "file": "5-Temp/Softeware Architecture/Saga Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "왜 Block IO보다  NonBlock IO가 느릴까?.md",
+                "file": "5-Temp/Softeware Architecture/Saga Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "왜 Block IO보다  NonBlock IO가 느릴까?.md"
+                "file": "5-Temp/Softeware Architecture/Saga Pattern.md"
               }
             }
           },
@@ -182,12 +169,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "841d91bfce06bae4",
+  "active": "c82366bd12d53beb",
   "lastOpenFiles": [
-    "Pasted image 20231105205052.png",
+    "4-Archive/Computer-Science/왜 Block IO보다  NonBlock IO가 느릴까?.md",
     "A는 B다 라는 말을 했을 때 어떻게 신뢰할 수 있는가?.md",
+    "5-Temp/Reactive/nio 모델 관련 글.md",
+    "Pasted image 20231105205052.png",
     "5-Temp/Softeware Architecture/Saga Pattern.md",
-    "왜 Block IO보다  NonBlock IO가 느릴까?.md",
     "Pasted image 20231105204700.png",
     "Pasted image 20231105204457.png",
     "Pasted image 20231105170101.png",
@@ -229,7 +217,6 @@
     "5-Temp/Softeware Architecture/Even Driven Architecture",
     "real-resource/Pasted image 20231026205445.png",
     "4-Archive/0-Think",
-    "real-resource/Pasted image 20231014225459.png",
     "Untitled.canvas"
   ]
 }
