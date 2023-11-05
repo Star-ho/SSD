@@ -4,6 +4,12 @@ MSA장점
 	- 프로젝트 별로 나눌시 브랜치가 적어짐
 	- 
 
+
+단점
+- 디버깅이 어렵다
+- 구조가 복잡하다
+
+
 https://happycloud-lee.tistory.com/154
 아웃박스 패턴
 https://velog.io/@eastperson/Transaction-Outbox-Pattern-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0
