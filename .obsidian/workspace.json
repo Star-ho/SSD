@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "841d91bfce06bae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "왜 Block IO보다  NonBlock IO가 느릴까?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1f9e6e9f0a36779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A는 B다 라는 말을 했을 때 어떻게 신뢰할 수 있는가?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Softeware Architecture/Saga Pattern.md",
+                "file": "왜 Block IO보다  NonBlock IO가 느릴까?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Softeware Architecture/Saga Pattern.md",
+                "file": "왜 Block IO보다  NonBlock IO가 느릴까?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Softeware Architecture/Saga Pattern.md"
+                "file": "왜 Block IO보다  NonBlock IO가 느릴까?.md"
               }
             }
           },
@@ -157,15 +182,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c82366bd12d53beb",
+  "active": "841d91bfce06bae4",
   "lastOpenFiles": [
+    "Pasted image 20231105205052.png",
+    "A는 B다 라는 말을 했을 때 어떻게 신뢰할 수 있는가?.md",
+    "5-Temp/Softeware Architecture/Saga Pattern.md",
+    "왜 Block IO보다  NonBlock IO가 느릴까?.md",
+    "Pasted image 20231105204700.png",
+    "Pasted image 20231105204457.png",
     "Pasted image 20231105170101.png",
     "Pasted image 20231105170046.png",
     "Pasted image 20231105170040.png",
     "Pasted image 20231105170022.png",
     "5-Temp/Softeware Architecture/MSA 패턴.md",
     "5-Temp/Softeware Architecture/msa 의 비용.md",
-    "5-Temp/Softeware Architecture/Saga Pattern.md",
     "5-Temp/ACID.md",
     "5-Temp/InfraStructure/메세지 브로커.md",
     "3-Resource/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
@@ -187,8 +217,6 @@
     "5-Temp/InfraStructure/redis 테이블 컬럼.md",
     "5-Temp/Java&Kotlin/Untitled.md",
     "5-Temp/Java&Kotlin/JDK 18 and the UTF-8 as default charset.md",
-    "5-Temp/Computer Science/하이퍼쓰레딩.md",
-    "5-Temp/Database/non-clustered index in join.md",
     "2-Area/0-Sung-ho/인생 팁",
     "real-resource/Pasted image 20231101224800.png",
     "3-Resource/Series/Concurrency",
@@ -202,9 +230,6 @@
     "real-resource/Pasted image 20231026205445.png",
     "4-Archive/0-Think",
     "real-resource/Pasted image 20231014225459.png",
-    "real-resource/Pasted image 20231014225322.png",
-    "real-resource/Pasted image 20231011230739.png",
-    "real-resource/Pasted image 20231007162016.png",
     "Untitled.canvas"
   ]
 }
