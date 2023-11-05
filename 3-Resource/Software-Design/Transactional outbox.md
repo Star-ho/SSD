@@ -23,16 +23,17 @@
 	- MySQL binlog
 	- Postgres WAL
 	- AWS DynamoDB table streams
-- log tailing시 cdc를 사용
+- log tailing시 cdc를 고려
 - kafka connect도 사용할 수 있다니 확인해 볼것
 
 ### Polling publisher
 - outbox 데이터를 주기적으로 polling하여 변경 발생시 message broker에 이벤트 발행
-
+- 주기적으로 db를 확인해야 하니 불필요한 자원 소모 발생
 
 ### 장점
 - 모든 데이터가 outbox에 저장되므로 장애가 났을때 대응이 수월함
 - 2PC가 지원이 안되는 환경에서 대안이 될 수 있음
+
 ### 단점
 - 메시지를 직접 보내는 패턴보다 속도가 느릴 수 있음
 	- 메시지는 필요한상황에 바로 보내기때문
