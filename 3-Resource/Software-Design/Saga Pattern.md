@@ -26,6 +26,7 @@
 - 각각의 서비스가 로컬트랜잭션을 수행하고, 작업이 끝나면 다음 서비스로 메시지를 보내는 방식
 - A -> B-> C 순서일때, A가 B를, B가 C를 호출함
 - 롤백시 C->B->A 순으로 호출
+- Orchestration방식보다 구현이 간편함(중앙 관리자가 없기 때문)
 
 
 ### Orchestration-based saga
@@ -38,8 +39,10 @@
 	4. Customer Service에서 잔고 차감 명령을 시도함
 	5. 그 후 orchestrator에 결과를 리턴함
 	6. saga orchestrator에서 주문을 승인 or 거절
-- Orchestrator가 추가되어 개발하기 더 힘듬
+- Choreography방식보다 구현이 어려움(orchestrator가 추가되기 때문)
 - 하지만 A->B->C상황보다 처리하기 쉬움(Orchestrator에서 A,B,C를 호출하면 되기 때문)
+- 각 서비스가 다음에 호출해야할 서비스를 알 지 않아도 됨
+- orchestrator가 단일 실패 지점이 될 수 있음
 
 ## 장점
 - 애플리케이션이 분산 트랜잭션을 사용하지 않고도 여러 서비스에서 데이터 일관성을 유지 가능
