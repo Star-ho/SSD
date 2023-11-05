@@ -35,8 +35,8 @@
 	1. order Service에서 `Post /orders`요청을 받고, Order saga orchestrator를 생성함
 	2. saga orchestrator에서 PENDIN상태의 주문을 생성
 	3. saga orchestrator에서 Customer Service에 잔고 차감명령을 보냄
-	4. Customer Service에서 잔고 차감 명령을 수행함
-	5. Customer Service결과를 리턴함
+	4. Customer Service에서 잔고 차감 명령을 시도함
+	5. 그 후 orchestrator에 결과를 리턴함
 	6. saga orchestrator에서 주문을 승인 or 거절
 - Orchestrator가 추가되어 개발하기 더 힘듬
 - 하지만 A->B->C상황보다 처리하기 쉬움(Orchestrator에서 A,B,C를 호출하면 되기 때문)
