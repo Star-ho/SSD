@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/메세지 브로커.md",
+                "file": "5-Temp/Softeware Architecture/Saga Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/메세지 브로커.md",
+                "file": "5-Temp/Softeware Architecture/Saga Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/메세지 브로커.md",
+                "file": "5-Temp/Softeware Architecture/Saga Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/메세지 브로커.md"
+                "file": "5-Temp/Softeware Architecture/Saga Pattern.md"
               }
             }
           },
@@ -160,11 +159,13 @@
   },
   "active": "c82366bd12d53beb",
   "lastOpenFiles": [
+    "5-Temp/Softeware Architecture/MSA 패턴.md",
+    "5-Temp/Softeware Architecture/Saga Pattern.md",
+    "5-Temp/InfraStructure/메세지 브로커.md",
     "3-Resource/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
     "3-Resource/Software-Design/Untitled.md",
     "3-Resource/Series/Concurrency/동시성(Concurrency).md",
     "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
-    "5-Temp/Softeware Architecture/MSA 패턴.md",
     "5-Temp/Softeware Architecture/MSA archtechure.md",
     "5-Temp/Softeware Architecture/msa 의 비용.md",
     "5-Temp/Softeware Architecture/saga의 2가지 패턴, outbox 패턴.md",
@@ -185,8 +186,6 @@
     "5-Temp/Database/non-clustered index in join.md",
     "5-Temp/Database/Innodb Change Buffer를 통한 보조 인덱스 IO 개선.md",
     "5-Temp/Database/MySQL에서 스냅샷과 undo log.md",
-    "5-Temp/Database/JOIN을 쓰는 이유.md",
-    "5-Temp/Database/Lock의 종류.md",
     "2-Area/0-Sung-ho/인생 팁",
     "real-resource/Pasted image 20231101224800.png",
     "3-Resource/Series/Concurrency",
