@@ -47,8 +47,9 @@
 		- insert intention lock
 	- isolation level
 
-5. 레디스를 이용한 분산락
-	- Distribution Lock
+5. Named Lock
+	- redis
+	- database
 
 https://stackoverflow.com/questions/11600520/synchronized-vs-reentrantlock-on-performance
 

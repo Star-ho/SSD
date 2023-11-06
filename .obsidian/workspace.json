@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Exclusive Lock(X-Lock).md",
+                "file": "5-Temp/데이터베이스별 특장.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Exclusive Lock(X-Lock).md",
+                "file": "5-Temp/데이터베이스별 특장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Exclusive Lock(X-Lock).md",
+                "file": "5-Temp/데이터베이스별 특장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Exclusive Lock(X-Lock).md"
+                "file": "5-Temp/데이터베이스별 특장.md"
               }
             }
           },
@@ -159,9 +159,11 @@
   },
   "active": "e1f9e6e9f0a36779",
   "lastOpenFiles": [
-    "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
-    "3-Resource/Series/Concurrency/Exclusive Lock(X-Lock).md",
     "3-Resource/Series/Concurrency/동시성(Concurrency).md",
+    "5-Temp/데이터베이스별 특장.md",
+    "3-Resource/Series/Concurrency/Semaphore.md",
+    "3-Resource/Series/Concurrency/Exclusive Lock(X-Lock).md",
+    "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
     "3-Resource/Java&Kotlin/JUnit.md",
     "3-Resource/Java&Kotlin/Java built in Annotation.md",
     "1-Project/InnoDB.md",
@@ -193,8 +195,6 @@
     "5-Temp/Softeware Architecture/MSA 패턴.md",
     "5-Temp/Softeware Architecture/msa 의 비용.md",
     "5-Temp/ACID.md",
-    "5-Temp/InfraStructure/메세지 브로커.md",
-    "3-Resource/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
     "2-Area/0-Sung-ho/인생 팁",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
