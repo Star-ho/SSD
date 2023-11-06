@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/redis에 대해 공부해보자.md",
+                "file": "5-Temp/Database/mysql system row?.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/redis에 대해 공부해보자.md",
+                "file": "5-Temp/Database/mysql system row?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/redis에 대해 공부해보자.md",
+                "file": "5-Temp/Database/mysql system row?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/redis에 대해 공부해보자.md"
+                "file": "5-Temp/Database/mysql system row?.md"
               }
             }
           },
@@ -160,6 +159,9 @@
   },
   "active": "e1f9e6e9f0a36779",
   "lastOpenFiles": [
+    "1-Project/InnoDB.md",
+    "5-Temp/Database/mysql system row?.md",
+    "5-Temp/InfraStructure/redis에 대해 공부해보자.md",
     "5-Temp/Softeware Architecture/redis 분산락.md",
     "5-Temp/데이터베이스별 특장.md",
     "3-Resource/Series/Concurrency/동시성(Concurrency).md",
@@ -168,7 +170,6 @@
     "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
     "3-Resource/Java&Kotlin/JUnit.md",
     "3-Resource/Java&Kotlin/Java built in Annotation.md",
-    "1-Project/InnoDB.md",
     "1-Project/Micro Sevice Pattern.md",
     "1-Project/Temp에 있는것들 정리.md",
     "real-resource/Pasted image 20231105225014.png",
@@ -194,8 +195,6 @@
     "real-resource/Pasted image 20231105170046.png",
     "real-resource/Pasted image 20231105170040.png",
     "real-resource/Pasted image 20231105170022.png",
-    "5-Temp/Softeware Architecture/MSA 패턴.md",
-    "5-Temp/Softeware Architecture/msa 의 비용.md",
     "2-Area/0-Sung-ho/인생 팁",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
