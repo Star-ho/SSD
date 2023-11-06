@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Software-Design/Transactional outbox.md",
+                "file": "3-Resource/Series/Concurrency/Exclusive Lock(X-Lock).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Non-Blocking-IO",
+                "query": "\"---\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Software-Design/Transactional outbox.md",
+                "file": "3-Resource/Series/Concurrency/Exclusive Lock(X-Lock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Software-Design/Transactional outbox.md",
+                "file": "3-Resource/Series/Concurrency/Exclusive Lock(X-Lock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Software-Design/Transactional outbox.md"
+                "file": "3-Resource/Series/Concurrency/Exclusive Lock(X-Lock).md"
               }
             }
           },
@@ -159,42 +159,42 @@
   },
   "active": "e1f9e6e9f0a36779",
   "lastOpenFiles": [
-    "Pasted image 20231105225014.png",
-    "Pasted image 20231105224429.png",
-    "3-Resource/Software-Design/Untitled.md",
+    "3-Resource/Series/Concurrency/Shared Lock(S-lock).md",
+    "3-Resource/Series/Concurrency/Exclusive Lock(X-Lock).md",
+    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
+    "3-Resource/Java&Kotlin/JUnit.md",
+    "3-Resource/Java&Kotlin/Java built in Annotation.md",
+    "1-Project/InnoDB.md",
+    "1-Project/Micro Sevice Pattern.md",
+    "1-Project/Temp에 있는것들 정리.md",
+    "real-resource/Pasted image 20231105225014.png",
+    "5-Temp/마인드셋/개발익혀야할것들.md",
+    "4-Archive/Concept/Static vs Dynamic,Strong vs Weak.md",
+    "3-Resource/Database/mysql Binanry Log.md",
+    "5-Temp/Database/MVCC.md",
+    "3-Resource/Spring/JPA entity manager, persistence context.md",
+    "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
     "3-Resource/Software-Design/Transactional outbox.md",
+    "real-resource/Pasted image 20231105224429.png",
+    "3-Resource/Software-Design/Untitled.md",
     "3-Resource/Software-Design/Saga Pattern.md",
     "5-Temp/마인드셋/장애에 대해서.md",
     "5-Temp/마인드셋/A는 B다 라는 말을 했을 때 어떻게 신뢰할 수 있는가?.md",
-    "Pasted image 20231105210948.png",
+    "real-resource/Pasted image 20231105210948.png",
     "4-Archive/Computer-Science/왜 Block IO보다  NonBlock IO가 느릴까?.md",
     "5-Temp/Reactive/nio 모델 관련 글.md",
-    "Pasted image 20231105205052.png",
-    "Pasted image 20231105204700.png",
-    "Pasted image 20231105204457.png",
-    "Pasted image 20231105170101.png",
-    "Pasted image 20231105170046.png",
-    "Pasted image 20231105170040.png",
-    "Pasted image 20231105170022.png",
+    "real-resource/Pasted image 20231105205052.png",
+    "real-resource/Pasted image 20231105204700.png",
+    "real-resource/Pasted image 20231105204457.png",
+    "real-resource/Pasted image 20231105170101.png",
+    "real-resource/Pasted image 20231105170046.png",
+    "real-resource/Pasted image 20231105170040.png",
+    "real-resource/Pasted image 20231105170022.png",
     "5-Temp/Softeware Architecture/MSA 패턴.md",
     "5-Temp/Softeware Architecture/msa 의 비용.md",
     "5-Temp/ACID.md",
     "5-Temp/InfraStructure/메세지 브로커.md",
     "3-Resource/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
-    "3-Resource/Series/Concurrency/동시성(Concurrency).md",
-    "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
-    "5-Temp/Softeware Architecture/MSA archtechure.md",
-    "5-Temp/Softeware Architecture/saga의 2가지 패턴, outbox 패턴.md",
-    "1-Project/Micro Sevice Pattern.md",
-    "Pasted image 20231104223236.png",
-    "1-Project/Temp에 있는것들 정리.md",
-    "1-Project/InnoDB.md",
-    "5-Temp/Softeware Architecture/mono repo vs micro repo.md",
-    "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/직무 역량상의 강점 질문.md",
-    "5-Temp/테스트 문서화.md",
-    "4-Archive/Frontend/빌드시간 단축.md",
-    "5-Temp/custom http method.md",
-    "5-Temp/InfraStructure/Untitled 2.md",
     "2-Area/0-Sung-ho/인생 팁",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",

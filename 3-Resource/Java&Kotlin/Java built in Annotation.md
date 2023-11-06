@@ -17,7 +17,6 @@ java의 built in Annotation은
 이 중 Retention의 정확한 의미가 와닿지 않아 정리해 보겠다.
 
 # Retention
----
 ```
 Indicates how long annotations with the annotated interface are to be retained
 ```

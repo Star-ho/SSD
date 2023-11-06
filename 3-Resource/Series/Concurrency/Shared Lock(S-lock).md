@@ -2,8 +2,6 @@
 - S-lock이 걸려있는 object에 S-lock를 또 걸 수 있지만 X-lock은 걸 수 없음
 
 
-
-
 - 아래의 명령어로 lock을 걸 수 있음
 	- select .. lock in share mode ;  
 	- select ..  for share ;  
