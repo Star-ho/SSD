@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/분산 트랜잭션.md",
+                "file": "5-Temp/00사업아이템/배송조회 api.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "saga",
+                "query": "사업",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/분산 트랜잭션.md",
+                "file": "5-Temp/00사업아이템/배송조회 api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/분산 트랜잭션.md",
+                "file": "5-Temp/00사업아이템/배송조회 api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/분산 트랜잭션.md"
+                "file": "5-Temp/00사업아이템/배송조회 api.md"
               }
             }
           },
@@ -160,6 +159,12 @@
   },
   "active": "e1f9e6e9f0a36779",
   "lastOpenFiles": [
+    "5-Temp/00사업아이템/protobuf json change 페이지.md",
+    "5-Temp/00사업아이템/배송조회 api.md",
+    "5-Temp/Untitled 1.md",
+    "5-Temp/00사업아이템",
+    "2-Area/intellij 단축키 외우기.md",
+    "5-Temp/분산 트랜잭션.md",
     "2-Area/0-Sung-ho/공부법.md",
     "5-Temp/마인드셋/Untitled.md",
     "5-Temp/마인드셋/10계명...md",
@@ -174,7 +179,6 @@
     "5-Temp/마인드셋/리팩토링.md",
     "5-Temp/마인드셋/된다 안된다, 내가 못한다 의 정의?.md",
     "5-Temp/마인드셋/많은 자료.md",
-    "5-Temp/마인드셋/사업 아이템.md",
     "5-Temp/마인드셋/새로운 코드, 프로젝트, 남의코드를 볼때.md",
     "5-Temp/마인드셋/설명할때.md",
     "5-Temp/마인드셋/신뢰자본.md",
@@ -182,10 +186,6 @@
     "5-Temp/마인드셋/창업시.md",
     "5-Temp/마인드셋/토론할때.md",
     "5-Temp/마인드셋/투명한 소통.md",
-    "5-Temp/마인드셋/협업시 중요한거.md",
-    "5-Temp/마인드셋/회사 정할 때 절대 불변의 1원칙.md",
-    "5-Temp/마인드셋/A는 B다 라는 말을 했을 때 어떻게 신뢰할 수 있는가?.md",
-    "5-Temp/마인드셋/webflux사용 후기.md",
     "2-Area/생각정리",
     "real-resource/Pasted image 20231105225014.png",
     "real-resource/Pasted image 20231105224429.png",
@@ -200,7 +200,6 @@
     "2-Area/0-Sung-ho/인생 팁",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
-    "5-Temp/Untitled",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
     "5-Temp/aws/Untitled",
