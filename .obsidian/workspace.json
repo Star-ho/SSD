@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Database/안녕하세요! 데이터 많은 테이블에 부하나 중단을 최소화 하면서 인덱스를 걸려면 어떤 전략이 있을까요?.md",
+                "file": "5-Temp/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Database/안녕하세요! 데이터 많은 테이블에 부하나 중단을 최소화 하면서 인덱스를 걸려면 어떤 전략이 있을까요?.md",
+                "file": "5-Temp/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Database/안녕하세요! 데이터 많은 테이블에 부하나 중단을 최소화 하면서 인덱스를 걸려면 어떤 전략이 있을까요?.md",
+                "file": "5-Temp/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Database/안녕하세요! 데이터 많은 테이블에 부하나 중단을 최소화 하면서 인덱스를 걸려면 어떤 전략이 있을까요?.md"
+                "file": "5-Temp/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "e1f9e6e9f0a36779",
   "lastOpenFiles": [
-    "5-Temp/INSERT IGNORE.md",
+    "5-Temp/Database/explain analyze.md",
+    "5-Temp/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
     "5-Temp/Database/안녕하세요! 데이터 많은 테이블에 부하나 중단을 최소화 하면서 인덱스를 걸려면 어떤 전략이 있을까요?.md",
+    "5-Temp/INSERT IGNORE.md",
     "5-Temp/kotest blocking.md",
     "5-Temp/InfraStructure/redis에 대해 공부해보자.md",
     "5-Temp/Untitled 2.md",
@@ -184,8 +186,6 @@
     "2-Area/intellij 단축키 외우기.md",
     "5-Temp/분산 트랜잭션.md",
     "2-Area/0-Sung-ho/공부법.md",
-    "5-Temp/마인드셋/Untitled.md",
-    "5-Temp/마인드셋/10계명...md",
     "2-Area/생각정리",
     "real-resource/Pasted image 20231105225014.png",
     "real-resource/Pasted image 20231105224429.png",
