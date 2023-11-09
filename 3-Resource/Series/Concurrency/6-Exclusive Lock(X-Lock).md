@@ -2,4 +2,6 @@
 - X-Lock이 걸린 객체에 대해 다른 객체에서 S-Lock, X-Lock 걸수 없음
 
 - 변경 또는 삭제를 위해 락을 걸떄 활용
- [`SELECT ... FOR UPDATE`](https://dev.mysql.com/doc/refman/8.0/en/select.html "13.2.13 SELECT Statement")문으로 X-lock을 걸 수 있음
+- Mysql의 Repeatable-Read는 Constent Read 기술을 사용해여 X-Lock걸린 row를 읽도록 함으로써 효율을 높임
+	- X-Lock이 걸리기 전의 값을 읽음
+ 
