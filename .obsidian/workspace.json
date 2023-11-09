@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Intention shared lock, exclusive lock.md",
+                "file": "3-Resource/Series/Concurrency/8-Record Locks.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Intention shared lock, exclusive lock.md",
+                "file": "3-Resource/Series/Concurrency/8-Record Locks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Intention shared lock, exclusive lock.md",
+                "file": "3-Resource/Series/Concurrency/8-Record Locks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/Intention shared lock, exclusive lock.md"
+                "file": "3-Resource/Series/Concurrency/8-Record Locks.md"
               }
             }
           },
@@ -171,9 +171,10 @@
   },
   "active": "e1f9e6e9f0a36779",
   "lastOpenFiles": [
+    "3-Resource/Series/Concurrency/7-Intention shared lock, exclusive lock.md",
+    "3-Resource/Series/Concurrency/8-Record Locks.md",
     "3-Resource/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
     "3-Resource/Series/Concurrency/4-Consistent Read(일관된 읽기).md",
-    "3-Resource/Series/Concurrency/Intention shared lock, exclusive lock.md",
     "3-Resource/Series/Concurrency/5-Shared Lock(S-lock).md",
     "3-Resource/Series/Concurrency/3-Critical section(임계영역).md",
     "3-Resource/Series/Concurrency/2-Semaphore.md",
@@ -196,7 +197,6 @@
     "5-Temp/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
     "5-Temp/분산 트랜잭션.md",
     "5-Temp/스택 자료구조.md",
-    "5-Temp/정적 클래스란?.md",
     "5-Temp/00사업아이템",
     "2-Area/생각정리",
     "real-resource/Pasted image 20231105225014.png",
