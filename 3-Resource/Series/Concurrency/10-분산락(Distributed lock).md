@@ -1,0 +1,14 @@
+- named lock,
+- mysql, redis
+- redis서버가 없는 상황에서 mysql named lock도 유용한 선택지임
+- mysql은 connection 끊기면 lock도 풀림
+
+- 하나의 작업이 한번만 실행되게 할때 유용함
+	- 따닥 방지
+- 데이터베이스에 부하가 가지않음
+	- but, 실제로 작업하는 row가 db lock이 걸려있을시 처리
+- 실제로 사용하기 위해 멱등성 보장이 필요할 수 있음
+	- https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
+
+
+#wait-to-update 
