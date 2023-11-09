@@ -19,5 +19,4 @@
 
 https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_shared_lock
 
-
-[`SELECT ... FOR UPDATE`](https://dev.mysql.com/doc/refman/8.0/en/select.html "13.2.13 SELECT Statement")문으로 X-lock을 걸 수 있음
+https://dev.mysql.com/doc/refman/8.0/en/innodb-locking.html

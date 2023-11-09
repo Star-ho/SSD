@@ -6,3 +6,6 @@
 
 > Mysql Doc에는 row락이라는 용어가 등장하지 않음,
 > 스택오버플로우에는 record lock과 row lock이 동일 하다는 이야기가 있음
+
+
+https://dev.mysql.com/doc/refman/8.0/en/innodb-locking.html

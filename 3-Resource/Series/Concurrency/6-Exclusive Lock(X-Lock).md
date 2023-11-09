@@ -4,4 +4,5 @@
 - 변경 또는 삭제를 위해 락을 걸떄 활용
 - Mysql의 Repeatable-Read는 Constent Read 기술을 사용해여 X-Lock걸린 row를 읽도록 함으로써 효율을 높임
 	- X-Lock이 걸리기 전의 값을 읽음
- 
+
+https://dev.mysql.com/doc/refman/8.0/en/innodb-locking.html

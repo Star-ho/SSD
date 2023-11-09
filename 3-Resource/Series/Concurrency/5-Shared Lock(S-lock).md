@@ -3,3 +3,4 @@
 - S-lock이 걸려있는 object에 S-lock를 또 걸 수 있지만 X-lock은 걸 수 없음
 
 
+https://dev.mysql.com/doc/refman/8.0/en/innodb-locking.html

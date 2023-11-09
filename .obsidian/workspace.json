@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/7-Intention shared lock, exclusive lock.md",
+                "file": "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/7-Intention shared lock, exclusive lock.md",
+                "file": "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/7-Intention shared lock, exclusive lock.md",
+                "file": "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/7-Intention shared lock, exclusive lock.md"
+                "file": "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md"
               }
             }
           },
@@ -172,16 +172,16 @@
   "active": "e1f9e6e9f0a36779",
   "lastOpenFiles": [
     "3-Resource/Series/Concurrency/9-Isolation level(격리 수준).md",
-    "3-Resource/Series/Concurrency/8-Record Locks.md",
-    "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
-    "3-Resource/Series/Concurrency/0-동시성(Concurrency).md",
-    "3-Resource/Series/Concurrency/1-Mutex(Lock).md",
     "3-Resource/Series/Concurrency/7-Intention shared lock, exclusive lock.md",
+    "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
+    "3-Resource/Series/Concurrency/8-Record Locks.md",
     "3-Resource/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
-    "3-Resource/Series/Concurrency/4-Consistent Read(일관된 읽기).md",
     "3-Resource/Series/Concurrency/5-Shared Lock(S-lock).md",
-    "3-Resource/Series/Concurrency/3-Critical section(임계영역).md",
+    "3-Resource/Series/Concurrency/0-동시성(Concurrency).md",
+    "3-Resource/Series/Concurrency/4-Consistent Read(일관된 읽기).md",
     "3-Resource/Series/Concurrency/2-Semaphore.md",
+    "3-Resource/Series/Concurrency/3-Critical section(임계영역).md",
+    "3-Resource/Series/Concurrency/1-Mutex(Lock).md",
     "3-Resource/Series/Concurrency/Exclusive Locks(X-lock).md",
     "5-Temp/InfraStructure/Elastic Search Document.md",
     "5-Temp/Database/database foreign key.md",
