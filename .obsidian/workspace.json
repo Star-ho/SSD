@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Database/DB마이그레이션은 툴.md",
+                "file": "3-Resource/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "분산락",
+                "query": "tag:#wait-to-update",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Database/DB마이그레이션은 툴.md",
+                "file": "3-Resource/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Database/DB마이그레이션은 툴.md",
+                "file": "3-Resource/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Database/DB마이그레이션은 툴.md"
+                "file": "3-Resource/Series/Concurrency/6-Exclusive Lock(X-Lock).md"
               }
             }
           },
@@ -171,32 +171,32 @@
   },
   "active": "e1f9e6e9f0a36779",
   "lastOpenFiles": [
-    "5-Temp/게임서버에서 레이턴시 처리.md",
-    "5-Temp/Database/DB마이그레이션은 툴.md",
-    "5-Temp/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
-    "5-Temp/Softeware Architecture/redis 분산락.md",
-    "5-Temp/Database/explain analyze.md",
-    "5-Temp/Database/안녕하세요! 데이터 많은 테이블에 부하나 중단을 최소화 하면서 인덱스를 걸려면 어떤 전략이 있을까요?.md",
-    "5-Temp/INSERT IGNORE.md",
-    "5-Temp/kotest blocking.md",
-    "5-Temp/InfraStructure/redis에 대해 공부해보자.md",
-    "5-Temp/Untitled 2.md",
-    "5-Temp/Untitled 1.md",
-    "5-Temp/Untitled 3.md",
-    "5-Temp/Spring/Untitled.md",
-    "5-Temp/gap lock.md",
-    "5-Temp/Database/어떤 데이터베이스를 선택할 것인가.md",
-    "5-Temp/면접.md",
-    "5-Temp/마인드셋/변하지 않을 근본적인 기술에 대한건.md",
-    "5-Temp/InfraStructure/es green yellow red.md",
-    "3-Resource/Infrastructure/Elastic Search Data Tier.md",
+    "3-Resource/Series/Concurrency/5-Shared Lock(S-lock).md",
+    "3-Resource/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
+    "3-Resource/Series/Concurrency/4-Consistent Read(일관된 읽기).md",
+    "3-Resource/Series/Concurrency/3-Critical section(임계영역).md",
+    "3-Resource/Series/Concurrency/2-Semaphore.md",
+    "3-Resource/Series/Concurrency/1-Mutex(Lock).md",
+    "3-Resource/Series/Concurrency/0-동시성(Concurrency).md",
+    "3-Resource/Series/Concurrency/Isolation level(격리 수준).md",
+    "3-Resource/Series/Concurrency/Exclusive Locks(X-lock).md",
+    "5-Temp/InfraStructure/Elastic Search Document.md",
+    "5-Temp/Database/database foreign key.md",
+    "5-Temp/Database/elastic search master node vs data node.md",
     "5-Temp/InfraStructure/elasticsearch index template.md",
-    "5-Temp/InfraStructure/es index template.md",
-    "5-Temp/Spring/spring data jdbc vs spring data r2dbc.md",
-    "5-Temp/Computer Science/syscall socket bind.md",
-    "5-Temp/코드짤떄/클래스 당 하나의 책임이란?.md",
-    "5-Temp/00사업아이템/배송조회 api.md",
-    "5-Temp/00사업아이템/protobuf json change 페이지.md",
+    "5-Temp/Database/MVCC.md",
+    "5-Temp/partion나눈거 한번에 조회시?.md",
+    "5-Temp/Softeware Architecture/saga의 2가지 패턴, outbox 패턴.md",
+    "5-Temp/Database/s-lock x-lock.md",
+    "5-Temp/Database/Database Buffer Cache.md",
+    "5-Temp/ACID.md",
+    "5-Temp/Database/B+ Tree의 fan-out.md",
+    "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
+    "5-Temp/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
+    "5-Temp/분산 트랜잭션.md",
+    "5-Temp/스택 자료구조.md",
+    "5-Temp/정적 클래스란?.md",
+    "5-Temp/면접.md",
     "5-Temp/00사업아이템",
     "2-Area/생각정리",
     "real-resource/Pasted image 20231105225014.png",
