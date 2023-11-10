@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
+                "file": "5-Temp/sftp 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wait-to-update",
+                "query": "43.201.61.44",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
+                "file": "5-Temp/sftp 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
+                "file": "5-Temp/sftp 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md"
+                "file": "5-Temp/sftp 명령어.md"
               }
             }
           },
@@ -171,9 +172,9 @@
   },
   "active": "e1f9e6e9f0a36779",
   "lastOpenFiles": [
+    "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
     "3-Resource/Series/Concurrency/9-Isolation level(격리 수준).md",
     "3-Resource/Series/Concurrency/7-Intention shared lock, exclusive lock.md",
-    "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
     "3-Resource/Series/Concurrency/8-Record Locks.md",
     "3-Resource/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
     "3-Resource/Series/Concurrency/5-Shared Lock(S-lock).md",

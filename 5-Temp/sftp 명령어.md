@@ -1,1 +1,1 @@
-scp -i tpirates.pem ec2-user@43.201.61.44:/home/ec2-user/efs/es-log/prod .    
+scp -i aa.pem ec2-user@43.:/home/ec2-user/efs/es-log/prod .    
