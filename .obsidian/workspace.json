@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/sftp 명령어.md",
+                "file": "3-Resource/Database/Innodb/mysql Binanry Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/sftp 명령어.md",
+                "file": "3-Resource/Database/Innodb/mysql Binanry Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/sftp 명령어.md",
+                "file": "3-Resource/Database/Innodb/mysql Binanry Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/sftp 명령어.md"
+                "file": "3-Resource/Database/Innodb/mysql Binanry Log.md"
               }
             }
           },
@@ -170,8 +169,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e1f9e6e9f0a36779",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "3-Resource/Database/Innodb/Double Write Buffer.md",
+    "3-Resource/Database/DB PK 자연키 vs 대체키.md",
+    "3-Resource/Database/Database LSN.md",
+    "3-Resource/Database/Database Check point.md",
+    "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
+    "5-Temp/sftp 명령어.md",
+    "3-Resource/Database/Innodb",
+    "3-Resource/Database/Untitled.md",
     "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
     "3-Resource/Series/Concurrency/9-Isolation level(격리 수준).md",
     "3-Resource/Series/Concurrency/7-Intention shared lock, exclusive lock.md",
@@ -191,13 +198,6 @@
     "5-Temp/Database/MVCC.md",
     "5-Temp/partion나눈거 한번에 조회시?.md",
     "5-Temp/Softeware Architecture/saga의 2가지 패턴, outbox 패턴.md",
-    "5-Temp/Database/s-lock x-lock.md",
-    "5-Temp/Database/Database Buffer Cache.md",
-    "5-Temp/ACID.md",
-    "5-Temp/Database/B+ Tree의 fan-out.md",
-    "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
-    "5-Temp/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
-    "5-Temp/분산 트랜잭션.md",
     "5-Temp/00사업아이템",
     "2-Area/생각정리",
     "real-resource/Pasted image 20231105225014.png",
@@ -217,7 +217,6 @@
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
     "5-Temp/aws/Untitled",
     "5-Temp/aws",
-    "5-Temp/Softeware Architecture/Even Driven Architecture",
     "Untitled.canvas"
   ]
 }
