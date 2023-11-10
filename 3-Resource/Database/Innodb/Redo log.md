@@ -4,10 +4,6 @@
 - mysql의 데이터디렉토리 하위 \#innodb_redo에 위치
 
 
-### 추후과제
-- 디코딩되어 저장되는데 어떻게 읽을 수 있을지 
-
-
 https://velog.io/@pk3669/Mysql-Redo-Undo-Log
 https://dev.mysql.com/doc/refman/8.0/en/innodb-redo-log.html
 #Database 
