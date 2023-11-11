@@ -51,31 +51,11 @@
 	- redis
 	- database
 
-https://stackoverflow.com/questions/11600520/synchronized-vs-reentrantlock-on-performance
 
-https://stackoverflow.com/questions/74967004/row-level-locks-vs-index-record-locks
 
 https://jaeseongdev.github.io/development/2021/06/16/Lock%EC%9D%98-%EC%A2%85%EB%A5%98-(Shared-Lock,-Exclusive-Lock,-Record-Lock,-Gap-Lock,-Next-key-Lock)/
 
-https://stackoverflow.com/questions/74967004/row-level-locks-vs-index-record-locks
 
-https://www.letmecompile.com/mysql-innodb-lock-deadlock/
-
-https://www.google.com/search?q=mysql+row+lock&rlz=1C5CHFA_enKR1027KR1027&oq=mysql+row+lock&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEEUYPNIBCDQ2MTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
-
-https://dev.mysql.com/doc/refman/8.0/en/innodb-locking.html
-
-https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_intention_lock
-
-https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_lock
-
-https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_lock_mode
-
-https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_locking
-
-https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_transaction
-
-https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_acid
 
 https://www.google.com/search?q=transaction+isolation+level&rlz=1C5CHFA_enKR1027KR1027&oq=transaction+is&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEINTk4MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
 

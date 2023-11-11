@@ -1,5 +1,5 @@
-- named lock,
-- mysql, redis
+- named lock
+- mysql, redis 등 named lock을 지원하는 저장소에서 사용가능
 - redis서버가 없는 상황에서 mysql named lock도 유용한 선택지임
 - mysql은 connection 끊기면 lock도 풀림
 
@@ -11,4 +11,4 @@
 	- https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
 
 
-#wait-to-update 
+#distributed-lock
