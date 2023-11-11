@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Series/Concurrency/0-동시성(Concurrency).md",
+                "file": "5-Temp/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Series/Concurrency/0-동시성(Concurrency).md",
+                "file": "5-Temp/ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Series/Concurrency/0-동시성(Concurrency).md"
+                "file": "5-Temp/ACID.md"
               }
             }
           },
@@ -170,10 +171,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e1f9e6e9f0a36779",
+  "active": "d0c216122037821a",
   "lastOpenFiles": [
-    "5-Temp/ACID.md",
     "3-Resource/Series/Concurrency/0-동시성(Concurrency).md",
+    "5-Temp/ACID.md",
     "3-Resource/Series/Concurrency/5-Shared Lock(S-lock).md",
     "3-Resource/Series/Concurrency/3-Critical section(임계영역).md",
     "3-Resource/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
