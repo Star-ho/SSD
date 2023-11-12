@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/ACID.md",
+                "file": "3-Resource/Database/Innodb/Redo log.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#redo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/ACID.md",
+                "file": "5-Temp/adaptive hash index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/ACID.md",
+                "file": "5-Temp/adaptive hash index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/ACID.md"
+                "file": "5-Temp/adaptive hash index.md"
               }
             }
           },
@@ -169,13 +171,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e1f9e6e9f0a36779",
+  "active": "d0c216122037821a",
   "lastOpenFiles": [
+    "3-Resource/Database/Innodb/Redo log.md",
+    "3-Resource/Database/ACID.md",
     "3-Resource/Series/Concurrency/0-동시성(Concurrency).md",
     "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
     "4-Archive/Study Matirials/우형 프리코스 github.md",
     "5-Temp/adaptive hash index.md",
-    "5-Temp/ACID.md",
     "3-Resource/Series/Concurrency/5-Shared Lock(S-lock).md",
     "3-Resource/Series/Concurrency/3-Critical section(임계영역).md",
     "3-Resource/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
@@ -183,7 +186,6 @@
     "3-Resource/Series/Concurrency/8-Record Locks.md",
     "5-Temp/Java&Kotlin/우형 jvm memory leak.md",
     "1-Project/InnoDB.md",
-    "3-Resource/Database/Innodb/Redo log.md",
     "3-Resource/Database/Innodb/Undo log.md",
     "3-Resource/Database/Innodb/mysql Binanry Log.md",
     "3-Resource/Database/Innodb/Log Buffer.md",
