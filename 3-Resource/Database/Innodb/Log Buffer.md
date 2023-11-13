@@ -6,3 +6,4 @@
 #Database 
 #Innodb 
 #Log-Buffer
+#Innodb-In-Memory-Structure 
