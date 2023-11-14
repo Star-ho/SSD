@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "3-Resource/Java&Kotlin/Java memory option.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "3-Resource/Java&Kotlin/Java memory option.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "3-Resource/Java&Kotlin/Java memory option.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md"
+                "file": "3-Resource/Java&Kotlin/Java memory option.md"
               }
             }
           },
@@ -184,11 +184,12 @@
   },
   "active": "d0c216122037821a",
   "lastOpenFiles": [
+    "3-Resource/Database/Innodb/Buffer Pool.md",
+    "3-Resource/Java&Kotlin/Java memory option.md",
     "1-Project/InnoDB.md",
     "1-Project/intellij 단축키 외우기.md",
     "1-Project/Micro Sevice Pattern.md",
     "1-Project/Temp에 있는것들 정리.md",
-    "3-Resource/Database/Innodb/Buffer Pool.md",
     "3-Resource/Database/Innodb/Change Buffer.md",
     "3-Resource/Database/Innodb/Double Write Buffer.md",
     "3-Resource/Database/Innodb/Undo log.md",
@@ -209,7 +210,6 @@
     "3-Resource/Database/DB PK 자연키 vs 대체키.md",
     "3-Resource/Database/Database LSN.md",
     "3-Resource/Database/Database Check point.md",
-    "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
     "3-Resource/Database/Innodb",
     "5-Temp/00사업아이템",
     "2-Area/생각정리",
