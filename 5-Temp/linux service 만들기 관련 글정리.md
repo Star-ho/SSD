@@ -11,7 +11,7 @@ Description=Systemd Test Daemon
 
 [Service]
 Type=simple
-ExecStart=/root/test-daemon.sh
+ExecStart=java -jar /root/ktx-cron/build/libs/ktx-cron-1.0-SNAPSHOT.jar
 Restart=on-failure
 
 [Install]
