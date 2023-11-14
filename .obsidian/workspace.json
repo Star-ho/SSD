@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
+                "file": "5-Temp/linux service 만들기 관련 글정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "webflux",
+                "query": "service",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
+                "file": "5-Temp/linux service 만들기 관련 글정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
+                "file": "5-Temp/linux service 만들기 관련 글정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md"
+                "file": "5-Temp/linux service 만들기 관련 글정리.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   },
   "active": "d0c216122037821a",
   "lastOpenFiles": [
+    "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
     "3-Resource/Java&Kotlin/Java memory option.md",
     "3-Resource/Database/Innodb/Buffer Pool.md",
     "1-Project/InnoDB.md",
@@ -210,7 +211,6 @@
     "3-Resource/Database/Innodb/mysql Binanry Log.md",
     "3-Resource/Database/DB PK 자연키 vs 대체키.md",
     "3-Resource/Database/Database LSN.md",
-    "3-Resource/Database/Database Check point.md",
     "3-Resource/Database/Innodb",
     "5-Temp/00사업아이템",
     "2-Area/생각정리",
