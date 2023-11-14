@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "service",
+                "query": "linux service",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +183,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d0c216122037821a",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
     "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
     "3-Resource/Java&Kotlin/Java memory option.md",
