@@ -1,3 +1,6 @@
+### 현재 옵션 확인
+- java -XX:+PrintFlagsFinal -version 2>&1 | grep -i -E 'heapsize|metaspace|version'
+
 ### Memory
 - 고정값으로 설정
 	- -Xmx(ex -Xmx4g)
@@ -22,9 +25,13 @@
 		- 하나의 컨테이너에서 하나의 프로세스만 돌기 때문에 경쟁이 필요가 없음
 ### OOM 처리
 - -XX:+HeapDumpOnOutOfMemoryError
-- -XX:HeapDumpPath=/var/run/tpirates/$BUILD_TARGET
+	- OOM이 발생하면 heap dump를 생성
+- -XX:HeapDumpPath=/var/log
+	- 힙 덤프 생성 위치 설정
+	- 위의 아래에 .hprof파일 생성됨
 ### MaxRAMFraction 옵션 찾아보기
-
+https://dzone.com/articles/best-practices-java-memory-arguments-for-container
+https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html#overview-of-java-options
 
 #wait-to-update 
 https://learn.microsoft.com/en-us/azure/developer/java/containers/overview
@@ -32,4 +39,4 @@ https://stackoverflow.com/questions/43651167/is-there-any-advantage-in-setting-x
 https://developer.jboss.org/thread/149559
 https://www.codementor.io/@suryab/outofmemoryerror-related-jvm-arguments-w6e4vgipt
 https://medium.com/nordnet-tech/setting-java-heap-size-inside-a-docker-container-b5a4d06d2f46
-https://dzone.com/articles/best-practices-java-memory-arguments-for-container
+
