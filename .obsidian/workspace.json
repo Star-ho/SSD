@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/마인드셋/중급 이상의 자료.md",
+                "file": "5-Temp/Database/Order by와 row num.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f522b817670a07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/Softeware Architecture/멀티모듈의 장점은 저거죵 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IOCP",
+                "query": "hika",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/마인드셋/중급 이상의 자료.md",
+                "file": "5-Temp/Softeware Architecture/멀티모듈의 장점은 저거죵 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/마인드셋/중급 이상의 자료.md",
+                "file": "5-Temp/Softeware Architecture/멀티모듈의 장점은 저거죵 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/마인드셋/중급 이상의 자료.md"
+                "file": "5-Temp/Softeware Architecture/멀티모듈의 장점은 저거죵 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md"
               }
             }
           },
@@ -170,35 +182,37 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "8f522b817670a07d",
   "lastOpenFiles": [
-    "5-Temp/커밋 전략.md",
-    "5-Temp/Java&Kotlin/테스트 관련 라이브러리.md",
-    "5-Temp/aws/테라폼 설명.md",
-    "5-Temp/Softeware Architecture/쿠팡 아키텍처.md",
-    "5-Temp/커머스 도메인 별 중요한것들.md",
-    "5-Temp/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
-    "5-Temp/gap lock.md",
-    "5-Temp/Java&Kotlin/Java option for Container.md",
-    "5-Temp/Java&Kotlin/java trouble shooting.md",
-    "5-Temp/uuidv8.md",
-    "5-Temp/TransactionalEventListener.md",
-    "5-Temp/spring restdocs.md",
-    "5-Temp/UniCode.md",
-    "5-Temp/validation.md",
-    "5-Temp/카니코.md",
+    "5-Temp/Database/몽고디비 ranged 랑 hashed 샤딩.md",
+    "5-Temp/Softeware Architecture/멀티모듈의 장점은 저거죵 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
+    "5-Temp/테스트/테스트 짤때는 stub들은 중복이 필요하면 깔끔하게 중복.md",
+    "5-Temp/테스트/리그레이션 테스트.md",
+    "5-Temp/00사업아이템/개인투자펀드.md",
+    "5-Temp/테스트",
+    "5-Temp/Java&Kotlin/mysql 비동기 처리.md",
+    "5-Temp/Computer Science/하나의 서버가 감당할 수 있는 요청.md",
+    "KakaoTalk_Image_2023-11-15-22-24-02.png",
+    "5-Temp/Java&Kotlin/java default xmx.md",
+    "5-Temp/Java&Kotlin/one file per class in kotlin.md",
+    "5-Temp/Java&Kotlin/java inner class.md",
+    "5-Temp/테스트/테스트 관련 라이브러리.md",
+    "5-Temp/Database/Binary log performance.md",
+    "5-Temp/Spring/spring state machine, state pattern.md",
+    "5-Temp/Spring/argument resolver.md",
+    "5-Temp/뉴렐릭, 와탭, 데이터독.md",
     "5-Temp/문제2.md",
-    "5-Temp/cloud/오브젝트 스토리지.md",
-    "5-Temp/Computer Science/스택 자료구조.md",
-    "5-Temp/Softeware Architecture/분산 트랜잭션.md",
-    "5-Temp/마인드셋/생각정리.md",
-    "5-Temp/cloud/빈스톡.md",
+    "5-Temp/validation.md",
+    "5-Temp/Spring/spring restdocs.md",
+    "5-Temp/sftp 명령어.md",
+    "5-Temp/rest api.md",
+    "5-Temp/Request 와 DTO.md",
+    "5-Temp/Spring/querydsl projection 결과 매핑.md",
+    "5-Temp/pub sub 패턴.md",
+    "5-Temp/Pojo란.md",
+    "5-Temp/msa testing 전략.md",
+    "5-Temp/msa 트랜잭션 관리.md",
     "5-Temp/cloud",
-    "5-Temp/문제상황.md",
-    "5-Temp/0-이직자료/면접.md",
-    "5-Temp/Computer Science/가상화 관련 용어정리.md",
-    "5-Temp/Spring/@Transactional에 대해.md",
-    "5-Temp/IOCP.md",
     "3-Resource/Database/Innodb",
     "5-Temp/00사업아이템",
     "2-Area/생각정리",
@@ -211,13 +225,11 @@
     "real-resource/Pasted image 20231105170101.png",
     "real-resource/Pasted image 20231105170046.png",
     "real-resource/Pasted image 20231105170040.png",
-    "real-resource/Pasted image 20231105170022.png",
     "2-Area/0-Sung-ho/인생 팁",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
     "5-Temp/0-이직자료/네이버 파이낸셜",
     "5-Temp/0-이직자료/네이버-광고플랫폼/자소서",
-    "5-Temp/aws/Untitled",
     "Untitled.canvas"
   ]
 }

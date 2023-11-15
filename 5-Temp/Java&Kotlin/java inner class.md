@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/12193116/java-size-of-inner-class
