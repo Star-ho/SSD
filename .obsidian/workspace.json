@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "분산락",
+                "query": "\b",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,8 +183,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8f522b817670a07d",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
+    "3-Resource/Database/Innodb/adaptive hash index.md",
+    "3-Resource/Database/Innodb/Buffer Pool.md",
     "Pasted image 20231115224606.png",
     "5-Temp/Softeware Architecture/분산락.md",
     "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
@@ -211,7 +214,6 @@
     "5-Temp/테스트/테스트 관련 라이브러리.md",
     "5-Temp/Database/Binary log performance.md",
     "5-Temp/Spring/spring state machine, state pattern.md",
-    "5-Temp/Spring/argument resolver.md",
     "5-Temp/cloud",
     "3-Resource/Database/Innodb",
     "5-Temp/00사업아이템",
@@ -224,7 +226,6 @@
     "real-resource/Pasted image 20231105204457.png",
     "real-resource/Pasted image 20231105170101.png",
     "real-resource/Pasted image 20231105170046.png",
-    "real-resource/Pasted image 20231105170040.png",
     "2-Area/0-Sung-ho/인생 팁",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
