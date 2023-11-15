@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Softeware Architecture/멀티모듈의 장점은 저거죵 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
+                "file": "5-Temp/Softeware Architecture/분산락.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hika",
+                "query": "분산락",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Softeware Architecture/멀티모듈의 장점은 저거죵 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
+                "file": "5-Temp/Softeware Architecture/분산락.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Softeware Architecture/멀티모듈의 장점은 저거죵 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
+                "file": "5-Temp/Softeware Architecture/분산락.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Softeware Architecture/멀티모듈의 장점은 저거죵 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md"
+                "file": "5-Temp/Softeware Architecture/분산락.md"
               }
             }
           },
@@ -184,8 +184,19 @@
   },
   "active": "8f522b817670a07d",
   "lastOpenFiles": [
+    "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
+    "5-Temp/Softeware Architecture/분산락.md",
+    "5-Temp/aws/시크릿매니저나 파라미터스토어.md",
+    "5-Temp/테스트/테스트코드 작성 관련 글.md",
+    "5-Temp/Untitled.md",
+    "5-Temp/Java&Kotlin/virtual thread syncronized lock.md",
+    "5-Temp/Java&Kotlin/코틀린 SAM.md",
+    "5-Temp/톰캣 쓰레드.md",
+    "5-Temp/Computer Science/bastion host.md",
+    "5-Temp/뱅커스 라운딩.md",
+    "5-Temp/Java&Kotlin/jit complier.md",
+    "5-Temp/Softeware Architecture/멀티모듈의 장점은 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
     "5-Temp/Database/몽고디비 ranged 랑 hashed 샤딩.md",
-    "5-Temp/Softeware Architecture/멀티모듈의 장점은 저거죵 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
     "5-Temp/테스트/테스트 짤때는 stub들은 중복이 필요하면 깔끔하게 중복.md",
     "5-Temp/테스트/리그레이션 테스트.md",
     "5-Temp/00사업아이템/개인투자펀드.md",
@@ -201,17 +212,6 @@
     "5-Temp/Spring/spring state machine, state pattern.md",
     "5-Temp/Spring/argument resolver.md",
     "5-Temp/뉴렐릭, 와탭, 데이터독.md",
-    "5-Temp/문제2.md",
-    "5-Temp/validation.md",
-    "5-Temp/Spring/spring restdocs.md",
-    "5-Temp/sftp 명령어.md",
-    "5-Temp/rest api.md",
-    "5-Temp/Request 와 DTO.md",
-    "5-Temp/Spring/querydsl projection 결과 매핑.md",
-    "5-Temp/pub sub 패턴.md",
-    "5-Temp/Pojo란.md",
-    "5-Temp/msa testing 전략.md",
-    "5-Temp/msa 트랜잭션 관리.md",
     "5-Temp/cloud",
     "3-Resource/Database/Innodb",
     "5-Temp/00사업아이템",
