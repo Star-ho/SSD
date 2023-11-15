@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Softeware Architecture/분산락.md",
+                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Softeware Architecture/분산락.md",
+                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Softeware Architecture/분산락.md",
+                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Softeware Architecture/분산락.md"
+                "file": "3-Resource/Database/Innodb/Buffer Pool.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "8f522b817670a07d",
   "lastOpenFiles": [
-    "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
+    "Pasted image 20231115224606.png",
     "5-Temp/Softeware Architecture/분산락.md",
+    "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
     "5-Temp/aws/시크릿매니저나 파라미터스토어.md",
     "5-Temp/테스트/테스트코드 작성 관련 글.md",
     "5-Temp/Untitled.md",
@@ -211,7 +212,6 @@
     "5-Temp/Database/Binary log performance.md",
     "5-Temp/Spring/spring state machine, state pattern.md",
     "5-Temp/Spring/argument resolver.md",
-    "5-Temp/뉴렐릭, 와탭, 데이터독.md",
     "5-Temp/cloud",
     "3-Resource/Database/Innodb",
     "5-Temp/00사업아이템",
