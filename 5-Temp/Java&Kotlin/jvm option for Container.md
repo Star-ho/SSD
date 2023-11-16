@@ -31,18 +31,23 @@
 	- 힙 덤프 생성 위치 설정
 	- 위의 아래에 .hprof파일 생성됨
 
-MaxRAMFraction
-- deprecated된 옵션
-- max heap memory를 설정하는 다른 방법
+> MaxRAMFraction
+> - deprecated된 옵션
+> - max heap memory를 설정하는 다른 방법
 
+> InitialRAMPercentage, MinRAMPercentage관련한 글
+> https://blog.gceasy.io/2020/11/05/difference-between-initialrampercentage-minrampercentage-maxrampercentage/
+> https://blog.ycrash.io/2020/11/23/best-practices-java-memory-arguments-for-containers/
+> 
 
-https://dzone.com/articles/best-practices-java-memory-arguments-for-container
-https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html#overview-of-java-options
-
-#wait-to-update 
+#JVM-option 
+#container
+https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html
+https://www.merikan.com/2019/04/jvm-in-a-container/
 https://learn.microsoft.com/en-us/azure/developer/java/containers/overview
 https://stackoverflow.com/questions/43651167/is-there-any-advantage-in-setting-xms-and-xmx-to-the-same-value
 https://developer.jboss.org/thread/149559
 https://www.codementor.io/@suryab/outofmemoryerror-related-jvm-arguments-w6e4vgipt
 https://medium.com/nordnet-tech/setting-java-heap-size-inside-a-docker-container-b5a4d06d2f46
-
+https://dzone.com/articles/best-practices-java-memory-arguments-for-container
+https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html#overview-of-java-options
