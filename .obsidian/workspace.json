@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Java&Kotlin/java trouble shooting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f6583c2bf4ab546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "5-Temp/Java&Kotlin/Java option for Container.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\b",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,12 +157,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8f6583c2bf4ab546",
+  "active": "b077b89bf36f6b39",
   "lastOpenFiles": [
     "5-Temp/Java&Kotlin/Java memory structure.md",
     "5-Temp/Java&Kotlin/java inner class.md",
-    "5-Temp/Java&Kotlin/java garbage collector.md",
     "5-Temp/Java&Kotlin/java default xmx.md",
+    "5-Temp/Java&Kotlin/java garbage collector.md",
+    "5-Temp/Java&Kotlin/Java option for Container.md",
+    "5-Temp/Java&Kotlin/java trouble shooting.md",
+    "5-Temp/Java&Kotlin/랜덤 넘버 관련.md",
+    "5-Temp/Java&Kotlin/virtual thread syncronized lock.md",
+    "5-Temp/Java&Kotlin/JVM Optimizing.md",
+    "5-Temp/Java&Kotlin/jit complier.md",
     "3-Resource/Database/Innodb/Double Write Buffer.md",
     "3-Resource/Database/Innodb/Change Buffer.md",
     "5-Temp/Database/Order by와 row num.md",
@@ -188,17 +181,11 @@
     "5-Temp/aws/시크릿매니저나 파라미터스토어.md",
     "5-Temp/테스트/테스트코드 작성 관련 글.md",
     "5-Temp/Untitled.md",
-    "5-Temp/Java&Kotlin/virtual thread syncronized lock.md",
     "5-Temp/Java&Kotlin/코틀린 SAM.md",
     "5-Temp/톰캣 쓰레드.md",
     "5-Temp/Computer Science/bastion host.md",
     "5-Temp/뱅커스 라운딩.md",
-    "5-Temp/Java&Kotlin/jit complier.md",
     "5-Temp/Softeware Architecture/멀티모듈의 장점은 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
-    "5-Temp/Database/몽고디비 ranged 랑 hashed 샤딩.md",
-    "5-Temp/테스트/테스트 짤때는 stub들은 중복이 필요하면 깔끔하게 중복.md",
-    "5-Temp/테스트/리그레이션 테스트.md",
-    "5-Temp/00사업아이템/개인투자펀드.md",
     "5-Temp/테스트",
     "KakaoTalk_Image_2023-11-15-22-24-02.png",
     "5-Temp/cloud",
