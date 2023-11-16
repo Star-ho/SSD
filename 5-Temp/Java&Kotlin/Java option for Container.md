@@ -29,7 +29,12 @@
 - -XX:HeapDumpPath=/var/log
 	- 힙 덤프 생성 위치 설정
 	- 위의 아래에 .hprof파일 생성됨
-### MaxRAMFraction 옵션 찾아보기
+
+MaxRAMFraction
+- deprecated된 옵션
+- max heap memory를 설정하는 다른 방법
+
+
 https://dzone.com/articles/best-practices-java-memory-arguments-for-container
 https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html#overview-of-java-options
 
