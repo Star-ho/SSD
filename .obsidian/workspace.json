@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Java&Kotlin/jvm option for Container.md",
+                "file": "3-Resource/Database/Innodb/Change Buffer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Java&Kotlin/jvm option for Container.md",
+                "file": "3-Resource/Database/Innodb/Change Buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Java&Kotlin/jvm option for Container.md",
+                "file": "3-Resource/Database/Innodb/Change Buffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Java&Kotlin/jvm option for Container.md"
+                "file": "3-Resource/Database/Innodb/Change Buffer.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "b077b89bf36f6b39",
   "lastOpenFiles": [
-    "5-Temp/Computer Science/cgroups.md",
+    "3-Resource/Database/Innodb/Buffer Pool.md",
     "5-Temp/Java&Kotlin/jvm option for Container.md",
+    "5-Temp/Computer Science/cgroups.md",
     "5-Temp/Java&Kotlin/Java memory structure.md",
     "5-Temp/Java&Kotlin/java inner class.md",
     "5-Temp/Java&Kotlin/java default xmx.md",
@@ -174,7 +175,6 @@
     "3-Resource/Database/Innodb/Change Buffer.md",
     "5-Temp/Database/Order by와 row num.md",
     "5-Temp/msa 트랜잭션 관리.md",
-    "3-Resource/Database/Innodb/Buffer Pool.md",
     "3-Resource/Database/Innodb/adaptive hash index.md",
     "Pasted image 20231115224606.png",
     "5-Temp/Softeware Architecture/분산락.md",

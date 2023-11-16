@@ -42,6 +42,8 @@
 
 #JVM-option 
 #container
+#cloud
+
 https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html
 https://www.merikan.com/2019/04/jvm-in-a-container/
 https://learn.microsoft.com/en-us/azure/developer/java/containers/overview
