@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Database/Order by와 row num.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f522b817670a07d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "5-Temp/Java&Kotlin/Java option for Container.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "5-Temp/Java&Kotlin/Java option for Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "5-Temp/Java&Kotlin/Java option for Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md"
+                "file": "5-Temp/Java&Kotlin/Java option for Container.md"
               }
             }
           },
@@ -183,10 +170,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "8f6583c2bf4ab546",
   "lastOpenFiles": [
-    "3-Resource/Database/Innodb/adaptive hash index.md",
+    "5-Temp/Java&Kotlin/Java memory structure.md",
+    "5-Temp/Java&Kotlin/java inner class.md",
+    "5-Temp/Java&Kotlin/java garbage collector.md",
+    "5-Temp/Java&Kotlin/java default xmx.md",
+    "3-Resource/Database/Innodb/Double Write Buffer.md",
+    "3-Resource/Database/Innodb/Change Buffer.md",
+    "5-Temp/Database/Order by와 row num.md",
+    "5-Temp/msa 트랜잭션 관리.md",
     "3-Resource/Database/Innodb/Buffer Pool.md",
+    "3-Resource/Database/Innodb/adaptive hash index.md",
     "Pasted image 20231115224606.png",
     "5-Temp/Softeware Architecture/분산락.md",
     "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
@@ -205,15 +200,7 @@
     "5-Temp/테스트/리그레이션 테스트.md",
     "5-Temp/00사업아이템/개인투자펀드.md",
     "5-Temp/테스트",
-    "5-Temp/Java&Kotlin/mysql 비동기 처리.md",
-    "5-Temp/Computer Science/하나의 서버가 감당할 수 있는 요청.md",
     "KakaoTalk_Image_2023-11-15-22-24-02.png",
-    "5-Temp/Java&Kotlin/java default xmx.md",
-    "5-Temp/Java&Kotlin/one file per class in kotlin.md",
-    "5-Temp/Java&Kotlin/java inner class.md",
-    "5-Temp/테스트/테스트 관련 라이브러리.md",
-    "5-Temp/Database/Binary log performance.md",
-    "5-Temp/Spring/spring state machine, state pattern.md",
     "5-Temp/cloud",
     "3-Resource/Database/Innodb",
     "5-Temp/00사업아이템",
