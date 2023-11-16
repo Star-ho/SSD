@@ -9,5 +9,8 @@
 
 - 인덱스에 내림차순 인덱스열이 포함되어 있거나, 기본키에 내림차순 인덱스열이 포함되어있는경우 change buffer는 사용되지 않음
 
-
+#change-buffer
 #Innodb-In-Memory-Structure 
+
+
+https://dev.mysql.com/doc/refman/8.0/en/innodb-change-buffer.html

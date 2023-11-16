@@ -43,6 +43,7 @@
 #JVM-option 
 #container
 #cloud
+#gc-turning
 
 https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html
 https://www.merikan.com/2019/04/jvm-in-a-container/
