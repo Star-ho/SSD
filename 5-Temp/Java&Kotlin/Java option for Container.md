@@ -15,6 +15,7 @@
 - 메모리 설정시 팁!
 	- container메모리와 heap은 같은 사이즈로 가면 안됨
 		- java에는 heap말고 non-heap도 있기때문
+		- 힙 공간 외에도 Java 스레드, 가비지 컬렉션, 메타스페이스, 네이티브 메모리, 소켓 버퍼를 위한 공간이 필요하기 때문
 		- 컨테이너 메모리와 같은 크기로 했을 때 컨테이너도 crash 발생하기 때문에 oom 후처리가 안됨
 	- percentage로 75%정도 권장
 		- [ms홈페이지 참고](https://learn.microsoft.com/en-us/azure/developer/java/containers/overview)
