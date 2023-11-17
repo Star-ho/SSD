@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Computer Science/쓰레드도 파일로 관리?.md",
+                "file": "5-Temp/Java&Kotlin/Java memory structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Computer Science/쓰레드도 파일로 관리?.md",
+                "file": "5-Temp/Java&Kotlin/Java memory structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Computer Science/쓰레드도 파일로 관리?.md",
+                "file": "5-Temp/Java&Kotlin/Java memory structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Computer Science/쓰레드도 파일로 관리?.md"
+                "file": "5-Temp/Java&Kotlin/Java memory structure.md"
               }
             }
           },
@@ -159,15 +159,17 @@
   },
   "active": "1dfac5332fc8410f",
   "lastOpenFiles": [
-    "3-Resource/Database/DB PK 자연키 vs 대체키.md",
+    "Pasted image 20231117225008.png",
+    "Pasted image 20231117224733.png",
+    "5-Temp/Java&Kotlin/java memory구조 nonheap, heap.md",
     "5-Temp/Computer Science/쓰레드도 파일로 관리?.md",
+    "3-Resource/Database/DB PK 자연키 vs 대체키.md",
     "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
     "5-Temp/마인드셋/중복 제거에대해.md",
     "5-Temp/마인드셋/피드백.md",
     "5-Temp/Computer Science/docker 멀티 스테이지 빌드.md",
     "5-Temp/0-이직자료/서드파티 서비스에 장애가 생길 경우.md",
     "5-Temp/Spring/Rest client.md",
-    "5-Temp/Java&Kotlin/java memory구조 nonheap, heap.md",
     "5-Temp/Computer Science/cgroups v2.md",
     "5-Temp/Java&Kotlin/ForkJoinPool.md",
     "5-Temp/Java&Kotlin/Untitled.md",
@@ -184,7 +186,6 @@
     "5-Temp/Java&Kotlin/java inner class.md",
     "5-Temp/Java&Kotlin/java default xmx.md",
     "5-Temp/Java&Kotlin/java garbage collector.md",
-    "5-Temp/Java&Kotlin/java trouble shooting.md",
     "Pasted image 20231115224606.png",
     "5-Temp/테스트",
     "KakaoTalk_Image_2023-11-15-22-24-02.png",
@@ -199,7 +200,6 @@
     "real-resource/Pasted image 20231105204700.png",
     "real-resource/Pasted image 20231105204457.png",
     "real-resource/Pasted image 20231105170101.png",
-    "real-resource/Pasted image 20231105170046.png",
     "2-Area/0-Sung-ho/인생 팁",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
