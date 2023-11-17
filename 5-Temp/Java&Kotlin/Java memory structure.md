@@ -1,7 +1,7 @@
-![[Pasted image 20231117225008.png]]
+![[Pasted image 20231117232133.png]]
 ### PC Register
 - 각각의 쓰레드마다 하나씩 가지고 있음
-- 현재 실행중인 코드의 주소를 저장하고있음
+- 현재 실행중인 명령의 주소를 저장하고있음
 - 실행중인 메서드가 native메서드가 아닐경우, 가상머신 명령어의 주소를 가지고 있음
 ### Java Virtual Machine Stacks
 - C stack이라는 범용적인 스택을 사용
@@ -21,13 +21,22 @@
 - 가상머신이 시작될때 생성됨
 - gc에 의해 회수되고, 명시적으로 회수할 수 없음
 - 초기 메모리를 할당받고, 메모리가 더 필요하면 시스템에 요청해 메모리를 더 받아옴
-- 
+	- #JVM-option 참고
 - 할당된 메모리보다 많은 메모리를 사용해야 할때 OutOfMemoryError발생
 ### Method Area
+- 가상머신 쓰레드간 공유되는 메모리 영역
+- 운영체제 프로세스의 text영역과 유사함
+- 런타임 상수 풀, 필드 및 메서드 데이터, 클래스 및 인터페이스 초기화 및 인스턴스 초기화에 사용되는 특수 메서드를 포함한 메서드 및 생성자 코드와 같은 클래스별 구조를 저장
+- 가상머신이 생성될때 생성됨
+- 논리적으로 heap의 일부임
+	- 간단한 구현에서는 gc가 발생하지 않을 수 있음
+- 할당된 메모리보다 많은 메모리를 사용해야 할때 OutOfMemoryError발생
+### 쓰레드와 메모리의 관계
+- pc register, jvm Stack, Native Method Stack은 각 쓰레드마다 가짐
+- Heap Area와 Method Area는 쓰레드간 공유되는 영역임
 
 https://docs.oracle.com/javase/specs/jvms/se21/html/jvms-2.html
 
-https://www.scaler.com/topics/memory-management-in-java/
+https://www.devkuma.com/docs/jvm/memory-structure/
 
-https://shinjekim.github.io/java/2020/01/06/%EC%9E%90%EB%B0%94%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0/
 #wait-to-update 
