@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Computer Science/cgroups v2.md",
+                "file": "5-Temp/Computer Science/쓰레드도 파일로 관리?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Computer Science/cgroups v2.md",
+                "file": "5-Temp/Computer Science/쓰레드도 파일로 관리?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Computer Science/cgroups v2.md",
+                "file": "5-Temp/Computer Science/쓰레드도 파일로 관리?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Computer Science/cgroups v2.md"
+                "file": "5-Temp/Computer Science/쓰레드도 파일로 관리?.md"
               }
             }
           },
@@ -159,8 +159,17 @@
   },
   "active": "1dfac5332fc8410f",
   "lastOpenFiles": [
-    "5-Temp/Java&Kotlin/ForkJoinPool.md",
+    "3-Resource/Database/DB PK 자연키 vs 대체키.md",
+    "5-Temp/Computer Science/쓰레드도 파일로 관리?.md",
+    "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
+    "5-Temp/마인드셋/중복 제거에대해.md",
+    "5-Temp/마인드셋/피드백.md",
+    "5-Temp/Computer Science/docker 멀티 스테이지 빌드.md",
+    "5-Temp/0-이직자료/서드파티 서비스에 장애가 생길 경우.md",
+    "5-Temp/Spring/Rest client.md",
+    "5-Temp/Java&Kotlin/java memory구조 nonheap, heap.md",
     "5-Temp/Computer Science/cgroups v2.md",
+    "5-Temp/Java&Kotlin/ForkJoinPool.md",
     "5-Temp/Java&Kotlin/Untitled.md",
     "5-Temp/Database/ORM dynamic query.md",
     "5-Temp/Database/Mysql에서 update시 참고사항.md",
@@ -176,16 +185,7 @@
     "5-Temp/Java&Kotlin/java default xmx.md",
     "5-Temp/Java&Kotlin/java garbage collector.md",
     "5-Temp/Java&Kotlin/java trouble shooting.md",
-    "5-Temp/Java&Kotlin/랜덤 넘버 관련.md",
-    "5-Temp/Java&Kotlin/virtual thread syncronized lock.md",
-    "5-Temp/Java&Kotlin/jit complier.md",
-    "3-Resource/Database/Innodb/Double Write Buffer.md",
-    "5-Temp/Database/Order by와 row num.md",
-    "5-Temp/msa 트랜잭션 관리.md",
-    "3-Resource/Database/Innodb/adaptive hash index.md",
     "Pasted image 20231115224606.png",
-    "5-Temp/Softeware Architecture/분산락.md",
-    "3-Resource/Series/Concurrency/10-분산락(Distributed lock).md",
     "5-Temp/테스트",
     "KakaoTalk_Image_2023-11-15-22-24-02.png",
     "5-Temp/cloud",
