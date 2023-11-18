@@ -31,12 +31,18 @@
 - 논리적으로 heap의 일부임
 	- 간단한 구현에서는 gc가 발생하지 않을 수 있음
 - 할당된 메모리보다 많은 메모리를 사용해야 할때 OutOfMemoryError발생
+### Run-Time Constant Pool
+- Method Area에 포함됨
+- 클래스 파일의 constant_pool에 있는 데이터를 가지고 있음
+- 할당된 메모리보다 많은 메모리를 사용해야 할때 OutOfMemoryError발생
 ### 쓰레드와 메모리의 관계
 - pc register, jvm Stack, Native Method Stack은 각 쓰레드마다 가짐
 - Heap Area와 Method Area는 쓰레드간 공유되는 영역임
+
 
 https://docs.oracle.com/javase/specs/jvms/se21/html/jvms-2.html
 
 https://www.devkuma.com/docs/jvm/memory-structure/
 
-#wait-to-update 
+#Java 
+#Java-Memory_structure
