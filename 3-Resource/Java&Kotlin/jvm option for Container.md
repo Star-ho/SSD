@@ -44,6 +44,7 @@
 #container
 #cloud
 #gc-turning
+#garbage-collector
 
 https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html
 https://www.merikan.com/2019/04/jvm-in-a-container/
@@ -54,3 +55,4 @@ https://www.codementor.io/@suryab/outofmemoryerror-related-jvm-arguments-w6e4vgi
 https://medium.com/nordnet-tech/setting-java-heap-size-inside-a-docker-container-b5a4d06d2f46
 https://dzone.com/articles/best-practices-java-memory-arguments-for-container
 https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html#overview-of-java-options
+https://d2.naver.com/helloworld/37111

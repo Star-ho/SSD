@@ -16,6 +16,9 @@ https://nesoy.github.io/articles/2021-09/Reactive-Stream
 
 https://projectreactor.io/docs/core/release/reference/#schedulers
 
+reactor scheduler
+https://projectreactor.io/docs/core/release/reference/#schedulers
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sthwin&logNo=221956619428
 
 #wait-to-update 
 #argent

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Java&Kotlin/webflux 관련.md",
+                "file": "3-Resource/Java&Kotlin/jvm option for Container.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wait-to",
+                "query": "container",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Java&Kotlin/webflux 관련.md",
+                "file": "3-Resource/Java&Kotlin/jvm option for Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Java&Kotlin/webflux 관련.md",
+                "file": "3-Resource/Java&Kotlin/jvm option for Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Java&Kotlin/webflux 관련.md"
+                "file": "3-Resource/Java&Kotlin/jvm option for Container.md"
               }
             }
           },
@@ -171,8 +172,9 @@
   },
   "active": "1dfac5332fc8410f",
   "lastOpenFiles": [
-    "5-Temp/Java&Kotlin/Coroutine.md",
+    "5-Temp/Java&Kotlin/Garbage collection.md",
     "5-Temp/Java&Kotlin/webflux 관련.md",
+    "5-Temp/Java&Kotlin/Coroutine.md",
     "5-Temp/Java&Kotlin/coroutine 블로그.md",
     "5-Temp/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
     "3-Resource/Java&Kotlin/Java memory structure.md",
@@ -199,7 +201,6 @@
     "5-Temp/Java&Kotlin/JNI.md",
     "3-Resource/Database/Innodb/Change Buffer.md",
     "3-Resource/Database/Innodb/Buffer Pool.md",
-    "5-Temp/Computer Science/cgroups.md",
     "Pasted image 20231115224606.png",
     "5-Temp/테스트",
     "KakaoTalk_Image_2023-11-15-22-24-02.png",
