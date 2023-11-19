@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Java&Kotlin/jvm option for Container.md",
+                "file": "5-Temp/Java&Kotlin/java garbage collector.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "container",
+                "query": "gc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Java&Kotlin/jvm option for Container.md",
+                "file": "5-Temp/Java&Kotlin/java garbage collector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Java&Kotlin/jvm option for Container.md",
+                "file": "5-Temp/Java&Kotlin/java garbage collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Java&Kotlin/jvm option for Container.md"
+                "file": "5-Temp/Java&Kotlin/java garbage collector.md"
               }
             }
           },
@@ -172,6 +172,8 @@
   },
   "active": "1dfac5332fc8410f",
   "lastOpenFiles": [
+    "4-Archive/Study Matirials/공부할자료.md",
+    "3-Resource/Java&Kotlin/jvm option for Container.md",
     "5-Temp/Java&Kotlin/Garbage collection.md",
     "5-Temp/Java&Kotlin/webflux 관련.md",
     "5-Temp/Java&Kotlin/Coroutine.md",
@@ -195,12 +197,10 @@
     "5-Temp/Java&Kotlin/Untitled.md",
     "5-Temp/Database/ORM dynamic query.md",
     "5-Temp/Database/Mysql에서 update시 참고사항.md",
-    "3-Resource/Java&Kotlin/jvm option for Container.md",
     "5-Temp/Java&Kotlin/kotlin ==, ===.md",
     "5-Temp/Java&Kotlin/JVM Optimizing.md",
     "5-Temp/Java&Kotlin/JNI.md",
     "3-Resource/Database/Innodb/Change Buffer.md",
-    "3-Resource/Database/Innodb/Buffer Pool.md",
     "Pasted image 20231115224606.png",
     "5-Temp/테스트",
     "KakaoTalk_Image_2023-11-15-22-24-02.png",
