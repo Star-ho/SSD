@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/1-Weekly-Reading/운동.md",
+                "file": "2-Area/생각정리/read, write, jpa?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/1-Weekly-Reading/운동.md",
+                "file": "2-Area/생각정리/read, write, jpa?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/1-Weekly-Reading/운동.md",
+                "file": "2-Area/생각정리/read, write, jpa?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/1-Weekly-Reading/운동.md"
+                "file": "2-Area/생각정리/read, write, jpa?.md"
               }
             }
           },
@@ -157,13 +157,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f26b76447cb14cdb",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "2-Area/1-Weekly-Reading/인생...md",
+    "2-Area/1-Weekly-Reading/운동.md",
     "2-Area/1-Weekly-Reading/개발.md",
     "2-Area/Software Design/Aggregate.md",
-    "2-Area/1-Weekly-Reading/운동.md",
     "2-Area/1-Weekly-Reading/개발 이후 고려해야 할 점들.md",
-    "2-Area/1-Weekly-Reading/인생...md",
     "5-Temp/Java&Kotlin/Coroutine.md",
     "5-Temp/Java&Kotlin/java garbage collector.md",
     "4-Archive/Study Matirials/공부할자료.md",
