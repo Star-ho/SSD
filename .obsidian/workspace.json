@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "초기에",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
