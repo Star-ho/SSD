@@ -1,4 +1,4 @@
-upstream, downstream
+upstream, downstream?
 
 https://perfectacle.github.io/2021/02/28/netty-event-loop/
 
