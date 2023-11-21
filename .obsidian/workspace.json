@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Java&Kotlin/webflux 관련.md",
+                "file": "4-Archive/Study Matirials/구조/webflux 관련.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Java&Kotlin/webflux 관련.md",
+                "file": "4-Archive/Study Matirials/구조/webflux 관련.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Java&Kotlin/webflux 관련.md",
+                "file": "4-Archive/Study Matirials/구조/webflux 관련.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Java&Kotlin/webflux 관련.md"
+                "file": "4-Archive/Study Matirials/구조/webflux 관련.md"
               }
             }
           },
@@ -169,8 +169,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f26b76447cb14cdb",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "5-Temp/Java&Kotlin/Untitled.md",
+    "4-Archive/Study Matirials/구조/webflux 관련.md",
     "5-Temp/Database/데이터베이스 공부자료.md",
     "5-Temp/Spring/Feign, Webclient.md",
     "5-Temp/Spring/스웨거 어노테이션.md",
@@ -187,19 +189,17 @@
     "3-Resource/Series/Web Server, WAS/Untitled.md",
     "4-Archive/Computer-Science/webserver, was 발전과정.md",
     "3-Resource/Series/Web Server, WAS",
-    "5-Temp/Java&Kotlin/webflux 관련.md",
     "2-Area/Concept/Reactive Manifesto.md",
-    "5-Temp/Spring/구조/tomcat.md",
+    "4-Archive/Study Matirials/구조/tomcat.md",
     "5-Temp/테스트/kotest blocking.md",
     "real-resource/KakaoTalk_Image_2023-11-15-22-24-02.png",
-    "5-Temp/Spring/구조/SSD.md",
+    "4-Archive/Study Matirials/구조/SSD.md",
     "5-Temp/Computer Science/bytebuf, bytebuffer.md",
     "5-Temp/Java&Kotlin/thread leak.md",
     "Untitled.md",
     "5-Temp/msa 트랜잭션 관리.md",
     "5-Temp/Spring/서블릿 에러 핸들링.md",
-    "5-Temp/Spring/구조",
-    "5-Temp/Spring/구조.md",
+    "4-Archive/Study Matirials/구조",
     "real-resource/Pasted image 20231117232133.png",
     "real-resource/Pasted image 20231117225008.png",
     "real-resource/Pasted image 20231117224733.png",
