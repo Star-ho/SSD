@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Study Matirials/구조/webflux 관련.md",
+                "file": "5-Temp/Reactive/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Study Matirials/구조/webflux 관련.md",
+                "file": "5-Temp/Reactive/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Study Matirials/구조/webflux 관련.md",
+                "file": "5-Temp/Reactive/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Study Matirials/구조/webflux 관련.md"
+                "file": "5-Temp/Reactive/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md"
               }
             }
           },
@@ -171,8 +171,16 @@
   },
   "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
+    "5-Temp/Reactive/nio 모델 관련 글.md",
+    "5-Temp/Reactive/webflux.md",
+    "5-Temp/Database/Write-Ahead Logging.md",
+    "SSD.md",
+    "4-Archive/Computer-Science/Server/tomcat.md",
+    "5-Temp/0-이직자료/경력 기술서에.md",
+    "4-Archive/Computer-Science/Server/spring mvc request 처리 과정.md",
+    "4-Archive/Computer-Science/Server/webflux 관련.md",
     "5-Temp/Java&Kotlin/Untitled.md",
-    "4-Archive/Study Matirials/구조/webflux 관련.md",
     "5-Temp/Database/데이터베이스 공부자료.md",
     "5-Temp/Spring/Feign, Webclient.md",
     "5-Temp/Spring/스웨거 어노테이션.md",
@@ -182,7 +190,7 @@
     "5-Temp/Computer Science/OS cache layer와 memory 관리 전략.md",
     "5-Temp/Spring/aspectj.md",
     "4-Archive/Computer-Science/Untitled.md",
-    "5-Temp/Computer Science/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
+    "5-Temp/Reactive/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "4-Archive/Tip/code convention.md",
     "5-Temp/Spring/스프링 쉘.md",
     "5-Temp/Computer Science/쓰레드도 파일로 관리?.md",
@@ -190,16 +198,8 @@
     "4-Archive/Computer-Science/webserver, was 발전과정.md",
     "3-Resource/Series/Web Server, WAS",
     "2-Area/Concept/Reactive Manifesto.md",
-    "4-Archive/Study Matirials/구조/tomcat.md",
-    "5-Temp/테스트/kotest blocking.md",
     "real-resource/KakaoTalk_Image_2023-11-15-22-24-02.png",
-    "4-Archive/Study Matirials/구조/SSD.md",
-    "5-Temp/Computer Science/bytebuf, bytebuffer.md",
-    "5-Temp/Java&Kotlin/thread leak.md",
-    "Untitled.md",
-    "5-Temp/msa 트랜잭션 관리.md",
-    "5-Temp/Spring/서블릿 에러 핸들링.md",
-    "4-Archive/Study Matirials/구조",
+    "4-Archive/Computer-Science/Server",
     "real-resource/Pasted image 20231117232133.png",
     "real-resource/Pasted image 20231117225008.png",
     "real-resource/Pasted image 20231117224733.png",
