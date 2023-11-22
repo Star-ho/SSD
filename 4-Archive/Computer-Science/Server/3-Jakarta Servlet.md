@@ -1,0 +1,3 @@
+- 이전의 이름음 java servlet임
+	- eclipse재단과 oracle과의 상표권 분쟁으로 jakarta로 변경됨
+- 

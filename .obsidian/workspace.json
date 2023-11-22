@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/2-Sevlet.md",
+                "file": "4-Archive/Computer-Science/Server/3-Jakarta Servlet.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/2-Sevlet.md",
+                "file": "4-Archive/Computer-Science/Server/3-Jakarta Servlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/2-Sevlet.md",
+                "file": "4-Archive/Computer-Science/Server/3-Jakarta Servlet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/2-Sevlet.md"
+                "file": "4-Archive/Computer-Science/Server/3-Jakarta Servlet.md"
               }
             }
           },
@@ -171,10 +171,12 @@
   },
   "active": "f26b76447cb14cdb",
   "lastOpenFiles": [
-    "4-Archive/Computer-Science/Server/1-Applet.md",
     "4-Archive/Computer-Science/Server/2-Sevlet.md",
-    "4-Archive/Computer-Science/Server/3-tomcat.md",
+    "4-Archive/Computer-Science/Server/3-Jakarta Servlet.md",
+    "real-resource/Pasted image 20231122220847.png",
+    "4-Archive/Computer-Science/Server/1-Applet.md",
     "4-Archive/Computer-Science/Server/0-Static Web Server.md",
+    "4-Archive/Computer-Science/Server/3-tomcat.md",
     "4-Archive/Computer-Science/webserver, was 발전과정.md",
     "5-Temp/테스트/kotest blocking.md",
     "4-Archive/Computer-Science/Server/webflux 관련.md",
@@ -195,8 +197,6 @@
     "5-Temp/0-이직자료/동기 와 해결과정.md",
     "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
     "2-Area/1-Weekly-Reading/운동.md",
-    "5-Temp/Computer Science/OS cache layer와 memory 관리 전략.md",
-    "5-Temp/Spring/aspectj.md",
     "3-Resource/Series/Web Server, WAS",
     "real-resource/KakaoTalk_Image_2023-11-15-22-24-02.png",
     "4-Archive/Computer-Science/Server",
@@ -213,7 +213,6 @@
     "real-resource/Pasted image 20231105224429.png",
     "real-resource/Pasted image 20231105210948.png",
     "real-resource/Pasted image 20231105205052.png",
-    "real-resource/Pasted image 20231105204700.png",
     "2-Area/0-Sung-ho/인생 팁",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
