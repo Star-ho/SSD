@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/99-Reactor netty.md",
+                "file": "4-Archive/Computer-Science/Server/4-Servlet Container.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/99-Reactor netty.md",
+                "file": "4-Archive/Computer-Science/Server/4-Servlet Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/99-Reactor netty.md",
+                "file": "4-Archive/Computer-Science/Server/4-Servlet Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/99-Reactor netty.md"
+                "file": "4-Archive/Computer-Science/Server/4-Servlet Container.md"
               }
             }
           },
@@ -171,10 +171,11 @@
   },
   "active": "f26b76447cb14cdb",
   "lastOpenFiles": [
-    "4-Archive/Computer-Science/Server/99-tomcat.md",
-    "4-Archive/Computer-Science/Server/4-Servlet Container.md",
-    "4-Archive/Computer-Science/Server/3-Jakarta Servlet.md",
     "4-Archive/Computer-Science/Server/2-Sevlet.md",
+    "4-Archive/Computer-Science/Server/3-Jakarta Servlet.md",
+    "4-Archive/Computer-Science/Server/4-Servlet Container.md",
+    "4-Archive/Computer-Science/Server/99-Reactor netty.md",
+    "4-Archive/Computer-Science/Server/99-tomcat.md",
     "real-resource/Pasted image 20231122220847.png",
     "4-Archive/Computer-Science/Server/1-Applet.md",
     "4-Archive/Computer-Science/Server/0-Static Web Server.md",
@@ -184,7 +185,6 @@
     "4-Archive/Computer-Science/Server/tomcat.md",
     "4-Archive/Computer-Science/Server/nio 모델 관련 글.md",
     "4-Archive/Computer-Science/Server/webflux.md",
-    "4-Archive/Computer-Science/Server/99-Reactor netty.md",
     "4-Archive/Computer-Science/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
     "5-Temp/Database/Write-Ahead Logging.md",
