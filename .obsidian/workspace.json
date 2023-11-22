@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/3-Jakarta Servlet.md",
+                "file": "4-Archive/Computer-Science/Server/3-Servlet Container.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/4-Servlet Container.md",
+                "file": "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/4-Servlet Container.md",
+                "file": "4-Archive/Computer-Science/Server/3-Servlet Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/4-Servlet Container.md",
+                "file": "4-Archive/Computer-Science/Server/3-Servlet Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/4-Servlet Container.md"
+                "file": "4-Archive/Computer-Science/Server/3-Servlet Container.md"
               }
             }
           },
@@ -182,10 +181,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b696b30453dd8828",
+  "active": "f26b76447cb14cdb",
   "lastOpenFiles": [
-    "4-Archive/Computer-Science/Server/3-Jakarta Servlet.md",
-    "4-Archive/Computer-Science/Server/4-Servlet Container.md",
+    "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
+    "4-Archive/Computer-Science/Server/3-Servlet Container.md",
+    "real-resource/Pasted image 20231122230728.png",
     "4-Archive/Computer-Science/Server/2-Sevlet.md",
     "4-Archive/Computer-Science/Server/99-Reactor netty.md",
     "4-Archive/Computer-Science/Server/99-tomcat.md",
@@ -210,7 +210,6 @@
     "5-Temp/Spring/스웨거 어노테이션.md",
     "5-Temp/0-이직자료/동기 와 해결과정.md",
     "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
-    "2-Area/1-Weekly-Reading/운동.md",
     "3-Resource/Series/Web Server, WAS",
     "real-resource/KakaoTalk_Image_2023-11-15-22-24-02.png",
     "4-Archive/Computer-Science/Server",
@@ -226,7 +225,6 @@
     "real-resource/Pasted image 20231105225014.png",
     "real-resource/Pasted image 20231105224429.png",
     "real-resource/Pasted image 20231105210948.png",
-    "real-resource/Pasted image 20231105205052.png",
     "2-Area/0-Sung-ho/인생 팁",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
