@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/3-Servlet Container.md",
+                "file": "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/3-Servlet Container.md",
+                "file": "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/3-Servlet Container.md",
+                "file": "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/3-Servlet Container.md"
+                "file": "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "f26b76447cb14cdb",
   "lastOpenFiles": [
-    "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
     "4-Archive/Computer-Science/Server/3-Servlet Container.md",
+    "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
     "real-resource/Pasted image 20231122230728.png",
     "4-Archive/Computer-Science/Server/2-Sevlet.md",
     "4-Archive/Computer-Science/Server/99-Reactor netty.md",
