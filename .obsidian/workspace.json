@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Webserver",
+                "query": "컨벤션",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f26b76447cb14cdb",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
     "5-Temp/코드짤떄/속도 개선을 위해.md",
     "5-Temp/코드짤떄/단일 책임의 원칙.md",
