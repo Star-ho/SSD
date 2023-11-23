@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
+                "file": "5-Temp/코드짤떄/단일 책임의 원칙.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
+                "file": "5-Temp/코드짤떄/단일 책임의 원칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
+                "file": "5-Temp/코드짤떄/단일 책임의 원칙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md"
+                "file": "5-Temp/코드짤떄/단일 책임의 원칙.md"
               }
             }
           },
@@ -183,8 +183,10 @@
   },
   "active": "f26b76447cb14cdb",
   "lastOpenFiles": [
-    "4-Archive/Computer-Science/Server/3-Servlet Container.md",
+    "5-Temp/코드짤떄/속도 개선을 위해.md",
+    "5-Temp/코드짤떄/단일 책임의 원칙.md",
     "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
+    "4-Archive/Computer-Science/Server/3-Servlet Container.md",
     "real-resource/Pasted image 20231122230728.png",
     "4-Archive/Computer-Science/Server/2-Sevlet.md",
     "4-Archive/Computer-Science/Server/99-Reactor netty.md",
@@ -209,7 +211,6 @@
     "5-Temp/Spring/Feign, Webclient.md",
     "5-Temp/Spring/스웨거 어노테이션.md",
     "5-Temp/0-이직자료/동기 와 해결과정.md",
-    "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
     "3-Resource/Series/Web Server, WAS",
     "real-resource/KakaoTalk_Image_2023-11-15-22-24-02.png",
     "4-Archive/Computer-Science/Server",
