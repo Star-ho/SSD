@@ -16,9 +16,14 @@
 - Engine 인터페이스는 사용자에 의해 구현될 수 있지만, 자주 발생하는 일은 아님
 
 ### Host
+- 호스트는 네트워크 이름(예: www.yourcompany.com)을 Tomcat 서버에 연결한 것
+- 엔진에는 여러 개의 호스트가 포함될 수 있으며, 호스트 요소는 yourcompany.com 및 abc.yourcompany.com과 같은 네트워크 별칭도 지원
+- 표준 호스트 구현은 상당한 추가 기능을 제공하기 때문에 사용자가 사용자 지정 호스트를 만드는 경우는 거의 없음
 
-
-
+### Context
+- 웹 어플리케이션을 나타냄
+- 호스트에는 고유한 경로를 가진 여러개의 context를 가질 수 있음
+- 사용자정의 컨텍스트를 생성하기 위해 인터페이스를 구현할 수 있지만, 표준 컨텍스트가 충분히 많은 기능을 제공하기에 이런 경우는 드뭄
 
 
 https://tomcat.apache.org/tomcat-9.0-doc/architecture/overview.html
