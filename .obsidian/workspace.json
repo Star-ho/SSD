@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/99-tomcat.md",
+                "file": "5-Temp/Spring/argument resolver.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
+                "file": "4-Archive/Computer-Science/Server/99-tomcat.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Argument Resolver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,16 +182,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f26b76447cb14cdb",
+  "active": "b696b30453dd8828",
   "lastOpenFiles": [
-    "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
+    "4-Archive/Computer-Science/Server/99-Reactor netty.md",
     "4-Archive/Computer-Science/Server/99-tomcat.md",
+    "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
+    "5-Temp/Spring/argument resolver.md",
+    "5-Temp/Spring/Untitled.md",
     "5-Temp/코드짤떄/단일 책임의 원칙.md",
     "5-Temp/코드짤떄/속도 개선을 위해.md",
     "4-Archive/Computer-Science/Server/3-Servlet Container.md",
     "real-resource/Pasted image 20231122230728.png",
     "4-Archive/Computer-Science/Server/2-Sevlet.md",
-    "4-Archive/Computer-Science/Server/99-Reactor netty.md",
     "real-resource/Pasted image 20231122220847.png",
     "4-Archive/Computer-Science/Server/1-Applet.md",
     "4-Archive/Computer-Science/Server/0-Static Web Server.md",
@@ -209,8 +212,6 @@
     "5-Temp/Java&Kotlin/Untitled.md",
     "5-Temp/Database/데이터베이스 공부자료.md",
     "5-Temp/Spring/Feign, Webclient.md",
-    "5-Temp/Spring/스웨거 어노테이션.md",
-    "5-Temp/0-이직자료/동기 와 해결과정.md",
     "3-Resource/Series/Web Server, WAS",
     "real-resource/KakaoTalk_Image_2023-11-15-22-24-02.png",
     "4-Archive/Computer-Science/Server",
