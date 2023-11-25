@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/코드짤떄/단일 책임의 원칙.md",
+                "file": "4-Archive/Computer-Science/Server/99-tomcat.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "컨벤션",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/코드짤떄/단일 책임의 원칙.md",
+                "file": "4-Archive/Computer-Science/Server/99-tomcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/코드짤떄/단일 책임의 원칙.md",
+                "file": "4-Archive/Computer-Science/Server/99-tomcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/코드짤떄/단일 책임의 원칙.md"
+                "file": "4-Archive/Computer-Science/Server/99-tomcat.md"
               }
             }
           },
@@ -182,16 +181,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "f26b76447cb14cdb",
   "lastOpenFiles": [
-    "5-Temp/코드짤떄/속도 개선을 위해.md",
-    "5-Temp/코드짤떄/단일 책임의 원칙.md",
     "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
+    "4-Archive/Computer-Science/Server/99-tomcat.md",
+    "5-Temp/코드짤떄/단일 책임의 원칙.md",
+    "5-Temp/코드짤떄/속도 개선을 위해.md",
     "4-Archive/Computer-Science/Server/3-Servlet Container.md",
     "real-resource/Pasted image 20231122230728.png",
     "4-Archive/Computer-Science/Server/2-Sevlet.md",
     "4-Archive/Computer-Science/Server/99-Reactor netty.md",
-    "4-Archive/Computer-Science/Server/99-tomcat.md",
     "real-resource/Pasted image 20231122220847.png",
     "4-Archive/Computer-Science/Server/1-Applet.md",
     "4-Archive/Computer-Science/Server/0-Static Web Server.md",
