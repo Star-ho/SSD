@@ -25,6 +25,10 @@
 - 호스트에는 고유한 경로를 가진 여러개의 context를 가질 수 있음
 - 사용자정의 컨텍스트를 생성하기 위해 인터페이스를 구현할 수 있지만, 표준 컨텍스트가 충분히 많은 기능을 제공하기에 이런 경우는 드뭄
 
+### Connector
+- 클라이언트와 통신을 처리
+- HTTP 트래픽에 처리되는 HTTP 커넥터와 HTTPD와 같은 웹서버와 연결할때 필요한 ajp프로토콜을 구현한 ajp커넥터가 존재함
+
 
 https://tomcat.apache.org/tomcat-9.0-doc/architecture/overview.html
 https://medium.com/chequer/tomcat-spring-bootstrapping-sequence-1%ED%8E%B8-tomcat-4402102c0585
