@@ -1,7 +1,7 @@
-![[Pasted image 20231125233607.png]]
+![[Pasted image 20231126172744.png|center|600]]
 
 
 
 
-https://terasolunaorg.github.io/guideline/1.0.1.RELEASE/en/Overview/SpringMVCOverview.html
+https://justforchangesake.wordpress.com/category/spring-mvc/
 #argent
