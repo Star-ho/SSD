@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f26b76447cb14cdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Archive/Computer-Science/Server/spring mvc request 처리 과정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b8bf2e678cc1377b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/테스트/kotest blocking.md",
+                "file": "4-Archive/Computer-Science/Server/spring mvc request 처리 과정.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,9 +157,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f26b76447cb14cdb",
+  "active": "b8bf2e678cc1377b",
   "lastOpenFiles": [
+    "5-Temp/테스트/kotest와 coroutine의 상관관계.md",
+    "5-Temp/테스트/kotest blocking.md",
+    "5-Temp/Pasted image 20231125233607.md",
+    "4-Archive/Computer-Science/Server/spring mvc request 처리 과정.md",
     "real-resource/Pasted image 20231126172744.png",
+    "real-resource/Pasted image 20231125233607.png",
     "4-Archive/Computer-Science/Server/5-tomcat.md",
     "4-Archive/Computer-Science/Server/99-Reactor netty.md",
     "4-Archive/Computer-Science/Server/nio 모델 관련 글.md",
@@ -182,14 +175,11 @@
     "4-Archive/Computer-Science/Server/2-Sevlet.md",
     "4-Archive/Computer-Science/Server/1-Applet.md",
     "4-Archive/Computer-Science/Server/0-Static Web Server.md",
-    "4-Archive/Computer-Science/Server/spring mvc request 처리 과정.md",
     "4-Archive/Computer-Science/Server/webflux 관련.md",
     "5-Temp/Spring/argument resolver.md",
-    "5-Temp/테스트/kotest blocking.md",
     "5-Temp/Java&Kotlin/coroutine, reactive streams.md",
     "4-Archive/JAVA/kotlin, coroutine, kotest 버전별 호환 목록.md",
     "4-Archive/JAVA/kotlin vs java.md",
-    "real-resource/Pasted image 20231125233607.png",
     "4-Archive/Computer-Science/Server/tomcat.md",
     "real-resource/Pasted image 20231125230312.png",
     "5-Temp/Spring/Untitled.md",
@@ -200,7 +190,6 @@
     "4-Archive/Computer-Science/webserver, was 발전과정.md",
     "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
     "5-Temp/Database/Write-Ahead Logging.md",
-    "SSD.md",
     "3-Resource/Series/Web Server, WAS",
     "real-resource/KakaoTalk_Image_2023-11-15-22-24-02.png",
     "4-Archive/Computer-Science/Server",
@@ -213,7 +202,6 @@
     "3-Resource/Database/Innodb",
     "5-Temp/00사업아이템",
     "2-Area/생각정리",
-    "real-resource/Pasted image 20231105225014.png",
     "2-Area/0-Sung-ho/인생 팁",
     "3-Resource/Series/Concurrency",
     "3-Resource/Series",
