@@ -11,15 +11,16 @@
 	- 여러 Servlet을 사용할경우 중복코드가 생성되기에 하나의 Servlet에서 요청을 처리함
 	- 스프링은 하나의 Dispatcher Servle만 생성 [참고링크](https://stackoverflow.com/questions/23049736/working-with-multiple-dispatcher-servlets-in-a-spring-application)
 ### Hander Mapping
-- request와 handler
-
-### View Reslover
-- 전달받은 view
-
-
-
+- request가 등록된 controller 중 어떤 controller와 매핑되는지 찾음
+### Hander Adapter
+- Hander Mapping으로 찾은 controller 호출
+### View Resolver
+- 전달받은 view name가지고 view를 찾음
 
 
+
+https://terasolunaorg.github.io/guideline/1.0.1.RELEASE/en/Overview/SpringMVCOverview.html
 https://justforchangesake.wordpress.com/2014/05/07/spring-mvc-request-life-cycle/
+https://velog.io/@hsw0194/Spring-MVC-HandlerMapping%EC%9D%98-%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1%ED%8E%B8
 
 #argent
