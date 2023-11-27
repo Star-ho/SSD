@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/99-Reactor netty.md",
+                "file": "4-Archive/Computer-Science/Server/Reactive Streams.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/99-Reactor netty.md",
+                "file": "4-Archive/Computer-Science/Server/Reactive Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/99-Reactor netty.md",
+                "file": "4-Archive/Computer-Science/Server/Reactive Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/99-Reactor netty.md"
+                "file": "4-Archive/Computer-Science/Server/Reactive Streams.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "b8bf2e678cc1377b",
   "lastOpenFiles": [
+    "4-Archive/Computer-Science/Server/99-Reactor netty.md",
+    "4-Archive/Computer-Science/Server/Reactive Streams.md",
     "4-Archive/Computer-Science/Server/6-spring mvc request 처리 과정.md",
     "4-Archive/Computer-Science/Server/5-tomcat.md",
     "4-Archive/Computer-Science/Server/nio 모델 관련 글.md",
@@ -169,7 +171,6 @@
     "5-Temp/Pasted image 20231125233607.md",
     "real-resource/Pasted image 20231126172744.png",
     "real-resource/Pasted image 20231125233607.png",
-    "4-Archive/Computer-Science/Server/99-Reactor netty.md",
     "4-Archive/Computer-Science/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
     "4-Archive/Computer-Science/Server/3-Servlet Container.md",
@@ -189,7 +190,6 @@
     "real-resource/Pasted image 20231122220847.png",
     "4-Archive/Computer-Science/webserver, was 발전과정.md",
     "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
-    "5-Temp/Database/Write-Ahead Logging.md",
     "3-Resource/Series/Web Server, WAS",
     "real-resource/KakaoTalk_Image_2023-11-15-22-24-02.png",
     "4-Archive/Computer-Science/Server",
