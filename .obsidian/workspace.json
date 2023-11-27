@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/Reactive Streams.md",
+                "file": "2-Area/Concept/Reactive Manifesto.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coroutine",
+                "query": "manif",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/Reactive Streams.md",
+                "file": "2-Area/Concept/Reactive Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/Reactive Streams.md",
+                "file": "2-Area/Concept/Reactive Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Computer-Science/Server/Reactive Streams.md"
+                "file": "2-Area/Concept/Reactive Manifesto.md"
               }
             }
           },
@@ -159,8 +160,8 @@
   },
   "active": "b8bf2e678cc1377b",
   "lastOpenFiles": [
-    "4-Archive/Computer-Science/Server/99-Reactor netty.md",
     "4-Archive/Computer-Science/Server/Reactive Streams.md",
+    "4-Archive/Computer-Science/Server/99-Reactor netty.md",
     "4-Archive/Computer-Science/Server/6-spring mvc request 처리 과정.md",
     "4-Archive/Computer-Science/Server/5-tomcat.md",
     "4-Archive/Computer-Science/Server/nio 모델 관련 글.md",
