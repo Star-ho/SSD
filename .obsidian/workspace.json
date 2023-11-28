@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b28c3990ef8e081",
+        "id": "d37bb37dc0780669",
         "type": "tabs",
         "children": [
           {
-            "id": "b8bf2e678cc1377b",
+            "id": "8a050bc673f06a32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Concept/Reactive Manifesto.md",
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Concept/Reactive Manifesto.md",
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Concept/Reactive Manifesto.md",
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Concept/Reactive Manifesto.md"
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md"
               }
             }
           },
@@ -158,26 +157,30 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b8bf2e678cc1377b",
+  "active": "8a050bc673f06a32",
   "lastOpenFiles": [
-    "4-Archive/Computer-Science/Server/Reactive Streams.md",
-    "4-Archive/Computer-Science/Server/99-Reactor netty.md",
-    "4-Archive/Computer-Science/Server/6-spring mvc request 처리 과정.md",
-    "4-Archive/Computer-Science/Server/5-tomcat.md",
-    "4-Archive/Computer-Science/Server/nio 모델 관련 글.md",
-    "4-Archive/Computer-Science/Server/webflux.md",
-    "4-Archive/Computer-Science/Server/webflux 관련.md",
+    "2-Area/Series/Server/8-.md",
+    "2-Area/Series/Server/7-Reactive Manifesto.md",
+    "2-Area/Series/Server/99-Reactor netty.md",
+    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
+    "2-Area/1-Weekly-Reading/개발.md",
+    "2-Area/Series/Server/Reactive Streams.md",
+    "3-Resource/Series/Web Server, WAS/Untitled.md",
+    "2-Area/Series/Server/nio 모델 관련 글.md",
+    "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
+    "2-Area/Series/Server/5-tomcat.md",
+    "2-Area/Series/Server/webflux.md",
+    "2-Area/Series/Server/webflux 관련.md",
     "5-Temp/테스트/kotest와 coroutine의 상관관계.md",
     "5-Temp/테스트/kotest blocking.md",
     "5-Temp/Pasted image 20231125233607.md",
     "real-resource/Pasted image 20231126172744.png",
     "real-resource/Pasted image 20231125233607.png",
-    "4-Archive/Computer-Science/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
-    "4-Archive/Computer-Science/Server/4-Jakarta Servlet.md",
-    "4-Archive/Computer-Science/Server/3-Servlet Container.md",
-    "4-Archive/Computer-Science/Server/2-Sevlet.md",
-    "4-Archive/Computer-Science/Server/1-Applet.md",
-    "4-Archive/Computer-Science/Server/0-Static Web Server.md",
+    "2-Area/Series/Server/4-Jakarta Servlet.md",
+    "2-Area/Series/Server/3-Servlet Container.md",
+    "2-Area/Series/Server/2-Sevlet.md",
+    "2-Area/Series/Server/1-Applet.md",
+    "2-Area/Series/Server/0-Static Web Server.md",
     "5-Temp/Spring/argument resolver.md",
     "5-Temp/Java&Kotlin/coroutine, reactive streams.md",
     "4-Archive/JAVA/kotlin, coroutine, kotest 버전별 호환 목록.md",
@@ -185,15 +188,11 @@
     "4-Archive/Computer-Science/Server/tomcat.md",
     "real-resource/Pasted image 20231125230312.png",
     "5-Temp/Spring/Untitled.md",
-    "5-Temp/코드짤떄/단일 책임의 원칙.md",
-    "5-Temp/코드짤떄/속도 개선을 위해.md",
     "real-resource/Pasted image 20231122230728.png",
     "real-resource/Pasted image 20231122220847.png",
-    "4-Archive/Computer-Science/webserver, was 발전과정.md",
-    "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
     "3-Resource/Series/Web Server, WAS",
     "real-resource/KakaoTalk_Image_2023-11-15-22-24-02.png",
-    "4-Archive/Computer-Science/Server",
+    "2-Area/Series/Server",
     "real-resource/Pasted image 20231117232133.png",
     "real-resource/Pasted image 20231117225008.png",
     "real-resource/Pasted image 20231117224733.png",
@@ -204,8 +203,8 @@
     "5-Temp/00사업아이템",
     "2-Area/생각정리",
     "2-Area/0-Sung-ho/인생 팁",
-    "3-Resource/Series/Concurrency",
-    "3-Resource/Series",
+    "2-Area/Series/Concurrency",
+    "2-Area/Series",
     "Untitled.canvas"
   ]
 }
