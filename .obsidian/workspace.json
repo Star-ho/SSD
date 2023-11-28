@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
+                "file": "2-Area/Series/Server/8-Reactive Streams.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
+                "file": "2-Area/Series/Server/8-Reactive Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
+                "file": "2-Area/Series/Server/8-Reactive Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md"
+                "file": "2-Area/Series/Server/8-Reactive Streams.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "8a050bc673f06a32",
   "lastOpenFiles": [
-    "2-Area/Series/Server/8-.md",
     "2-Area/Series/Server/7-Reactive Manifesto.md",
+    "2-Area/Series/Server/8-Reactive Streams.md",
     "2-Area/Series/Server/99-Reactor netty.md",
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "2-Area/1-Weekly-Reading/개발.md",
