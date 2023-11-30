@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75eba19989bcb554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/뉴렐릭, 와탭, 데이터독.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "manif",
+                "query": ",@EmveddedId",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/8-Reactive Streams.md",
+                "file": "5-Temp/뉴렐릭, 와탭, 데이터독.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/8-Reactive Streams.md",
+                "file": "5-Temp/뉴렐릭, 와탭, 데이터독.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/8-Reactive Streams.md"
+                "file": "5-Temp/뉴렐릭, 와탭, 데이터독.md"
               }
             }
           },
@@ -157,10 +171,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8a050bc673f06a32",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
     "2-Area/Series/Server/8-Reactive Streams.md",
+    "2-Area/Series/Server/7-Reactive Manifesto.md",
     "2-Area/Series/Server/99-Reactor netty.md",
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "2-Area/1-Weekly-Reading/개발.md",
