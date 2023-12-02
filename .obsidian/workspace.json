@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/뉴렐릭, 와탭, 데이터독.md",
+                "file": "2-Area/생각정리/클래스, 메서드,.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/뉴렐릭, 와탭, 데이터독.md",
+                "file": "2-Area/생각정리/클래스, 메서드,.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/뉴렐릭, 와탭, 데이터독.md",
+                "file": "2-Area/생각정리/클래스, 메서드,.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/뉴렐릭, 와탭, 데이터독.md"
+                "file": "2-Area/생각정리/클래스, 메서드,.md"
               }
             }
           },
@@ -171,8 +170,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "75eba19989bcb554",
   "lastOpenFiles": [
+    "5-Temp/뉴렐릭, 와탭, 데이터독.md",
+    "2-Area/생각정리/클래스, 메서드,.md",
     "2-Area/Series/Server/8-Reactive Streams.md",
     "2-Area/Series/Server/7-Reactive Manifesto.md",
     "2-Area/Series/Server/99-Reactor netty.md",
@@ -199,9 +200,7 @@
     "5-Temp/Java&Kotlin/coroutine, reactive streams.md",
     "4-Archive/JAVA/kotlin, coroutine, kotest 버전별 호환 목록.md",
     "4-Archive/JAVA/kotlin vs java.md",
-    "4-Archive/Computer-Science/Server/tomcat.md",
     "real-resource/Pasted image 20231125230312.png",
-    "5-Temp/Spring/Untitled.md",
     "real-resource/Pasted image 20231122230728.png",
     "real-resource/Pasted image 20231122220847.png",
     "3-Resource/Series/Web Server, WAS",
