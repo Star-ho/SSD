@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Spring/spring 2.3 to spring 2.7 변경 시.md",
+                "file": "2-Area/생각정리/공부하는법.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Spring/spring 2.3 to spring 2.7 변경 시.md",
+                "file": "2-Area/생각정리/공부하는법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Spring/spring 2.3 to spring 2.7 변경 시.md",
+                "file": "2-Area/생각정리/공부하는법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Spring/spring 2.3 to spring 2.7 변경 시.md"
+                "file": "2-Area/생각정리/공부하는법.md"
               }
             }
           },
@@ -172,9 +172,10 @@
   },
   "active": "75eba19989bcb554",
   "lastOpenFiles": [
+    "4-Archive/Spring/spring 2.3 to spring 2.7 변경 시.md",
+    "2-Area/생각정리/공부하는법.md",
     "real-resource/Pasted image 20231204225453.png",
     "5-Temp/Spring/feign client.md",
-    "4-Archive/Spring/spring 2.3 to spring 2.7 변경 시.md",
     "2-Area/생각정리/개발자.md",
     "2-Area/생각정리/수정시 코드의 영향도.md",
     "5-Temp/마인드셋/팀플할때.md",
@@ -210,7 +211,6 @@
     "real-resource/Pasted image 20231117232133.png",
     "real-resource/Pasted image 20231117225008.png",
     "real-resource/Pasted image 20231117224733.png",
-    "real-resource/Pasted image 20231115224606.png",
     "5-Temp/테스트",
     "5-Temp/cloud",
     "3-Resource/Database/Innodb",
