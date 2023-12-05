@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/8-Reactive Streams.md",
+                "file": "2-Area/생각정리/레거시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/8-Reactive Streams.md",
+                "file": "2-Area/생각정리/레거시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/8-Reactive Streams.md"
+                "file": "2-Area/생각정리/레거시.md"
               }
             }
           },
@@ -169,8 +170,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8a050bc673f06a32",
+  "active": "75eba19989bcb554",
   "lastOpenFiles": [
+    "2-Area/Series/Server/8-Reactive Streams.md",
     "2-Area/생각정리/레거시.md",
     "2-Area/생각정리/read, write, jpa?.md",
     "2-Area/생각정리/수정시 코드의 영향도.md",
@@ -197,7 +199,6 @@
     "5-Temp/Database/데이터베이스 공부자료.md",
     "5-Temp/Database/로그.md",
     "5-Temp/뉴렐릭, 와탭, 데이터독.md",
-    "2-Area/Series/Server/8-Reactive Streams.md",
     "2-Area/Series/Server/7-Reactive Manifesto.md",
     "real-resource/Pasted image 20231126172744.png",
     "real-resource/Pasted image 20231125233607.png",
