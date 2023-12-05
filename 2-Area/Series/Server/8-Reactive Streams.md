@@ -27,8 +27,25 @@ public interface Publisher<T> {
 }
 ```
 - 무한한 시퀀스 요소를 Subscriber에게 제공
-- 에러발생시 onError, 더이상 전달한 요소가 없다면 onComplete를 반드시 호추래야함
+- publisher는 요청된 수만큼, 혹은 요청된 수보다 적은 onNext를 호출해야함
+- 요청된 수보다 적은 onNext를 보내고, onError 혹은 onCompelete로 구독의 종료를 알릴 수 있음
+- 에러발생시 onError, 더이상 전달한 요소가 없다면 onComplete를 반드시 호출해야함
+- Subscriber에게 onError 혹은 onComplete를 보낼 시, Subscriber는 해당 Subscription을 취소된 것으로 간주해야함
+- 종료신호(onError 혹은 onComplete)를 보낸 후에는 더이상 신호가 발생하지 않아야함
+- Publisher가 subscribe호출을 받으면 반드시 Subscriber의 onSubscribe을 호출해야함
+	- 제공된 구독자가 null인 상황에서는 NullPointerException예외를 던져야함
+	- 제공된 구독자가 null이 아닌 상황에서는 정상적으로 응답해야함
 
+### Subscriber
+```
+public interface Subscriber<T> {
+    public void onSubscribe(Subscription s);
+    public void onNext(T t);
+    public void onError(Throwable t);
+    public void onComplete();
+}
+```
+- 
 
 https://www.reactive-streams.org/
 https://github.com/reactive-streams/reactive-streams-jvm/blob/v1.0.4/README.md팅
