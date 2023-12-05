@@ -10,13 +10,14 @@
 
 ## 구성요소
 
-`Publisher.subscribe(Subscriber)`에 대한 응답으로 Subscriber는 아래의 신호를 받음
+- Publisher는 잠재적으로 무한한 수의 시퀀스 요소를 제공하며, Subscriber의 요청을 받으면 요소를 제공하기 시작함
+- `Publisher.subscribe(Subscriber)`에 대한 응답으로 Subscriber는 아래의 신호를 받음```
 ```
 onSubscribe onNext* (onError | onComplete)?
 ```
-- subscribe를 호출하면, 반드시 한번 onSubscribe가 호출되며, 무한한 onNext를 방출
+- Publisher.subscribe를 호출하면, 반드시 한번 onSubscribe가 호출되며, 무한한 onNext를 방출
 - 이후 Subscription이 cancel되지 않으면, 에러가 발생하면 onError, 더 이상 전달할 요소가 없다면 onComplete를 호출
-	- 즉 Subscription이 cancel되면 onError, onComplete를 호출하지 않을 수 있음
+	- Subscription이 cancel되면 onError, onComplete를 호출하지 않을 수 있음
 
 
 ### Publisher
@@ -25,10 +26,8 @@ public interface Publisher<T> {
     public void subscribe(Subscriber<? super T> s);
 }
 ```
-
-- 잠재적으로 무한한 수의 시퀀스 요소를 제공
-- Subscriber의 요청을 받으면 publishing을 시작함
-- 
+- 무한한 시퀀스 요소를 Subscriber에게 제공
+- 에러발생시 onError, 더이상 전달한 요소가 없다면 onComplete를 반드시 호추래야함
 
 
 https://www.reactive-streams.org/
