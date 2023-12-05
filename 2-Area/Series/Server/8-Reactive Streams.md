@@ -45,6 +45,8 @@ public interface Subscriber<T> {
     public void onComplete();
 }
 ```
+- onNext 신호를 받기위해서는 반드시 Subscription.request(long n)신호를 보내야함
+- onComplete() 및 onError(Throwable t)는 신호를 수신한다면 구독이 취소된것으로 간주해야함
 - 
 
 https://www.reactive-streams.org/
