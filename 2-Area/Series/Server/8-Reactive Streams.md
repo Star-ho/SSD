@@ -19,7 +19,8 @@ onSubscribe onNext* (onError | onComplete)?
 - 이후 Subscription이 cancel되지 않으면, 에러가 발생하면 onError, 더 이상 전달할 요소가 없다면 onComplete를 호출
 	- Subscription이 cancel되면 onError, onComplete를 호출하지 않을 수 있음
 
-
+> 어떻게 구현해야 하는지에 대한 설명으로, 필자는 구현보다는 사용에 관한 관점에 대해 정리함
+> 너무 구현에 관한 설명에 대해서는 작성하지 않으므로 구현내용이 궁금하다면 [링크](https://github.com/reactive-streams/reactive-streams-jvm/blob/v1.0.4/README.md)를 참조
 ### Publisher
 ```
 public interface Publisher<T> {
@@ -47,7 +48,12 @@ public interface Subscriber<T> {
 ```
 - onNext 신호를 받기위해서는 반드시 Subscription.request(long n)신호를 보내야함
 - onComplete() 및 onError(Throwable t)는 신호를 수신한다면 구독이 취소된것으로 간주해야함
-- 
+- Subscriber가 이미 활성화된 Subscription을 가지고 있을때, 새로운 Subscription을 받는다면 새로운 Subscription에 대해 cancel을 호출해야함
+	- Subscriber는 반드시 하나의 Publisher를 가져야함
+- Subscription이 더 이상 필요하지 않다면 Subscriber는 cancel을 호출해야함
+- Subscriber는 반드시 Subscription의 request와 cancel이 순차적으로 호출되도록 보장해야함
+
+### Subscription
 
 https://www.reactive-streams.org/
-https://github.com/reactive-streams/reactive-streams-jvm/blob/v1.0.4/README.md팅
+https://github.com/reactive-streams/reactive-streams-jvm/blob/v1.0.4/README.md
