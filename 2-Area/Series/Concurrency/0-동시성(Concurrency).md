@@ -52,4 +52,11 @@
 	- database
 
 
+### 동시성 관련한 문제들
+- Lost Update Problem(write-write conflict)
+- Temporary Update Problem( dirty read problem)
+- Incorrect Summary Problem
+- Unrepeatable Read Problem
+- Phantom Read Problem
+
 #Concurrency 

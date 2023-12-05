@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/8-Reactive Streams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75eba19989bcb554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/생각정리/레거시.md",
+                "file": "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MaxDirectMemorySize",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/생각정리/레거시.md",
+                "file": "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/생각정리/레거시.md",
+                "file": "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/생각정리/레거시.md"
+                "file": "2-Area/Series/Concurrency/0-동시성(Concurrency).md"
               }
             }
           },
@@ -171,9 +157,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "8a050bc673f06a32",
   "lastOpenFiles": [
     "2-Area/Series/Server/8-Reactive Streams.md",
+    "5-Temp/Java&Kotlin/jvm 메모리 세팅시.md",
     "2-Area/생각정리/레거시.md",
     "2-Area/생각정리/read, write, jpa?.md",
     "2-Area/생각정리/수정시 코드의 영향도.md",
@@ -200,7 +187,6 @@
     "5-Temp/Database/데이터베이스 공부자료.md",
     "5-Temp/Database/로그.md",
     "5-Temp/뉴렐릭, 와탭, 데이터독.md",
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
     "real-resource/Pasted image 20231126172744.png",
     "real-resource/Pasted image 20231125233607.png",
     "real-resource/Pasted image 20231125230312.png",
