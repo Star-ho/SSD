@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/생각정리/공부하는법.md",
+                "file": "2-Area/생각정리/레거시.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/생각정리/공부하는법.md",
+                "file": "2-Area/Series/Server/8-Reactive Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/생각정리/공부하는법.md",
+                "file": "2-Area/Series/Server/8-Reactive Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/생각정리/공부하는법.md"
+                "file": "2-Area/Series/Server/8-Reactive Streams.md"
               }
             }
           },
@@ -170,14 +169,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "75eba19989bcb554",
+  "active": "8a050bc673f06a32",
   "lastOpenFiles": [
-    "4-Archive/Spring/spring 2.3 to spring 2.7 변경 시.md",
+    "2-Area/생각정리/레거시.md",
+    "2-Area/생각정리/read, write, jpa?.md",
+    "2-Area/생각정리/수정시 코드의 영향도.md",
+    "2-Area/생각정리/클래스, 메서드,.md",
     "2-Area/생각정리/공부하는법.md",
+    "4-Archive/Spring/spring 2.3 to spring 2.7 변경 시.md",
     "real-resource/Pasted image 20231204225453.png",
     "5-Temp/Spring/feign client.md",
     "2-Area/생각정리/개발자.md",
-    "2-Area/생각정리/수정시 코드의 영향도.md",
     "5-Temp/마인드셋/팀플할때.md",
     "5-Temp/마인드셋/개발자 이유.md",
     "5-Temp/마인드셋/Untitled 1.md",
@@ -194,12 +196,9 @@
     "5-Temp/0-이직자료/면접자료/면접대비 자료.md",
     "5-Temp/Database/데이터베이스 공부자료.md",
     "5-Temp/Database/로그.md",
-    "2-Area/생각정리/클래스, 메서드,.md",
     "5-Temp/뉴렐릭, 와탭, 데이터독.md",
     "2-Area/Series/Server/8-Reactive Streams.md",
     "2-Area/Series/Server/7-Reactive Manifesto.md",
-    "2-Area/Series/Server/99-Reactor netty.md",
-    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "real-resource/Pasted image 20231126172744.png",
     "real-resource/Pasted image 20231125233607.png",
     "real-resource/Pasted image 20231125230312.png",
