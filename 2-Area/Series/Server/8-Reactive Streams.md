@@ -54,6 +54,15 @@ public interface Subscriber<T> {
 - Subscriber는 반드시 Subscription의 request와 cancel이 순차적으로 호출되도록 보장해야함
 
 ### Subscription
+```
+public interface Subscription {
+    public void request(long n);
+    public void cancel();
+}
+```
+- `Subscription.request`과 `Subscription.cancel`은 반드시 Subscriber 컨택스트 내에서 호출되어야함
+- Subscription이 취소되면 Subscription.request(long n)은 NOP을 반환해야함
+- Subscription이 취소되면 Subscription.cancel()은 NOP을 반환해야함
 
 https://www.reactive-streams.org/
 https://github.com/reactive-streams/reactive-streams-jvm/blob/v1.0.4/README.md
