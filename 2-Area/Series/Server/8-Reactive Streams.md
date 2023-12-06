@@ -63,6 +63,21 @@ public interface Subscription {
 - `Subscription.request`과 `Subscription.cancel`은 반드시 Subscriber 컨택스트 내에서 호출되어야함
 - Subscription이 취소되면 Subscription.request(long n)은 NOP을 반환해야함
 - Subscription이 취소되면 Subscription.cancel()은 NOP을 반환해야함
+- Subscription은 반드시 무한한 request를 지원해야하며, 최대 2^63-1까지 지원해야함
+	- 2^63-1보다 크거나 같은 수요는 무한하다고 간주할 수 있음
+- 구독은 한명의 Publisher와 한명의 Subscriber가 공유하며, 이 쌍간의 데이터 교환을 중계하기 위한 목적으로 사용됨
+	- 이러한 위와같은 이유로 subscribe()가 Subscription을 반환하는게 아니라 void를 반환하는 것
+	- Subscription은 onSubscribe콜백을 통해서만 구독자에게 전달됨
+
+### Processor
+```
+public interface Processor<T, R> extends Subscriber<T>, Publisher<R> {
+}
+```
+- Processor는 처리 단계를 나타내며, Subscriber이자 Publisher인 동시에 양쪽의 계약을 모두 준수해야 함
+- onError발생시 복구할 수 있도록 선택할 수 있음
+	- 복구를 선택한다면 Subscription
+
 
 https://www.reactive-streams.org/
 https://github.com/reactive-streams/reactive-streams-jvm/blob/v1.0.4/README.md
