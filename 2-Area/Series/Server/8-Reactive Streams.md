@@ -76,8 +76,9 @@ public interface Processor<T, R> extends Subscriber<T>, Publisher<R> {
 ```
 - Processor는 처리 단계를 나타내며, Subscriber이자 Publisher인 동시에 양쪽의 계약을 모두 준수해야 함
 - onError발생시 복구할 수 있도록 선택할 수 있음
-	- 복구를 선택한다면 Subscription
-
+	- 복구를 선택한다면 Subscription은 취소된 것으로 간주함
+	- 복구를 선택하지 않는다면 Subscriber에게 onError를 전파해야함
+- 필수사항은 아니지만, 마지막 Subscriber가 Subscription을 취소할때 upStream의 구독을 취소하여 취소신호가 upStream으로 전파되게 하는것이 좋음
 
 https://www.reactive-streams.org/
 https://github.com/reactive-streams/reactive-streams-jvm/blob/v1.0.4/README.md
