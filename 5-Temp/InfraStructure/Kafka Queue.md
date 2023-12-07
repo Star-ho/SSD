@@ -1,0 +1,1 @@
+https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86
