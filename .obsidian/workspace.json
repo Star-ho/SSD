@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Database/varchar type 크기.md",
+                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reactor",
+                "query": "jwt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Database/varchar type 크기.md",
+                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Database/varchar type 크기.md",
+                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Database/varchar type 크기.md"
+                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md"
               }
             }
           },
@@ -171,11 +171,19 @@
   },
   "active": "c5effb75f564fb4d",
   "lastOpenFiles": [
-    "5-Temp/InfraStructure/가령 캐시디비로 redis를 썻다고하면, 캐시디비랑 관계형디비 차이가 뭐냐부터 해서.md",
+    "5-Temp/Computer Science/동기, 비동기 IO.md",
+    "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
+    "2-Area/Series/Server/9-Reactor Java.md",
+    "5-Temp/Database/데이터베이스 delete.md",
+    "5-Temp/Computer Science/JWT.md",
+    "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
+    "5-Temp/Computer Science/Untitled",
+    "4-Archive/Tools/드로윙 툴.md",
+    "2-Area/생각정리/클래스, 메서드,.md",
     "5-Temp/Database/varchar type 크기.md",
+    "5-Temp/InfraStructure/가령 캐시디비로 redis를 썻다고하면, 캐시디비랑 관계형디비 차이가 뭐냐부터 해서.md",
     "5-Temp/InfraStructure/Kafka Queue.md",
     "5-Temp/테스트/repository까지도 테스트.md",
-    "2-Area/Series/Server/9-Reactor Java.md",
     "2-Area/Series/Server/99-Reactor netty.md",
     "2-Area/Series/Server/89.md",
     "2-Area/Series/Server/8-Reactive Streams.md",
@@ -190,13 +198,6 @@
     "5-Temp/Spring/Feign.md",
     "5-Temp/테스트/kotest blocking.md",
     "5-Temp/테스트/kotest와 coroutine의 상관관계.md",
-    "5-Temp/테스트/Untitled.md",
-    "5-Temp/테스트/테스트코드 디비 초기화.md",
-    "2-Area/생각정리/테스트코드.md",
-    "5-Temp/Softeware Architecture/멀티모듈의 장점은 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
-    "5-Temp/Java&Kotlin/gradle.md",
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
-    "2-Area/Series/Server/5- Tomcat.md",
     "real-resource/Pasted image 20231204225453.png",
     "5-Temp/0-이직자료/면접자료",
     "real-resource/Pasted image 20231126172744.png",
@@ -216,7 +217,6 @@
     "5-Temp/00사업아이템",
     "2-Area/생각정리",
     "2-Area/0-Sung-ho/인생 팁",
-    "2-Area/Series/Concurrency",
     "Untitled.canvas"
   ]
 }

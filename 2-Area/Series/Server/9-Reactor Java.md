@@ -5,3 +5,11 @@ https://wiki.terzeron.com/Programming/Java/Reactor_Flux%EC%9D%98_publishOn_subsc
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sthwin&logNo=221956619428
 
 https://godekdls.github.io/Reactor%20Core/contents/
+
+https://devpress.csdn.net/cloudnative/62f640837e6682346618aeb5.html
+
+https://itecnote.com/tecnote/java-threading-model-of-spring-webflux-and-reactor/
+
+https://www.stefankreidel.io/blog/spring-webflux
+
+https://medium.com/@akhaku/netty-data-model-threading-and-gotchas-cab820e4815a
