@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/생각정리/테스트코드.md",
+                "file": "5-Temp/테스트/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#argent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/생각정리/테스트코드.md",
+                "file": "5-Temp/테스트/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/생각정리/테스트코드.md",
+                "file": "5-Temp/테스트/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/생각정리/테스트코드.md"
+                "file": "5-Temp/테스트/Untitled.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "c5effb75f564fb4d",
   "lastOpenFiles": [
+    "5-Temp/테스트/테스트코드 디비 초기화.md",
+    "5-Temp/테스트/Untitled.md",
     "2-Area/생각정리/테스트코드.md",
     "5-Temp/Softeware Architecture/멀티모듈의 장점은 아키텍처의 의존관계를 작업자에게 강제할수 있다는거.md",
     "5-Temp/Java&Kotlin/gradle.md",
@@ -184,8 +186,6 @@
     "5-Temp/Database/Mysql order by.md",
     "5-Temp/Database/데이터 모델링.md",
     "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
-    "5-Temp/0-이직자료/면접자료/코루틴.md",
-    "5-Temp/Java&Kotlin/버츄얼쓰레드.md",
     "5-Temp/0-이직자료/면접자료",
     "real-resource/Pasted image 20231126172744.png",
     "real-resource/Pasted image 20231125233607.png",
