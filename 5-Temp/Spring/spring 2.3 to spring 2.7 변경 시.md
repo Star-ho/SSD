@@ -1,3 +1,5 @@
+spring version up시 httpconverter 문제가 있음
+
 https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Config-Data-Migration-Guide
 마이그레이션 가이드
 
