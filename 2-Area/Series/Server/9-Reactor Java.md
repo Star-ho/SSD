@@ -45,9 +45,12 @@
 	- request(Long.MAX_VALUE)과 동일
 
 ### Backpressure
-- reactor에서 Backpressure를 구현하는 방법은 re
+- reactor에서 Backpressure를 구현하는 방법은 request를 사용하는것
+- 최대 Long.MAX_VALUE까지 가능함
 
 
+https://projectreactor.io/docs/core/release/reference/#_operators_that_change_the_demand_from_downstream
+여기부터 다시 작성하기
 
 
 publishOn이 뭐하는 놈인지
