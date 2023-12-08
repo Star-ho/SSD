@@ -1,3 +1,19 @@
+- callback보다 나은점
+	- callback hell이 발생하지 않음
+- Future보다 나은점
+	- 더 많은 연산자를 지원함
+
+### Backpressure
+- request 메서드를 사용하여 몇개까지 처리할것인지 알려줘
+
+### Hot Sequence vs Cold Sequence
+- Hot Sequence
+	- 한번 구독하면 생성된 시퀀스를 재사용함
+	- 나중에 구독한 구독자는 이전꺼 시퀀스를 받지 못하고 구독이후의 시퀀스를 받을 수 있음
+- Cold Sequence
+	- 구독할때마다 시퀀스가 재 생성됨
+
+
 publishOn이 뭐하는 놈인지
 subscribeOn이 뭐하는 놈인지
 sink가 뭐하는 놈인지
