@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06935b5c5cb48a43",
+        "id": "c14f01162df8247b",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc5f15798a68cf3",
+            "id": "e902c88b9640a781",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/생각정리/레거시.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "http converter",
+                "query": "tag:#argent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/생각정리/레거시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/생각정리/레거시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-Area/생각정리/레거시.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,8 +149,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5fc5f15798a68cf3",
+  "active": "e902c88b9640a781",
   "lastOpenFiles": [
+    "2-Area/생각정리/팀원으로서.md",
+    "5-Temp/Java&Kotlin/thread leak.md",
+    "5-Temp/Java&Kotlin/Coroutine.md",
+    "5-Temp/Computer Science/bytebuf, bytebuffer.md",
+    "5-Temp/Java&Kotlin/전 String a = \"a\"랑String a = new String의 차이.md",
+    "2-Area/생각정리/레거시.md",
+    "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
     "2-Area/Series/Server/9-Reactor Java.md",
     "5-Temp/Spring/spring 2.3 to spring 2.7 변경 시.md",
     "5-Temp/Spring/spring version up시 httpconverter 문제가 있음.md",
@@ -172,23 +171,16 @@
     "5-Temp/gpt.md",
     "real-resource/Pasted image 20231207232211.png",
     "5-Temp/Database/정규화.md",
-    "5-Temp/Java&Kotlin/전 String a = \"a\"랑String a = new String의 차이.md",
     "2-Area/생각정리/일정.md",
-    "2-Area/생각정리/레거시.md",
     "5-Temp/Computer Science/오케스트레이션.md",
     "5-Temp/InfraStructure/redis jemalloc.md",
     "2-Area/생각정리/클래스, 메서드,.md",
     "2-Area/생각정리/테스트코드.md",
     "2-Area/생각정리/수정시 코드의 영향도.md",
     "2-Area/생각정리/read, write, jpa?.md",
-    "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
     "real-resource/Pasted image 20231207231843.png",
     "5-Temp/Computer Science/동기, 비동기 IO.md",
-    "5-Temp/Database/데이터베이스 delete.md",
-    "5-Temp/Computer Science/JWT.md",
-    "5-Temp/0-이직자료/네이버 파이낸셜/질문2.md",
     "5-Temp/Computer Science/Untitled",
-    "4-Archive/Tools/드로윙 툴.md",
     "real-resource/Pasted image 20231204225453.png",
     "5-Temp/0-이직자료/면접자료",
     "real-resource/Pasted image 20231126172744.png",
