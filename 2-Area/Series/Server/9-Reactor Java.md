@@ -13,6 +13,21 @@
 - Cold Sequence
 	- 구독할때마다 시퀀스가 재 생성됨
 
+## Flux
+
+![[Pasted image 20231208223306.png]]
+
+- Flux\<T\>는 0개에서 N개의 비동기 시퀀스 항목을 방출하는 Publisher\<T\>임
+- onComplete 혹은 onError로 종료됨
+- `onNext`, `onComplete`, `onError` 로 downstream을 호출할 수 있음
+- 종료를 포함한 모든 이벤트는 선택사항힘
+	- onNext가 없고 onComplete만 있다면 빈 유한 시퀀스임
+	- onNext 있고 onComplete가 없다면 무한 시퀀스임
+
+## Mono
+
+![[Pasted image 20231208224210.png]]
+
 
 publishOn이 뭐하는 놈인지
 subscribeOn이 뭐하는 놈인지
