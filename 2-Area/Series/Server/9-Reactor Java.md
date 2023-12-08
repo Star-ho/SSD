@@ -28,6 +28,14 @@
 
 ![[Pasted image 20231208224210.png]]
 
+- 최대 하나의 항목만을 emit하는 Publisher
+- onNext이후 onComplete가 호출되거나 하나의 onError가 호출됨
+- Mono는 Flux에 비해 제한된 연산자를 제공함
+	- 하나의 항목만 방출하니까
+- Mono#concatWith(Publisher) 등 여러 메스드로 Mono를 Flux로 변경가능함
+- Mono\<Void\>로 완료개념만 있는 비동기 시퀀스를 생성가능
+
+
 
 publishOn이 뭐하는 놈인지
 subscribeOn이 뭐하는 놈인지
