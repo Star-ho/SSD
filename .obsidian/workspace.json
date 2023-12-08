@@ -11,8 +11,12 @@
             "id": "e902c88b9640a781",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4-Archive/Study Matirials/공부할자료.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#argent",
+                "query": "spring coroutine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4-Archive/Study Matirials/공부할자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4-Archive/Study Matirials/공부할자료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4-Archive/Study Matirials/공부할자료.md"
+              }
             }
           },
           {
@@ -151,6 +160,8 @@
   },
   "active": "e902c88b9640a781",
   "lastOpenFiles": [
+    "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/지원동기 gpt질문.md",
+    "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
     "2-Area/생각정리/팀원으로서.md",
     "5-Temp/Java&Kotlin/thread leak.md",
     "5-Temp/Java&Kotlin/Coroutine.md",
@@ -177,9 +188,7 @@
     "2-Area/생각정리/클래스, 메서드,.md",
     "2-Area/생각정리/테스트코드.md",
     "2-Area/생각정리/수정시 코드의 영향도.md",
-    "2-Area/생각정리/read, write, jpa?.md",
     "real-resource/Pasted image 20231207231843.png",
-    "5-Temp/Computer Science/동기, 비동기 IO.md",
     "5-Temp/Computer Science/Untitled",
     "real-resource/Pasted image 20231204225453.png",
     "5-Temp/0-이직자료/면접자료",
