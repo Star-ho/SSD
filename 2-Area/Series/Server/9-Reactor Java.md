@@ -3,16 +3,6 @@
 - Future보다 나은점
 	- 더 많은 연산자를 지원함
 
-### Backpressure
-- request 메서드를 사용하여 몇개까지 처리할것인지 알려줘
-
-### Hot Sequence vs Cold Sequence
-- Hot Sequence
-	- 한번 구독하면 생성된 시퀀스를 재사용함
-	- 나중에 구독한 구독자는 이전꺼 시퀀스를 받지 못하고 구독이후의 시퀀스를 받을 수 있음
-- Cold Sequence
-	- 구독할때마다 시퀀스가 재 생성됨
-
 ## Flux
 
 ![[Pasted image 20231208223306.png]]
@@ -34,6 +24,29 @@
 	- 하나의 항목만 방출하니까
 - Mono#concatWith(Publisher) 등 여러 메스드로 Mono를 Flux로 변경가능함
 - Mono\<Void\>로 완료개념만 있는 비동기 시퀀스를 생성가능
+
+## 그외 개념
+
+### Hot Sequence vs Cold Sequence
+- Hot Sequence
+	- 한번 구독하면 생성된 시퀀스를 재사용함
+	- 나중에 구독한 구독자는 이전꺼 시퀀스를 받지 못하고 구독이후의 시퀀스를 받을 수 있음
+- Cold Sequence
+	- 구독할때마다 시퀀스가 재 생성됨
+### Disposable
+- subscribe()이 리턴하는 값
+- Disposable을 사용해서 cancel가능
+- Disposables.composite()를 사용해서 Disposable을 묶을 수 있으며 한번에 취소가능
+
+### BaseSubscriber
+- Reactor에서 사용자 정의 Subscriber를 구현할 수 있는 추상클래스
+- BaseSubscriber를 사용하여 Subscriber를 lambda가 아닌 클래스로 구성가능
+- requestUnbounded()를 통해 unbounded한 reqeust를 구현가능
+	- request(Long.MAX_VALUE)과 동일
+
+### Backpressure
+- reactor에서 Backpressure를 구현하는 방법은 re
+
 
 
 
