@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/생각정리/황성호 공부법.md",
+                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/생각정리/황성호 공부법.md",
+                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/생각정리/황성호 공부법.md",
+                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/생각정리/황성호 공부법.md"
+                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md"
               }
             }
           },
@@ -159,18 +159,24 @@
   },
   "active": "53e7f35eee396eb3",
   "lastOpenFiles": [
+    "3-Resource/Database/Count(*) vs Count(Column).md",
+    "3-Resource/Database/Clustered Index, non-Clustered Index.md",
+    "3-Resource/Database/Cardinality.md",
+    "3-Resource/Database/ACID.md",
+    "3-Resource/Database/쿼리 튜닝시.md",
+    "3-Resource/Database/정규화 역정규화.md",
+    "2-Area/생각정리/read, write, jpa?.md",
+    "2-Area/생각정리/황성호 공부법.md",
     "2-Area/생각정리/혁펜하임 공부법.md",
     "2-Area/생각정리/일정.md",
     "2-Area/생각정리/팀원으로서 마인드셋.md",
     "2-Area/생각정리/팀원으로서.md",
     "2-Area/생각정리/클래스, 메서드,.md",
     "2-Area/생각정리/수정시 코드의 영향도.md",
-    "2-Area/생각정리/황성호 공부법.md",
     "2-Area/생각정리/계속해서 기술공부를 하는 이유.md",
     "2-Area/Series/Server/9-Reactor Java.md",
     "2-Area/Series/kotlin",
     "2-Area/Series/cache/cache.md",
-    "3-Resource/Database/ACID.md",
     "2-Area/Series/java-database-connect/jpa.md",
     "2-Area/Series/cache",
     "2-Area/Series/java-database-connect",
@@ -182,14 +188,8 @@
     "4-Archive/Concept/Forward Proxy, Reverse Proxy.md",
     "4-Archive/Concept/DLQ(Dead Letter Queue).md",
     "4-Archive/Concept/CPU bound, IO bound.md",
-    "4-Archive/Concept/Artifact.md",
-    "4-Archive/Concept/영속성.md",
     "real-resource/Pasted image 20231208224210.png",
     "real-resource/Pasted image 20231208223306.png",
-    "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
-    "4-Archive/Study Matirials/공부할자료.md",
-    "5-Temp/0-이직자료/네이버-광고플랫폼/자소서/지원동기 gpt질문.md",
-    "5-Temp/Java&Kotlin/thread leak.md",
     "real-resource/Pasted image 20231207232236.png",
     "real-resource/Pasted image 20231207232211.png",
     "real-resource/Pasted image 20231207231843.png",
