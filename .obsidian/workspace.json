@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/9-Reactor Java.md",
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/9-Reactor Java.md",
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/9-Reactor Java.md",
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/9-Reactor Java.md"
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md"
               }
             }
           },
@@ -157,8 +157,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "53e7f35eee396eb3",
   "lastOpenFiles": [
+    "2-Area/Series/Server/9-Reactor Java.md",
+    "2-Area/생각정리/팀원으로서 마인드셋.md",
     "2-Area/Series/kotlin",
     "2-Area/Series/cache/cache.md",
     "3-Resource/Database/ACID.md",
@@ -175,7 +177,6 @@
     "4-Archive/Concept/CPU bound, IO bound.md",
     "4-Archive/Concept/Artifact.md",
     "4-Archive/Concept/영속성.md",
-    "2-Area/Series/Server/9-Reactor Java.md",
     "real-resource/Pasted image 20231208224210.png",
     "real-resource/Pasted image 20231208223306.png",
     "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
@@ -204,7 +205,6 @@
     "5-Temp/테스트",
     "5-Temp/cloud",
     "3-Resource/Database/Innodb",
-    "5-Temp/00사업아이템",
     "Untitled.canvas"
   ]
 }
