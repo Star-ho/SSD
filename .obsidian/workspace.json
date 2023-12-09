@@ -157,8 +157,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "53e7f35eee396eb3",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "2-Area/Series/kotlin",
     "2-Area/Series/cache/cache.md",
     "3-Resource/Database/ACID.md",
     "2-Area/Series/java-database-connect/jpa.md",
@@ -188,7 +189,6 @@
     "2-Area/생각정리/레거시.md",
     "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
     "5-Temp/Spring/spring 2.3 to spring 2.7 변경 시.md",
-    "5-Temp/Spring/spring version up시 httpconverter 문제가 있음.md",
     "real-resource/Pasted image 20231207232236.png",
     "real-resource/Pasted image 20231207232211.png",
     "real-resource/Pasted image 20231207231843.png",

@@ -51,9 +51,24 @@
 - request로 몇개의 item을 받을 것인지 결정됨
 - 하지만 중간에 buffer와 같은 연산자로 생산되는 item이 바뀔 수 있음
 	- request가 2고 중간에 버퍼가 2라면 2\*2인 4개의 item이 생산됨
-- prefetch를 사용해서 초기에 몇개의 
-https://projectreactor.io/docs/core/release/reference/#_operators_that_change_the_demand_from_downstream
-여기부터 다시 작성하기
+- limitRate, prefetch라는 개념도 있음
+	- [링크](https://projectreactor.io/docs/core/release/reference/#_operators_that_change_the_demand_from_downstream)참고
+
+### Sequence를 생성하는법
+- generate
+	- 동기적으로 하나하나씩 생성
+- create
+	- 비동기, 멀티쓰레드 방식으로 생성
+	- Flux sink를 사용
+- push
+	- 비동기, 싱글쓰레드 방식으로 생성
+> create와 push를 사용한 후에는 onCancel과 onDispose로 끝내야함
+- handle
+	- 인스턴스 메소드로 동기로 하나씩 생성된 것들에 대해 값을 변형하거나, 필터링할 수 있음
+
+
+
+
 
 
 publishOn이 뭐하는 놈인지
