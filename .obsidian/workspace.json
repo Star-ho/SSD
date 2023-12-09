@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/9-Reactor Java.md",
+                "file": "3-Resource/Database/ACID.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/9-Reactor Java.md",
+                "file": "3-Resource/Database/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/9-Reactor Java.md",
+                "file": "3-Resource/Database/ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/9-Reactor Java.md"
+                "file": "3-Resource/Database/ACID.md"
               }
             }
           },
@@ -159,6 +159,21 @@
   },
   "active": "53e7f35eee396eb3",
   "lastOpenFiles": [
+    "2-Area/Series/cache/cache.md",
+    "2-Area/Series/java-database-connect/jpa.md",
+    "2-Area/Series/cache",
+    "2-Area/Series/java-database-connect",
+    "3-Resource/Database/DB PK 자연키 vs 대체키.md",
+    "3-Resource/Spring/JPA entity manager, persistence context.md",
+    "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
+    "4-Archive/Concept/OpenTelemetry.md",
+    "4-Archive/Concept/OLTP, OLAP, DW, DL.md",
+    "4-Archive/Concept/Forward Proxy, Reverse Proxy.md",
+    "4-Archive/Concept/DLQ(Dead Letter Queue).md",
+    "4-Archive/Concept/CPU bound, IO bound.md",
+    "4-Archive/Concept/Artifact.md",
+    "4-Archive/Concept/영속성.md",
+    "2-Area/Series/Server/9-Reactor Java.md",
     "real-resource/Pasted image 20231208224210.png",
     "real-resource/Pasted image 20231208223306.png",
     "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
@@ -171,23 +186,11 @@
     "5-Temp/Java&Kotlin/전 String a = \"a\"랑String a = new String의 차이.md",
     "2-Area/생각정리/레거시.md",
     "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
-    "2-Area/Series/Server/9-Reactor Java.md",
     "5-Temp/Spring/spring 2.3 to spring 2.7 변경 시.md",
     "5-Temp/Spring/spring version up시 httpconverter 문제가 있음.md",
     "5-Temp/Database/쿼리개선 관련글.md",
-    "2-Area/생각정리/개발자.md",
-    "2-Area/생각정리/혁펜하임 공부법.md",
-    "2-Area/생각정리/공부하는법.md",
-    "2-Area/생각정리/Untitled 1.md",
-    "5-Temp/InfraStructure/레디스 속도.md",
     "real-resource/Pasted image 20231207232236.png",
-    "5-Temp/gpt.md",
     "real-resource/Pasted image 20231207232211.png",
-    "5-Temp/Database/정규화.md",
-    "2-Area/생각정리/일정.md",
-    "5-Temp/Computer Science/오케스트레이션.md",
-    "5-Temp/InfraStructure/redis jemalloc.md",
-    "2-Area/생각정리/클래스, 메서드,.md",
     "real-resource/Pasted image 20231207231843.png",
     "5-Temp/Computer Science/Untitled",
     "real-resource/Pasted image 20231204225453.png",
@@ -196,15 +199,12 @@
     "real-resource/Pasted image 20231125233607.png",
     "real-resource/Pasted image 20231125230312.png",
     "real-resource/Pasted image 20231122230728.png",
-    "real-resource/Pasted image 20231122220847.png",
     "3-Resource/Series/Web Server, WAS",
     "2-Area/Series/Server",
     "5-Temp/테스트",
     "5-Temp/cloud",
     "3-Resource/Database/Innodb",
     "5-Temp/00사업아이템",
-    "2-Area/생각정리",
-    "2-Area/0-Sung-ho/인생 팁",
     "Untitled.canvas"
   ]
 }
