@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/ACID.md",
+                "file": "2-Area/Series/Server/9-Reactor Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/ACID.md",
+                "file": "2-Area/Series/Server/9-Reactor Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/ACID.md",
+                "file": "2-Area/Series/Server/9-Reactor Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/ACID.md"
+                "file": "2-Area/Series/Server/9-Reactor Java.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   "active": "53e7f35eee396eb3",
   "lastOpenFiles": [
     "2-Area/Series/cache/cache.md",
+    "3-Resource/Database/ACID.md",
     "2-Area/Series/java-database-connect/jpa.md",
     "2-Area/Series/cache",
     "2-Area/Series/java-database-connect",
@@ -188,7 +189,6 @@
     "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
     "5-Temp/Spring/spring 2.3 to spring 2.7 변경 시.md",
     "5-Temp/Spring/spring version up시 httpconverter 문제가 있음.md",
-    "5-Temp/Database/쿼리개선 관련글.md",
     "real-resource/Pasted image 20231207232236.png",
     "real-resource/Pasted image 20231207232211.png",
     "real-resource/Pasted image 20231207231843.png",

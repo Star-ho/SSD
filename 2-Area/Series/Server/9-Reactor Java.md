@@ -43,12 +43,15 @@
 - BaseSubscriber를 사용하여 Subscriber를 lambda가 아닌 클래스로 구성가능
 - requestUnbounded()를 통해 unbounded한 reqeust를 구현가능
 	- request(Long.MAX_VALUE)과 동일
-
 ### Backpressure
 - reactor에서 Backpressure를 구현하는 방법은 request를 사용하는것
 - 최대 Long.MAX_VALUE까지 가능함
 
-
+### DownStream에서 Demand가 바뀔 수 있음
+- request로 몇개의 item을 받을 것인지 결정됨
+- 하지만 중간에 buffer와 같은 연산자로 생산되는 item이 바뀔 수 있음
+	- request가 2고 중간에 버퍼가 2라면 2\*2인 4개의 item이 생산됨
+- prefetch를 사용해서 초기에 몇개의 
 https://projectreactor.io/docs/core/release/reference/#_operators_that_change_the_demand_from_downstream
 여기부터 다시 작성하기
 
