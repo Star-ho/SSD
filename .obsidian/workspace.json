@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
+                "file": "5-Temp/요청이 처리되는 과정 latency계산.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spring coroutine",
+                "query": "Proxy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
+                "file": "5-Temp/요청이 처리되는 과정 latency계산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
+                "file": "5-Temp/요청이 처리되는 과정 latency계산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md"
+                "file": "5-Temp/요청이 처리되는 과정 latency계산.md"
               }
             }
           },
@@ -159,35 +159,35 @@
   },
   "active": "53e7f35eee396eb3",
   "lastOpenFiles": [
-    "3-Resource/Database/Count(*) vs Count(Column).md",
-    "3-Resource/Database/Clustered Index, non-Clustered Index.md",
-    "3-Resource/Database/Cardinality.md",
-    "3-Resource/Database/ACID.md",
-    "3-Resource/Database/쿼리 튜닝시.md",
-    "3-Resource/Database/정규화 역정규화.md",
-    "2-Area/생각정리/read, write, jpa?.md",
-    "2-Area/생각정리/황성호 공부법.md",
-    "2-Area/생각정리/혁펜하임 공부법.md",
-    "2-Area/생각정리/일정.md",
-    "2-Area/생각정리/팀원으로서 마인드셋.md",
-    "2-Area/생각정리/팀원으로서.md",
-    "2-Area/생각정리/클래스, 메서드,.md",
-    "2-Area/생각정리/수정시 코드의 영향도.md",
-    "2-Area/생각정리/계속해서 기술공부를 하는 이유.md",
-    "2-Area/Series/Server/9-Reactor Java.md",
-    "2-Area/Series/kotlin",
-    "2-Area/Series/cache/cache.md",
-    "2-Area/Series/java-database-connect/jpa.md",
-    "2-Area/Series/cache",
-    "2-Area/Series/java-database-connect",
-    "3-Resource/Database/DB PK 자연키 vs 대체키.md",
+    "4-Archive/Concept/Artifact.md",
+    "5-Temp/요청이 처리되는 과정 latency계산.md",
+    "4-Archive/Concept/영속성.md",
+    "4-Archive/Computer-Science/webserver, was 발전과정.md",
+    "4-Archive/Computer-Science/왜 Block IO보다  NonBlock IO가 느릴까?.md",
+    "4-Archive/Computer-Science/0.0.0.0 ip address.md",
+    "4-Archive/Computer-Science/shell command/프로세스 관련 명령어.md",
+    "4-Archive/Computer-Science/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
+    "3-Resource/Cache Passivation, Expiration, Eviction.md",
+    "3-Resource/Tool/kotlin-jdsl.md",
+    "3-Resource/Tool/jooq.md",
+    "3-Resource/Tool/Codecove.md",
     "3-Resource/Spring/JPA entity manager, persistence context.md",
     "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
-    "4-Archive/Concept/OpenTelemetry.md",
-    "4-Archive/Concept/OLTP, OLAP, DW, DL.md",
+    "3-Resource/Software-Design/Transactional outbox.md",
+    "3-Resource/Software-Design/Saga Pattern.md",
+    "3-Resource/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
+    "3-Resource/Java&Kotlin/jvm option for Container.md",
+    "3-Resource/Java&Kotlin/JUnit.md",
+    "3-Resource/Java&Kotlin/Java memory structure.md",
+    "3-Resource/Java&Kotlin/Java built in Annotation.md",
     "4-Archive/Concept/Forward Proxy, Reverse Proxy.md",
-    "4-Archive/Concept/DLQ(Dead Letter Queue).md",
-    "4-Archive/Concept/CPU bound, IO bound.md",
+    "3-Resource/Infrastructure/Forward Proxy, Reverse Proxy.md",
+    "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
+    "3-Resource/Infrastructure/Elastic Search Data Tier.md",
+    "3-Resource/Database/Sargable query.md",
+    "2-Area/Series/kotlin",
+    "2-Area/Series/cache",
+    "2-Area/Series/java-database-connect",
     "real-resource/Pasted image 20231208224210.png",
     "real-resource/Pasted image 20231208223306.png",
     "real-resource/Pasted image 20231207232236.png",
