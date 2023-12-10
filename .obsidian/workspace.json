@@ -157,8 +157,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "53e7f35eee396eb3",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "2-Area/Series/Untitled",
     "4-Archive/Concept/Artifact.md",
     "5-Temp/요청이 처리되는 과정 latency계산.md",
     "4-Archive/Concept/영속성.md",
@@ -184,7 +185,6 @@
     "3-Resource/Infrastructure/Forward Proxy, Reverse Proxy.md",
     "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
     "3-Resource/Infrastructure/Elastic Search Data Tier.md",
-    "3-Resource/Database/Sargable query.md",
     "2-Area/Series/kotlin",
     "2-Area/Series/cache",
     "2-Area/Series/java-database-connect",
