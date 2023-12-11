@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "befefb1b0dd81413",
+        "id": "146d245f439afc19",
         "type": "tabs",
         "children": [
           {
-            "id": "53e7f35eee396eb3",
+            "id": "3f0d0aca941d071c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Temp/요청이 처리되는 과정 latency계산.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Proxy",
+                "query": "역정규",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/요청이 처리되는 과정 latency계산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/요청이 처리되는 과정 latency계산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5-Temp/요청이 처리되는 과정 latency계산.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,11 +150,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "3f0d0aca941d071c",
   "lastOpenFiles": [
+    "3-Resource/Database/정규화 역정규화.md",
+    "5-Temp/Database/정규화.md",
+    "5-Temp/Computer Science/역정규화.md",
+    "5-Temp/요청이 처리되는 과정 latency계산.md",
     "2-Area/Series/Untitled",
     "4-Archive/Concept/Artifact.md",
-    "5-Temp/요청이 처리되는 과정 latency계산.md",
     "4-Archive/Concept/영속성.md",
     "4-Archive/Computer-Science/webserver, was 발전과정.md",
     "4-Archive/Computer-Science/왜 Block IO보다  NonBlock IO가 느릴까?.md",
@@ -183,8 +179,6 @@
     "3-Resource/Java&Kotlin/Java built in Annotation.md",
     "4-Archive/Concept/Forward Proxy, Reverse Proxy.md",
     "3-Resource/Infrastructure/Forward Proxy, Reverse Proxy.md",
-    "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
-    "3-Resource/Infrastructure/Elastic Search Data Tier.md",
     "2-Area/Series/kotlin",
     "2-Area/Series/cache",
     "2-Area/Series/java-database-connect",
@@ -204,7 +198,6 @@
     "2-Area/Series/Server",
     "5-Temp/테스트",
     "5-Temp/cloud",
-    "3-Resource/Database/Innodb",
     "Untitled.canvas"
   ]
 }
