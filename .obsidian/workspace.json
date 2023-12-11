@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Computer Science/소켓 프로그래밍.md",
+                "file": "5-Temp/Java&Kotlin/java-stream.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "운동",
+                "query": "java stream",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Computer Science/소켓 프로그래밍.md",
+                "file": "5-Temp/Java&Kotlin/java-stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Computer Science/소켓 프로그래밍.md",
+                "file": "5-Temp/Java&Kotlin/java-stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Computer Science/소켓 프로그래밍.md"
+                "file": "5-Temp/Java&Kotlin/java-stream.md"
               }
             }
           },
@@ -159,9 +160,9 @@
   },
   "active": "3f0d0aca941d071c",
   "lastOpenFiles": [
+    "5-Temp/Computer Science/소켓 프로그래밍.md",
     "5-Temp/Computer Science/잡지식.md",
     "5-Temp/Computer Science/pthread.md",
-    "5-Temp/Computer Science/소켓 프로그래밍.md",
     "real-resource/Pasted image 20231211230259.png",
     "real-resource/Pasted image 20231211230225.png",
     "5-Temp/Database/키 설계.md",
