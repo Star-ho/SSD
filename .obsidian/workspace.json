@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Database/Untitled 1.md",
+                "file": "5-Temp/Computer Science/소켓 프로그래밍.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Database/Untitled 1.md",
+                "file": "5-Temp/Computer Science/소켓 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Database/Untitled 1.md",
+                "file": "5-Temp/Computer Science/소켓 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Database/Untitled 1.md"
+                "file": "5-Temp/Computer Science/소켓 프로그래밍.md"
               }
             }
           },
@@ -159,8 +159,13 @@
   },
   "active": "3f0d0aca941d071c",
   "lastOpenFiles": [
+    "5-Temp/Computer Science/잡지식.md",
+    "5-Temp/Computer Science/pthread.md",
+    "5-Temp/Computer Science/소켓 프로그래밍.md",
+    "real-resource/Pasted image 20231211230259.png",
+    "real-resource/Pasted image 20231211230225.png",
+    "5-Temp/Database/키 설계.md",
     "2-Area/1-Weekly-Reading/운동.md",
-    "5-Temp/Database/Untitled 1.md",
     "5-Temp/Spring/특히 jackson 라이브러같은건.md",
     "5-Temp/Java&Kotlin/kotlin null 비교 팁.md",
     "5-Temp/마인드셋/enum에 도메인 용어를 넣어놓자.md",
@@ -183,10 +188,7 @@
     "5-Temp/Untitled",
     "3-Resource/Database/정규화 역정규화.md",
     "5-Temp/Database/정규화.md",
-    "5-Temp/Computer Science/역정규화.md",
     "2-Area/Series/Untitled",
-    "4-Archive/Concept/Artifact.md",
-    "4-Archive/Concept/영속성.md",
     "2-Area/Series/kotlin",
     "2-Area/Series/cache",
     "2-Area/Series/java-database-connect",
@@ -200,8 +202,6 @@
     "5-Temp/0-이직자료/면접자료",
     "real-resource/Pasted image 20231126172744.png",
     "real-resource/Pasted image 20231125233607.png",
-    "real-resource/Pasted image 20231125230312.png",
-    "real-resource/Pasted image 20231122230728.png",
     "3-Resource/Series/Web Server, WAS",
     "2-Area/Series/Server",
     "5-Temp/테스트",
