@@ -1,0 +1,1 @@
+xxx?.takeIf { it.isNotEmpty() }?.let {//동작}

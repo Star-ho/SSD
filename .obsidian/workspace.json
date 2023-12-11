@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/kotlin/코루틴.md",
+                "file": "5-Temp/Database/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "argent",
+                "query": "운동",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/kotlin/코루틴.md",
+                "file": "5-Temp/Database/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/kotlin/코루틴.md",
+                "file": "5-Temp/Database/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/kotlin/코루틴.md"
+                "file": "5-Temp/Database/Untitled 1.md"
               }
             }
           },
@@ -159,9 +159,22 @@
   },
   "active": "3f0d0aca941d071c",
   "lastOpenFiles": [
+    "2-Area/1-Weekly-Reading/운동.md",
+    "5-Temp/Database/Untitled 1.md",
+    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
+    "5-Temp/Java&Kotlin/kotlin null 비교 팁.md",
+    "5-Temp/마인드셋/enum에 도메인 용어를 넣어놓자.md",
+    "5-Temp/Computer Science/멀티쓰레드 트랜잭션 처리.md",
+    "2-Area/Series/Server/9-Reactor Java.md",
+    "5-Temp/요청이 처리되는 과정 latency계산.md",
+    "5-Temp/Computer Science/레이턴시 까지 계산해서 데이터가 얼마만에올지 예측해보기.md",
+    "5-Temp/Computer Science/게임서버에서 레이턴시 처리.md",
+    "5-Temp/Computer Science/L4, L7 로드밸런서.md",
+    "5-Temp/Computer Science/네트워크 소켓에 대해왜만들어지고어떻게 사용되는지.md",
+    "2-Area/생각정리/황성호 공부법.md",
     "5-Temp/Java&Kotlin/버츄얼쓰레드.md",
-    "2-Area/Series/kotlin/코루틴.md",
     "5-Temp/Java&Kotlin/java-stream.md",
+    "2-Area/Series/kotlin/코루틴.md",
     "5-Temp/Computer Science/Bool 형 자료형.md",
     "5-Temp/InfraStructure/kafka 파티션 증가없이 처리량 늘리기.md",
     "5-Temp/InfraStructure/카프카 쓸때 고려해야할점.md",
@@ -171,22 +184,9 @@
     "3-Resource/Database/정규화 역정규화.md",
     "5-Temp/Database/정규화.md",
     "5-Temp/Computer Science/역정규화.md",
-    "5-Temp/요청이 처리되는 과정 latency계산.md",
     "2-Area/Series/Untitled",
     "4-Archive/Concept/Artifact.md",
     "4-Archive/Concept/영속성.md",
-    "4-Archive/Computer-Science/webserver, was 발전과정.md",
-    "4-Archive/Computer-Science/왜 Block IO보다  NonBlock IO가 느릴까?.md",
-    "4-Archive/Computer-Science/0.0.0.0 ip address.md",
-    "4-Archive/Computer-Science/shell command/프로세스 관련 명령어.md",
-    "4-Archive/Computer-Science/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
-    "3-Resource/Cache Passivation, Expiration, Eviction.md",
-    "3-Resource/Tool/kotlin-jdsl.md",
-    "3-Resource/Tool/jooq.md",
-    "3-Resource/Tool/Codecove.md",
-    "3-Resource/Spring/JPA entity manager, persistence context.md",
-    "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
-    "3-Resource/Software-Design/Transactional outbox.md",
     "2-Area/Series/kotlin",
     "2-Area/Series/cache",
     "2-Area/Series/java-database-connect",
