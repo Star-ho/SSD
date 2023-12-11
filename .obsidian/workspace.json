@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Computer Science/Bool 형 자료형.md",
+                "file": "2-Area/Series/kotlin/코루틴.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "argent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Computer Science/Bool 형 자료형.md",
+                "file": "2-Area/Series/kotlin/코루틴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Computer Science/Bool 형 자료형.md",
+                "file": "2-Area/Series/kotlin/코루틴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Computer Science/Bool 형 자료형.md"
+                "file": "2-Area/Series/kotlin/코루틴.md"
               }
             }
           },
@@ -159,9 +159,14 @@
   },
   "active": "3f0d0aca941d071c",
   "lastOpenFiles": [
-    "5-Temp/Spring/스프링으로 만드는 프로젝트 예시.md",
-    "5-Temp/Computer Science/Bool 형 자료형.md",
     "5-Temp/Java&Kotlin/버츄얼쓰레드.md",
+    "2-Area/Series/kotlin/코루틴.md",
+    "5-Temp/Java&Kotlin/java-stream.md",
+    "5-Temp/Computer Science/Bool 형 자료형.md",
+    "5-Temp/InfraStructure/kafka 파티션 증가없이 처리량 늘리기.md",
+    "5-Temp/InfraStructure/카프카 쓸때 고려해야할점.md",
+    "5-Temp/Concept/좋은 커밋 메시지 작성법.md",
+    "5-Temp/Spring/스프링으로 만드는 프로젝트 예시.md",
     "5-Temp/Untitled",
     "3-Resource/Database/정규화 역정규화.md",
     "5-Temp/Database/정규화.md",
@@ -182,11 +187,6 @@
     "3-Resource/Spring/JPA entity manager, persistence context.md",
     "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
     "3-Resource/Software-Design/Transactional outbox.md",
-    "3-Resource/Software-Design/Saga Pattern.md",
-    "3-Resource/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
-    "3-Resource/Java&Kotlin/jvm option for Container.md",
-    "3-Resource/Java&Kotlin/JUnit.md",
-    "3-Resource/Java&Kotlin/Java memory structure.md",
     "2-Area/Series/kotlin",
     "2-Area/Series/cache",
     "2-Area/Series/java-database-connect",
