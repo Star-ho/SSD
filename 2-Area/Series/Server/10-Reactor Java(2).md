@@ -29,7 +29,28 @@
 - 어떤 연산자는 기본으로 특정 Schduler를 사용함
 	- ex) Flux.interval는 Schedulers.parallel()을 사용함
 		- 변경가능함
-		- 
+
+## publishOn, subscribeOn
+- Reactor에서는 Reactor chain 내에서 실행 컨택스트를 바꿀 수 있는 publishOn과 subscribeOn을 제공함
+### publishOn
+- 다른 오퍼레이터들과 같이 체인 내에서 적용될 수 있음
+- 연관된 Scheduler의 worker에서 콜백이 실행되는 동안 업스트림에서 신호를 받아, 다운스트림으로 재생해줌
+	- 따라서 후속 오퍼레이터가 실행되는 곳에 영향을 미침
+- 스케줄러에서 선택된 하나의 쓰레드로 실행 컨텍스트를 변경함
+- 시퀀스 내에서 onNext를 호출하면 선택된 쓰레드로 실행됨
+- 이후 특정 스케줄러를 지정하지 않는 한, publishOn 이후의 연산자는 동일한 쓰레드에서 실행됨
+
+```
+Scheduler s = Schedulers.newParallel("parallel-scheduler", 4); //main thread
+
+final Flux<String> flux = Flux 
+	.range(1, 2) //
+	.map(i -> 10 + i) .publishOn(s) 
+	.map(i -> "value " + i); 
+	
+new Thread(() -> flux.subscribe(System.out::println));
+```
+
 
 
 
