@@ -9,7 +9,7 @@
 - 호출별 새로운 쓰레드를 생성하고 싶다면 Schedulers.newSingle()을 사용해야함
 ### Schedulers.elastic()
 - 배압 문제를 숨기고 너무많은 쓰레드를 생성하기에 Schedulers.boundedElastic()가 도입된 이후로 잘 사용되지 않음
-### boundedElastic.elastic()
+### Schedulers.boundedElastic()
 - 필요에 따라 워커풀을 생성하고, idle한 워커풀이 있다면 재사용함
 - 워커풀이 일정시간 사용되지 않으면 삭제됨(기본 60초)
 - Schedulers.elastic()과 달리 워커풀 생성에 제한이 있음(기본 cpu core*\10)
@@ -17,7 +17,19 @@
 - 쓰레드가 다시 재사용 될때 큐에 추가됨
 	- 100,000이 넘게 추가되면 버려지는듯?
 - 블로킹프로세스에 자체 쓰레드를 부여하여 다른 리소스 묶이지 않도록 할 수 있음
-	- [링크](boundedElastic)참고
+	- [링크](https://projectreactor.io/docs/core/release/reference/#faq.wrap-blocking)참고
+### Schedulers.parallel()
+- 병렬 작업에 맞게 고정된 워커풀을 생성
+- CPU Core갯수만큼 워커풀을 생성함
+### 추가
+- `Schedulers.fromExecutorService(ExecutorService)`를 사용하여 ExecutorService를 Scheduler로 사용할 수 있음
+- `newXXX`를 사용하여 다양한 스케줄러 타입의 인스턴스를 생성할 수 있음
+- boundedElastic()은 single과 parallel과 다르게 피할 수 없는 legacy blocking콜을 사용하는데 
+	- single과 perallel을 사용한다면 blocking api(block(), blockFirst(), blockLast())를 사용하면 IllegalStateException을 발생시킴
+- 어떤 연산자는 기본으로 특정 Schduler를 사용함
+	- ex) Flux.interval는 Schedulers.parallel()을 사용함
+		- 변경가능함
+		- 
 
 
 
