@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "146d245f439afc19",
+        "id": "07ade6f9f8af3a8c",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0d0aca941d071c",
+            "id": "013691ded4f95a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,11 +157,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3f0d0aca941d071c",
+  "active": "013691ded4f95a11",
   "lastOpenFiles": [
+    "5-Temp/boundedElastic.md",
+    "2-Area/Series/Server/10-Reactor Java(2).md",
     "2-Area/Series/Server/9-Reactor Java(1).md",
     "2-Area/Series/Server/8-Reactive Streams.md",
-    "2-Area/Series/Server/10-Reactor Java(2).md",
     "2-Area/Series/Server/7-Reactive Manifesto.md",
     "5-Temp/Java&Kotlin/java-stream.md",
     "5-Temp/Computer Science/소켓 프로그래밍.md",
@@ -186,7 +187,6 @@
     "5-Temp/Computer Science/Bool 형 자료형.md",
     "5-Temp/InfraStructure/kafka 파티션 증가없이 처리량 늘리기.md",
     "5-Temp/InfraStructure/카프카 쓸때 고려해야할점.md",
-    "5-Temp/Concept/좋은 커밋 메시지 작성법.md",
     "5-Temp/Untitled",
     "2-Area/Series/Untitled",
     "2-Area/Series/kotlin",
