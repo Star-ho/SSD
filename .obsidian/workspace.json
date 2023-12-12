@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Java&Kotlin/java-stream.md",
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Java&Kotlin/java-stream.md",
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Java&Kotlin/java-stream.md",
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Java&Kotlin/java-stream.md"
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md"
               }
             }
           },
@@ -160,6 +159,11 @@
   },
   "active": "3f0d0aca941d071c",
   "lastOpenFiles": [
+    "2-Area/Series/Server/9-Reactor Java(1).md",
+    "2-Area/Series/Server/8-Reactive Streams.md",
+    "2-Area/Series/Server/10-Reactor Java(2).md",
+    "2-Area/Series/Server/7-Reactive Manifesto.md",
+    "5-Temp/Java&Kotlin/java-stream.md",
     "5-Temp/Computer Science/소켓 프로그래밍.md",
     "5-Temp/Computer Science/잡지식.md",
     "5-Temp/Computer Science/pthread.md",
@@ -171,7 +175,6 @@
     "5-Temp/Java&Kotlin/kotlin null 비교 팁.md",
     "5-Temp/마인드셋/enum에 도메인 용어를 넣어놓자.md",
     "5-Temp/Computer Science/멀티쓰레드 트랜잭션 처리.md",
-    "2-Area/Series/Server/9-Reactor Java.md",
     "5-Temp/요청이 처리되는 과정 latency계산.md",
     "5-Temp/Computer Science/레이턴시 까지 계산해서 데이터가 얼마만에올지 예측해보기.md",
     "5-Temp/Computer Science/게임서버에서 레이턴시 처리.md",
@@ -179,16 +182,12 @@
     "5-Temp/Computer Science/네트워크 소켓에 대해왜만들어지고어떻게 사용되는지.md",
     "2-Area/생각정리/황성호 공부법.md",
     "5-Temp/Java&Kotlin/버츄얼쓰레드.md",
-    "5-Temp/Java&Kotlin/java-stream.md",
     "2-Area/Series/kotlin/코루틴.md",
     "5-Temp/Computer Science/Bool 형 자료형.md",
     "5-Temp/InfraStructure/kafka 파티션 증가없이 처리량 늘리기.md",
     "5-Temp/InfraStructure/카프카 쓸때 고려해야할점.md",
     "5-Temp/Concept/좋은 커밋 메시지 작성법.md",
-    "5-Temp/Spring/스프링으로 만드는 프로젝트 예시.md",
     "5-Temp/Untitled",
-    "3-Resource/Database/정규화 역정규화.md",
-    "5-Temp/Database/정규화.md",
     "2-Area/Series/Untitled",
     "2-Area/Series/kotlin",
     "2-Area/Series/cache",
