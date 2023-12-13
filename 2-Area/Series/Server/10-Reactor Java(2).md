@@ -76,6 +76,14 @@ new Thread(() -> flux.subscribe(System.out::println)); - 2번쓰레드
 - 여러 Subscriber를 처리할 수 있는 Publisher구조를 가짐
 	- unicast()는 아님
 
+## Hot vs Cold
+### Cold
+- 구독이 생성될때마다 새로운 데이터를 생성
+- 구독이 생성되지 않으면, 데이터를 생성하지 않음
+
+### Hot
+
+
 
 https://devfunny.tistory.com/916
 - context 테스트 예제
