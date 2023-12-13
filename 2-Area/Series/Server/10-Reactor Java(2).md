@@ -88,8 +88,21 @@ new Thread(() -> flux.subscribe(System.out::println)); - 2번쓰레드
 - 구독하기 전에 실제로 어떠한 일이 발생할 수 있음
 - 데이터 생성 중간에 새로운 구독자가 들어오면, 새로온 구독자는 그전의 데이터를 알지 못하고, 구독 이후에 데이터만 전달받음
 - Hot publisher의 예시로 just가 있는데 어셈블리 시점에 데이터를 캡처하고, 나중에 오는 구독자에게 이를 생성함
-- HTTP요청에 비유하면, 인스턴스화 할때 네트워크 요청이 한번 실행되고 구독자에게 이 겨
+- HTTP요청에 비유하면, 인스턴스화 할때 네트워크 요청이 한번 실행되고 구독자에게 이 결과를 전달함
+	- 구독이 늘어난다고 해서 HTTP요청을 여러번 실행하지 않음
 
+> just를 cold publisher로 변환하려면 defer를 사용하면 됨
+> share 또는 replay를 사용한다면 cold publisher를 hot publisher로 전환가능
+
+
+## default scheduler 변경방법
+- Schedulers.Factory를 사용하여 가능
+- [링크](https://projectreactor.io/docs/core/release/reference/#scheduler-factory) 참고
+
+
+## Reactor Context
+- 명령형 프로그래밍에서 사용하는 Thread Local의 대안
+- 
 
 https://devfunny.tistory.com/916
 - context 테스트 예제
