@@ -74,8 +74,9 @@ new Thread(() -> flux.subscribe(System.out::println)); - 2번쓰레드
 ### Sink
 
 
-publishOn이 뭐하는 놈인지
-subscribeOn이 뭐하는 놈인지
+https://devfunny.tistory.com/916
+- context 테스트 예제
+
 sink가 뭐하는 놈인지
 reactor upstream downstream
 https://wiki.terzeron.com/Programming/Java/Reactor_Flux%EC%9D%98_publishOn_subscribeOn%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81

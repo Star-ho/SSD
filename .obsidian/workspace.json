@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/webflux 관련.md",
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/webflux 관련.md",
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/webflux 관련.md",
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/webflux 관련.md"
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
-    "2-Area/Series/Server/webflux.md",
     "2-Area/Series/Server/webflux 관련.md",
+    "2-Area/Series/Server/webflux.md",
     "2-Area/Series/Server/Untitled.md",
     "2-Area/Series/Server/Reactive Streams.md",
     "2-Area/Series/Server/nio 모델 관련 글.md",

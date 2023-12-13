@@ -13,17 +13,12 @@ https://brunch.co.kr/@springboot/153
 
 https://nesoy.github.io/articles/2021-09/Reactive-Stream
 
-
-https://projectreactor.io/docs/core/release/reference/#schedulers
-
 https://hackernoon.com/an-intro-to-spring-webflux-threading-model
+
+https://medium.com/@akhaku/netty-data-model-threading-and-gotchas-cab820e4815a
 
 https://www.google.com/amp/s/piotrminkowski.com/2020/03/30/a-deep-dive-into-spring-webflux-threading-model/amp
 
-https://www.google.com/amp/s/piotrminkowski.com/2020/03/30/a-deep-dive-into-spring-webflux-threading-model/amp/
-
-reactor scheduler
-https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sthwin&logNo=221956619428
 
 #wait-to-update 
 #argent
