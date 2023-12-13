@@ -69,9 +69,12 @@ final Flux<String> flux = Flux
 
 new Thread(() -> flux.subscribe(System.out::println)); - 2번쓰레드
 ```
-- subscribeOn이 있다면 어디서 구독하든 subscribeOn의 Scheduler를 사용함
+- subscribeOn이 있다면 어디서 구독하든 subscribeOn의 Scheduler를 사용하여 시작함
 
 ### Sink
+- signal을 수동으로 트리거 할 수 있는 구조
+- 여러 Subscriber를 처리할 수 있는 Publisher구조를 가짐
+	- unicast()는 아님
 
 
 https://devfunny.tistory.com/916
@@ -81,14 +84,11 @@ sink가 뭐하는 놈인지
 reactor upstream downstream
 https://wiki.terzeron.com/Programming/Java/Reactor_Flux%EC%9D%98_publishOn_subscribeOn%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81
 
+https://brunch.co.kr/@springboot/153
+
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sthwin&logNo=221956619428
 
 https://godekdls.github.io/Reactor%20Core/contents/
 
 https://devpress.csdn.net/cloudnative/62f640837e6682346618aeb5.html
 
-https://itecnote.com/tecnote/java-threading-model-of-spring-webflux-and-reactor/
-
-https://www.stefankreidel.io/blog/spring-webflux
-
-https://medium.com/@akhaku/netty-data-model-threading-and-gotchas-cab820e4815a
