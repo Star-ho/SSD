@@ -41,19 +41,37 @@
 - 이후 특정 스케줄러를 지정하지 않는 한, publishOn 이후의 연산자는 동일한 쓰레드에서 실행됨
 
 ```
-Scheduler s = Schedulers.newParallel("parallel-scheduler", 4); //main thread
+Scheduler s = Schedulers.newParallel("parallel-scheduler", 4); 1번 쓰레드
 
 final Flux<String> flux = Flux 
-	.range(1, 2) //
-	.map(i -> 10 + i) .publishOn(s) 
-	.map(i -> "value " + i); 
+	.range(1, 2) // 2번 쓰레드로 실행
+	.map(i -> 10 + i) // 2번 쓰레드로 실행 
+	.publishOn(s) 
+	.map(i -> "value " + i); // 1번 쓰레드로 실행
 	
-new Thread(() -> flux.subscribe(System.out::println));
+new Thread(() -> flux.subscribe(System.out::println)); - 2번 쓰레드
 ```
 
+### subscribeOn
+- backward chain이 구성될때, 구독처리과정에서 subscribeOn을 적용함
+- 중간 연산자가 실행컨택스트에 영향을 줄 수 있으므로 데이터 소스 바로 뒤에 적용하는 것이 좋음
+- publishOn동작에는 영향을 미치지 않음
+- 구독하는 전체 체인의 Scheduler의 쓰레드를 변경함
+- 스케줄러에서 하나의 쓰레드를 선택함
+```
+Scheduler s = Schedulers.newParallel("parallel-scheduler", 4); - 1번 쓰레드
 
+final Flux<String> flux = Flux 
+	.range(1, 2) 
+	.map(i -> 10 + i) // 1번쓰레드로 실행
+	.subscribeOn(s) // 1번쓰레드로 실행
+	.map(i -> "value " + i); // 1번쓰레드로 실행
 
+new Thread(() -> flux.subscribe(System.out::println)); - 2번쓰레드
+```
+- subscribeOn이 있다면 어디서 구독하든 subscribeOn의 Scheduler를 사용함
 
+### Sink
 
 
 publishOn이 뭐하는 놈인지
