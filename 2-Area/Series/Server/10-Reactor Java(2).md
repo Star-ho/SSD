@@ -100,15 +100,21 @@ new Thread(() -> flux.subscribe(System.out::println)); - 2번쓰레드
 - [링크](https://projectreactor.io/docs/core/release/reference/#scheduler-factory) 참고
 
 
-## Reactor Context
+## Context
 - 명령형 프로그래밍에서 사용하는 Thread Local의 대안
-- 
+- 세부사항
+	- Map자료 구조와 유사함
+	- key와 value가 Object, Object타입으로 다양한 값들을 넣을 수 있음
+		- 다양한 라이브러리들과 호환 위해
+	- 불변임, put 또는 putAll이 발생한다면 새로운 인스턴스가 생성됨
+	- ContextView인 read only api는 write와 관련된 메서드를 제공하지 않음
+- 실제로 체인에 있는 구독자에게 연결됨
+- 구독 전파매커니즘을 통해 최종 구독자로부터 위로 올라가면서 각각의 operator가 Context를 사용하게 해줌
+- *inner sequence에서 외부의 context를 읽을 수 있음*
+- thread local 데이터를 자동으로 context에 넣어주는 Context-Propagation관련 기능도 있음 [링크](https://projectreactor.io/docs/core/release/reference/#context.propagation)참고
+- context 공부 예제 [링크](https://devfunny.tistory.com/916) 참고
 
-https://devfunny.tistory.com/916
-- context 테스트 예제
 
-sink가 뭐하는 놈인지
-reactor upstream downstream
 https://wiki.terzeron.com/Programming/Java/Reactor_Flux%EC%9D%98_publishOn_subscribeOn%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81
 
 https://brunch.co.kr/@springboot/153
@@ -118,4 +124,3 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sthwin&logNo
 https://godekdls.github.io/Reactor%20Core/contents/
 
 https://devpress.csdn.net/cloudnative/62f640837e6682346618aeb5.html
-
