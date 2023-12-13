@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
+                "file": "2-Area/Series/Server/webflux 관련.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
+                "file": "2-Area/Series/Server/webflux 관련.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
+                "file": "2-Area/Series/Server/webflux 관련.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/10-Reactor Java(2).md"
+                "file": "2-Area/Series/Server/webflux 관련.md"
               }
             }
           },
@@ -159,8 +159,15 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
-    "2-Area/Series/Server/9-Reactor Java(1).md",
+    "2-Area/Series/Server/webflux.md",
+    "2-Area/Series/Server/webflux 관련.md",
+    "2-Area/Series/Server/Untitled.md",
+    "2-Area/Series/Server/Reactive Streams.md",
+    "2-Area/Series/Server/nio 모델 관련 글.md",
+    "2-Area/Series/Server/89.md",
     "2-Area/Series/Server/10-Reactor Java(2).md",
+    "2-Area/Series/Server/99-Reactor netty.md",
+    "2-Area/Series/Server/9-Reactor Java(1).md",
     "5-Temp/boundedElastic.md",
     "2-Area/Series/Server/8-Reactive Streams.md",
     "2-Area/Series/Server/7-Reactive Manifesto.md",
@@ -180,13 +187,6 @@
     "5-Temp/Computer Science/레이턴시 까지 계산해서 데이터가 얼마만에올지 예측해보기.md",
     "5-Temp/Computer Science/게임서버에서 레이턴시 처리.md",
     "5-Temp/Computer Science/L4, L7 로드밸런서.md",
-    "5-Temp/Computer Science/네트워크 소켓에 대해왜만들어지고어떻게 사용되는지.md",
-    "2-Area/생각정리/황성호 공부법.md",
-    "5-Temp/Java&Kotlin/버츄얼쓰레드.md",
-    "2-Area/Series/kotlin/코루틴.md",
-    "5-Temp/Computer Science/Bool 형 자료형.md",
-    "5-Temp/InfraStructure/kafka 파티션 증가없이 처리량 늘리기.md",
-    "5-Temp/InfraStructure/카프카 쓸때 고려해야할점.md",
     "5-Temp/Untitled",
     "2-Area/Series/Untitled",
     "2-Area/Series/kotlin",

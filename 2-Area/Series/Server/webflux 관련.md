@@ -16,8 +16,13 @@ https://nesoy.github.io/articles/2021-09/Reactive-Stream
 
 https://projectreactor.io/docs/core/release/reference/#schedulers
 
+https://hackernoon.com/an-intro-to-spring-webflux-threading-model
+
+https://www.google.com/amp/s/piotrminkowski.com/2020/03/30/a-deep-dive-into-spring-webflux-threading-model/amp
+
+https://www.google.com/amp/s/piotrminkowski.com/2020/03/30/a-deep-dive-into-spring-webflux-threading-model/amp/
+
 reactor scheduler
-https://projectreactor.io/docs/core/release/reference/#schedulers
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sthwin&logNo=221956619428
 
 #wait-to-update 
