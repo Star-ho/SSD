@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
+                "file": "2-Area/Series/Server/8-Reactive Streams.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
+                "file": "2-Area/Series/Server/8-Reactive Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
+                "file": "2-Area/Series/Server/8-Reactive Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/10-Reactor Java(2).md"
+                "file": "2-Area/Series/Server/8-Reactive Streams.md"
               }
             }
           },
@@ -160,13 +159,14 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
+    "2-Area/Series/Server/7-Reactive Manifesto.md",
+    "2-Area/Series/Server/10-Reactor Java(2).md",
     "4-Archive/Tools/p6spy.md",
     "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "2-Area/Series/Server/webflux.md",
     "2-Area/Series/Server/webflux 관련.md",
     "2-Area/Series/Server/99-Reactor netty.md",
     "2-Area/Series/Server/nio 모델 관련 글.md",
-    "2-Area/Series/Server/10-Reactor Java(2).md",
     "2-Area/Series/Server/89.md",
     "5-Temp/Schedulers.Factory.md",
     "2-Area/Series/Server/Untitled.md",
@@ -174,7 +174,6 @@
     "2-Area/Series/Server/9-Reactor Java(1).md",
     "5-Temp/boundedElastic.md",
     "2-Area/Series/Server/8-Reactive Streams.md",
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
     "5-Temp/Java&Kotlin/java-stream.md",
     "5-Temp/Computer Science/소켓 프로그래밍.md",
     "5-Temp/Computer Science/잡지식.md",
