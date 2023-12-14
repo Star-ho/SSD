@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md"
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
-    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "2-Area/Series/Server/7-Reactive Manifesto.md",
+    "2-Area/생각정리/팀원으로서.md",
+    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "2-Area/Series/Server/8-Reactive Streams.md",
     "2-Area/Series/Server/5-Apache Tomcat.md",
     "2-Area/Series/Server/4-Jakarta Servlet.md",
@@ -184,7 +185,6 @@
     "5-Temp/Java&Kotlin/java-stream.md",
     "5-Temp/Computer Science/소켓 프로그래밍.md",
     "5-Temp/Computer Science/잡지식.md",
-    "5-Temp/Computer Science/pthread.md",
     "real-resource/Pasted image 20231211230259.png",
     "real-resource/Pasted image 20231211230225.png",
     "5-Temp/Untitled",
