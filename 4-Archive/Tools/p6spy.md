@@ -9,3 +9,6 @@ decorator:
 
 #Database 
 #Library 
+#쿼리
+#쿼리보는도구 
+#argent 
