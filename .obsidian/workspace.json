@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md"
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
+    "2-Area/Series/java-database-connect/jpa.md",
+    "2-Area/Series/Concurrency/10-분산락(Distributed lock).md",
+    "2-Area/생각정리/팀원으로서 마인드셋.md",
     "2-Area/Series/Server/7-Reactive Manifesto.md",
     "2-Area/생각정리/팀원으로서.md",
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
@@ -182,9 +185,6 @@
     "2-Area/Series/Server/Reactive Streams.md",
     "2-Area/Series/Server/9-Reactor Java(1).md",
     "5-Temp/boundedElastic.md",
-    "5-Temp/Java&Kotlin/java-stream.md",
-    "5-Temp/Computer Science/소켓 프로그래밍.md",
-    "5-Temp/Computer Science/잡지식.md",
     "real-resource/Pasted image 20231211230259.png",
     "real-resource/Pasted image 20231211230225.png",
     "5-Temp/Untitled",
