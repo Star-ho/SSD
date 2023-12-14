@@ -94,7 +94,8 @@ new Thread(() -> flux.subscribe(System.out::println)); - 2번쓰레드
 
 > just를 cold publisher로 변환하려면 defer를 사용하면 됨
 > share 또는 replay를 사용한다면 cold publisher를 hot publisher로 전환가능
-
+> - [관련공부자료](https://binux.tistory.com/135)
+ 
 
 ## default scheduler 변경방법
 - Schedulers.Factory를 사용하여 가능

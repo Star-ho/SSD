@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Tools/p6spy.md",
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p6spy",
+                "query": "defer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Tools/p6spy.md",
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Tools/p6spy.md",
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Tools/p6spy.md"
+                "file": "2-Area/Series/Server/10-Reactor Java(2).md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
+    "4-Archive/Tools/p6spy.md",
     "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "2-Area/Series/Server/webflux.md",
     "2-Area/Series/Server/webflux 관련.md",
@@ -187,7 +188,6 @@
     "5-Temp/마인드셋/enum에 도메인 용어를 넣어놓자.md",
     "5-Temp/Computer Science/멀티쓰레드 트랜잭션 처리.md",
     "5-Temp/요청이 처리되는 과정 latency계산.md",
-    "5-Temp/Computer Science/레이턴시 까지 계산해서 데이터가 얼마만에올지 예측해보기.md",
     "5-Temp/Untitled",
     "2-Area/Series/Untitled",
     "2-Area/Series/kotlin",
