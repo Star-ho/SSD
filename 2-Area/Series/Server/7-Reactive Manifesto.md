@@ -2,6 +2,11 @@
 
 - 리액티브 선언문에서는 리액티브 시스템이란 Responsive, Resilient, Elastic, Message Driven을 가진 시스템이라고 정의
 
+### Responsive(응답성)
+### Resilient(내구성)
+### Elastic(탄력성)
+
+### Message Driven(메시지 전달)
 > aws에서 툭하면 elastic이 나오게 되는데 선언문에 나온 elasitc의 개념이다.[링크](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.elasticity.en.html)  
 > 리액티브 선언문을 많이 읽어보며, 어떻게 개발해야 할지 개발 방향에 좀 감을 잡은거 같다.
 

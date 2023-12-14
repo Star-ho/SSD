@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/3-Servlet Container.md",
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/3-Servlet Container.md",
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/3-Servlet Container.md",
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/3-Servlet Container.md"
+                "file": "2-Area/Series/Server/7-Reactive Manifesto.md"
               }
             }
           },
@@ -159,12 +159,15 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
-    "2-Area/Series/Server/2-Sevlet.md",
+    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
+    "2-Area/Series/Server/7-Reactive Manifesto.md",
+    "2-Area/Series/Server/8-Reactive Streams.md",
+    "2-Area/Series/Server/5-Apache Tomcat.md",
+    "2-Area/Series/Server/4-Jakarta Servlet.md",
     "2-Area/Series/Server/3-Servlet Container.md",
+    "2-Area/Series/Server/2-Sevlet.md",
     "2-Area/Series/Server/1-Applet.md",
     "2-Area/Series/Server/0-Static Web Server.md",
-    "2-Area/Series/Server/8-Reactive Streams.md",
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
     "2-Area/Series/Server/10-Reactor Java(2).md",
     "4-Archive/Tools/p6spy.md",
     "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
@@ -184,9 +187,6 @@
     "5-Temp/Computer Science/pthread.md",
     "real-resource/Pasted image 20231211230259.png",
     "real-resource/Pasted image 20231211230225.png",
-    "5-Temp/Database/키 설계.md",
-    "2-Area/1-Weekly-Reading/운동.md",
-    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
     "5-Temp/Untitled",
     "2-Area/Series/Untitled",
     "2-Area/Series/kotlin",
