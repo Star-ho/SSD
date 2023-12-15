@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
+                "file": "2-Area/Series/Server/7-Stream Processing in Computer Sience.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
+                "file": "2-Area/Series/Server/7-Stream Processing in Computer Sience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md",
+                "file": "2-Area/Series/Server/7-Stream Processing in Computer Sience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/7-Reactive Manifesto.md"
+                "file": "2-Area/Series/Server/7-Stream Processing in Computer Sience.md"
               }
             }
           },
@@ -159,14 +159,15 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
+    "2-Area/Series/Server/7-Reactive Manifesto.md",
+    "2-Area/Series/Server/7-Stream Processing in Computer Sience.md",
+    "2-Area/Series/Server/8-Reactive Streams.md",
     "real-resource/Pasted image 20231214232659.png",
     "2-Area/Series/java-database-connect/jpa.md",
     "2-Area/Series/Concurrency/10-분산락(Distributed lock).md",
     "2-Area/생각정리/팀원으로서 마인드셋.md",
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
     "2-Area/생각정리/팀원으로서.md",
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
-    "2-Area/Series/Server/8-Reactive Streams.md",
     "2-Area/Series/Server/5-Apache Tomcat.md",
     "2-Area/Series/Server/4-Jakarta Servlet.md",
     "2-Area/Series/Server/3-Servlet Container.md",
@@ -182,7 +183,6 @@
     "2-Area/Series/Server/nio 모델 관련 글.md",
     "2-Area/Series/Server/89.md",
     "5-Temp/Schedulers.Factory.md",
-    "2-Area/Series/Server/Untitled.md",
     "2-Area/Series/Server/Reactive Streams.md",
     "2-Area/Series/Server/9-Reactor Java(1).md",
     "real-resource/Pasted image 20231211230259.png",
@@ -201,7 +201,6 @@
     "real-resource/Pasted image 20231204225453.png",
     "5-Temp/0-이직자료/면접자료",
     "real-resource/Pasted image 20231126172744.png",
-    "real-resource/Pasted image 20231125233607.png",
     "3-Resource/Series/Web Server, WAS",
     "2-Area/Series/Server",
     "5-Temp/테스트",
