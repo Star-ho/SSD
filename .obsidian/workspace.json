@@ -159,9 +159,9 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
-    "2-Area/Series/Server/7-Stream Processing in Computer Sience.md",
     "2-Area/Series/Server/8-Reactive Streams.md",
+    "2-Area/Series/Server/7-Stream Processing in Computer Sience.md",
+    "2-Area/Series/Server/7-Reactive Manifesto.md",
     "real-resource/Pasted image 20231214232659.png",
     "2-Area/Series/java-database-connect/jpa.md",
     "2-Area/Series/Concurrency/10-분산락(Distributed lock).md",
