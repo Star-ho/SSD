@@ -80,5 +80,12 @@ public interface Processor<T, R> extends Subscriber<T>, Publisher<R> {
 	- 복구를 선택하지 않는다면 Subscriber에게 onError를 전파해야함
 - 필수사항은 아니지만, 마지막 Subscriber가 Subscription을 취소할때 upStream의 구독을 취소하여 취소신호가 upStream으로 전파되게 하는것이 좋음
 
+### publisher - subscriber간 프로세스
+
+![[Pasted image 20231218205808.png|400]]
+
+
+
 https://www.reactive-streams.org/
 https://github.com/reactive-streams/reactive-streams-jvm/blob/v1.0.4/README.md
+https://souljit2.tistory.com/78
