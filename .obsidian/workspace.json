@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Concurrency/5-Shared Lock(S-lock).md",
+                "file": "2-Area/Series/Concurrency/5-Optimistic Lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Concurrency/5-Shared Lock(S-lock).md",
+                "file": "2-Area/Series/Concurrency/5-Optimistic Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Concurrency/5-Shared Lock(S-lock).md",
+                "file": "2-Area/Series/Concurrency/5-Optimistic Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Concurrency/5-Shared Lock(S-lock).md"
+                "file": "2-Area/Series/Concurrency/5-Optimistic Lock.md"
               }
             }
           },
@@ -159,12 +159,13 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
+    "2-Area/Series/Concurrency/11-분산락(Distributed lock).md",
+    "2-Area/Series/Concurrency/10-Isolation level(격리 수준).md",
+    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
+    "2-Area/Series/Concurrency/9-Record Locks.md",
+    "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
     "2-Area/Series/Concurrency/5-Optimistic Lock.md",
-    "2-Area/Series/Concurrency/9-Isolation level(격리 수준).md",
-    "2-Area/Series/Concurrency/8-Record Locks.md",
-    "2-Area/Series/Concurrency/7-Intention shared lock, exclusive lock.md",
     "2-Area/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
-    "2-Area/Series/Concurrency/5-Shared Lock(S-lock).md",
     "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
     "5-Temp/Database/mysql system row?.md",
     "3-Resource/Software-Design/Transactional outbox.md",
@@ -184,7 +185,6 @@
     "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
     "3-Resource/Database/Count(*) vs Count(Column).md",
     "3-Resource/Database/Clustered Index, non-Clustered Index.md",
-    "3-Resource/Database/Cardinality.md",
     "real-resource/Pasted image 20231218231800.png",
     "real-resource/Pasted image 20231218231610.png",
     "real-resource/Pasted image 20231218231144.png",
