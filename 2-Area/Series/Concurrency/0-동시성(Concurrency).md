@@ -13,12 +13,19 @@
 
 ## But, 무결성의 문제
 - **하나의 자원을 가지고 하나이상의 작업이 수행될때 자원의 무결성의 문제**
-- 갱신사항 유실
-	- 두개의 애플리케이션 A,B가 같은행을 읽고 이러한 어플리케이션이 읽은 데이터에 따라 컬럼의 새 값을 계산함
+- Lost Update Problem(write-write conflict)
+	- 하나의 로우에 동시에 여러번 변경이 발생했을 때 발생하는 문제
+![[Pasted image 20231218230909.png|center|400]]
+- Unrepeatable Read Problem
+	- 다른 트랜잭션에서 변경이 되어, 같은 조회 쿼리에서 다른 데이터가 오는 현상
+![[Pasted image 20231218231144.png|center|400]]
+- Temporary Update Problem( dirty read problem)
 	- 
-- 커밋되지 않은 데이터 읽기
-- 반복 불가능한 읽기
-- 팬텀 읽기
+- Incorrect Summary Problem
+	- 
+- Phantom Read Problem
+	- 데이터가 삭제되어 같은 트랜잭션에서 데이터를 못가져오는 문제
+![[Pasted image 20231218231610.png|center|400]]
 
 
 ## 해결책
@@ -52,11 +59,7 @@
 	- database
 
 
-### 동시성 관련한 문제들
-- Lost Update Problem(write-write conflict)
-- Temporary Update Problem( dirty read problem)
-- Incorrect Summary Problem
-- Unrepeatable Read Problem
-- Phantom Read Problem
 
 #Concurrency 
+
+https://medium.com/@bindubc/distributed-system-concurrency-problem-in-relational-database-59866069ca7c
