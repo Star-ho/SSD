@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
+                "file": "2-Area/Series/Concurrency/5-Shared Lock(S-lock).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "defer",
+                "query": "gap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
+                "file": "2-Area/Series/Concurrency/5-Shared Lock(S-lock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
+                "file": "2-Area/Series/Concurrency/5-Shared Lock(S-lock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Concurrency/0-동시성(Concurrency).md"
+                "file": "2-Area/Series/Concurrency/5-Shared Lock(S-lock).md"
               }
             }
           },
@@ -159,38 +159,40 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
+    "2-Area/Series/Concurrency/5-Optimistic Lock.md",
+    "2-Area/Series/Concurrency/9-Isolation level(격리 수준).md",
+    "2-Area/Series/Concurrency/8-Record Locks.md",
+    "2-Area/Series/Concurrency/7-Intention shared lock, exclusive lock.md",
+    "2-Area/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
+    "2-Area/Series/Concurrency/5-Shared Lock(S-lock).md",
+    "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
+    "5-Temp/Database/mysql system row?.md",
+    "3-Resource/Software-Design/Transactional outbox.md",
+    "3-Resource/Java&Kotlin/jvm option for Container.md",
+    "3-Resource/Java&Kotlin/JUnit.md",
+    "3-Resource/Java&Kotlin/Java memory structure.md",
+    "3-Resource/Java&Kotlin/Java built in Annotation.md",
+    "3-Resource/Infrastructure/Split brain.md",
+    "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
+    "3-Resource/Infrastructure/Elastic Search Data Tier.md",
+    "3-Resource/Database/Sargable query.md",
+    "3-Resource/Database/mysql 프로세스 리스트 보기.md",
+    "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
+    "3-Resource/Database/DB PK 자연키 vs 대체키.md",
+    "3-Resource/Database/Database LSN.md",
+    "3-Resource/Database/Database Check point.md",
+    "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
+    "3-Resource/Database/Count(*) vs Count(Column).md",
+    "3-Resource/Database/Clustered Index, non-Clustered Index.md",
+    "3-Resource/Database/Cardinality.md",
+    "real-resource/Pasted image 20231218231800.png",
     "real-resource/Pasted image 20231218231610.png",
     "real-resource/Pasted image 20231218231144.png",
     "real-resource/Pasted image 20231218230909.png",
-    "2-Area/Series/Server/99-Reactor netty.md",
-    "2-Area/Series/Server/9-Reactive Streams.md",
-    "2-Area/Series/Server/8-Stream Processing.md",
-    "2-Area/Series/Server/11-Reactor Java(2).md",
-    "2-Area/Series/Server/10-Reactor Java(1).md",
     "real-resource/Pasted image 20231218210038.png",
     "real-resource/Pasted image 20231218210001.png",
     "real-resource/Pasted image 20231218205808.png",
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
-    "2-Area/Series/Server/4-Jakarta Servlet.md",
     "real-resource/Pasted image 20231214232659.png",
-    "2-Area/Series/java-database-connect/jpa.md",
-    "2-Area/Series/Concurrency/10-분산락(Distributed lock).md",
-    "2-Area/생각정리/팀원으로서 마인드셋.md",
-    "2-Area/생각정리/팀원으로서.md",
-    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
-    "2-Area/Series/Server/5-Apache Tomcat.md",
-    "2-Area/Series/Server/3-Servlet Container.md",
-    "2-Area/Series/Server/2-Sevlet.md",
-    "2-Area/Series/Server/1-Applet.md",
-    "2-Area/Series/Server/0-Static Web Server.md",
-    "4-Archive/Tools/p6spy.md",
-    "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
-    "2-Area/Series/Server/webflux.md",
-    "2-Area/Series/Server/webflux 관련.md",
-    "2-Area/Series/Server/nio 모델 관련 글.md",
-    "2-Area/Series/Server/89.md",
-    "5-Temp/Schedulers.Factory.md",
-    "2-Area/Series/Server/Reactive Streams.md",
     "real-resource/Pasted image 20231211230259.png",
     "real-resource/Pasted image 20231211230225.png",
     "5-Temp/Untitled",
@@ -198,8 +200,6 @@
     "2-Area/Series/kotlin",
     "2-Area/Series/cache",
     "2-Area/Series/java-database-connect",
-    "real-resource/Pasted image 20231208224210.png",
-    "real-resource/Pasted image 20231208223306.png",
     "5-Temp/Computer Science/Untitled",
     "5-Temp/0-이직자료/면접자료",
     "3-Resource/Series/Web Server, WAS",

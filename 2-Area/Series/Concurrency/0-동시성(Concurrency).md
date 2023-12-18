@@ -20,7 +20,8 @@
 	- 다른 트랜잭션에서 변경이 되어, 같은 조회 쿼리에서 다른 데이터가 오는 현상
 ![[Pasted image 20231218231144.png|center|400]]
 - Temporary Update Problem( dirty read problem)
-	- 
+	- 커밋되지 않은 데이터를 읽어서 발생하는 문제
+![[Pasted image 20231218231800.png|center|400]]
 - Incorrect Summary Problem
 	- 
 - Phantom Read Problem
