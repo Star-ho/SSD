@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/8-Reactive Streams.md",
+                "file": "2-Area/Series/Server/9-Stream Processing in Computer Sience.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/8-Reactive Streams.md",
+                "file": "2-Area/Series/Server/9-Stream Processing in Computer Sience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/8-Reactive Streams.md",
+                "file": "2-Area/Series/Server/9-Stream Processing in Computer Sience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/8-Reactive Streams.md"
+                "file": "2-Area/Series/Server/9-Stream Processing in Computer Sience.md"
               }
             }
           },
@@ -159,13 +159,15 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
-    "real-resource/Pasted image 20231218205808.png",
-    "2-Area/Series/Server/9-Stream Processing in Computer Sience.md",
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
-    "2-Area/Series/Server/4-Jakarta Servlet.md",
     "2-Area/Series/Server/11-Reactor Java(2).md",
+    "2-Area/Series/Server/9-Stream Processing in Computer Sience.md",
+    "real-resource/Pasted image 20231218210038.png",
+    "real-resource/Pasted image 20231218210001.png",
     "2-Area/Series/Server/10-Reactor Java(1).md",
     "2-Area/Series/Server/8-Reactive Streams.md",
+    "real-resource/Pasted image 20231218205808.png",
+    "2-Area/Series/Server/7-Reactive Manifesto.md",
+    "2-Area/Series/Server/4-Jakarta Servlet.md",
     "2-Area/Series/Server/99-Reactor netty.md",
     "real-resource/Pasted image 20231214232659.png",
     "2-Area/Series/java-database-connect/jpa.md",
@@ -197,11 +199,8 @@
     "real-resource/Pasted image 20231208223306.png",
     "real-resource/Pasted image 20231207232236.png",
     "real-resource/Pasted image 20231207232211.png",
-    "real-resource/Pasted image 20231207231843.png",
     "5-Temp/Computer Science/Untitled",
-    "real-resource/Pasted image 20231204225453.png",
     "5-Temp/0-이직자료/면접자료",
-    "real-resource/Pasted image 20231126172744.png",
     "3-Resource/Series/Web Server, WAS",
     "2-Area/Series/Server",
     "5-Temp/테스트",

@@ -82,7 +82,7 @@ public interface Processor<T, R> extends Subscriber<T>, Publisher<R> {
 
 ### publisher - subscriber간 프로세스
 
-![[Pasted image 20231218205808.png|400]]
+![[Pasted image 20231218205808.png|center|400]]
 
 
 
