@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Java&Kotlin/checked Exception.md",
+                "file": "2-Area/Series/Server/webflux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Java&Kotlin/checked Exception.md",
+                "file": "2-Area/Series/Server/webflux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Java&Kotlin/checked Exception.md",
+                "file": "2-Area/Series/Server/webflux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Java&Kotlin/checked Exception.md"
+                "file": "2-Area/Series/Server/webflux.md"
               }
             }
           },
@@ -157,10 +157,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "013691ded4f95a11",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
-    "5-Temp/Spring/하이버네이트 envers.md",
+    "2-Area/Series/Server/webflux 관련.md",
+    "2-Area/Series/Server/webflux.md",
+    "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
+    "2-Area/Series/Server/99-Reactor netty.md",
+    "5-Temp/테스트/virtual thread reactive.md",
     "5-Temp/Java&Kotlin/checked Exception.md",
+    "5-Temp/Spring/하이버네이트 envers.md",
     "4-Archive/Database/kafka.md",
     "4-Archive/Study Matirials/공부할자료.md",
     "5-Temp/InfraStructure/Mongo db.md",
@@ -182,11 +187,6 @@
     "2-Area/Series/Concurrency/5-Optimistic Lock.md",
     "2-Area/Series/Concurrency/11-분산락(Distributed lock).md",
     "2-Area/Series/Concurrency/10-Isolation level(격리 수준).md",
-    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
-    "2-Area/Series/Concurrency/9-Record Locks.md",
-    "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
-    "2-Area/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
-    "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
     "real-resource/Pasted image 20231218231800.png",
     "real-resource/Pasted image 20231218231610.png",
     "real-resource/Pasted image 20231218231144.png",
