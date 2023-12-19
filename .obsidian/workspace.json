@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Untitled.md",
+                "file": "5-Temp/Java&Kotlin/checked Exception.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vir",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Untitled.md",
+                "file": "5-Temp/Java&Kotlin/checked Exception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Untitled.md",
+                "file": "5-Temp/Java&Kotlin/checked Exception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Untitled.md"
+                "file": "5-Temp/Java&Kotlin/checked Exception.md"
               }
             }
           },
@@ -159,8 +159,14 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
+    "5-Temp/Spring/하이버네이트 envers.md",
+    "5-Temp/Java&Kotlin/checked Exception.md",
+    "4-Archive/Database/kafka.md",
+    "4-Archive/Study Matirials/공부할자료.md",
+    "5-Temp/InfraStructure/Mongo db.md",
+    "5-Temp/Database/데이터베이스별 특장.md",
+    "5-Temp/google api guide.md",
     "2-Area/Series/cache/Untitled.md",
-    "5-Temp/Untitled.md",
     "real-resource/Pasted image 20231219223224.png",
     "real-resource/Pasted image 20231219223217.png",
     "5-Temp/커밋메시지.md",
@@ -181,12 +187,6 @@
     "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
     "2-Area/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
     "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
-    "5-Temp/Database/mysql system row?.md",
-    "3-Resource/Software-Design/Transactional outbox.md",
-    "3-Resource/Java&Kotlin/jvm option for Container.md",
-    "3-Resource/Java&Kotlin/JUnit.md",
-    "3-Resource/Java&Kotlin/Java memory structure.md",
-    "3-Resource/Java&Kotlin/Java built in Annotation.md",
     "real-resource/Pasted image 20231218231800.png",
     "real-resource/Pasted image 20231218231610.png",
     "real-resource/Pasted image 20231218231144.png",
