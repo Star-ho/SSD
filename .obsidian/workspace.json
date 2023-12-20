@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/12-Virtual Thread.md",
+                "file": "5-Temp/Java&Kotlin/Garbage collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "virtual",
+                "query": "garba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/12-Virtual Thread.md",
+                "file": "5-Temp/Java&Kotlin/Garbage collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/12-Virtual Thread.md",
+                "file": "5-Temp/Java&Kotlin/Garbage collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/12-Virtual Thread.md"
+                "file": "5-Temp/Java&Kotlin/Garbage collection.md"
               }
             }
           },
@@ -159,12 +160,17 @@
   },
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
+    "3-Resource/Java&Kotlin/jvm option for Container.md",
+    "5-Temp/Java&Kotlin/java garbage collector.md",
+    "5-Temp/Java&Kotlin/Garbage collection.md",
+    "5-Temp/Computer Science/공룡책 원서 pdf.md",
+    "5-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
+    "2-Area/Series/Server/12-Virtual Thread.md",
     "5-Temp/Java&Kotlin/jvm 메모리 세팅시.md",
     "3-Resource/Java&Kotlin/Java memory structure.md",
     "5-Temp/Java&Kotlin/virtual thread syncronized lock.md",
     "5-Temp/테스트/virtual thread reactive.md",
     "5-Temp/Computer Science/가상화 관련 용어정리.md",
-    "2-Area/Series/Server/12-Virtual Thread.md",
     "5-Temp/Java&Kotlin/버츄얼쓰레드.md",
     "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
@@ -182,11 +188,6 @@
     "2-Area/Series/cache/Untitled.md",
     "real-resource/Pasted image 20231219223224.png",
     "real-resource/Pasted image 20231219223217.png",
-    "5-Temp/커밋메시지.md",
-    "5-Temp/Computer Science/3rd party 쿠키.md",
-    "5-Temp/마인드셋/역량 체크.md",
-    "5-Temp/0-이직자료/글로벌 빅태크 면접경험.md",
-    "5-Temp/Computer Science/load balancer.md",
     "real-resource/Pasted image 20231218231800.png",
     "real-resource/Pasted image 20231218231610.png",
     "real-resource/Pasted image 20231218231144.png",

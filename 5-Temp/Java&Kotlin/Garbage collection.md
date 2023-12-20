@@ -6,6 +6,11 @@ Garbage collection 이 있는 언어를 원자력 발전소, 자동차 동력 �
 2. 바로 초기화 안 하니까 그 사이에 누수 발생할 수 있음
 3. 알고리즘 잘못되어도 누수 발생 가능
 
+gc
+참조를 읽은 객체를 메모리에서 제거하는거
+miner gc - young 영역의 객체를 제거
+major gc - old 영역의 객체를 제거
+
 #ComputerScience
 #java
 #jvm
