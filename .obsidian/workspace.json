@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ic.ed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "013691ded4f95a11",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
     "5-Temp/Java&Kotlin/Garbage collection.md",
     "5-Temp/Java&Kotlin/java garbage collector.md",
