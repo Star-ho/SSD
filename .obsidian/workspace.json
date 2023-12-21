@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Computer-Siece/Untitled.md",
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Computer-Siece/Untitled.md",
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Computer-Siece/Untitled.md",
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Computer-Siece/Untitled.md"
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md"
               }
             }
           },
@@ -160,7 +160,7 @@
   "active": "013691ded4f95a11",
   "lastOpenFiles": [
     "5-Temp/Computer Science/공룡책 원서 pdf.md",
-    "3-Resource/Computer-Siece/Untitled.md",
+    "3-Resource/Computer-Siece/Network Interface Card.md",
     "3-Resource/Computer-Siece",
     "5-Temp/Java&Kotlin/Garbage collection.md",
     "5-Temp/Java&Kotlin/java garbage collector.md",
