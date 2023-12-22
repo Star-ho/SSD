@@ -5,3 +5,6 @@
 
 https://dfdeboer.github.io/BURKS/pcinfo/hardware/ethernet/nic.htm
 https://dfdeboer.github.io/BURKS/pcinfo/hardware/ethernet/hyperlin.htm
+
+https://d2.naver.com/helloworld/47667
+#argent 
