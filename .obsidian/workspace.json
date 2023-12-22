@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data orien",
+                "query": "팀원",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Java&Kotlin/데이터 지향 프로그래밍.md"
+                "file": "2-Area/생각정리/팀원으로서 마인드셋.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "8f0ee116b52f6b52",
   "lastOpenFiles": [
+    "5-Temp/Java&Kotlin/jvm 종류.md",
+    "5-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
     "2-Area/Series/Server/12-Virtual Thread.md",
     "2-Area/생각정리/팀원으로서 마인드셋.md",
     "5-Temp/Spring/특히 jackson 라이브러같은건.md",
@@ -184,8 +186,6 @@
     "3-Resource/Cache Passivation, Expiration, Eviction.md",
     "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
     "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
-    "5-Temp/Computer Science/동기, 비동기 IO.md",
-    "5-Temp/Computer Science/공룡책 원서 pdf.md",
     "3-Resource/Computer-Siece",
     "real-resource/Pasted image 20231219223224.png",
     "real-resource/Pasted image 20231219223217.png",
