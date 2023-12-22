@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
+                "file": "2-Area/Series/Server/12-Virtual Thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "버전업",
+                "query": "virtual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
+                "file": "2-Area/Series/Server/12-Virtual Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
+                "file": "2-Area/Series/Server/12-Virtual Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md"
+                "file": "2-Area/Series/Server/12-Virtual Thread.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "8f0ee116b52f6b52",
   "lastOpenFiles": [
+    "2-Area/생각정리/팀원으로서 마인드셋.md",
+    "2-Area/Series/Server/12-Virtual Thread.md",
     "5-Temp/Spring/특히 jackson 라이브러같은건.md",
     "3-Resource/Computer-Siece/cpu interrupt.md",
     "3-Resource/Computer-Siece/Network Interface Card.md",
@@ -185,8 +187,6 @@
     "5-Temp/Computer Science/동기, 비동기 IO.md",
     "5-Temp/Computer Science/공룡책 원서 pdf.md",
     "3-Resource/Computer-Siece",
-    "5-Temp/Java&Kotlin/Garbage collection.md",
-    "5-Temp/Java&Kotlin/java garbage collector.md",
     "real-resource/Pasted image 20231219223224.png",
     "real-resource/Pasted image 20231219223217.png",
     "real-resource/Pasted image 20231218231800.png",

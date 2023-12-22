@@ -9,8 +9,11 @@ virtual Thread
 
 쓰레드를 heap에 저장하면 터지진 않을까?
 
-https://techblog.woowahan.com/15398/
+유의사항
+- syncronized시 carrier
 
+https://techblog.woowahan.com/15398/
+https://tech.kakao.com/2023/12/22/techmeet-virtualthread/
 https://medium.com/deno-the-complete-reference/springboot-virtual-threads-vs-webflux-performance-comparison-for-jwt-verify-and-mysql-query-ff94cf251c2c
 
 https://www.diva-portal.org/smash/get/diva2:1763111/FULLTEXT01.pdf
