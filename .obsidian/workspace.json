@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07ade6f9f8af3a8c",
+        "id": "e468077e2655ca76",
         "type": "tabs",
         "children": [
           {
-            "id": "013691ded4f95a11",
+            "id": "8f0ee116b52f6b52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
+                "file": "4-Archive/Study Matirials/리눅스 커널 doc.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "동기, 블럭",
+                "query": "cgroup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
+                "file": "4-Archive/Study Matirials/리눅스 커널 doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
+                "file": "4-Archive/Study Matirials/리눅스 커널 doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md"
+                "file": "4-Archive/Study Matirials/리눅스 커널 doc.md"
               }
             }
           },
@@ -158,8 +157,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "013691ded4f95a11",
+  "active": "8f0ee116b52f6b52",
   "lastOpenFiles": [
+    "5-Temp/Computer Science/cgroups v2.md",
+    "5-Temp/Computer Science/cgroups.md",
+    "5-Temp/Computer Science/cgroup.md",
+    "5-Temp/테스트/테스트코드 작성 관련 글.md",
+    "5-Temp/테스트/테스트코드 디비 초기화.md",
+    "2-Area/생각정리/테스트코드.md",
+    "2-Area/복잡하지 않은 코드란?.md",
+    "3-Resource/Cache Passivation, Expiration, Eviction.md",
+    "4-Archive/Study Matirials/리눅스 커널 doc.md",
+    "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
     "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "5-Temp/Computer Science/동기, 비동기 IO.md",
     "3-Resource/Computer-Siece/Network Interface Card.md",
@@ -177,16 +186,6 @@
     "5-Temp/Computer Science/가상화 관련 용어정리.md",
     "5-Temp/Java&Kotlin/버츄얼쓰레드.md",
     "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
-    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
-    "2-Area/Series/Server/999-webflux 관련.md",
-    "2-Area/Series/Server/999-Reactor netty.md",
-    "2-Area/Series/Server/11-Reactor Java(2).md",
-    "2-Area/Series/Server/webflux.md",
-    "5-Temp/Java&Kotlin/checked Exception.md",
-    "5-Temp/Spring/하이버네이트 envers.md",
-    "4-Archive/Database/kafka.md",
-    "4-Archive/Study Matirials/공부할자료.md",
-    "5-Temp/InfraStructure/Mongo db.md",
     "real-resource/Pasted image 20231219223224.png",
     "real-resource/Pasted image 20231219223217.png",
     "real-resource/Pasted image 20231218231800.png",
