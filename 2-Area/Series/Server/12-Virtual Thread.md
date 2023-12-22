@@ -10,7 +10,9 @@ virtual Thread
 쓰레드를 heap에 저장하면 터지진 않을까?
 
 유의사항
-- syncronized시 carrier
+- syncronized 또는 JNI call 시  carrier thread에 블로킹(pinning)이 발생
+	- syncronized을 reenterantLock으로 변경
+- thread local을 사용시 메모리가 터질 수 있음
 
 https://techblog.woowahan.com/15398/
 https://tech.kakao.com/2023/12/22/techmeet-virtualthread/
