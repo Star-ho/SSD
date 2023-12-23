@@ -5,3 +5,8 @@
 
 프로세스 스케줄링
 멀티 코어에서 스케줄링이 어떻게 될지
+
+https://www.youtube.com/watch?v=OrM7nZcxXZU&list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn&index=1
+
+https://www.geeksforgeeks.org/multi-threading-models-in-process-management/
+
