@@ -10,3 +10,4 @@ https://www.youtube.com/watch?v=OrM7nZcxXZU&list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF
 
 https://www.geeksforgeeks.org/multi-threading-models-in-process-management/
 
+https://nesoy.github.io/articles/2017-01/Synchronized

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Computer-Siece/Thread.md",
+                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "팀원",
+                "query": "block",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Computer-Siece/Thread.md",
+                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Computer-Siece/Thread.md",
+                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Computer-Siece/Thread.md"
+                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md"
               }
             }
           },
@@ -159,9 +159,11 @@
   },
   "active": "8f0ee116b52f6b52",
   "lastOpenFiles": [
+    "4-Archive/Computer-Science/왜 Block IO보다  NonBlock IO가 느릴까?.md",
+    "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+    "3-Resource/Computer-Siece/Process and Thread.md",
     "3-Resource/Computer-Siece/Network Interface Card.md",
     "3-Resource/Computer-Siece/cpu interrupt.md",
-    "3-Resource/Computer-Siece/Thread.md",
     "2-Area/복잡하지 않은 코드란?.md",
     "2-Area/Series/java-database-connect/jpa.md",
     "2-Area/Concept/Test.md",
@@ -183,8 +185,6 @@
     "5-Temp/Computer Science/cgroups v2.md",
     "4-Archive/Study Matirials/리눅스 커널 doc.md",
     "5-Temp/Computer Science/cgroups.md",
-    "5-Temp/Computer Science/cgroup.md",
-    "5-Temp/테스트/테스트코드 작성 관련 글.md",
     "3-Resource/Computer-Siece",
     "real-resource/Pasted image 20231219223224.png",
     "real-resource/Pasted image 20231219223217.png",
