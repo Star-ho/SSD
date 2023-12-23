@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Computer-Siece/cpu interrupt.md",
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Computer-Siece/cpu interrupt.md",
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Computer-Siece/cpu interrupt.md",
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Computer-Siece/cpu interrupt.md"
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md"
               }
             }
           },
@@ -157,7 +157,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "8f0ee116b52f6b52",
   "lastOpenFiles": [
     "3-Resource/Computer-Siece/Thread.md",
     "3-Resource/Computer-Siece/Network Interface Card.md",
