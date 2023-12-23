@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
+                "file": "3-Resource/Computer-Siece/cpu interrupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
+                "file": "3-Resource/Computer-Siece/cpu interrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md",
+                "file": "3-Resource/Computer-Siece/cpu interrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/생각정리/팀원으로서 마인드셋.md"
+                "file": "3-Resource/Computer-Siece/cpu interrupt.md"
               }
             }
           },
@@ -158,15 +157,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8f0ee116b52f6b52",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "3-Resource/Computer-Siece/Thread.md",
+    "3-Resource/Computer-Siece/Network Interface Card.md",
+    "3-Resource/Computer-Siece/cpu interrupt.md",
+    "2-Area/복잡하지 않은 코드란?.md",
+    "2-Area/Series/java-database-connect/jpa.md",
+    "2-Area/Concept/Test.md",
+    "5-Temp/마인드셋/개발하다 막혔을때.md",
+    "5-Temp/마인드셋/개발익혀야할것들.md",
+    "2-Area/생각정리/팀원으로서 마인드셋.md",
     "5-Temp/Java&Kotlin/jvm 종류.md",
     "5-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
     "2-Area/Series/Server/12-Virtual Thread.md",
-    "2-Area/생각정리/팀원으로서 마인드셋.md",
     "5-Temp/Spring/특히 jackson 라이브러같은건.md",
-    "3-Resource/Computer-Siece/cpu interrupt.md",
-    "3-Resource/Computer-Siece/Network Interface Card.md",
     "5-Temp/Computer Science/빌드타임 줄이기.md",
     "5-Temp/카니코.md",
     "5-Temp/Computer Science/docker 멀티 스테이지 빌드.md",
@@ -180,12 +185,6 @@
     "5-Temp/Computer Science/cgroups.md",
     "5-Temp/Computer Science/cgroup.md",
     "5-Temp/테스트/테스트코드 작성 관련 글.md",
-    "5-Temp/테스트/테스트코드 디비 초기화.md",
-    "2-Area/생각정리/테스트코드.md",
-    "2-Area/복잡하지 않은 코드란?.md",
-    "3-Resource/Cache Passivation, Expiration, Eviction.md",
-    "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
-    "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "3-Resource/Computer-Siece",
     "real-resource/Pasted image 20231219223224.png",
     "real-resource/Pasted image 20231219223217.png",
