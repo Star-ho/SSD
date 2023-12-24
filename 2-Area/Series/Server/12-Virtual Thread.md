@@ -2,28 +2,32 @@
 ## Platform Thread
 ![[Pasted image 20231223233300.png]]
 - 기존 Java의 Thread 모델
-- 하나의 javaTmp
+- 하나의 java쓰레드에 OS Thread를 할당해서 사용
+- 새로운 쓰레드가 필요하면 os에 요청해서 가져옴
 
 ## Virtual Thread
 ![[Pasted image 20231223233244.png]]
+- Virtual Thread의 쓰레드 모델
+- Virtual Thread 생성시 OS에 요청해서 생성하지 않고. java library에서 생성
+- 실제 OS쓰레드에는 Carrier Thread가 매핑이 되고, Carrier Thread를 가지고 있는  Virtual Thread가 현재 실행되고 있는 쓰레드임
+	- Carrier Thread가 없는 Virtual Thread는 동작중이지 않음
+- 쓰레드 관리를 JVM에서 함
+	- 컨텍스트 스위칭 처리를 OS단이 아닌 JVM내에서 처리함
 
-## 비교
-![[Pasted image 20231223233119.png]]
-
-버추얼 쓰레드가 블럭킹 되면
-- 해당하는 코드 찾기
+>버추얼 쓰레드가 블럭킹 되면
+>- 해당하는 코드 찾기
 버추얼 쓰레드 스케줄링이 
 기존 쓰레드 언마운트하고
 다른 캐리어 쓰레드로 연결해줌
 
-쓰레드를 heap에 저장하면 터지진 않을까?
-
+## 비교
+![[Pasted image 20231223233119.png]]
 ### 유의사항
 - CPU bound한 상황에서는 Platform Thread가 더 나은 성능을 보여줌
 - 정말 스트리밍 데이터를 사용한다면 reactor를 고려하자
 - syncronized 또는 JNI call 시  carrier thread에 블로킹(pinning)이 발생
 	- syncronized을 reenterantLock으로 변경
-- thread local을 사용시 메모리가 터질 수 있음
+- thread local데이터를 Heap에 저장하므로 무분별하게 사용시 OOM발생 가능성이 있음
 
 https://techblog.woowahan.com/15398/
 https://tech.kakao.com/2023/12/22/techmeet-virtualthread/
