@@ -1,7 +1,8 @@
 
 ## Platform Thread
 ![[Pasted image 20231223233300.png]]
-
+- 기존 Java의 Thread 모델
+- 하나의 javaTmp
 
 ## Virtual Thread
 ![[Pasted image 20231223233244.png]]
