@@ -11,9 +11,11 @@
             "id": "7c04031b9e7c33a8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf"
+                "file": "2-Area/Series/cache/cache.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
+                "file": "2-Area/Series/cache/cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
+                "file": "2-Area/Series/cache/cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf"
+                "file": "2-Area/Series/cache/cache.md"
               }
             }
           },
@@ -157,6 +159,9 @@
   },
   "active": "7c04031b9e7c33a8",
   "lastOpenFiles": [
+    "2-Area/Series/cache/Untitled.md",
+    "2-Area/Series/cache/cache.md",
+    "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "3-Resource/Computer-Siece/Process and Thread.md",
     "3-Resource/Computer-Siece/Network Interface Card.md",
@@ -178,7 +183,6 @@
     "1-Project/Temp에 있는것들 정리.md",
     "1-Project/Micro Sevice Pattern.md",
     "1-Project/intellij 단축키 외우기.md",
-    "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document",
     "5-Temp/Computer Science/공룡책 원서 pdf.md",
     "4-Archive/Computer-Science/왜 Block IO보다  NonBlock IO가 느릴까?.md",
@@ -190,7 +194,6 @@
     "2-Area/생각정리/팀원으로서 마인드셋.md",
     "5-Temp/Java&Kotlin/jvm 종류.md",
     "5-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
-    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
     "3-Resource/Computer-Siece",
     "real-resource-image/Pasted image 20231219223224.png",
     "real-resource-image/Pasted image 20231219223217.png",
