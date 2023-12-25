@@ -11,11 +11,9 @@
             "id": "7c04031b9e7c33a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md",
-                "mode": "source",
-                "source": false
+                "file": "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "operating",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md",
+                "file": "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md",
+                "file": "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md"
+                "file": "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf"
               }
             }
           },
@@ -159,8 +157,9 @@
   },
   "active": "7c04031b9e7c33a8",
   "lastOpenFiles": [
-    "3-Resource/Computer-Siece/Network Interface Card.md",
+    "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "3-Resource/Computer-Siece/Process and Thread.md",
+    "3-Resource/Computer-Siece/Network Interface Card.md",
     "3-Resource/Computer-Siece/cpu interrupt.md",
     "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
     "2-Area/Series/kotlin/코루틴.md",
@@ -181,7 +180,6 @@
     "1-Project/intellij 단축키 외우기.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document",
-    "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "5-Temp/Computer Science/공룡책 원서 pdf.md",
     "4-Archive/Computer-Science/왜 Block IO보다  NonBlock IO가 느릴까?.md",
     "2-Area/복잡하지 않은 코드란?.md",
@@ -193,7 +191,6 @@
     "5-Temp/Java&Kotlin/jvm 종류.md",
     "5-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
     "5-Temp/Spring/특히 jackson 라이브러같은건.md",
-    "5-Temp/Computer Science/빌드타임 줄이기.md",
     "3-Resource/Computer-Siece",
     "real-resource-image/Pasted image 20231219223224.png",
     "real-resource-image/Pasted image 20231219223217.png",
