@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Softeware Architecture/도메인 생명주기.md",
+                "file": "5-Temp/InfraStructure/Untitled 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "도메인 생명주기",
+                "query": "eventual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Softeware Architecture/도메인 생명주기.md",
+                "file": "5-Temp/InfraStructure/Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Softeware Architecture/도메인 생명주기.md",
+                "file": "5-Temp/InfraStructure/Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Softeware Architecture/도메인 생명주기.md"
+                "file": "5-Temp/InfraStructure/Untitled 3.md"
               }
             }
           },
@@ -159,6 +159,21 @@
   },
   "active": "723e3930ea8cc883",
   "lastOpenFiles": [
+    "5-Temp/Java&Kotlin/java version 개괄.md",
+    "5-Temp/InfraStructure/Untitled 3.md",
+    "Pasted image 20231226224040.png",
+    "5-Temp/Java&Kotlin/java doc.md",
+    "5-Temp/Concept/eventually consistency.md",
+    "5-Temp/Database/Untitled 1.md",
+    "2-Area/Series/Concurrency/11-분산락(Distributed lock).md",
+    "2-Area/생각정리/신경론.md",
+    "5-Temp/Nats.md",
+    "5-Temp/InfraStructure/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
+    "5-Temp/0-이직자료/웹플럭스 사용이유.md",
+    "real-resource-document/시스템 설계 청사진.md",
+    "Pasted image 20231226223250.png",
+    "5-Temp/마인드셋/로그 남길떄.md",
+    "5-Temp/Softeware Architecture/도메인 생명주기.md",
     "2-Area/생각정리/계속해서 기술공부를 하는 이유.md",
     "2-Area/생각정리/레거시.md",
     "2-Area/생각정리/수정시 코드의 영향도.md",
@@ -166,7 +181,6 @@
     "2-Area/생각정리/클래스, 메서드,.md",
     "2-Area/생각정리/테스트코드.md",
     "2-Area/생각정리/팀원으로서 마인드셋.md",
-    "5-Temp/Softeware Architecture/도메인 생명주기.md",
     "5-Temp/Java&Kotlin/jvm 종류.md",
     "3-Resource/Java&Kotlin/JUnit.md",
     "3-Resource/Java&Kotlin/Java memory structure.md",
@@ -174,31 +188,17 @@
     "5-Temp/00사업아이템/개인투자펀드.md",
     "5-Temp/00사업아이템/증권 관심목록.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
-    "3-Resource/Computer-Siece/Process and Thread.md",
-    "2-Area/Series/cache/cache.md",
-    "2-Area/Series/kotlin/코루틴.md",
-    "2-Area/Series/cache/Untitled.md",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
-    "3-Resource/Computer-Siece/Network Interface Card.md",
-    "3-Resource/Computer-Siece/cpu interrupt.md",
-    "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
-    "2-Area/Series/Server/12-Virtual Thread.md",
-    "2-Area/Series/Server/999-Reactor netty.md",
-    "2-Area/Series/Server/11-Reactor Java(2).md",
     "Pasted image 20231223233300.png",
     "Pasted image 20231223233244.png",
     "Pasted image 20231223233207.png",
     "Pasted image 20231223233151.png",
     "Pasted image 20231223233119.png",
     "Pasted image 20231223233013.png",
-    "3-Resource/Concept/HTTP Method PUT vs PATCH.md",
-    "3-Resource/Concept/파티셔닝.md",
     "real-resource-document",
     "3-Resource/Computer-Siece",
     "real-resource-image/Pasted image 20231219223224.png",
     "real-resource-image/Pasted image 20231219223217.png",
-    "real-resource-image/Pasted image 20231218231800.png",
-    "real-resource-image/Pasted image 20231218231610.png",
     "5-Temp/Untitled",
     "2-Area/Series/Untitled",
     "2-Area/Series/kotlin",
