@@ -11,26 +11,15 @@
             "id": "7c04031b9e7c33a8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf"
-              }
-            }
-          },
-          {
-            "id": "e29a8faa07934cb0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/cache/cache.md",
+                "file": "3-Resource/Computer-Siece/Process and Thread.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/cache/cache.md",
+                "file": "3-Resource/Computer-Siece/Process and Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/cache/cache.md",
+                "file": "3-Resource/Computer-Siece/Process and Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/cache/cache.md"
+                "file": "3-Resource/Computer-Siece/Process and Thread.md"
               }
             }
           },
@@ -168,17 +157,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e29a8faa07934cb0",
+  "active": "7c04031b9e7c33a8",
   "lastOpenFiles": [
-    "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "2-Area/Series/cache/cache.md",
+    "2-Area/Series/kotlin/코루틴.md",
+    "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "2-Area/Series/cache/Untitled.md",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "3-Resource/Computer-Siece/Process and Thread.md",
     "3-Resource/Computer-Siece/Network Interface Card.md",
     "3-Resource/Computer-Siece/cpu interrupt.md",
     "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
-    "2-Area/Series/kotlin/코루틴.md",
     "2-Area/Series/Server/12-Virtual Thread.md",
     "2-Area/Series/Server/999-Reactor netty.md",
     "2-Area/Series/Server/11-Reactor Java(2).md",
