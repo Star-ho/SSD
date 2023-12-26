@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/00사업아이템/개인투자펀드.md",
+                "file": "5-Temp/Softeware Architecture/도메인 생명주기.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alibaba",
+                "query": "도메인 생명주기",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/00사업아이템/개인투자펀드.md",
+                "file": "5-Temp/Softeware Architecture/도메인 생명주기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/00사업아이템/개인투자펀드.md",
+                "file": "5-Temp/Softeware Architecture/도메인 생명주기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/00사업아이템/개인투자펀드.md"
+                "file": "5-Temp/Softeware Architecture/도메인 생명주기.md"
               }
             }
           },
@@ -158,8 +157,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "723e3930ea8cc883",
   "lastOpenFiles": [
+    "2-Area/생각정리/계속해서 기술공부를 하는 이유.md",
+    "2-Area/생각정리/레거시.md",
+    "2-Area/생각정리/수정시 코드의 영향도.md",
+    "2-Area/생각정리/일정.md",
+    "2-Area/생각정리/클래스, 메서드,.md",
+    "2-Area/생각정리/테스트코드.md",
+    "2-Area/생각정리/팀원으로서 마인드셋.md",
+    "5-Temp/Softeware Architecture/도메인 생명주기.md",
+    "5-Temp/Java&Kotlin/jvm 종류.md",
+    "3-Resource/Java&Kotlin/JUnit.md",
+    "3-Resource/Java&Kotlin/Java memory structure.md",
+    "5-Temp/Java&Kotlin/Garbage collection.md",
+    "5-Temp/00사업아이템/개인투자펀드.md",
     "5-Temp/00사업아이템/증권 관심목록.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "3-Resource/Computer-Siece/Process and Thread.md",
@@ -181,20 +193,7 @@
     "Pasted image 20231223233013.png",
     "3-Resource/Concept/HTTP Method PUT vs PATCH.md",
     "3-Resource/Concept/파티셔닝.md",
-    "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
-    "1-Project/Temp에 있는것들 정리.md",
-    "1-Project/Micro Sevice Pattern.md",
-    "1-Project/intellij 단축키 외우기.md",
     "real-resource-document",
-    "5-Temp/Computer Science/공룡책 원서 pdf.md",
-    "4-Archive/Computer-Science/왜 Block IO보다  NonBlock IO가 느릴까?.md",
-    "2-Area/복잡하지 않은 코드란?.md",
-    "2-Area/Series/java-database-connect/jpa.md",
-    "2-Area/Concept/Test.md",
-    "5-Temp/마인드셋/개발하다 막혔을때.md",
-    "5-Temp/마인드셋/개발익혀야할것들.md",
-    "2-Area/생각정리/팀원으로서 마인드셋.md",
-    "5-Temp/Java&Kotlin/jvm 종류.md",
     "3-Resource/Computer-Siece",
     "real-resource-image/Pasted image 20231219223224.png",
     "real-resource-image/Pasted image 20231219223217.png",

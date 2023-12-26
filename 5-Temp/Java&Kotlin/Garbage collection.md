@@ -11,6 +11,11 @@ gc
 miner gc - young 영역의 객체를 제거
 major gc - old 영역의 객체를 제거
 
+https://stackoverflow.com/questions/16695874/why-does-the-jvm-full-gc-need-to-stop-the-world
+https://d2.naver.com/helloworld/0128759
+https://mirinae312.github.io/develop/2018/06/04/jvm_gc.html
+
 #ComputerScience
 #java
 #jvm
+#argent 
