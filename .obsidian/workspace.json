@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cfbe9ef78e601f92",
+        "id": "9fa5036d172febb8",
         "type": "tabs",
         "children": [
           {
-            "id": "7c04031b9e7c33a8",
+            "id": "723e3930ea8cc883",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,14 +149,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7c04031b9e7c33a8",
+  "active": "723e3930ea8cc883",
   "lastOpenFiles": [
+    "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
+    "3-Resource/Computer-Siece/Process and Thread.md",
     "2-Area/Series/cache/cache.md",
     "2-Area/Series/kotlin/코루틴.md",
-    "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "2-Area/Series/cache/Untitled.md",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
-    "3-Resource/Computer-Siece/Process and Thread.md",
     "3-Resource/Computer-Siece/Network Interface Card.md",
     "3-Resource/Computer-Siece/cpu interrupt.md",
     "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
