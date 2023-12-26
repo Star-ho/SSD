@@ -11,8 +11,12 @@
             "id": "723e3930ea8cc883",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/00사업아이템/개인투자펀드.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "alibaba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5-Temp/00사업아이템/개인투자펀드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5-Temp/00사업아이템/개인투자펀드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5-Temp/00사업아이템/개인투자펀드.md"
+              }
             }
           },
           {
@@ -149,8 +158,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "723e3930ea8cc883",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
+    "5-Temp/00사업아이템/증권 관심목록.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "3-Resource/Computer-Siece/Process and Thread.md",
     "2-Area/Series/cache/cache.md",
