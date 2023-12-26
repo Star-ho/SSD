@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/Untitled 3.md",
+                "file": "5-Temp/InfraStructure/message queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/Untitled 3.md",
+                "file": "5-Temp/InfraStructure/message queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/Untitled 3.md",
+                "file": "5-Temp/InfraStructure/message queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/Untitled 3.md"
+                "file": "5-Temp/InfraStructure/message queue.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "723e3930ea8cc883",
   "lastOpenFiles": [
+    "Pasted image 20231226224123.png",
+    "Pasted image 20231226224115.png",
     "5-Temp/Java&Kotlin/java version 개괄.md",
-    "5-Temp/InfraStructure/Untitled 3.md",
+    "5-Temp/InfraStructure/message queue.md",
     "Pasted image 20231226224040.png",
     "5-Temp/Java&Kotlin/java doc.md",
     "5-Temp/Concept/eventually consistency.md",
@@ -186,7 +188,6 @@
     "3-Resource/Java&Kotlin/Java memory structure.md",
     "5-Temp/Java&Kotlin/Garbage collection.md",
     "5-Temp/00사업아이템/개인투자펀드.md",
-    "5-Temp/00사업아이템/증권 관심목록.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Pasted image 20231223233300.png",
@@ -198,7 +199,6 @@
     "real-resource-document",
     "3-Resource/Computer-Siece",
     "real-resource-image/Pasted image 20231219223224.png",
-    "real-resource-image/Pasted image 20231219223217.png",
     "5-Temp/Untitled",
     "2-Area/Series/Untitled",
     "2-Area/Series/kotlin",
