@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/message queue.md",
+                "file": "5-Temp/Java&Kotlin/java garbage collector.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eventual",
+                "query": "garbage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/message queue.md",
+                "file": "5-Temp/Java&Kotlin/java garbage collector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/message queue.md",
+                "file": "5-Temp/Java&Kotlin/java garbage collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/message queue.md"
+                "file": "5-Temp/Java&Kotlin/java garbage collector.md"
               }
             }
           },
@@ -159,10 +160,14 @@
   },
   "active": "723e3930ea8cc883",
   "lastOpenFiles": [
+    "3-Resource/Java&Kotlin/jvm option for Container.md",
+    "5-Temp/Java&Kotlin/java garbage collector.md",
+    "5-Temp/Java&Kotlin/Garbage collection.md",
+    "2-Area/0-Sung-ho/ProjectReview/이번에 로그시스템을 만든것에 대한 회고.md",
+    "5-Temp/InfraStructure/message queue.md",
     "Pasted image 20231226224123.png",
     "Pasted image 20231226224115.png",
     "5-Temp/Java&Kotlin/java version 개괄.md",
-    "5-Temp/InfraStructure/message queue.md",
     "Pasted image 20231226224040.png",
     "5-Temp/Java&Kotlin/java doc.md",
     "5-Temp/Concept/eventually consistency.md",
@@ -185,9 +190,6 @@
     "2-Area/생각정리/팀원으로서 마인드셋.md",
     "5-Temp/Java&Kotlin/jvm 종류.md",
     "3-Resource/Java&Kotlin/JUnit.md",
-    "3-Resource/Java&Kotlin/Java memory structure.md",
-    "5-Temp/Java&Kotlin/Garbage collection.md",
-    "5-Temp/00사업아이템/개인투자펀드.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Pasted image 20231223233300.png",
@@ -198,7 +200,6 @@
     "Pasted image 20231223233013.png",
     "real-resource-document",
     "3-Resource/Computer-Siece",
-    "real-resource-image/Pasted image 20231219223224.png",
     "5-Temp/Untitled",
     "2-Area/Series/Untitled",
     "2-Area/Series/kotlin",
