@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/0-Sung-ho/회고록/2023 회고록.md",
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/0-Sung-ho/회고록/2023 회고록.md",
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/0-Sung-ho/회고록/2023 회고록.md",
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/0-Sung-ho/회고록/2023 회고록.md"
+                "file": "3-Resource/Computer-Siece/Network Interface Card.md"
               }
             }
           },
@@ -159,12 +159,16 @@
   },
   "active": "723e3930ea8cc883",
   "lastOpenFiles": [
-    "5-Temp/Java&Kotlin/java garbage collector.md",
+    "3-Resource/Computer-Siece/Process and Thread.md",
+    "3-Resource/Java&Kotlin/Java built in Annotation.md",
+    "3-Resource/Java&Kotlin/JUnit.md",
+    "3-Resource/Java&Kotlin/Java memory structure.md",
     "2-Area/0-Sung-ho/회고록/2023 회고록.md",
+    "5-Temp/Java&Kotlin/java garbage collector.md",
     "2-Area/0-Sung-ho/회고록",
     "3-Resource/Java&Kotlin/jvm option for Container.md",
     "5-Temp/Java&Kotlin/Garbage collection.md",
-    "2-Area/0-Sung-ho/ProjectReview/이번에 로그시스템을 만든것에 대한 회고.md",
+    "2-Area/0-Sung-ho/회고록/이번에 로그시스템을 만든것에 대한 회고.md",
     "5-Temp/InfraStructure/message queue.md",
     "Pasted image 20231226224123.png",
     "Pasted image 20231226224115.png",
@@ -186,10 +190,6 @@
     "2-Area/생각정리/레거시.md",
     "2-Area/생각정리/수정시 코드의 영향도.md",
     "2-Area/생각정리/일정.md",
-    "2-Area/생각정리/클래스, 메서드,.md",
-    "2-Area/생각정리/테스트코드.md",
-    "2-Area/생각정리/팀원으로서 마인드셋.md",
-    "5-Temp/Java&Kotlin/jvm 종류.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Pasted image 20231223233300.png",
