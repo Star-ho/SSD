@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/kotlin/코루틴.md",
+                "file": "2-Area/Series/Server/12-Virtual Thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/kotlin/코루틴.md",
+                "file": "2-Area/Series/Server/12-Virtual Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/kotlin/코루틴.md",
+                "file": "2-Area/Series/Server/12-Virtual Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/kotlin/코루틴.md"
+                "file": "2-Area/Series/Server/12-Virtual Thread.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "723e3930ea8cc883",
   "lastOpenFiles": [
+    "2-Area/Series/kotlin/코루틴.md",
     "3-Resource/Computer-Siece/Network Interface Card.md",
     "3-Resource/Computer-Siece/Process and Thread.md",
     "3-Resource/Java&Kotlin/Java built in Annotation.md",
@@ -189,7 +190,6 @@
     "5-Temp/Softeware Architecture/도메인 생명주기.md",
     "2-Area/생각정리/계속해서 기술공부를 하는 이유.md",
     "2-Area/생각정리/레거시.md",
-    "2-Area/생각정리/수정시 코드의 영향도.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Pasted image 20231223233300.png",
