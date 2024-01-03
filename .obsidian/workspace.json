@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/12-Virtual Thread.md",
+                "file": "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/12-Virtual Thread.md",
+                "file": "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/12-Virtual Thread.md",
+                "file": "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/12-Virtual Thread.md"
+                "file": "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md"
               }
             }
           },
@@ -157,8 +157,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "723e3930ea8cc883",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "2-Area/Series/Server/999-webflux 관련.md",
+    "2-Area/Series/Server/4-Jakarta Servlet.md",
+    "2-Area/Series/Server/12-Virtual Thread.md",
     "2-Area/Series/kotlin/코루틴.md",
     "3-Resource/Computer-Siece/Network Interface Card.md",
     "3-Resource/Computer-Siece/Process and Thread.md",
@@ -187,9 +190,6 @@
     "real-resource-document/시스템 설계 청사진.md",
     "Pasted image 20231226223250.png",
     "5-Temp/마인드셋/로그 남길떄.md",
-    "5-Temp/Softeware Architecture/도메인 생명주기.md",
-    "2-Area/생각정리/계속해서 기술공부를 하는 이유.md",
-    "2-Area/생각정리/레거시.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Pasted image 20231223233300.png",
