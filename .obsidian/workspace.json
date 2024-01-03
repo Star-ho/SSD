@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+                "file": "5-Temp/코드짤떄/어떤 소프트웨어, 코드를 작성할 것인가.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+                "file": "5-Temp/코드짤떄/어떤 소프트웨어, 코드를 작성할 것인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+                "file": "5-Temp/코드짤떄/어떤 소프트웨어, 코드를 작성할 것인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md"
+                "file": "5-Temp/코드짤떄/어떤 소프트웨어, 코드를 작성할 것인가.md"
               }
             }
           },
@@ -160,6 +159,16 @@
   },
   "active": "723e3930ea8cc883",
   "lastOpenFiles": [
+    "5-Temp/코드짤떄/지속 성장 가능한 코드.md",
+    "5-Temp/코드짤떄/어떤 소프트웨어, 코드를 작성할 것인가.md",
+    "5-Temp/코드짤떄/reponse에  VO or Entity.md",
+    "5-Temp/코드짤떄/클래스 당 하나의 책임이란?.md",
+    "5-Temp/코드짤떄/어떤걸 캡슐화 할것인가?.md",
+    "5-Temp/코드짤떄/속도 개선을 위해.md",
+    "5-Temp/코드짤떄/딜리게이터, 데코레이터 패턴.md",
+    "5-Temp/코드짤떄/단일 책임의 원칙.md",
+    "2-Area/0-Sung-ho/좋은 개발자가 되는법.md",
+    "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "2-Area/Series/Server/999-webflux 관련.md",
     "2-Area/Series/Server/4-Jakarta Servlet.md",
@@ -179,17 +188,7 @@
     "5-Temp/InfraStructure/message queue.md",
     "Pasted image 20231226224123.png",
     "Pasted image 20231226224115.png",
-    "5-Temp/Java&Kotlin/java version 개괄.md",
     "Pasted image 20231226224040.png",
-    "5-Temp/Java&Kotlin/java doc.md",
-    "5-Temp/Concept/eventually consistency.md",
-    "5-Temp/Database/Untitled 1.md",
-    "2-Area/Series/Concurrency/11-분산락(Distributed lock).md",
-    "2-Area/생각정리/신경론.md",
-    "5-Temp/Nats.md",
-    "5-Temp/InfraStructure/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
-    "5-Temp/0-이직자료/웹플럭스 사용이유.md",
-    "real-resource-document/시스템 설계 청사진.md",
     "Pasted image 20231226223250.png",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
