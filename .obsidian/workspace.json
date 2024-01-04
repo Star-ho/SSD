@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Cardinality.md",
+                "file": "5-Temp/Database/인덱스 설정시 팁.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NATS",
+                "query": "월가아재",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Cardinality.md",
+                "file": "5-Temp/Database/인덱스 설정시 팁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Cardinality.md",
+                "file": "5-Temp/Database/인덱스 설정시 팁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Cardinality.md"
+                "file": "5-Temp/Database/인덱스 설정시 팁.md"
               }
             }
           },
@@ -158,8 +157,23 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "723e3930ea8cc883",
   "lastOpenFiles": [
+    "5-Temp/Database/파티션.md",
+    "5-Temp/마인드셋/공부할때.md",
+    "5-Temp/마인드셋/개발하다 막혔을때.md",
+    "5-Temp/Concept/마샬링이나 언마샬링.md",
+    "5-Temp/Concept/공변, 반공변, 불변.md",
+    "5-Temp/00사업아이템/자동 매매 프로그램.md",
+    "5-Temp/Database/인덱스 설정시 팁.md",
+    "5-Temp/00사업아이템/개인투자펀드.md",
+    "5-Temp/TIP/Intellij out폴더.md",
+    "5-Temp/Untitled.md",
+    "5-Temp/TIP",
+    "5-Temp/마인드셋/코드에 대해.md",
+    "5-Temp/마인드셋/거짓말.md",
+    "5-Temp/마인드셋/webflux사용 후기.md",
+    "3-Resource/Database/Cardinality.md",
     "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
     "5-Temp/코드짤떄/어떤 소프트웨어, 코드를 작성할 것인가.md",
     "5-Temp/코드짤떄/지속 성장 가능한 코드.md",
@@ -172,21 +186,7 @@
     "2-Area/0-Sung-ho/좋은 개발자가 되는법.md",
     "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
-    "2-Area/Series/Server/999-webflux 관련.md",
-    "2-Area/Series/Server/4-Jakarta Servlet.md",
-    "2-Area/Series/Server/12-Virtual Thread.md",
-    "2-Area/Series/kotlin/코루틴.md",
-    "3-Resource/Computer-Siece/Network Interface Card.md",
-    "3-Resource/Computer-Siece/Process and Thread.md",
-    "3-Resource/Java&Kotlin/Java built in Annotation.md",
-    "3-Resource/Java&Kotlin/JUnit.md",
-    "3-Resource/Java&Kotlin/Java memory structure.md",
-    "2-Area/0-Sung-ho/회고록/2023 회고록.md",
-    "5-Temp/Java&Kotlin/java garbage collector.md",
     "2-Area/0-Sung-ho/회고록",
-    "3-Resource/Java&Kotlin/jvm option for Container.md",
-    "5-Temp/Java&Kotlin/Garbage collection.md",
-    "2-Area/0-Sung-ho/회고록/이번에 로그시스템을 만든것에 대한 회고.md",
     "Pasted image 20231226224123.png",
     "Pasted image 20231226224115.png",
     "Pasted image 20231226224040.png",
@@ -201,7 +201,6 @@
     "Pasted image 20231223233013.png",
     "real-resource-document",
     "3-Resource/Computer-Siece",
-    "5-Temp/Untitled",
     "2-Area/Series/Untitled",
     "2-Area/Series/kotlin",
     "2-Area/Series/cache",
