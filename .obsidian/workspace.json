@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/코드짤떄/기능 개발하면서 리팩토링 동시에 하면 협업하기가 빡셈.md",
+                "file": "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/코드짤떄/기능 개발하면서 리팩토링 동시에 하면 협업하기가 빡셈.md",
+                "file": "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/코드짤떄/기능 개발하면서 리팩토링 동시에 하면 협업하기가 빡셈.md",
+                "file": "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/코드짤떄/기능 개발하면서 리팩토링 동시에 하면 협업하기가 빡셈.md"
+                "file": "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md"
               }
             }
           },
@@ -158,15 +158,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "723e3930ea8cc883",
   "lastOpenFiles": [
-    "5-Temp/마인드셋/문제점 파악할수 있는 멘탈이요.md",
+    "5-Temp/Concept/block first, block last.md",
+    "5-Temp/Computer Science/동기, 비동기 IO.md",
     "5-Temp/코드짤떄/기능 개발하면서 리팩토링 동시에 하면 협업하기가 빡셈.md",
+    "5-Temp/마인드셋/문제점 파악할수 있는 멘탈이요.md",
     "5-Temp/TIP/spring doc tip.md",
     "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md",
     "5-Temp/마인드셋/완벽하다고 생각하는 사람은 방심이라는 녹에 슬기 쉽다.md",
     "5-Temp/마인드셋/개발자란.md",
-    "5-Temp/Concept/block first, block last.md",
     "5-Temp/0-이직자료/면접시.md",
     "5-Temp/Computer Science/8bit = 1byte.md",
     "5-Temp/Concept/http keep-alive.md",
@@ -185,7 +186,6 @@
     "5-Temp/Computer Science/메시지 버스.md",
     "5-Temp/마인드셋/webflux사용 후기.md",
     "5-Temp/z-etc/뉴렐릭, 와탭, 데이터독.md",
-    "5-Temp/z-etc/코드 복잡도.md",
     "5-Temp/z-etc",
     "5-Temp/TIP",
     "2-Area/0-Sung-ho/회고록",
