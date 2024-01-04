@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
+                "file": "3-Resource/Database/Cardinality.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "블라킹",
+                "query": "NATS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
+                "file": "3-Resource/Database/Cardinality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
+                "file": "3-Resource/Database/Cardinality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md"
+                "file": "3-Resource/Database/Cardinality.md"
               }
             }
           },
@@ -158,8 +158,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "723e3930ea8cc883",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
+    "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
     "5-Temp/코드짤떄/어떤 소프트웨어, 코드를 작성할 것인가.md",
     "5-Temp/코드짤떄/지속 성장 가능한 코드.md",
     "5-Temp/코드짤떄/reponse에  VO or Entity.md",
@@ -186,7 +187,6 @@
     "3-Resource/Java&Kotlin/jvm option for Container.md",
     "5-Temp/Java&Kotlin/Garbage collection.md",
     "2-Area/0-Sung-ho/회고록/이번에 로그시스템을 만든것에 대한 회고.md",
-    "5-Temp/InfraStructure/message queue.md",
     "Pasted image 20231226224123.png",
     "Pasted image 20231226224115.png",
     "Pasted image 20231226224040.png",
