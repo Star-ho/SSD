@@ -4,64 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa5036d172febb8",
+        "id": "c6f0e2084cf07114",
         "type": "tabs",
         "children": [
           {
-            "id": "723e3930ea8cc883",
+            "id": "26b6b2b4f99f69b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-SSD/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f87fbf89e887d70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81be1d6829288305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Temp/Computer Science/동기, 비동기 IO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7d9de33cd5e2b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Resource/Computer-Siece/Network Interface Card.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8143c8fd06ee273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Temp/InfraStructure/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
+                "file": "0-SSD/Database/오픈스택.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-SSD/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md",
+                "file": "0-SSD/Database/오픈스택.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-SSD/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md",
+                "file": "0-SSD/Database/오픈스택.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-SSD/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md"
+                "file": "0-SSD/Database/오픈스택.md"
               }
             }
           },
@@ -206,40 +157,40 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "723e3930ea8cc883",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
-    "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
-    "0-SSD/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md",
-    "5-Temp/Computer Science/동기, 비동기 IO.md",
-    "3-Resource/Computer-Siece/Network Interface Card.md",
-    "0-SSD/Tools/p6spy.md",
-    "4-Archive/Tools/p6spy.md",
-    "2-Area/생각정리/레거시.md",
-    "5-Temp/Computer Science/롱 폴링.md",
-    "5-Temp/InfraStructure/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
-    "5-Temp/Concept/end to end exactly once processing.md",
-    "5-Temp/Concept/eventually consistency.md",
-    "5-Temp/Java&Kotlin/thread leak.md",
-    "0-SSD/Server/6-spring mvc request 처리 과정.md",
-    "0-SSD/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
-    "2-Area/Concept/Test.md",
-    "0-SSD/Tools/JRebel.md",
-    "0-SSD/Tools/Cucumber.md",
-    "0-SSD/Tools/Eclips memory Analyzer.md",
-    "0-SSD/Tools/Java Development Kit Version 20 Tool Specifications.md",
-    "0-SSD/Tools/Clippy.md",
-    "0-SSD/Tools/Kotlin Auto fill.md",
-    "0-SSD/Tools/ctop.md",
-    "0-SSD/Tools/Byte Buddy.md",
-    "0-SSD/Tools/테스트 픽스처 도구.md",
-    "0-SSD/Tools/드로윙 툴.md",
-    "0-SSD/Tools/MybatisX.md",
+    "0-SSD/Database/쿼리 튜닝시.md",
+    "0-SSD/Database/정규화 역정규화.md",
+    "0-SSD/Database/오픈스택.md",
+    "0-SSD/Database/맵리듀스.md",
+    "0-SSD/Database/데비지움, CDC.md",
+    "0-SSD/Database/그룹별 순위 가져오기.md",
+    "0-SSD/Spring/spring boot yaml.md",
+    "0-SSD/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
+    "0-SSD/Spring/JPA entity manager, persistence context.md",
+    "0-SSD/Spring/JPA 영속성전이, 프록시객체.md",
+    "0-SSD/Spring/Dynamic update.md",
+    "0-SSD/Java&Kotlin/JUnit.md",
+    "0-SSD/Java&Kotlin/jvm option for Container.md",
+    "0-SSD/Java&Kotlin/Java memory structure.md",
+    "0-SSD/Java&Kotlin/Java built in Annotation.md",
+    "0-SSD/Infrastructure/Split brain.md",
+    "0-SSD/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
+    "0-SSD/Infrastructure/Elastic Search Data Tier.md",
+    "0-SSD/Concept/TSID(Sorted Unique Identifiers).md",
+    "0-SSD/Concept/Test.md",
+    "0-SSD/Concept/Static vs Dynamic,Strong vs Weak.md",
+    "0-SSD/Concept/SPI(Service Provider Interface).md",
+    "0-SSD/Concept/OpenTelemetry.md",
+    "0-SSD/Concept/OLTP, OLAP, DW, DL.md",
+    "0-SSD/Concept/HTTP Method PUT vs PATCH.md",
+    "0-SSD/Concept/Forward Proxy, Reverse Proxy.md",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
     "0-SSD/Frontend",
     "0-SSD/Computer-Science/shell command",
     "0-SSD/Computer-Science",
-    "0-SSD/Server",
+    "0-SSD/server-paradigm",
     "0-SSD/Concept/Concurrency",
     "0-SSD/Concurrency",
     "0-SSD/Tool",
