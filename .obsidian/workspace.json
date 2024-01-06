@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md",
+                "file": "2-Area/Concept/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md",
+                "file": "2-Area/Concept/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md",
+                "file": "2-Area/Concept/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md"
+                "file": "2-Area/Concept/Test.md"
               }
             }
           },
@@ -158,34 +157,36 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "723e3930ea8cc883",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
-    "5-Temp/Concept/block first, block last.md",
-    "5-Temp/Computer Science/동기, 비동기 IO.md",
-    "5-Temp/코드짤떄/기능 개발하면서 리팩토링 동시에 하면 협업하기가 빡셈.md",
-    "5-Temp/마인드셋/문제점 파악할수 있는 멘탈이요.md",
-    "5-Temp/TIP/spring doc tip.md",
+    "2-Area/Concept 복사본/Test.md",
+    "2-Area/Concept 복사본",
+    "2-Area/생각정리/read, write, jpa?.md",
+    "2-Area/생각정리/황성호 공부법.md",
+    "2-Area/생각정리/혁펜하임 공부법.md",
+    "2-Area/생각정리/팀원으로서 마인드셋.md",
+    "2-Area/생각정리/테스트코드.md",
+    "2-Area/생각정리/클래스, 메서드,.md",
+    "2-Area/생각정리/일정.md",
+    "2-Area/생각정리/신경론.md",
+    "2-Area/생각정리/수정시 코드의 영향도.md",
+    "2-Area/생각정리/레거시.md",
+    "2-Area/생각정리/계속해서 기술공부를 하는 이유.md",
+    "2-Area/생각정리/개발자.md",
+    "3-Resource/Computer-Siece/Process and Thread.md",
+    "3-Resource/Computer-Siece/Network Interface Card.md",
+    "2-Area/Series/Server/12-Virtual Thread.md",
+    "2-Area/Series/Server/999-Reactor netty.md",
+    "2-Area/Series/Server/11-Reactor Java(2).md",
+    "2-Area/Series/Server/10-Reactor Java(1).md",
+    "2-Area/Series/Server/9-Reactive Streams.md",
+    "2-Area/Series/Server/7-Reactive Manifesto.md",
+    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
+    "2-Area/Series/Server/4-Jakarta Servlet.md",
+    "2-Area/Series/Server/3-Servlet Container.md",
+    "2-Area/Series/Server/1-Applet.md",
     "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md",
-    "5-Temp/마인드셋/완벽하다고 생각하는 사람은 방심이라는 녹에 슬기 쉽다.md",
-    "5-Temp/마인드셋/개발자란.md",
-    "5-Temp/0-이직자료/면접시.md",
-    "5-Temp/Computer Science/8bit = 1byte.md",
-    "5-Temp/Concept/http keep-alive.md",
-    "5-Temp/00사업아이템/개인투자펀드.md",
-    "5-Temp/00사업아이템/증권 관심목록.md",
-    "5-Temp/00사업아이템/자동 매매 프로그램.md",
-    "5-Temp/코드짤떄/수명.md",
-    "5-Temp/코드짤떄/속도 개선을 위해.md",
-    "5-Temp/0-이직자료/모든 회사에 어필 할 수 있는 지원 동기와 목표설정 방법.md",
-    "5-Temp/Concept/end to end exactly once processing.md",
-    "5-Temp/Computer Science/롱 폴링.md",
-    "5-Temp/z-etc/Untitled 1.md",
-    "5-Temp/Concept/EventSourcing.md",
-    "5-Temp/마인드셋/A는 B다 라는 말을 했을 때 어떻게 신뢰할 수 있는가?.md",
-    "5-Temp/0-이직자료/이직시 업무단위가 어떻게 나눠지는지 pr확인하자.md",
-    "5-Temp/Computer Science/메시지 버스.md",
-    "5-Temp/마인드셋/webflux사용 후기.md",
-    "5-Temp/z-etc/뉴렐릭, 와탭, 데이터독.md",
+    "0-SSD",
     "5-Temp/z-etc",
     "5-Temp/TIP",
     "2-Area/0-Sung-ho/회고록",
@@ -204,8 +205,6 @@
     "real-resource-document",
     "3-Resource/Computer-Siece",
     "2-Area/Series/Untitled",
-    "2-Area/Series/kotlin",
-    "2-Area/Series/cache",
     "Untitled.canvas"
   ]
 }
