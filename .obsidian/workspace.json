@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Concept/Test.md",
+                "file": "0-SSD/Computer-Science/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Concept/Test.md",
+                "file": "0-SSD/Computer-Science/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Concept/Test.md",
+                "file": "0-SSD/Computer-Science/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Concept/Test.md"
+                "file": "0-SSD/Computer-Science/Untitled.md"
               }
             }
           },
@@ -158,8 +157,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "723e3930ea8cc883",
   "lastOpenFiles": [
+    "0-SSD/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+    "0-SSD/Computer-Science/Untitled.md",
+    "2-Area/Concept/Test.md",
     "0-SSD/Tools/JRebel.md",
     "0-SSD/Tools/Cucumber.md",
     "0-SSD/Tools/Eclips memory Analyzer.md",
@@ -184,9 +186,6 @@
     "0-SSD/Study Matirials/개발관련 유튜브.md",
     "0-SSD/Study Matirials/리눅스 커널 doc.md",
     "0-SSD/Study Matirials/System Design Case Studies.md",
-    "0-SSD/Study Matirials/유쾌한 스프링방 콘서트.md",
-    "0-SSD/Study Matirials/MSA 관련 유튜브.md",
-    "0-SSD/Study Matirials/dev handbook.md",
     "0-SSD/Study Matirials",
     "0-SSD/Frontend",
     "0-SSD/Computer-Science/shell command",
