@@ -11,7 +11,6 @@ https://medium.com/nerd-for-tech/what-is-asynchronous-i-o-b37994359471
 
 https://lwn.net/Articles/216200/
 
-
 https://etloveguitar.tistory.com/140
 
 https://www.youtube.com/watch?v=vorIqiLM7jc&list=PLcXyemr8ZeoQOtSUjwaer0VMJSMfa-9G-&index=13
