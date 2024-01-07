@@ -12,4 +12,4 @@ https://dev.gmarket.com/45
 리프레시 토큰과는 상관없지만 JWT의 사용 이유에 대해서 접근하기 쉬운 글이라고 생각되어 올려봅니다
 
 #JWT
-#argent 
+#wait-to-update 

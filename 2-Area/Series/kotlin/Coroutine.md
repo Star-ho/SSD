@@ -18,4 +18,3 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sthwin&logNo
 
 
 #wait-to-update 
-#argent

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Spring/jpa mappedby, joincolumn.md",
+                "file": "5-Temp/Database/정규화.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "operating",
+                "query": "#argent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Spring/jpa mappedby, joincolumn.md",
+                "file": "5-Temp/Database/정규화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Spring/jpa mappedby, joincolumn.md",
+                "file": "5-Temp/Database/정규화.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Spring/jpa mappedby, joincolumn.md"
+                "file": "5-Temp/Database/정규화.md"
               }
             }
           },
@@ -159,33 +160,33 @@
   },
   "active": "0cc4d6badddb082d",
   "lastOpenFiles": [
-    "5-Temp/Computer Science/cs 공부자료.md",
-    "5-Temp/Spring/jpa mappedby, joincolumn.md",
-    "5-Temp/마인드셋/트래픽 예상시.md",
+    "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
+    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
+    "5-Temp/Computer Science/쓰레드도 파일로 관리?.md",
+    "2-Area/Series/kotlin/Coroutine.md",
     "5-Temp/Computer Science/context-switching.md",
+    "5-Temp/Computer Science/bytebuf, bytebuffer.md",
+    "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
+    "5-Temp/InfraStructure/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
+    "5-Temp/Computer Science/롱 폴링.md",
+    "2-Area/생각정리/레거시.md",
+    "5-Temp/Computer Science/JWT.md",
+    "5-Temp/Concept/eventually consistency.md",
+    "5-Temp/Concept/end to end exactly once processing.md",
+    "5-Temp/Computer Science/BSD Socket.md",
+    "5-Temp/Concept/block first, block last.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
+    "2-Area/생각정리/테스트코드.md",
+    "5-Temp/Database/정규화.md",
+    "5-Temp/Java&Kotlin/전 String a = \"a\"랑String a = new String의 차이.md",
+    "5-Temp/Spring/jpa mappedby, joincolumn.md",
+    "5-Temp/Java&Kotlin/java-stream.md",
+    "5-Temp/Java&Kotlin/Garbage collection.md",
+    "5-Temp/Spring/p6spy.md",
+    "5-Temp/Java&Kotlin/thread leak.md",
+    "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md",
+    "5-Temp/Computer Science/동기, 비동기 IO.md",
     "2-Area/Series/Async-messaging",
-    "0-SSD/Spring/Dynamic update.md",
-    "0-SSD/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md",
-    "0-SSD/Computer-Science/0.0.0.0 ip address.md",
-    "4-Archive/Database/데비지움, CDC.md",
-    "4-Archive/Database/오픈스택.md",
-    "4-Archive/Database/DB 날려먹었을때 복구방법.md",
-    "4-Archive/Database/kafka.md",
-    "4-Archive/Database/PostgreSQL vs MariaDB.md",
-    "5-Temp/DragonFly.md",
-    "5-Temp/IDOR.md",
-    "0-SSD/Study Matirials/리눅스 커널 doc.md",
-    "0-SSD/Study Matirials/개발관련 유튜브.md",
-    "0-SSD/Spring/spring boot yaml.md",
-    "0-SSD/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
-    "0-SSD/Spring/JPA entity manager, persistence context.md",
-    "0-SSD/Spring/JPA 영속성전이, 프록시객체.md",
-    "0-SSD/Software-Design/Transactional outbox.md",
-    "0-SSD/Software-Design/Saga Pattern.md",
-    "0-SSD/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
-    "0-SSD/server-paradigm/0-Static Web Server.md",
-    "0-SSD/Java&Kotlin/jvm option for Container.md",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
     "0-SSD/Frontend",
