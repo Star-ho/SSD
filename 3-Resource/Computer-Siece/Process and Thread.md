@@ -23,4 +23,4 @@ https://www.geeksforgeeks.org/multi-threading-models-in-process-management/
 https://www.geeksforgeeks.org/thread-scheduling/
 https://medium.com/aosd-reading-assignment/thread-management-and-thread-scheduling-6ce1ad4fc325
 
-#argent 
+#wait-to-update 

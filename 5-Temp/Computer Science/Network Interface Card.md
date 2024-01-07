@@ -10,4 +10,4 @@ cpu는 해당 데이터를 메모리에 올림
 https://dfdeboer.github.io/BURKS/pcinfo/hardware/ethernet/nic.htm
 https://dfdeboer.github.io/BURKS/pcinfo/hardware/ethernet/hyperlin.htm
 https://d2.naver.com/helloworld/47667
-#argent 
+#wait-to-update 
