@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c6f0e2084cf07114",
+        "id": "d53f37c6b1ccc9c7",
         "type": "tabs",
         "children": [
           {
-            "id": "26b6b2b4f99f69b6",
+            "id": "0cc4d6badddb082d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-SSD/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md",
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-SSD/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md",
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-SSD/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-SSD/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md"
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md"
               }
             }
           },
@@ -157,8 +157,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "26b6b2b4f99f69b6",
+  "active": "ff9aa2eda9854a3a",
   "lastOpenFiles": [
+    "2-Area/Series/Async-messaging/Async-messaging.md",
+    "2-Area/Series/Async-messaging",
+    "0-SSD/Spring/Dynamic update.md",
+    "0-SSD/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md",
     "0-SSD/Computer-Science/0.0.0.0 ip address.md",
     "4-Archive/Database/데비지움, CDC.md",
     "4-Archive/Database/오픈스택.md",
@@ -173,7 +177,6 @@
     "0-SSD/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
     "0-SSD/Spring/JPA entity manager, persistence context.md",
     "0-SSD/Spring/JPA 영속성전이, 프록시객체.md",
-    "0-SSD/Spring/Dynamic update.md",
     "0-SSD/Software-Design/Transactional outbox.md",
     "0-SSD/Software-Design/Saga Pattern.md",
     "0-SSD/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
@@ -183,8 +186,6 @@
     "0-SSD/Java&Kotlin/JUnit.md",
     "0-SSD/Java&Kotlin/Java built in Annotation.md",
     "0-SSD/Infrastructure/Split brain.md",
-    "0-SSD/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
-    "0-SSD/Infrastructure/Elastic Search Data Tier.md",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
     "0-SSD/Frontend",
@@ -194,7 +195,6 @@
     "0-SSD/Concept/Concurrency",
     "0-SSD/Concurrency",
     "0-SSD/Tool",
-    "0-SSD/Spring",
     "Pasted image 20231226224123.png",
     "Pasted image 20231226224115.png",
     "Pasted image 20231226224040.png",
