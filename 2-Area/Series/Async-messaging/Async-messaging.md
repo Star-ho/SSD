@@ -1,27 +1,41 @@
-## 비동기 메시징
+# 비동기 메시징
 - 결합도를 낮춰줌
 - consumer수를 늘림으로써 가용성 확보가 가능해짐
 - polling 방식일때는 consumer의 가용성에 맞춰 데이터를 소비하므로 consumer의 가용성이 증대됨
 	- 중간 infra가 터질 수 있음
 
-## 방식
-- Database(Transaction Outbox Pattern)
-	- 데이터베이스 큐를 messaging box로 이용
-	- 해당 데이터 + 상태 로 구성됨
-		- 상태는 진행예정, 진행중, 완료 등의 상태가 있음
-	- 데이터베이스 트랜잭션이 끝나고, relay서버가 해당 테이블을 확인 후 consumer에게 데이터를 전달
-		- consumer에서 바로 읽을 수 있음
-	- relay서버 증설 시 
-	- 응답성이 낮아도 되고, 인스턴스가 1개만 있을때
-	- 인스턴스가 2개 이상이면 락 관련 관리해줘야함
-		- 스케일링시 부담있음
-- Redis Pub-sub
+# 방식
+## Database(Transaction Outbox Pattern)
+### 구성
+- 데이터베이스 큐를 messaging box로 이용
+- 해당 데이터 + 상태 로 구성됨
+	- 상태는 진행예정, 진행중, 완료 등의 상태가 있음
+- polling이나 cdc를 사용하는 방법이 있음
+	- polling시에는 relay서버가 해당 테이블을 주기적으로 확인
+	- cdc를 사용한다면 relay서버로 call을함
+- 응답성이 낮아도 되고, relay server 1개로 부하가 감당 가능할때 사용하기 좋음
+### 장점
+- 추가 인프라가 필요 없음(비용절감)
+### 단점
+- 다른 방식에 비해 느림
+	- cdc를 사용하던 polling을 사용하던 늘미
+- relay서버 증설 시 부담이 있음
+	- 한테이블을 여러 서버가 읽을때 락관리를 어떻게 할것인가
+		- 깔끔하게 transaction level을 SERIALIZED로 올린다?
+- 인스턴스가 2개 이상이면 lock을 걸어줘야함
+	- 스케일링시 부담있음
+
+## Redis Pub-sub
+- redis pub-sub를 활용
+- 컨슈머가 항상 해당 토픽을 확인하고 있어야하며 컨슈머가 없을시 데이터가 삭제됨
+- 로깅같은곳에서 활용됨
 	- 컨슈머가 항상 붙어있어야함, 없으면 삭제됨
-- Message queue
-	- 오직 하나의 컨슈머에게만 보낼 수 있음
-- Message Broker
-	- 메시지 내용을 알 고 있음
-- Streaming System(Kafka, Pulsar)
+
+## Message queue
+- 오직 하나의 컨슈머에게만 보낼 수 있음
+## Message Broker
+- 메시지 내용을 알 고 있음
+## Streaming System(Kafka, Pulsar)
 	- 여러 컨슈머에게 보낼 수 있음
 	- 메시지를 저장함
 

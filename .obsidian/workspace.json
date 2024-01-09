@@ -159,8 +159,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "99134017fdddf0dd",
+  "active": "ab254c86791a61a3",
   "lastOpenFiles": [
+    "Pasted image 20240109133646.png",
     "3-Resource/Software-Design/Transactional outbox.md",
     "5-Temp/z-etc/msa 트랜잭션 관리.md",
     "5-Temp/InfraStructure/RabbitMQ vs Kafka.md",
@@ -186,7 +187,6 @@
     "5-Temp/Concept/eventually consistency.md",
     "2-Area/생각정리/클래스, 메서드,.md",
     "5-Temp/Java&Kotlin/전 String a = \"a\"랑String a = new String의 차이.md",
-    "5-Temp/Softeware Architecture/도메인 생명주기.md",
     "2-Area/Series/Async-messaging",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
