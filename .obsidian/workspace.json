@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
+                "file": "2-Area/Software Design/Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
+                "file": "2-Area/Software Design/Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
+                "file": "2-Area/Software Design/Service.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md"
+                "file": "2-Area/Software Design/Service.md"
               }
             }
           },
@@ -160,6 +159,16 @@
   },
   "active": "b241484aa9b30e65",
   "lastOpenFiles": [
+    "2-Area/Software Design/Entity, VO.md",
+    "2-Area/Software Design/Aggregate 생명주기(Factory, Repository).md",
+    "2-Area/Software Design/Aggregate.md",
+    "2-Area/Software Design/협력, 책임, 역할.md",
+    "0-SSD/Software-Design/Service.md",
+    "0-SSD/Software-Design/Entity, VO.md",
+    "0-SSD/Software-Design/Aggregate.md",
+    "0-SSD/Software-Design/Aggregate 생명주기(Factory, Repository).md",
+    "0-SSD/Software-Design/협력, 책임, 역할.md",
+    "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
     "5-Temp/InfraStructure/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
     "2-Area/생각정리/테스트코드.md",
     "5-Temp/Computer Science/롱 폴링.md",
@@ -168,7 +177,6 @@
     "5-Temp/Concept/eventually consistency.md",
     "2-Area/생각정리/클래스, 메서드,.md",
     "5-Temp/Java&Kotlin/전 String a = \"a\"랑String a = new String의 차이.md",
-    "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
     "5-Temp/Softeware Architecture/도메인 생명주기.md",
     "2-Area/Series/Server/999-webflux 관련.md",
     "5-Temp/InfraStructure/pub sub vs message queue vs message broker vs streaming platform.md",
@@ -177,15 +185,6 @@
     "5-Temp/Computer Science/Network Interface Card.md",
     "3-Resource/Computer-Siece/Process and Thread.md",
     "0-SSD/Tools/p6spy.md",
-    "5-Temp/Computer Science/context-switching.md",
-    "5-Temp/Database/정규화.md",
-    "5-Temp/Computer Science/동기 비동기 블라킹 넌블라킹.md",
-    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
-    "5-Temp/Computer Science/쓰레드도 파일로 관리?.md",
-    "2-Area/Series/kotlin/Coroutine.md",
-    "5-Temp/Computer Science/bytebuf, bytebuffer.md",
-    "2-Area/생각정리/레거시.md",
-    "5-Temp/Computer Science/JWT.md",
     "2-Area/Series/Async-messaging",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
