@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Software Design/Service.md",
+                "file": "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#argent",
+                "query": "shared",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Software Design/Service.md",
+                "file": "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Software Design/Service.md",
+                "file": "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Software Design/Service.md"
+                "file": "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md"
               }
             }
           },
@@ -159,6 +160,8 @@
   },
   "active": "b241484aa9b30e65",
   "lastOpenFiles": [
+    "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
+    "2-Area/Software Design/Service.md",
     "2-Area/Software Design/Entity, VO.md",
     "2-Area/Software Design/Aggregate 생명주기(Factory, Repository).md",
     "2-Area/Software Design/Aggregate.md",
@@ -183,8 +186,6 @@
     "5-Temp/Java&Kotlin/java-stream.md",
     "5-Temp/Concept/end to end exactly once processing.md",
     "5-Temp/Computer Science/Network Interface Card.md",
-    "3-Resource/Computer-Siece/Process and Thread.md",
-    "0-SSD/Tools/p6spy.md",
     "2-Area/Series/Async-messaging",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
