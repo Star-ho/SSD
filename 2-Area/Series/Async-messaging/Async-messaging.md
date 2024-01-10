@@ -1,5 +1,6 @@
 # 비동기 메시징
 - 결합도를 낮춰줌
+	- 중간의 매개체를 통해 메시지를 전달하므로 수신자와 발신자가 서로를 몰라도 메시지 송/수신이 가능
 - consumer수를 늘림으로써 가용성 확보가 가능해짐
 - polling 방식일때는 consumer의 가용성에 맞춰 데이터를 소비하므로 consumer의 가용성이 증대됨
 	- 중간 infra가 터질 수 있음
@@ -28,12 +29,11 @@
 
 ## Redis Pub-sub
 
-![[Pasted image 20240110131606.png]]
-- redis pub-sub를 활용
+![[Pasted image 20240110132820.png]]
 - subscriber가 해당 channel을 구독하고 있을때, publisher가 데이터를 publish하면 구독하고 있는 모든 subscriber에게 데이터를 전달함
 - subscriber가 존재하지 않는다면 따로 보관하지 않으므로 데이터는 사라짐
-
-- 주로 채팅이나 푸쉬알림에 사용됨
+- 100프로 전송 보장이 되지 않아도 문제없는 케이스에서 사용하기 좋음
+- 주로 채팅이나 푸쉬알림 등에 사용됨
 
 ### 장점
 - 데이터를 따로 저장하지 않으므로 빠름
@@ -46,8 +46,8 @@
 ## Message Broker
 - 메시지 내용을 알 고 있음
 ## Streaming System(Kafka, Pulsar)
-	- 여러 컨슈머에게 보낼 수 있음
-	- 메시지를 저장함
+- 여러 컨슈머에게 보낼 수 있음
+- 메시지를 저장함
 
 https://blog.bytebytego.com/p/why-do-we-need-a-message-queue
 https://blog.iron.io/message-queue-vs-streaming/
@@ -57,6 +57,8 @@ https://www.linkedin.com/pulse/differences-between-message-queue-event-stream-fr
 https://risingwave.com/blog/differences-between-messaging-queues-and-streaming-a-deep-dive/
 https://www.cloudamqp.com/blog/why-is-a-database-not-the-right-tool-for-a-queue-based-system.html
 https://stackoverflow.com/questions/48099098/message-broker-vs-database-and-monitoring
+
+https://oliveyoung.tech/blog/2023-08-07/async-process-of-coupon-issuance-using-redis/BC
 
 #argent 
 #Async-messaging
