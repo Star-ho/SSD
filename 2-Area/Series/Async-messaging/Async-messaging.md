@@ -7,15 +7,16 @@
 # 방식
 ## Database(Transaction Outbox Pattern)
 ### 구성
-- 데이터베이스 큐를 messaging box로 이용
+![Pasted image 20231105224429.png](app://df8f59cfdb2eba9748f1ed25dad91cbedcbe/Users/sungho/obsidian/SSD/real-resource-image/Pasted%20image%2020231105224429.png?1699191869128)
+- 데이터베이스 테이블을 messaging box로 이용
 - 해당 데이터 + 상태 로 구성됨
 	- 상태는 진행예정, 진행중, 완료 등의 상태가 있음
-- polling이나 cdc를 사용하는 방법이 있음
+- 2번에서 outbox를 읽는 방법으로 polling이나 cdc를 사용하는 방법이 있음
 	- polling시에는 relay서버가 해당 테이블을 주기적으로 확인
-	- cdc를 사용한다면 relay서버로 call을함
+	- cdc를 사용한다면, cdc를 사용해 relay서버로 request보냄
 - 응답성이 낮아도 되고, relay server 1개로 부하가 감당 가능할때 사용하기 좋음
 ### 장점
-- 추가 인프라가 필요 없음(비용절감)
+- 거의 모든 서비스가 데이터베이스를 사용하므로 추가 인프라가 필요 없음(비용절감)
 ### 단점
 - 다른 방식에 비해 느림
 	- cdc를 사용하던 polling을 사용하던 늘미
@@ -26,10 +27,19 @@
 	- 스케일링시 부담있음
 
 ## Redis Pub-sub
+
+![[Pasted image 20240110131606.png]]
 - redis pub-sub를 활용
+- subscriber가 해당 channel을 구독하고 있을때, publisher가 데이터를 publish하면 구독하고 있는 모든 subscriber에게 데이터를 전달함
+- subscriber가 존재하지 않는다면 따로 보관하지 않으므로 데이터는 사라짐
+
+- 주로 채팅이나 푸쉬알림에 사용됨
+
+### 장점
+- 데이터를 따로 저장하지 않으므로 빠름
+### 단점
 - 컨슈머가 항상 해당 토픽을 확인하고 있어야하며 컨슈머가 없을시 데이터가 삭제됨
-- 로깅같은곳에서 활용됨
-	- 컨슈머가 항상 붙어있어야함, 없으면 삭제됨
+
 
 ## Message queue
 - 오직 하나의 컨슈머에게만 보낼 수 있음
@@ -49,3 +59,11 @@ https://www.cloudamqp.com/blog/why-is-a-database-not-the-right-tool-for-a-queue-
 https://stackoverflow.com/questions/48099098/message-broker-vs-database-and-monitoring
 
 #argent 
+#Async-messaging
+#Transactional-outboxk
+#message-queue 
+#redis
+#pub-sub
+#message-broker
+#Kafka 
+#event-streaming
