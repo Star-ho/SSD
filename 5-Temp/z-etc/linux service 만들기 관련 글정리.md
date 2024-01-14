@@ -1,11 +1,13 @@
 왜 linux service인가?
 장점
-
+- 꺼져도 다시 살아남
+# service파일 생성
+```
+vi /etc/systemd/system/ktx.service
+```
 
 ```
-# vi /etc/systemd/system/testchk.service
-
-// /etc/systemd/system/testchk.service 내용
+# /etc/systemd/system/ktx.service 내용
 [Unit]
 Description=Systemd Test Daemon
 
@@ -16,6 +18,17 @@ Restart=always
 
 [Install]
 WantedBy=multi-user.target
+```
+
+서비스 실행
+```
+systemctl daemon-reload
+
+systemctl enable ktx.service
+
+service ktx start
+
+service ktx start
 ```
 https://passwd.tistory.com/entry/Ubuntu-Systemd-service-%EB%93%B1%EB%A1%9D
 
