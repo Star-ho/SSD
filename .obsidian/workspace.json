@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md",
+                "file": "4-Archive/Book-Review/DDIA/02-데이터모델과 질의언어.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md",
+                "file": "4-Archive/Book-Review/DDIA/02-데이터모델과 질의언어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md",
+                "file": "4-Archive/Book-Review/DDIA/02-데이터모델과 질의언어.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md"
+                "file": "4-Archive/Book-Review/DDIA/02-데이터모델과 질의언어.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "ab254c86791a61a3",
   "lastOpenFiles": [
-    "3-Resource/Database/Clustered Index, non-Clustered Index.md",
     "4-Archive/Book-Review/DDIA/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md",
+    "4-Archive/Book-Review/DDIA/02-데이터모델과 질의언어.md",
+    "3-Resource/Database/Clustered Index, non-Clustered Index.md",
     "4-Archive/Book-Review/DDIA",
     "4-Archive/Book-Review",
     "4-Archive/Untitled.md",
@@ -214,7 +215,6 @@
     "0-SSD/Software-Design/Aggregate.md",
     "0-SSD/Software-Design/Aggregate 생명주기(Factory, Repository).md",
     "0-SSD/Software-Design/협력, 책임, 역할.md",
-    "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
     "2-Area/Series/Async-messaging",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
