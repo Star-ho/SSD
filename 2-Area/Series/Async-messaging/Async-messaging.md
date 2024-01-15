@@ -4,7 +4,7 @@
 - consumer수를 늘림으로써 가용성 확보가 가능해짐
 - polling 방식일때는 consumer의 가용성에 맞춰 데이터를 소비하므로 consumer의 가용성이 증대됨
 	- 중간 infra가 터질 수 있음
-- consumer가 죽더라도 메시지 큐에 쌓이기 때문에 
+- consumer가 죽더라도 메시지 큐에 쌓이기 때문에 장애 전파가 되지 않음
 
 # 방식
 ## Database(Transaction Outbox Pattern)
@@ -43,7 +43,10 @@
 
 
 ## Message queue
-- 오직 하나의 컨슈머에게만 보낼 수 있음
+- 오직 하나의 컨슈머에게 보내거나, 전부다 보내는 방식 2가지가 있음
+- 메모리 기반 message queue에서는 메모리에 다 쌓이면 
+- buffering
+
 ## Message Broker
 - 메시지 내용을 알 고 있음
 ## Streaming System(Kafka, Pulsar)
