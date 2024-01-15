@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/03-저장소와 검색.md",
+                "file": "4-Archive/Book-Review/DDIA/04-부호화와 발전.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/03-저장소와 검색.md",
+                "file": "4-Archive/Book-Review/DDIA/04-부호화와 발전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/03-저장소와 검색.md",
+                "file": "4-Archive/Book-Review/DDIA/04-부호화와 발전.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/03-저장소와 검색.md"
+                "file": "4-Archive/Book-Review/DDIA/04-부호화와 발전.md"
               }
             }
           },
@@ -184,10 +184,11 @@
   },
   "active": "ab254c86791a61a3",
   "lastOpenFiles": [
+    "4-Archive/Book-Review/DDIA/03-저장소와 검색.md",
+    "4-Archive/Book-Review/DDIA/04-부호화와 발전.md",
     "Pasted image 20240115231350.png",
     "Pasted image 20240115231322.png",
     "4-Archive/Book-Review/DDIA/02-데이터모델과 질의언어.md",
-    "4-Archive/Book-Review/DDIA/03-저장소와 검색.md",
     "4-Archive/Book-Review/DDIA/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md",
     "3-Resource/Database/Clustered Index, non-Clustered Index.md",
     "4-Archive/Book-Review/DDIA",
@@ -229,7 +230,6 @@
     "Pasted image 20231226224040.png",
     "Pasted image 20231226223250.png",
     "Pasted image 20231223233300.png",
-    "Pasted image 20231223233244.png",
     "Untitled.canvas"
   ]
 }
