@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md"
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md"
               }
             }
           },
@@ -175,6 +174,7 @@
   "lastOpenFiles": [
     "5-Temp/00사업아이템/ktx조회 및 알림.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
+    "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
     "Pasted image 20240110132820.png",
     "Pasted image 20240110131606.png",
     "3-Resource/Software-Design/Transactional outbox.md",
@@ -201,7 +201,6 @@
     "5-Temp/Spring/jpa mappedby, joincolumn.md",
     "5-Temp/Java&Kotlin/Garbage collection.md",
     "5-Temp/Concept/eventually consistency.md",
-    "2-Area/생각정리/클래스, 메서드,.md",
     "2-Area/Series/Async-messaging",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",

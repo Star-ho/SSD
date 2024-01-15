@@ -4,6 +4,7 @@
 - consumer수를 늘림으로써 가용성 확보가 가능해짐
 - polling 방식일때는 consumer의 가용성에 맞춰 데이터를 소비하므로 consumer의 가용성이 증대됨
 	- 중간 infra가 터질 수 있음
+- consumer가 죽더라도 메시지 큐에 쌓이기 때문에 
 
 # 방식
 ## Database(Transaction Outbox Pattern)
