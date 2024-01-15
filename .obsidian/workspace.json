@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Clustered Index, non-Clustered Index.md",
+                "file": "4-Archive/Book-Review/DDIA/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Clustered Index, non-Clustered Index.md",
+                "file": "4-Archive/Book-Review/DDIA/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Clustered Index, non-Clustered Index.md",
+                "file": "4-Archive/Book-Review/DDIA/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Clustered Index, non-Clustered Index.md"
+                "file": "4-Archive/Book-Review/DDIA/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md"
               }
             }
           },
@@ -185,8 +184,12 @@
   },
   "active": "ab254c86791a61a3",
   "lastOpenFiles": [
-    "0-SSD/Database/Clustered Index, non-Clustered Index.md",
     "3-Resource/Database/Clustered Index, non-Clustered Index.md",
+    "4-Archive/Book-Review/DDIA/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md",
+    "4-Archive/Book-Review/DDIA",
+    "4-Archive/Book-Review",
+    "4-Archive/Untitled.md",
+    "0-SSD/Database/Clustered Index, non-Clustered Index.md",
     "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
     "0-SSD/Database/Covering Indexes(커버링 인덱스).md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
@@ -212,8 +215,6 @@
     "0-SSD/Software-Design/Aggregate 생명주기(Factory, Repository).md",
     "0-SSD/Software-Design/협력, 책임, 역할.md",
     "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
-    "5-Temp/InfraStructure/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
-    "2-Area/생각정리/테스트코드.md",
     "2-Area/Series/Async-messaging",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
@@ -222,8 +223,6 @@
     "0-SSD/Computer-Science",
     "0-SSD/server-paradigm",
     "0-SSD/Concept/Concurrency",
-    "0-SSD/Concurrency",
-    "0-SSD/Tool",
     "Pasted image 20231226224123.png",
     "Pasted image 20231226224115.png",
     "Pasted image 20231226224040.png",
