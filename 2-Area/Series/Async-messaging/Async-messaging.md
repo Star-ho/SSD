@@ -1,10 +1,9 @@
 # 비동기 메시징
 - 결합도를 낮춰줌
 	- 중간의 매개체를 통해 메시지를 전달하므로 수신자와 발신자가 서로를 몰라도 메시지 송/수신이 가능
+	- publisher와 consumer가 서로를 알 필요가 없음
 - consumer수를 늘림으로써 가용성 확보가 가능해짐
-- polling 방식일때는 consumer의 가용성에 맞춰 데이터를 소비하므로 consumer의 가용성이 증대됨
-	- 중간 infra가 터질 수 있음
-- consumer가 죽더라도 메시지 큐에 쌓이기 때문에 장애 전파가 되지 않음
+- consumer가 죽더라도 메시지 큐에 쌓이기 때문에 메시지 유실을 방지할 수 있음
 
 # 방식
 ## Database(Transaction Outbox Pattern)
