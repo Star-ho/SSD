@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5a20e7c997c37cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6c37a3fb0f55e29b",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clustered",
+                "query": "covering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-SSD/Database/Clustered Index, non-Clustered Index.md",
+                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-SSD/Database/Clustered Index, non-Clustered Index.md",
+                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-SSD/Database/Clustered Index, non-Clustered Index.md"
+                "file": "3-Resource/Database/Covering Indexes(커버링 인덱스).md"
               }
             }
           },
@@ -171,8 +184,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ab254c86791a61a3",
+  "active": "5a20e7c997c37cf4",
   "lastOpenFiles": [
+    "0-SSD/Database/Clustered Index, non-Clustered Index.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "5-Temp/00사업아이템/ktx조회 및 알림.md",
     "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
@@ -201,7 +215,6 @@
     "5-Temp/Computer Science/롱 폴링.md",
     "5-Temp/Spring/jpa mappedby, joincolumn.md",
     "5-Temp/Java&Kotlin/Garbage collection.md",
-    "5-Temp/Concept/eventually consistency.md",
     "2-Area/Series/Async-messaging",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
