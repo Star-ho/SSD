@@ -28,7 +28,10 @@ systemctl enable ktx.service
 
 service ktx start
 
-service ktx start
+service ktx status
+
+## restart시 jar변경내용 적용됨
+service ktx restart
 ```
 https://passwd.tistory.com/entry/Ubuntu-Systemd-service-%EB%93%B1%EB%A1%9D
 
