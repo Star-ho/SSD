@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/2부/3-파티셔닝.md",
+                "file": "4-Archive/Book-Review/DDIA/2부/3-트랜잭션.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/2부/3-파티셔닝.md",
+                "file": "4-Archive/Book-Review/DDIA/2부/3-트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/2부/3-파티셔닝.md",
+                "file": "4-Archive/Book-Review/DDIA/2부/3-트랜잭션.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/2부/3-파티셔닝.md"
+                "file": "4-Archive/Book-Review/DDIA/2부/3-트랜잭션.md"
               }
             }
           },
@@ -197,8 +197,10 @@
   },
   "active": "41b7b0b8de157b66",
   "lastOpenFiles": [
+    "4-Archive/Book-Review/DDIA/기타.md",
+    "4-Archive/Book-Review/DDIA/2부/3-트랜잭션.md",
+    "4-Archive/Book-Review/DDIA/2부/2-파티셔닝.md",
     "4-Archive/Book-Review/DDIA/2부/1-복제.md",
-    "4-Archive/Book-Review/DDIA/2부/3-파티셔닝.md",
     "Pasted image 20240116230222.png",
     "5-Temp/InfraStructure/elasticsearch shard, replica.md",
     "4-Archive/Book-Review/DDIA/2부/0-분산 데이터 베이스가 필요한 이유.md",
@@ -231,7 +233,6 @@
     "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
     "2-Area/Software Design/Service.md",
     "2-Area/Software Design/Entity, VO.md",
-    "2-Area/Software Design/Aggregate 생명주기(Factory, Repository).md",
     "2-Area/Series/Async-messaging",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
