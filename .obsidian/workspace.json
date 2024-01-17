@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Software-Design/Transactional outbox.md",
+                "file": "5-Temp/Concept/eventually consistency.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "node",
+                "query": "consistency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,6 +199,9 @@
   "lastOpenFiles": [
     "4-Archive/Book-Review/DDIA/기타.md",
     "4-Archive/Book-Review/DDIA/2부/3-트랜잭션.md",
+    "5-Temp/Concept/eventually consistency.md",
+    "0-SSD/Database/ACID.md",
+    "3-Resource/Software-Design/Transactional outbox.md",
     "4-Archive/Book-Review/DDIA/2부/2-파티셔닝.md",
     "4-Archive/Book-Review/DDIA/2부/1-복제.md",
     "Pasted image 20240116230222.png",
@@ -224,15 +227,12 @@
     "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
     "Pasted image 20240110132820.png",
     "Pasted image 20240110131606.png",
-    "3-Resource/Software-Design/Transactional outbox.md",
     "0-SSD/Software-Design/Transactional outbox.md",
     "Pasted image 20240109133646.png",
     "5-Temp/z-etc/msa 트랜잭션 관리.md",
     "5-Temp/InfraStructure/RabbitMQ vs Kafka.md",
     "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
     "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
-    "2-Area/Software Design/Service.md",
-    "2-Area/Software Design/Entity, VO.md",
     "2-Area/Series/Async-messaging",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
