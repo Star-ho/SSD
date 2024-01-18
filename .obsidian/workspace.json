@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/2부/2-파티셔닝.md",
+                "file": "4-Archive/Tools/드로윙 툴.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/2부/2-파티셔닝.md",
+                "file": "4-Archive/Tools/드로윙 툴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/2부/2-파티셔닝.md",
+                "file": "4-Archive/Tools/드로윙 툴.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/2부/2-파티셔닝.md"
+                "file": "4-Archive/Tools/드로윙 툴.md"
               }
             }
           },
@@ -197,12 +197,12 @@
   },
   "active": "41b7b0b8de157b66",
   "lastOpenFiles": [
+    "4-Archive/Book-Review/DDIA/2부/2-파티셔닝.md",
     "4-Archive/Book-Review/DDIA/2부/3-트랜잭션.md",
     "4-Archive/Book-Review/DDIA/기타.md",
     "5-Temp/Concept/eventually consistency.md",
     "0-SSD/Database/ACID.md",
     "3-Resource/Software-Design/Transactional outbox.md",
-    "4-Archive/Book-Review/DDIA/2부/2-파티셔닝.md",
     "4-Archive/Book-Review/DDIA/2부/1-복제.md",
     "Pasted image 20240116230222.png",
     "5-Temp/InfraStructure/elasticsearch shard, replica.md",
