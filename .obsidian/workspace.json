@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Tools/드로윙 툴.md",
+                "file": "5-Temp/Concept/eventually consistency.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "consistency",
+                "query": "최종적",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Tools/드로윙 툴.md",
+                "file": "5-Temp/Concept/eventually consistency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Tools/드로윙 툴.md",
+                "file": "5-Temp/Concept/eventually consistency.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Tools/드로윙 툴.md"
+                "file": "5-Temp/Concept/eventually consistency.md"
               }
             }
           },
@@ -195,10 +196,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "41b7b0b8de157b66",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
-    "4-Archive/Book-Review/DDIA/2부/2-파티셔닝.md",
     "4-Archive/Book-Review/DDIA/2부/3-트랜잭션.md",
+    "0-SSD/Software-Design/Saga Pattern.md",
+    "3-Resource/Software-Design/Saga Pattern.md",
+    "5-Temp/Database/db 메모리.md",
+    "5-Temp/Computer Science/text vs varchar.md",
+    "5-Temp/InfraStructure/Docker.md",
+    "5-Temp/Concept/12factor.md",
+    "3-Resource/Spring/Hibernate.md",
+    "5-Temp/Softeware Architecture/도메인 생명주기.md",
+    "2-Area/생각정리/레거시.md",
+    "5-Temp/Computer Science/롱 폴링.md",
+    "2-Area/Series/Async-messaging/Async-messaging.md",
+    "5-Temp/Computer Science/context-switching.md",
+    "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
+    "4-Archive/Tools/드로윙 툴.md",
+    "4-Archive/Book-Review/DDIA/2부/2-파티셔닝.md",
     "4-Archive/Book-Review/DDIA/기타.md",
     "5-Temp/Concept/eventually consistency.md",
     "0-SSD/Database/ACID.md",
@@ -210,29 +225,15 @@
     "4-Archive/Book-Review/DDIA/1부/04-부호화와 발전.md",
     "4-Archive/Book-Review/DDIA/1부/03-저장소와 검색.md",
     "4-Archive/Book-Review/DDIA/1부/02-데이터모델과 질의언어.md",
-    "4-Archive/Book-Review/DDIA/1부/01-신뢰 가능하고 확장가능하며 유지보수하기 쉬운 애플리케이션.md",
     "4-Archive/Book-Review/DDIA/2부",
     "4-Archive/Book-Review/DDIA/1부",
-    "2-Area/Series/Async-messaging/Async-messaging.md",
-    "0-SSD/Database/Clustered Index, non-Clustered Index.md",
-    "3-Resource/Database/Clustered Index, non-Clustered Index.md",
     "Pasted image 20240115231350.png",
     "Pasted image 20240115231322.png",
     "4-Archive/Book-Review/DDIA",
     "4-Archive/Book-Review",
-    "4-Archive/Untitled.md",
-    "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
-    "0-SSD/Database/Covering Indexes(커버링 인덱스).md",
-    "5-Temp/00사업아이템/ktx조회 및 알림.md",
-    "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
     "Pasted image 20240110132820.png",
     "Pasted image 20240110131606.png",
-    "0-SSD/Software-Design/Transactional outbox.md",
     "Pasted image 20240109133646.png",
-    "5-Temp/z-etc/msa 트랜잭션 관리.md",
-    "5-Temp/InfraStructure/RabbitMQ vs Kafka.md",
-    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
-    "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
     "2-Area/Series/Async-messaging",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
