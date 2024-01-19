@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/TIP/code image화.md",
+                "file": "5-Temp/마인드셋/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "최종적",
+                "query": "virtual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/TIP/code image화.md",
+                "file": "5-Temp/마인드셋/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/TIP/code image화.md",
+                "file": "5-Temp/마인드셋/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/TIP/code image화.md"
+                "file": "5-Temp/마인드셋/Untitled.md"
               }
             }
           },
@@ -197,9 +197,24 @@
   },
   "active": "41b7b0b8de157b66",
   "lastOpenFiles": [
+    "5-Temp/InfraStructure/docker 구현체.md",
+    "5-Temp/마인드셋/Untitled.md",
+    "5-Temp/Concept/느슨한 정족수.md",
+    "5-Temp/Concept/분산 데이터베이스 조인.md",
+    "5-Temp/Concept/스파이크 트래픽 처리.md",
+    "5-Temp/Computer Science/프로그래머가 몰랐던 멀티코어 CPU 이야기.md",
+    "5-Temp/Concept/반버논 IDDD.md",
+    "5-Temp/Java&Kotlin/암묵적 클래스 선언,인스턴스 메인 메서드 jep.md",
+    "5-Temp/Softeware Architecture/Msa read 문제.md",
+    "5-Temp/Softeware Architecture/event sourcing.md",
+    "5-Temp/Database/대용량 테이블 파티션 추가.md",
+    "5-Temp/마인드셋/virtual thread, reactive.md",
+    "5-Temp/비용절감.md",
+    "5-Temp/일단 봐야함.md",
+    "0-SSD/server-paradigm/12-Virtual Thread.md",
+    "5-Temp/TIP/code image화.md",
     "Pasted image 20240119224729.png",
     "5-Temp/Database/메세지큐, 데이터베이스 초, 분당 최대 쓰기 갯수.md",
-    "5-Temp/TIP/code image화.md",
     "5-Temp/마인드셋/변화.md",
     "5-Temp/마인드셋/완벽보다는 항상 최선을 다하자.md",
     "5-Temp/마인드셋/잘할수 있을까?.md",
@@ -209,21 +224,7 @@
     "5-Temp/마인드셋/오버엔지니어링.md",
     "5-Temp/마인드셋/oop 컨셉.md",
     "5-Temp/Database/데이터베이스 불변식 성능.md",
-    "5-Temp/00사업아이템/bj들 데이터 통계내주는거.md",
-    "5-Temp/일단 봐야함.md",
-    "5-Temp/architechure/Msa read 문제.md",
-    "5-Temp/마인드셋/가독성.md",
-    "5-Temp/architechure/당근 아키텍쳐.md",
-    "5-Temp/Concept/eventually consistency.md",
     "5-Temp/architechure",
-    "4-Archive/Book-Review/DDIA/2부/3-트랜잭션.md",
-    "0-SSD/Software-Design/Saga Pattern.md",
-    "3-Resource/Software-Design/Saga Pattern.md",
-    "5-Temp/Database/db 메모리.md",
-    "5-Temp/Computer Science/text vs varchar.md",
-    "5-Temp/InfraStructure/Docker.md",
-    "5-Temp/Concept/12factor.md",
-    "3-Resource/Spring/Hibernate.md",
     "Pasted image 20240116230222.png",
     "4-Archive/Book-Review/DDIA/2부",
     "4-Archive/Book-Review/DDIA/1부",
@@ -242,7 +243,6 @@
     "Pasted image 20231226224123.png",
     "Pasted image 20231226224115.png",
     "Pasted image 20231226224040.png",
-    "Pasted image 20231226223250.png",
     "Untitled.canvas"
   ]
 }
