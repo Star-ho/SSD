@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/일단 봐야함.md",
+                "file": "5-Temp/Computer Science/빌드타임 줄이기.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "virtual",
+                "query": "빌드 ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/일단 봐야함.md",
+                "file": "5-Temp/Computer Science/빌드타임 줄이기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/일단 봐야함.md",
+                "file": "5-Temp/Computer Science/빌드타임 줄이기.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/일단 봐야함.md"
+                "file": "5-Temp/Computer Science/빌드타임 줄이기.md"
               }
             }
           },
@@ -160,6 +161,9 @@
   },
   "active": "414f8f705763143e",
   "lastOpenFiles": [
+    "0-SSD/Frontend/빌드시간 단축.md",
+    "4-Archive/Frontend/빌드시간 단축.md",
+    "5-Temp/일단 봐야함.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
     "5-Temp/Concept/eventually consistency.md",
@@ -181,12 +185,9 @@
     "5-Temp/Database/대용량 테이블 파티션 추가.md",
     "5-Temp/마인드셋/virtual thread, reactive.md",
     "5-Temp/비용절감.md",
-    "5-Temp/일단 봐야함.md",
     "0-SSD/server-paradigm/12-Virtual Thread.md",
     "5-Temp/TIP/code image화.md",
     "Pasted image 20240119224729.png",
-    "5-Temp/Database/메세지큐, 데이터베이스 초, 분당 최대 쓰기 갯수.md",
-    "5-Temp/마인드셋/변화.md",
     "5-Temp/architechure",
     "Pasted image 20240116230222.png",
     "4-Archive/Book-Review/DDIA/2부",
