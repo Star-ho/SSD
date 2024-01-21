@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md",
+                "file": "5-Temp/Softeware Architecture/이유.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "빌드 ",
+                "query": "객체지향",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md",
+                "file": "5-Temp/Softeware Architecture/이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md",
+                "file": "5-Temp/Softeware Architecture/이유.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md"
+                "file": "5-Temp/Softeware Architecture/이유.md"
               }
             }
           },
@@ -160,8 +161,12 @@
   },
   "active": "414f8f705763143e",
   "lastOpenFiles": [
-    "0-SSD/server-paradigm/10-Reactor Java(1).md",
+    "5-Temp/코드짤떄/클래스 당 하나의 책임이란?.md",
+    "5-Temp/Softeware Architecture/이유.md",
+    "2-Area/생각정리/테스트코드.md",
+    "2-Area/생각정리/클래스, 메서드,.md",
     "0-SSD/server-paradigm/11-Reactor Java(2).md",
+    "0-SSD/server-paradigm/10-Reactor Java(1).md",
     "0-SSD/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "0-SSD/Concept/파티셔닝.md",
     "0-SSD/Tools/드로윙 툴.md",
@@ -182,10 +187,6 @@
     "5-Temp/Concept/느슨한 정족수.md",
     "5-Temp/Concept/분산 데이터베이스 조인.md",
     "5-Temp/Concept/스파이크 트래픽 처리.md",
-    "5-Temp/Computer Science/프로그래머가 몰랐던 멀티코어 CPU 이야기.md",
-    "5-Temp/Concept/반버논 IDDD.md",
-    "5-Temp/Java&Kotlin/암묵적 클래스 선언,인스턴스 메인 메서드 jep.md",
-    "5-Temp/Softeware Architecture/Msa read 문제.md",
     "Pasted image 20240119224729.png",
     "5-Temp/architechure",
     "Pasted image 20240116230222.png",
