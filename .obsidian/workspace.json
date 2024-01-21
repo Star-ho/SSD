@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-SSD/Tools/드로윙 툴.md",
+                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-SSD/Tools/드로윙 툴.md",
+                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-SSD/Tools/드로윙 툴.md",
+                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-SSD/Tools/드로윙 툴.md"
+                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md"
               }
             }
           },
@@ -160,6 +160,11 @@
   },
   "active": "414f8f705763143e",
   "lastOpenFiles": [
+    "0-SSD/server-paradigm/10-Reactor Java(1).md",
+    "0-SSD/server-paradigm/11-Reactor Java(2).md",
+    "0-SSD/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+    "0-SSD/Concept/파티셔닝.md",
+    "0-SSD/Tools/드로윙 툴.md",
     "5-Temp/Computer Science/빌드타임 줄이기.md",
     "0-SSD/Frontend/빌드시간 단축.md",
     "4-Archive/Frontend/빌드시간 단축.md",
@@ -181,11 +186,6 @@
     "5-Temp/Concept/반버논 IDDD.md",
     "5-Temp/Java&Kotlin/암묵적 클래스 선언,인스턴스 메인 메서드 jep.md",
     "5-Temp/Softeware Architecture/Msa read 문제.md",
-    "5-Temp/Softeware Architecture/event sourcing.md",
-    "5-Temp/Database/대용량 테이블 파티션 추가.md",
-    "5-Temp/마인드셋/virtual thread, reactive.md",
-    "5-Temp/비용절감.md",
-    "0-SSD/server-paradigm/12-Virtual Thread.md",
     "Pasted image 20240119224729.png",
     "5-Temp/architechure",
     "Pasted image 20240116230222.png",
