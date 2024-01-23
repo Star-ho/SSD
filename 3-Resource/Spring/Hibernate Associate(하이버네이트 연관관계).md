@@ -1,5 +1,7 @@
 하이버네이트에는 연관관계가 존재함
-
+부모
+자식
+소유권
 mant-to-one
 one-to-many
 one-to-one
@@ -21,6 +23,9 @@ one쪽이 주인일때 team=team으로 연관관계 설정가능
 - list.add()로 연관관계 설정불가
 
 모든 양방향연관관계에서는 자식측이 주인이되며, 
+
+cascade는 부모쪽에서 하는게 합리적이다
+
 
 꺠알팁
 oneToMany, manyToOne설정된 필드에는 Column어노테이션 불가, joinColumn사용해야함
