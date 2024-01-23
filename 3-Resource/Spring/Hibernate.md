@@ -35,14 +35,10 @@
 - flush
 	- 세션과 연결된 영속객체의 변경을 확인하고, insert, update문을 통해 데이터베이스와 세션의 상태를 동기화함
 
-- one to many, many to one, join column
-jpa mappedby, joincolumn
-
-fetch=EAGER가 의미가 있는 유일한 시나리오는 연관된 객체가 두 번째 수준 캐시에서 발견될 확률이 항상 매우 높다고 생각하는 경우입니다. 
-
-
 
 #Hibernate
-#argent 
+#Spring
+#Jpa
+#Persistence
 https://docs.jboss.org/hibernate/orm/6.4/introduction/html_single/Hibernate_Introduction.html
 https://docs.jboss.org/hibernate/orm/6.4/userguide/html_single/Hibernate_User_Guide.html
