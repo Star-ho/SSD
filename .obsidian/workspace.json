@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관계).md",
+                "file": "5-Temp/코드짤떄/새로운 기술을 익힐때 컨셉을 알아야 하는 이유.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관계).md",
+                "file": "5-Temp/코드짤떄/새로운 기술을 익힐때 컨셉을 알아야 하는 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관계).md",
+                "file": "5-Temp/코드짤떄/새로운 기술을 익힐때 컨셉을 알아야 하는 이유.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관계).md"
+                "file": "5-Temp/코드짤떄/새로운 기술을 익힐때 컨셉을 알아야 하는 이유.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "cb9fa9c2156be17d",
   "lastOpenFiles": [
-    "3-Resource/Spring/Hibernate.md",
     "3-Resource/Spring/Hibernate Associate(하이버네이트 연관계).md",
+    "5-Temp/코드짤떄/새로운 기술을 익힐때 컨셉을 알아야 하는 이유.md",
+    "3-Resource/Spring/Hibernate.md",
     "0-SSD/Concept/파티셔닝.md",
     "0-SSD/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "0-SSD/Study Matirials/개발관련 유튜브.md",
@@ -185,7 +186,6 @@
     "5-Temp/마인드셋/컨트롤러 통합테스트 안하면 니는 병신이다.md",
     "5-Temp/마인드셋/스트레스 관리.md",
     "5-Temp/마인드셋/팀원과의 합의.md",
-    "5-Temp/InfraStructure/docker 구현체.md",
     "Pasted image 20240119224729.png",
     "5-Temp/architechure",
     "Pasted image 20240116230222.png",
