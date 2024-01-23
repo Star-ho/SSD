@@ -27,9 +27,9 @@ child쪽에서만 연결하면 insert한번
 paren쪽에서만 연결하면 insert한번 update한번
 
 깔끔하게하려면 부모자식쪽에서 둘다 연결하는게 합리적임
+flush해도 부모쪽 캐시는 남아있음
 
 cascade는 부모쪽에서 하는게 합리적이다
-
 
 꺠알팁
 oneToMany, manyToOne설정된 필드에는 Column어노테이션 불가, joinColumn사용해야함
