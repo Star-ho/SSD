@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "3-Resource/Spring/Hibernate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80d34c775f52d748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,11 +171,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "cb9fa9c2156be17d",
+  "active": "80d34c775f52d748",
   "lastOpenFiles": [
-    "5-Temp/코드짤떄/새로운 기술을 익힐때 컨셉을 알아야 하는 이유.md",
-    "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
     "3-Resource/Spring/Hibernate.md",
+    "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+    "5-Temp/코드짤떄/새로운 기술을 익힐때 컨셉을 알아야 하는 이유.md",
     "0-SSD/Concept/파티셔닝.md",
     "0-SSD/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "0-SSD/Study Matirials/개발관련 유튜브.md",
