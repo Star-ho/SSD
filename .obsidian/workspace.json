@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                "file": "3-Resource/Spring/JPA entity manager, persistence context.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                "file": "3-Resource/Spring/JPA entity manager, persistence context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                "file": "3-Resource/Spring/JPA entity manager, persistence context.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md"
+                "file": "3-Resource/Spring/JPA entity manager, persistence context.md"
               }
             }
           },
@@ -174,6 +174,8 @@
   "active": "80d34c775f52d748",
   "lastOpenFiles": [
     "3-Resource/Spring/Hibernate.md",
+    "3-Resource/Spring/JPA entity manager, persistence context.md",
+    "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
     "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
     "5-Temp/코드짤떄/새로운 기술을 익힐때 컨셉을 알아야 하는 이유.md",
     "0-SSD/Concept/파티셔닝.md",
@@ -197,8 +199,6 @@
     "5-Temp/InfraStructure/redis transaction.md",
     "5-Temp/마인드셋/역사를 알아야하는 이유.md",
     "5-Temp/마인드셋/컨트롤러 통합테스트 안하면 니는 병신이다.md",
-    "5-Temp/마인드셋/스트레스 관리.md",
-    "5-Temp/마인드셋/팀원과의 합의.md",
     "Pasted image 20240119224729.png",
     "5-Temp/architechure",
     "Pasted image 20240116230222.png",

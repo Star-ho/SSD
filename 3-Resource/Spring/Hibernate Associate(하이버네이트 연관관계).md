@@ -11,34 +11,23 @@
 - 부모엔티티의 변경이 발생할때 자식까지 전파할건지에 대한 여부
 > ex) CascadeType.Merge가 지정된경우 부모가 merge되면 자식도 merge됨
 
-one쪽
-mappedBy는 @OneToMany에서 설정할 수 있는 옵션으로 many테이블에서 어떤 필드와 매핑될지 선택하는 옵션, string으로 필드명을 주거나 enum으로 줄 수 있음
-mappedBy대신 joinColumn으로 many테이블의 어떤 컬럼과 매핑할지 선택할 수 있음
+## FetchType
+- 해당 필드를 가져올 시기를 결정
+- Lazy
+	- oneToMany의 default FetchType
+	- 해당 필드를 엑세스할때 가져옴
+- Eager
+	- ManyToOne의 default FetchType
+	- 소유자의 로딩의 일부로 해당 필드를 가져옴
+		- 소유자 로딩시 바로 가져옴
+**fetch=EAGER가 의미가 있는 유일한 시나리오는 연관된 객체가 두 번째 수준 캐시에서 발견될 확률이 항상 매우 높다고 생각하는 경우. **
 
-many쪽
-joinColumn
 
-연관관계의 주인
-관계 설정을 하는 엔티티를 말함
-many쪽이 주인일때 list.add()로 연관관계 설정가능
-- team=team으로 연관관계 설정 불가
-one쪽이 주인일때 team=team으로 연관관계 설정가능
-- list.add()로 연관관계 설정불가
-
-양방향일때
-child쪽에서만 연결하면 insert한번
-paren쪽에서만 연결하면 insert한번 update한번
-
-깔끔하게하려면 부모자식쪽에서 둘다 연결하는게 합리적임
-flush해도 부모쪽 캐시는 남아있음
-
-cascade는 부모쪽에서 하는게 합리적이다
-
-꺠알팁
+>꺠알팁
 oneToMany, manyToOne설정된 필드에는 Column어노테이션 불가, joinColumn사용해야함
 
 
-fetch=EAGER가 의미가 있는 유일한 시나리오는 연관된 객체가 두 번째 수준 캐시에서 발견될 확률이 항상 매우 높다고 생각하는 경우입니다. 
+
 
 
 https://docs.jboss.org/hibernate/orm/6.4/introduction/html_single/Hibernate_Introduction.html#associations
