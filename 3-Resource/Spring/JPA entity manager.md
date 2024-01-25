@@ -5,12 +5,6 @@
  - transaction이 끝날 때 삭제됨
  - persist, find, merge 등의 동작이 있음
 
-## 영속성 컨텍스트
-- entity manager와 association되어있음
-- entity manager는 persistence context가 있으면 사용하고 없으면 생성
-- [Transaction-Scoped Persistence Context](https://www.baeldung.com/jpa-hibernate-persistence-context#transaction_persistence_context)와 [Extended-Scoped Persistence Context](https://www.baeldung.com/jpa-hibernate-persistence-context#extended_persistence_context)가 존재
-- PersistenceContextType.TRANSACTION가 디폴트임
-- 트랜잭션이 커밋되거나 롤백될때 삭제됨
 ## jpa 1차 캐시
 - 영속성컨텍스트에 존재하는 엔티티를 가져오는 것
 - hiberante에서는 session에서 find를 호출하거나, 연관관계가 있는 엔티티에서 호출할때만 사용,

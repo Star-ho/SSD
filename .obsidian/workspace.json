@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f97a8b3aca2e3428",
+        "id": "6bb49ae8a1f3a8b5",
         "type": "tabs",
         "children": [
           {
-            "id": "cb9fa9c2156be17d",
+            "id": "25e81c4f01a082e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Spring/Hibernate.md",
+                "file": "5-Temp/Concept/공변, 반공변, 불변.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "80d34c775f52d748",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20231223233013.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231223233013.png",
+                "file": "5-Temp/Concept/공변, 반공변, 불변.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231223233013.png",
+                "file": "5-Temp/Concept/공변, 반공변, 불변.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231223233013.png"
+                "file": "5-Temp/Concept/공변, 반공변, 불변.md"
               }
             }
           },
@@ -169,54 +158,54 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "80d34c775f52d748",
+  "active": "25e81c4f01a082e9",
   "lastOpenFiles": [
-    "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
-    "3-Resource/Spring/Hibernate.md",
-    "2-Area/Series/Server/999-webflux 관련.md",
-    "2-Area/Series/Server/999-Reactor netty.md",
-    "2-Area/Series/Server/12-Virtual Thread.md",
-    "2-Area/Series/Server/11-Reactor Java(2).md",
-    "2-Area/Series/Server/0-Static Web Server.md",
-    "2-Area/Series/Concurrency/10-Isolation level(격리 수준).md",
-    "2-Area/생각정리/일정.md",
-    "2-Area/생각정리/레거시.md",
-    "3-Resource/Spring/JPA entity manager, persistence context.md",
-    "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
-    "5-Temp/코드짤떄/새로운 기술을 익힐때 컨셉을 알아야 하는 이유.md",
-    "0-SSD/Concept/파티셔닝.md",
-    "0-SSD/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
-    "0-SSD/Study Matirials/개발관련 유튜브.md",
-    "5-Temp/Softeware Architecture/이유.md",
-    "5-Temp/코드짤떄/클래스 당 하나의 책임이란?.md",
-    "2-Area/생각정리/테스트코드.md",
-    "2-Area/생각정리/클래스, 메서드,.md",
-    "0-SSD/server-paradigm/11-Reactor Java(2).md",
-    "0-SSD/server-paradigm/10-Reactor Java(1).md",
-    "0-SSD/Tools/드로윙 툴.md",
-    "5-Temp/Computer Science/빌드타임 줄이기.md",
-    "0-SSD/Frontend/빌드시간 단축.md",
-    "4-Archive/Frontend/빌드시간 단축.md",
-    "Pasted image 20240119224729.png",
+    "5-Temp/Concept/12factor.md",
+    "5-Temp/Computer Science/uuidv8.md",
+    "5-Temp/Computer Science/UniCode.md",
+    "5-Temp/Computer Science/TTB.md",
+    "5-Temp/Computer Science/text vs varchar.md",
+    "5-Temp/Computer Science/syscall socket bind.md",
+    "5-Temp/Computer Science/SSL TLS SNI.md",
+    "5-Temp/Computer Science/SDD vs HDD 읽기 쓰기 방법.md",
+    "5-Temp/Computer Science/raid 0,1,2,3.md",
+    "5-Temp/Computer Science/Network Interface Card.md",
+    "5-Temp/Computer Science/JWT.md",
+    "5-Temp/Computer Science/cs 공부자료.md",
+    "5-Temp/Computer Science/cpu-memory-sdd(hdd).md",
+    "5-Temp/Computer Science/context-switching.md",
+    "5-Temp/Computer Science/cgroups v2.md",
+    "5-Temp/Concept/스파이크 트래픽 처리.md",
+    "5-Temp/InfraStructure/Untitled 1.md",
+    "5-Temp/InfraStructure/Untitled.md",
+    "5-Temp/InfraStructure/Untitled 2.md",
+    "5-Temp/Concept/분산 데이터베이스 조인.md",
+    "5-Temp/Concept/반버논 IDDD.md",
+    "5-Temp/Concept/멱등성.md",
+    "5-Temp/Concept/마샬링이나 언마샬링.md",
+    "5-Temp/Concept/대규모 트래픽 상황 가정시.md",
+    "5-Temp/Concept/느슨한 정족수.md",
+    "5-Temp/Concept/공변, 반공변, 불변.md",
+    "real-resource-image/Pasted image 20231223233013.png",
+    "real-resource-image/Pasted image 20240119224729.png",
     "5-Temp/architechure",
-    "Pasted image 20240116230222.png",
+    "real-resource-image/Pasted image 20240116230222.png",
     "4-Archive/Book-Review/DDIA/2부",
     "4-Archive/Book-Review/DDIA/1부",
-    "Pasted image 20240115231350.png",
-    "Pasted image 20240115231322.png",
+    "real-resource-image/Pasted image 20240115231350.png",
+    "real-resource-image/Pasted image 20240115231322.png",
     "4-Archive/Book-Review/DDIA",
     "4-Archive/Book-Review",
-    "Pasted image 20240110132820.png",
-    "Pasted image 20240110131606.png",
-    "Pasted image 20240109133646.png",
+    "real-resource-image/Pasted image 20240110132820.png",
+    "real-resource-image/Pasted image 20240110131606.png",
+    "real-resource-image/Pasted image 20240109133646.png",
     "2-Area/Series/Async-messaging",
     "0-SSD/Tools",
     "0-SSD/Study Matirials",
     "0-SSD/Frontend",
     "0-SSD/Computer-Science/shell command",
-    "Pasted image 20231226224123.png",
-    "Pasted image 20231226224115.png",
-    "Pasted image 20231226224040.png",
+    "real-resource-image/Pasted image 20231226224123.png",
+    "real-resource-image/Pasted image 20231226224115.png",
     "Untitled.canvas"
   ]
 }
