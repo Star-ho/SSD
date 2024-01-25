@@ -1,1 +1,0 @@
-https://blog.acolyer.org/2016/02/24/a-critique-of-ansi-sql-isolation-levels/

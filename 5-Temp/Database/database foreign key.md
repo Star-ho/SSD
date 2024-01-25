@@ -4,6 +4,7 @@
 - https://learn.microsoft.com/ko-kr/sql/relational-databases/tables/primary-and-foreign-key-constraints?view=sql-server-ver16
 
 
+foreignkey는 참조 무결성 도구일뿐 성능과는 영향없음
 
 mysql foreign key, join lock
 어떨때 foreign key 제약조건
