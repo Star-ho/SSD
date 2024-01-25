@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Concept/공변, 반공변, 불변.md",
+                "file": "5-Temp/Database/mysql master-slave 동기화 방식.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Concept/공변, 반공변, 불변.md",
+                "file": "5-Temp/Database/mysql master-slave 동기화 방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Concept/공변, 반공변, 불변.md",
+                "file": "5-Temp/Database/mysql master-slave 동기화 방식.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Concept/공변, 반공변, 불변.md"
+                "file": "5-Temp/Database/mysql master-slave 동기화 방식.md"
               }
             }
           },
@@ -160,32 +160,32 @@
   },
   "active": "25e81c4f01a082e9",
   "lastOpenFiles": [
-    "5-Temp/Concept/12factor.md",
-    "5-Temp/Computer Science/uuidv8.md",
-    "5-Temp/Computer Science/UniCode.md",
-    "5-Temp/Computer Science/TTB.md",
-    "5-Temp/Computer Science/text vs varchar.md",
-    "5-Temp/Computer Science/syscall socket bind.md",
-    "5-Temp/Computer Science/SSL TLS SNI.md",
-    "5-Temp/Computer Science/SDD vs HDD 읽기 쓰기 방법.md",
-    "5-Temp/Computer Science/raid 0,1,2,3.md",
-    "5-Temp/Computer Science/Network Interface Card.md",
-    "5-Temp/Computer Science/JWT.md",
-    "5-Temp/Computer Science/cs 공부자료.md",
-    "5-Temp/Computer Science/cpu-memory-sdd(hdd).md",
-    "5-Temp/Computer Science/context-switching.md",
-    "5-Temp/Computer Science/cgroups v2.md",
-    "5-Temp/Concept/스파이크 트래픽 처리.md",
-    "5-Temp/InfraStructure/Untitled 1.md",
-    "5-Temp/InfraStructure/Untitled.md",
-    "5-Temp/InfraStructure/Untitled 2.md",
-    "5-Temp/Concept/분산 데이터베이스 조인.md",
-    "5-Temp/Concept/반버논 IDDD.md",
-    "5-Temp/Concept/멱등성.md",
-    "5-Temp/Concept/마샬링이나 언마샬링.md",
-    "5-Temp/Concept/대규모 트래픽 상황 가정시.md",
-    "5-Temp/Concept/느슨한 정족수.md",
-    "5-Temp/Concept/공변, 반공변, 불변.md",
+    "5-Temp/Database/mysql Full-Text Searches.md",
+    "5-Temp/Database/mysql index leftmost rule.md",
+    "5-Temp/Database/join시 secondery index.md",
+    "5-Temp/Database/mysql 옵티마이저 트레이스.md",
+    "5-Temp/Database/쿼리 튜닝 관련 명령어.md",
+    "5-Temp/Database/쿼리개선 관련글.md",
+    "5-Temp/Database/키 설계.md",
+    "5-Temp/Database/backward index scan.md",
+    "5-Temp/Database/aurora vs mysql.md",
+    "5-Temp/Database/해시조인.md",
+    "5-Temp/Database/파티션.md",
+    "5-Temp/Database/database foreign key.md",
+    "5-Temp/Database/Database Buffer Cache.md",
+    "5-Temp/Database/Binary log performance.md",
+    "5-Temp/Database/DB마이그레이션은 툴.md",
+    "5-Temp/Database/drop table 시 복구할수 있는 방법.md",
+    "5-Temp/Database/hibernate Session 과 DB Connection.md",
+    "5-Temp/Database/innodb는 조회할때 해당 row에 lock이 걸려있는지 어떻게 확인하니?.md",
+    "5-Temp/Database/Innodb Change Buffer를 통한 보조 인덱스 IO 개선.md",
+    "5-Temp/Database/Innodb Change Buffer.md",
+    "5-Temp/Database/innodb.md",
+    "5-Temp/Database/gap lock.md",
+    "5-Temp/Database/explain analyze.md",
+    "5-Temp/Database/elastic search master node vs data node.md",
+    "5-Temp/Database/DBWR, LGWR.md",
+    "5-Temp/Database/정규화.md",
     "real-resource-image/Pasted image 20231223233013.png",
     "real-resource-image/Pasted image 20240119224729.png",
     "5-Temp/architechure",
