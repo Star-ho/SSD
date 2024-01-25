@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/docker 구현체.md",
+                "file": "5-Temp/InfraStructure/message queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/docker 구현체.md",
+                "file": "5-Temp/InfraStructure/message queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/docker 구현체.md",
+                "file": "5-Temp/InfraStructure/message queue.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/docker 구현체.md"
+                "file": "5-Temp/InfraStructure/message queue.md"
               }
             }
           },
@@ -160,6 +160,19 @@
   },
   "active": "25e81c4f01a082e9",
   "lastOpenFiles": [
+    "5-Temp/InfraStructure/Kafka의 graceful shutdown.md",
+    "5-Temp/InfraStructure/Kafka Queue.md",
+    "5-Temp/InfraStructure/kafka 파티션 증가없이 처리량 늘리기.md",
+    "5-Temp/InfraStructure/es rollover.md",
+    "5-Temp/InfraStructure/es green yellow red.md",
+    "5-Temp/InfraStructure/elasticsearch shard, replica.md",
+    "5-Temp/InfraStructure/elasticsearch rollover.md",
+    "5-Temp/InfraStructure/elasticsearch index template.md",
+    "5-Temp/InfraStructure/Elastic Search Index.md",
+    "5-Temp/InfraStructure/Elastic Search Document.md",
+    "5-Temp/InfraStructure/Elastic search.md",
+    "5-Temp/InfraStructure/docker로 패키지파일 설치할때 느리면.md",
+    "5-Temp/InfraStructure/docker 구현체.md",
     "5-Temp/InfraStructure/Docker.md",
     "5-Temp/InfraStructure/codebuild queued, provisioning.md",
     "5-Temp/InfraStructure/캐시 히트율 70프로 이상.md",
@@ -173,19 +186,6 @@
     "5-Temp/InfraStructure/가령 캐시디비로 redis를 썻다고하면, 캐시디비랑 관계형디비 차이가 뭐냐부터 해서.md",
     "5-Temp/Database/varchar type 크기.md",
     "5-Temp/Database/Write-Ahead Logging.md",
-    "5-Temp/Database/sql query 임시테이블.md",
-    "5-Temp/Database/Untitled.md",
-    "5-Temp/Database/Untitled 1.md",
-    "5-Temp/Database/non-clustered index in join.md",
-    "5-Temp/Database/MySQL에서 스냅샷과 undo log.md",
-    "5-Temp/Database/mysql system row?.md",
-    "5-Temp/Database/mysql relay log.md",
-    "5-Temp/Database/Mysql order by.md",
-    "5-Temp/Database/mysql only_full_group_by.md",
-    "5-Temp/Database/mysql multi threading.md",
-    "5-Temp/Database/mysql master-slave 동기화 방식.md",
-    "5-Temp/Database/mysql Full-Text Searches.md",
-    "5-Temp/Database/mysql index leftmost rule.md",
     "real-resource-image/Pasted image 20231223233013.png",
     "real-resource-image/Pasted image 20240119224729.png",
     "5-Temp/architechure",
