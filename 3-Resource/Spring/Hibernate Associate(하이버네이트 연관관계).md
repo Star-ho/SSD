@@ -22,12 +22,8 @@
 		- 소유자 로딩시 바로 가져옴
 **fetch=EAGER가 의미가 있는 유일한 시나리오는 연관된 객체가 두 번째 수준 캐시에서 발견될 확률이 항상 매우 높다고 생각하는 경우. **
 
-
 >꺠알팁
-oneToMany, manyToOne설정된 필드에는 Column어노테이션 불가, joinColumn사용해야함
-
-
-
+ oneToMany, manyToOne설정된 필드에는 Column어노테이션 불가, joinColumn사용해야함
 
 
 https://docs.jboss.org/hibernate/orm/6.4/introduction/html_single/Hibernate_Introduction.html#associations

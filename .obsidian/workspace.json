@@ -23,11 +23,9 @@
             "id": "80d34c775f52d748",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20231223233013.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                "file": "Pasted image 20231223233013.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                "file": "Pasted image 20231223233013.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md"
+                "file": "Pasted image 20231223233013.png"
               }
             }
           },
@@ -173,6 +171,8 @@
   },
   "active": "80d34c775f52d748",
   "lastOpenFiles": [
+    "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+    "3-Resource/Spring/Hibernate.md",
     "2-Area/Series/Server/999-webflux 관련.md",
     "2-Area/Series/Server/999-Reactor netty.md",
     "2-Area/Series/Server/12-Virtual Thread.md",
@@ -182,9 +182,7 @@
     "2-Area/생각정리/일정.md",
     "2-Area/생각정리/레거시.md",
     "3-Resource/Spring/JPA entity manager, persistence context.md",
-    "3-Resource/Spring/Hibernate.md",
     "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
-    "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
     "5-Temp/코드짤떄/새로운 기술을 익힐때 컨셉을 알아야 하는 이유.md",
     "0-SSD/Concept/파티셔닝.md",
     "0-SSD/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
