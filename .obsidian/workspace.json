@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Spring/JPA entity manager, persistence context.md",
+                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#argent",
+                "query": "tag:#Webserver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Spring/JPA entity manager, persistence context.md",
+                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Spring/JPA entity manager, persistence context.md",
+                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Spring/JPA entity manager, persistence context.md"
+                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md"
               }
             }
           },
@@ -173,8 +173,16 @@
   },
   "active": "80d34c775f52d748",
   "lastOpenFiles": [
-    "3-Resource/Spring/Hibernate.md",
+    "2-Area/Series/Server/999-webflux 관련.md",
+    "2-Area/Series/Server/999-Reactor netty.md",
+    "2-Area/Series/Server/12-Virtual Thread.md",
+    "2-Area/Series/Server/11-Reactor Java(2).md",
+    "2-Area/Series/Server/0-Static Web Server.md",
+    "2-Area/Series/Concurrency/10-Isolation level(격리 수준).md",
+    "2-Area/생각정리/일정.md",
+    "2-Area/생각정리/레거시.md",
     "3-Resource/Spring/JPA entity manager, persistence context.md",
+    "3-Resource/Spring/Hibernate.md",
     "3-Resource/Spring/JPA 영속성전이, 프록시객체.md",
     "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
     "5-Temp/코드짤떄/새로운 기술을 익힐때 컨셉을 알아야 하는 이유.md",
@@ -191,14 +199,6 @@
     "5-Temp/Computer Science/빌드타임 줄이기.md",
     "0-SSD/Frontend/빌드시간 단축.md",
     "4-Archive/Frontend/빌드시간 단축.md",
-    "5-Temp/일단 봐야함.md",
-    "2-Area/Series/Async-messaging/Async-messaging.md",
-    "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
-    "5-Temp/Concept/eventually consistency.md",
-    "5-Temp/Computer Science/10만유저 동시접속.md",
-    "5-Temp/InfraStructure/redis transaction.md",
-    "5-Temp/마인드셋/역사를 알아야하는 이유.md",
-    "5-Temp/마인드셋/컨트롤러 통합테스트 안하면 니는 병신이다.md",
     "Pasted image 20240119224729.png",
     "5-Temp/architechure",
     "Pasted image 20240116230222.png",
