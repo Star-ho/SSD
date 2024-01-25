@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Computer Science/Network/동기 비동기 블라킹 넌블라킹.md",
+                "file": "5-Temp/Computer Science/Network/IOCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39b4a392464d4a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/Computer Science/forward, redirect 차이점.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0f0fe337e1bb7d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/Computer Science/L4, L7 로드밸런서.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Computer Science/Network/동기 비동기 블라킹 넌블라킹.md",
+                "file": "5-Temp/Computer Science/L4, L7 로드밸런서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Computer Science/Network/동기 비동기 블라킹 넌블라킹.md",
+                "file": "5-Temp/Computer Science/L4, L7 로드밸런서.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Computer Science/Network/동기 비동기 블라킹 넌블라킹.md"
+                "file": "5-Temp/Computer Science/L4, L7 로드밸런서.md"
               }
             }
           },
@@ -158,8 +183,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "c0f0fe337e1bb7d1",
   "lastOpenFiles": [
+    "5-Temp/Computer Science/forward, redirect 차이점.md",
+    "5-Temp/Computer Science/Network/bastion host.md",
+    "5-Temp/Computer Science/Bool 형 자료형.md",
+    "5-Temp/Computer Science/arm x86.md",
+    "5-Temp/Computer Science/하이퍼쓰레딩.md",
+    "5-Temp/Computer Science/하드웨어에서 램으로 데이터를 읽어오는 과정.md",
+    "5-Temp/Computer Science/하나의 서버가 감당할 수 있는 요청.md",
+    "5-Temp/Computer Science/L4, L7 로드밸런서.md",
+    "5-Temp/Computer Science/Network/IOCP.md",
+    "5-Temp/Computer Science/docker 멀티 스테이지 빌드.md",
+    "5-Temp/Computer Science/Network/DNS평가순서.md",
+    "5-Temp/Computer Science/cs 공부자료.md",
+    "5-Temp/Computer Science/Network/동기 비동기 블라킹 넌블라킹.md",
     "5-Temp/Computer Science/Network/네트워크 소켓.md",
     "5-Temp/Computer Science/가상화 관련 용어정리.md",
     "5-Temp/Computer Science/10만유저 동시접속.md",
@@ -167,26 +205,13 @@
     "5-Temp/Computer Science/Network",
     "5-Temp/Computer Science/TTB.md",
     "5-Temp/Computer Science/text vs varchar.md",
-    "5-Temp/Computer Science/syscall socket bind.md",
-    "5-Temp/Computer Science/SSL TLS SNI.md",
-    "5-Temp/Computer Science/socket.md",
+    "5-Temp/Computer Science/Network/syscall socket bind.md",
+    "5-Temp/Computer Science/Network/SSL TLS SNI.md",
+    "5-Temp/Computer Science/Network/socket.md",
     "5-Temp/Computer Science/SDD vs HDD 읽기 쓰기 방법.md",
     "5-Temp/Computer Science/raid 0,1,2,3.md",
     "5-Temp/Computer Science/pthread.md",
     "5-Temp/Computer Science/process vs thread.md",
-    "5-Temp/Computer Science/OS cache layer와 memory 관리 전략.md",
-    "5-Temp/Computer Science/openssl.md",
-    "5-Temp/Computer Science/Network Interface Card.md",
-    "5-Temp/Computer Science/load balancer.md",
-    "5-Temp/Computer Science/L4, L7 로드밸런서.md",
-    "5-Temp/Computer Science/JWT.md",
-    "5-Temp/Computer Science/IOCP.md",
-    "5-Temp/Computer Science/forward, redirect 차이점.md",
-    "5-Temp/Computer Science/docker 멀티 스테이지 빌드.md",
-    "5-Temp/Computer Science/DNS평가순서.md",
-    "5-Temp/Computer Science/cgroups v2.md",
-    "5-Temp/Computer Science/파일 write.md",
-    "5-Temp/Computer Science/Network/BSD Socket.md",
     "5-Temp/마인드셋/내가 가져야할 마음가짐",
     "5-Temp/마인드셋/기술내용 외의 글",
     "real-resource-image/Pasted image 20231223233013.png",
