@@ -44,6 +44,7 @@ https://wiki.openjdk.org/display/loom/Main
 https://stackoverflow.com/questions/74581601/how-does-a-java-virtual-thread-know-when-the-thread-is-waiting
 https://stackoverflow.com/questions/70174468/project-loom-what-happens-when-virtual-thread-makes-a-blocking-system-call
 https://devel-repository.tistory.com/67
+https://jaeyeong951.medium.com/virtual-thread-synchronized-x-6b19aaa09af1
 #가상쓰레드
 #java
 #virtual-thread

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/Kafka Queue.md",
+                "file": "5-Temp/0-이직자료/면접자료/기초cs.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Webserver",
+                "query": "virtual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/Kafka Queue.md",
+                "file": "5-Temp/0-이직자료/면접자료/기초cs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/Kafka Queue.md",
+                "file": "5-Temp/0-이직자료/면접자료/기초cs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/Kafka Queue.md"
+                "file": "5-Temp/0-이직자료/면접자료/기초cs.md"
               }
             }
           },
@@ -160,10 +160,25 @@
   },
   "active": "25e81c4f01a082e9",
   "lastOpenFiles": [
+    "0-SSD/server-paradigm/12-Virtual Thread.md",
+    "5-Temp/0-이직자료/면접자료/기초cs.md",
+    "5-Temp/Java&Kotlin/Untitled.md",
+    "5-Temp/InfraStructure/레디스는 싱글쓰레드.md",
+    "5-Temp/Softeware Architecture/adaptor 패턴.md",
+    "5-Temp/Softeware Architecture/Controller, Service, Repository 패턴.md",
+    "5-Temp/Database/mysql lock foreign key.md",
+    "5-Temp/Concept/Optional 안티패턴.md",
+    "5-Temp/0-이직자료/면접자료/책임과 권한.md",
+    "5-Temp/Computer Science/socket.md",
+    "5-Temp/InfraStructure/docker 구현체.md",
+    "5-Temp/마인드셋/역사를 알아야하는 이유.md",
+    "5-Temp/InfraStructure/redis transaction.md",
+    "5-Temp/마인드셋/스트레스.md",
+    "5-Temp/마인드셋/팀원과의 합의.md",
+    "5-Temp/InfraStructure/Kafka Queue.md",
     "5-Temp/InfraStructure/Kafka의 graceful shutdown.md",
     "5-Temp/InfraStructure/message queue.md",
     "5-Temp/Database/대용량 테이블 파티션 추가.md",
-    "5-Temp/InfraStructure/Kafka Queue.md",
     "5-Temp/InfraStructure/kafka 파티션 증가없이 처리량 늘리기.md",
     "5-Temp/InfraStructure/es rollover.md",
     "5-Temp/InfraStructure/es green yellow red.md",
@@ -171,21 +186,6 @@
     "5-Temp/InfraStructure/elasticsearch rollover.md",
     "5-Temp/InfraStructure/elasticsearch index template.md",
     "5-Temp/InfraStructure/Elastic Search Index.md",
-    "5-Temp/InfraStructure/Elastic Search Document.md",
-    "5-Temp/InfraStructure/Elastic search.md",
-    "5-Temp/InfraStructure/docker로 패키지파일 설치할때 느리면.md",
-    "5-Temp/InfraStructure/docker 구현체.md",
-    "5-Temp/InfraStructure/Docker.md",
-    "5-Temp/InfraStructure/codebuild queued, provisioning.md",
-    "5-Temp/InfraStructure/캐시 히트율 70프로 이상.md",
-    "5-Temp/InfraStructure/카프카 쓸때 고려해야할점.md",
-    "5-Temp/InfraStructure/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
-    "5-Temp/InfraStructure/메세지 브로커.md",
-    "5-Temp/InfraStructure/레디스는 왜 싱글 쓰레드 일까?.md",
-    "5-Temp/InfraStructure/레디스 용량 줄이기.md",
-    "5-Temp/InfraStructure/레디스 속도.md",
-    "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
-    "5-Temp/InfraStructure/가령 캐시디비로 redis를 썻다고하면, 캐시디비랑 관계형디비 차이가 뭐냐부터 해서.md",
     "real-resource-image/Pasted image 20231223233013.png",
     "real-resource-image/Pasted image 20240119224729.png",
     "5-Temp/architechure",
