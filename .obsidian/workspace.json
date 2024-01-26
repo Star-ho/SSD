@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
+                "file": "4-Archive/Spring/spring boot yaml.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
+                "file": "4-Archive/Spring/spring boot yaml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
+                "file": "4-Archive/Spring/spring boot yaml.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/6-spring mvc request 처리 과정.md"
+                "file": "4-Archive/Spring/spring boot yaml.md"
               }
             }
           },
@@ -173,8 +173,11 @@
   },
   "active": "39b4a392464d4a0b",
   "lastOpenFiles": [
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
+    "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
+    "4-Archive/Spring/Dynamic update.md",
+    "2-Area/Concept/Test.md",
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
+    "2-Area/Series/Server/7-Reactive Manifesto.md",
     "2-Area/Series/Server/9-Reactive Streams.md",
     "2-Area/Series/Server/8-Stream Processing.md",
     "2-Area/Series/Server/5-Apache Tomcat.md",
@@ -197,9 +200,6 @@
     "5-Temp/Spring/OncePerRequestFilter.md",
     "5-Temp/Spring/jpql에서 특정 문자가 붙을떄.md",
     "5-Temp/Spring/jpa mappedby, joincolumn.md",
-    "5-Temp/Softeware Architecture/Controller, Service, Repository 패턴.md",
-    "5-Temp/Spring/jpa 개괄적인 정리.md",
-    "5-Temp/Java&Kotlin/project loom vs coroutine.md",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
     "5-Temp/InfraStructure/messsge-queue",
