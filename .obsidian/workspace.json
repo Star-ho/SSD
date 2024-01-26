@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Computer Science/Concept/process vs thread.md",
+                "file": "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Computer Science/Concept/process vs thread.md",
+                "file": "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Computer Science/Concept/process vs thread.md",
+                "file": "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Computer Science/Concept/process vs thread.md"
+                "file": "2-Area/Series/Server/6-spring mvc request 처리 과정.md"
               }
             }
           },
@@ -171,8 +171,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "39b4a392464d4a0b",
   "lastOpenFiles": [
+    "2-Area/Series/Server/7-Reactive Manifesto.md",
+    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
+    "2-Area/Series/Server/9-Reactive Streams.md",
+    "2-Area/Series/Server/8-Stream Processing.md",
+    "2-Area/Series/Server/5-Apache Tomcat.md",
+    "2-Area/Series/Server/4-Jakarta Servlet.md",
+    "2-Area/Series/Server/3-Servlet Container.md",
+    "2-Area/Series/Server/2-Sevlet.md",
+    "2-Area/Series/Server/0-Static Web Server.md",
+    "5-Temp/Computer Science/Concept/process vs thread.md",
     "5-Temp/Computer Science/docker 멀티 스테이지 빌드.md",
     "5-Temp/Computer Science/Concept/오케스트레이션.md",
     "5-Temp/Computer Science/Concept/세마포어, 뮤텍스.md",
@@ -190,17 +200,7 @@
     "5-Temp/Softeware Architecture/Controller, Service, Repository 패턴.md",
     "5-Temp/Spring/jpa 개괄적인 정리.md",
     "5-Temp/Java&Kotlin/project loom vs coroutine.md",
-    "5-Temp/Java&Kotlin/thread leak.md",
-    "5-Temp/Java&Kotlin/Untitled.md",
-    "5-Temp/Java&Kotlin/plain jar, excutable jar, fat jar.md",
-    "5-Temp/Java&Kotlin/coroutine/coroutine 블로그.md",
-    "5-Temp/Java&Kotlin/checked Exception.md",
-    "5-Temp/Java&Kotlin/equals와 hashcode는 항상 오버라이딩을.md",
     "5-Temp/Java&Kotlin/coroutine",
-    "5-Temp/Java&Kotlin/coroutine/coroutine, reactive streams.md",
-    "5-Temp/Java&Kotlin/코틀린 SAM.md",
-    "5-Temp/Java&Kotlin/컴플리터블퓨처 예외처리는 exceptionally 메서드로 처리하셔야져.md",
-    "5-Temp/Java&Kotlin/전 String a = \"a\"랑String a = new String의 차이.md",
     "5-Temp/InfraStructure/elastic-search",
     "5-Temp/InfraStructure/messsge-queue",
     "5-Temp/InfraStructure/Redis",
