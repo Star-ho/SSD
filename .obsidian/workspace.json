@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/messsgequeue/카프카 쓸때 고려해야할점.md",
+                "file": "5-Temp/Computer Science/Concept/process vs thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/messsgequeue/카프카 쓸때 고려해야할점.md",
+                "file": "5-Temp/Computer Science/Concept/process vs thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/messsgequeue/카프카 쓸때 고려해야할점.md",
+                "file": "5-Temp/Computer Science/Concept/process vs thread.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/messsgequeue/카프카 쓸때 고려해야할점.md"
+                "file": "5-Temp/Computer Science/Concept/process vs thread.md"
               }
             }
           },
@@ -173,42 +173,42 @@
   },
   "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
-    "5-Temp/InfraStructure/Untitled",
-    "5-Temp/InfraStructure/Redis/레디스 속도.md",
-    "5-Temp/InfraStructure/messsgequeue",
-    "5-Temp/InfraStructure/도커 데몬 없이 OCI 이미지 빌드.md",
+    "5-Temp/Computer Science/docker 멀티 스테이지 빌드.md",
+    "5-Temp/Computer Science/Concept/오케스트레이션.md",
+    "5-Temp/Computer Science/Concept/세마포어, 뮤텍스.md",
+    "5-Temp/Softeware Architecture/당근 아키텍쳐.md",
+    "5-Temp/Computer Science/Concept",
+    "5-Temp/InfraStructure/DragonFly.md",
+    "5-Temp/일단 봐야함.md",
+    "5-Temp/비용절감.md",
+    "5-Temp/데이터를 저장할떄 어떤 데이터까지 저장할것인가?.md",
+    "5-Temp/Spring/Untitled 1.md",
+    "5-Temp/Spring/Untitled.md",
+    "5-Temp/Spring/OncePerRequestFilter.md",
+    "5-Temp/Spring/jpql에서 특정 문자가 붙을떄.md",
+    "5-Temp/Spring/jpa mappedby, joincolumn.md",
+    "5-Temp/Softeware Architecture/Controller, Service, Repository 패턴.md",
+    "5-Temp/Spring/jpa 개괄적인 정리.md",
+    "5-Temp/Java&Kotlin/project loom vs coroutine.md",
+    "5-Temp/Java&Kotlin/thread leak.md",
+    "5-Temp/Java&Kotlin/Untitled.md",
+    "5-Temp/Java&Kotlin/plain jar, excutable jar, fat jar.md",
+    "5-Temp/Java&Kotlin/coroutine/coroutine 블로그.md",
+    "5-Temp/Java&Kotlin/checked Exception.md",
+    "5-Temp/Java&Kotlin/equals와 hashcode는 항상 오버라이딩을.md",
+    "5-Temp/Java&Kotlin/coroutine",
+    "5-Temp/Java&Kotlin/coroutine/coroutine, reactive streams.md",
+    "5-Temp/Java&Kotlin/코틀린 SAM.md",
+    "5-Temp/Java&Kotlin/컴플리터블퓨처 예외처리는 exceptionally 메서드로 처리하셔야져.md",
+    "5-Temp/Java&Kotlin/전 String a = \"a\"랑String a = new String의 차이.md",
+    "5-Temp/InfraStructure/elastic-search",
+    "5-Temp/InfraStructure/messsge-queue",
     "5-Temp/InfraStructure/Redis",
-    "5-Temp/InfraStructure/Docker/Docker.md",
-    "5-Temp/InfraStructure/codebuild queued, provisioning.md",
     "5-Temp/InfraStructure/Docker",
-    "5-Temp/InfraStructure/캐시 히트율 70프로 이상.md",
-    "5-Temp/InfraStructure/messsgequeue/카프카 쓸때 고려해야할점.md",
-    "5-Temp/Computer Science/Network/forward, redirect 차이점.md",
-    "0-SSD/Database/Innodb/Buffer Pool.md",
-    "5-Temp/Database/Write-Ahead Logging.md",
-    "2-Area/Series/cache/cache.md",
-    "3-Resource/Database/Innodb/Buffer Pool.md",
-    "5-Temp/Database/query tuning file sort.md",
-    "5-Temp/Database/sql isolation model.md",
-    "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
-    "2-Area/Series/Concurrency/10-Isolation level(격리 수준).md",
-    "5-Temp/Database/s-lock x-lock.md",
-    "5-Temp/Database/postgresql에 partial index.md",
-    "5-Temp/Database/Postgresql vs mysql.md",
-    "5-Temp/Database/postgresql trash can.md",
-    "5-Temp/Database/partion나눈거 한번에 조회시?.md",
-    "5-Temp/Database/pagenation optimizer.md",
-    "5-Temp/Database/ORM dynamic query.md",
-    "5-Temp/Database/Order by와 row num.md",
-    "5-Temp/Database/MySQL에서 스냅샷과 undo log.md",
-    "5-Temp/Database/mysql Full-Text Searches.md",
     "5-Temp/Database/Tools",
     "5-Temp/Database/Concept",
     "5-Temp/Database/Innodb",
     "5-Temp/Database/otherdb",
-    "5-Temp/Database/mysql",
-    "5-Temp/Computer Science/Network",
-    "5-Temp/마인드셋/내가 가져야할 마음가짐",
     "real-resource-image/Pasted image 20231223233013.png",
     "real-resource-image/Pasted image 20240119224729.png",
     "real-resource-image/Pasted image 20240116230222.png",
