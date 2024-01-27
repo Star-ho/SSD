@@ -12,8 +12,11 @@ handlerMapping의 구현으로 특정요청에 대해 특정 기능을 적용할
 ## vs Filter
 - Filter와의 차이점으로 Filter는 Dispatcher Servlet이 실행되기전 적용됩니다
 - Interceptor는 Dispatcher Servlet이 실행된 후 호출이 됩니다
-- Filter는 전체 수명주기 대상하는 작업에 적합함
+- Filter는 전체 수명주기를 대상으로하는 작업에 적합함
 
+
+> deep-dive
+> https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest/filters-and-interceptors.html
 
 > webflux에서는 webfilter가 동일한 기능을 제공함
 
@@ -21,6 +24,7 @@ https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-servlet/handler
 https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-config/interceptors.html
 https://gngsn.tistory.com/153
 https://docs.spring.io/spring-framework/reference/web/webflux/reactive-spring.html#webflux-filters
+https://stackoverflow.com/questions/35856454/difference-between-interceptor-and-filter-in-spring-mvc
 
 #Spring 
 #Interceptor
