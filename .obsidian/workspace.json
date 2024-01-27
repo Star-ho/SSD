@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Computer Science/Network/IOCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39b4a392464d4a0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Archive/Spring/Spring Interceptor.md",
+                "file": "4-Archive/Spring/Interceptor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Spring/Spring Interceptor.md",
+                "file": "4-Archive/Spring/Interceptor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Spring/Spring Interceptor.md",
+                "file": "4-Archive/Spring/Interceptor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Spring/Spring Interceptor.md"
+                "file": "4-Archive/Spring/Interceptor.md"
               }
             }
           },
@@ -171,14 +158,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "39b4a392464d4a0b",
+  "active": "25e4c0a19e6756db",
   "lastOpenFiles": [
+    "5-Temp/Computer Science/Network/IOCP.md",
+    "5-Temp/Computer Science/Network/forward, redirect 차이점.md",
+    "5-Temp/Computer Science/docker 멀티 스테이지 빌드.md",
     "4-Archive/Spring/spring boot yaml.md",
-    "4-Archive/Spring/Spring Interceptor.md",
+    "4-Archive/Spring/Interceptor.md",
+    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
     "4-Archive/Spring/Dynamic update.md",
     "2-Area/Concept/Test.md",
-    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "2-Area/Series/Server/7-Reactive Manifesto.md",
     "2-Area/Series/Server/9-Reactive Streams.md",
     "2-Area/Series/Server/8-Stream Processing.md",
@@ -188,7 +178,6 @@
     "2-Area/Series/Server/2-Sevlet.md",
     "2-Area/Series/Server/0-Static Web Server.md",
     "5-Temp/Computer Science/Concept/process vs thread.md",
-    "5-Temp/Computer Science/docker 멀티 스테이지 빌드.md",
     "5-Temp/Computer Science/Concept/오케스트레이션.md",
     "5-Temp/Computer Science/Concept/세마포어, 뮤텍스.md",
     "5-Temp/Softeware Architecture/당근 아키텍쳐.md",
@@ -198,8 +187,6 @@
     "5-Temp/비용절감.md",
     "5-Temp/데이터를 저장할떄 어떤 데이터까지 저장할것인가?.md",
     "5-Temp/Spring/Untitled 1.md",
-    "5-Temp/Spring/Untitled.md",
-    "5-Temp/Spring/OncePerRequestFilter.md",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
     "5-Temp/InfraStructure/messsge-queue",
