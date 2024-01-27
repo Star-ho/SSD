@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Spring/spring boot yaml.md",
+                "file": "4-Archive/Spring/Spring Interceptor.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Spring/spring boot yaml.md",
+                "file": "4-Archive/Spring/Spring Interceptor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Spring/spring boot yaml.md",
+                "file": "4-Archive/Spring/Spring Interceptor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Spring/spring boot yaml.md"
+                "file": "4-Archive/Spring/Spring Interceptor.md"
               }
             }
           },
@@ -173,6 +173,8 @@
   },
   "active": "39b4a392464d4a0b",
   "lastOpenFiles": [
+    "4-Archive/Spring/spring boot yaml.md",
+    "4-Archive/Spring/Spring Interceptor.md",
     "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
     "4-Archive/Spring/Dynamic update.md",
     "2-Area/Concept/Test.md",
@@ -198,8 +200,6 @@
     "5-Temp/Spring/Untitled 1.md",
     "5-Temp/Spring/Untitled.md",
     "5-Temp/Spring/OncePerRequestFilter.md",
-    "5-Temp/Spring/jpql에서 특정 문자가 붙을떄.md",
-    "5-Temp/Spring/jpa mappedby, joincolumn.md",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
     "5-Temp/InfraStructure/messsge-queue",
