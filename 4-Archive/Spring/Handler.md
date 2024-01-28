@@ -18,8 +18,9 @@ public interface HandlerAdapter {
 }
 ```
 
-support함수로 해당 핸들러가 요청을
+support메서드는 handle메서드를 호출하기 전, 인자로 받은 handler를 처리할 수 있는지 여부를 판단합니다
 
+handle메서드는  실제로 HTTP요청을 처리하는 부분입니다.
 
 getLastModified는 Deprecated되었습니다
 
@@ -27,3 +28,4 @@ getLastModified는 Deprecated되었습니다
 https://stackoverflow.com/questions/195357/what-is-a-handler
 https://www.baeldung.com/spring-mvc-handler-adapters
 https://www.baeldung.com/spring-handler-mappings
+https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/HandlerAdapter.html#getLastModified(jakarta.servlet.http.HttpServletRequest,java.lang.Object)
