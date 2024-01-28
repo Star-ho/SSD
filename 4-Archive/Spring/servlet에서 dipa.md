@@ -102,7 +102,7 @@ protected HandlerMethod getHandlerInternal(HttpServletRequest request) throws Ex
 ```
 
 
-
+이제 path와 request를 가지고 실제로 HandlerMethod를 매칭하는 부분입니다.
 ```java
 protected HandlerMethod lookupHandlerMethod(String lookupPath, HttpServletRequest request) throws Exception {  
     List<Match> matches = new ArrayList<>();  
@@ -149,3 +149,28 @@ protected HandlerMethod lookupHandlerMethod(String lookupPath, HttpServletReques
     }  
 }
 ```
+1. `mappingRegistry.getMappingsByDirectPath(String urlPath)`에서는 path와 매칭되는 모든 mapping을 가져옵니다
+	- 같은 path로 여러개의 method(GET, POST 등)이 존재할 수 있습니다
+2. addMatchingMappings을 따라가다보면 getMatchingCondition메서드를 만납니다
+```
+public RequestMappingInfo getMatchingCondition(HttpServletRequest request) {  
+    RequestMethodsRequestCondition methods = this.methodsCondition.getMatchingCondition(request);  
+    if (methods == null) {  
+       return null;  
+    }  
+    ParamsRequestCondition params = this.paramsCondition.getMatchingCondition(request);  
+    if (params == null) {  
+       return null;  
+    }  
+    
+	....
+	
+    RequestConditionHolder custom = this.customConditionHolder.getMatchingCondition(request);  
+    if (custom == null) {  
+       return null;  
+    }  
+    return new RequestMappingInfo(this.name, pathPatterns, patterns,  
+          methods, params, headers, consumes, produces, custom, this.options);  
+}
+```
+- 
