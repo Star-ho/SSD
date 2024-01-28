@@ -1,5 +1,8 @@
+Spring handler에 대해 공부하던 중, 실제로 어떻게 동작하는지 궁금하여 알아보았습니다.
+
 DispatcherServlet의 doDispatch는 요청을 핸들러로 실제로 디스패치 하는 메서드입니다
 먼저 request로 getHandler메서드에서 매핑된 핸들러를 가져옵니다
+> 이후 해당 핸들러를 사용하여 HandlerAdaptor를 들거와서 핸들링합니다
 ```java
 protected void doDispatch(HttpServletRequest request, HttpServletResponse response) throws Exception {  
     HttpServletRequest processedRequest = request;  
@@ -150,7 +153,7 @@ protected HandlerMethod lookupHandlerMethod(String lookupPath, HttpServletReques
 
 
 addMatchingMappings을 따라가다보면 getMatchingCondition메서드를 만납니다
-- 메서드, 파라미터, 헤더, path 등을 확인하며 RequestMappingInfo정보를 만듭니다
+- 메서드, 파라미터, 헤더, path 등을 확인하며 RequestMappingInfo를 리턴합니다
 ```java 
 public RequestMappingInfo getMatchingCondition(HttpServletRequest request) {  
     RequestMethodsRequestCondition methods = this.methodsCondition.getMatchingCondition(request);  
@@ -172,8 +175,6 @@ public RequestMappingInfo getMatchingCondition(HttpServletRequest request) {
           methods, params, headers, consumes, produces, custom, this.options);  
 }
 ```
-
-
 
 getHandlerInternal에서 가져온 handlerMethod를 인자로 getHandlerExecutionChain호출하는데 HandlerExecutionChain에서 interceptor를 적용합니다
 ```java

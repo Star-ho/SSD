@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
+                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc056216f4e0e742",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
+                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
+                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md"
+                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md"
               }
             }
           },
@@ -161,8 +160,10 @@
   },
   "active": "25e4c0a19e6756db",
   "lastOpenFiles": [
-    "4-Archive/Tip/디버깅.md",
+    "3-Resource/Spring/Hibernate.md",
+    "2-Area/복잡하지 않은 코드란?.md",
     "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
+    "4-Archive/Tip/디버깅.md",
     "4-Archive/Spring/Handler.md",
     "4-Archive/Spring/AOP.md",
     "2-Area/Series/Server/2-Sevlet.md",
@@ -185,8 +186,6 @@
     "4-Archive/Spring/Dynamic update.md",
     "2-Area/Concept/Test.md",
     "2-Area/Series/Server/9-Reactive Streams.md",
-    "2-Area/Series/Server/8-Stream Processing.md",
-    "5-Temp/Computer Science/Concept/process vs thread.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
