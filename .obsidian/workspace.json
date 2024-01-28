@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                "file": "2-Area/Series/kotlin/Coroutine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                "file": "2-Area/Series/kotlin/Coroutine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                "file": "2-Area/Series/kotlin/Coroutine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md"
+                "file": "2-Area/Series/kotlin/Coroutine.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "25e4c0a19e6756db",
   "lastOpenFiles": [
+    "2-Area/Series/kotlin/코루틴.md",
+    "2-Area/Series/kotlin/Coroutine.md",
+    "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
     "3-Resource/Spring/Hibernate.md",
     "2-Area/복잡하지 않은 코드란?.md",
     "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
@@ -183,9 +186,6 @@
     "5-Temp/Computer Science/Network/IOCP.md",
     "5-Temp/Computer Science/Network/forward, redirect 차이점.md",
     "5-Temp/Computer Science/docker 멀티 스테이지 빌드.md",
-    "4-Archive/Spring/Dynamic update.md",
-    "2-Area/Concept/Test.md",
-    "2-Area/Series/Server/9-Reactive Streams.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",

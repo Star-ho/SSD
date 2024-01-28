@@ -1,7 +1,9 @@
 핵심은 continueos passing style
 
 코루틴의 코드들은 cps 스타일로 바뀌며, delay가 발생했을때 해당 메서드를 리턴하고 다음 메서드를 실행
-- 경험적
+
+coroutine은 하나의 쓰레드를 어떻게 나눠쓸지 생각하는것
+blocking jㅐ
 
 여기서 reactive streamse랑 어떻게 호환되는지
 - https://huisam.tistory.com/entry/webflux-coroutine
