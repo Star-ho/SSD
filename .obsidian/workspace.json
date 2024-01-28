@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Spring/HandlerMethodArgumentResolver.md",
+                "file": "4-Archive/Spring/Handler.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Spring/HandlerMethodArgumentResolver.md",
+                "file": "4-Archive/Spring/Handler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Spring/HandlerMethodArgumentResolver.md",
+                "file": "4-Archive/Spring/Handler.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Spring/HandlerMethodArgumentResolver.md"
+                "file": "4-Archive/Spring/Handler.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "25e4c0a19e6756db",
   "lastOpenFiles": [
-    "4-Archive/Spring/Interceptor.md",
     "4-Archive/Spring/HandlerMethodArgumentResolver.md",
+    "4-Archive/Spring/Handler.md",
+    "4-Archive/Spring/Interceptor.md",
     "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
     "4-Archive/Spring/spring boot yaml.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
@@ -186,7 +187,6 @@
     "5-Temp/Softeware Architecture/당근 아키텍쳐.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/InfraStructure/DragonFly.md",
-    "5-Temp/일단 봐야함.md",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
     "5-Temp/InfraStructure/messsge-queue",
