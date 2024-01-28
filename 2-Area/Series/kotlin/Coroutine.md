@@ -1,5 +1,6 @@
 suspend가 뭔지?
 DefaultDispatcher-worker가 뭔지?
+- coroutine
 쓰레드와의 차이가 뭔지
 
 핵심은 continueos passing style
