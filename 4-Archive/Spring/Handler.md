@@ -2,10 +2,26 @@
 
 스프링에서 handlerAdaptor를 제공하는데, handlerAdaptor는 HTTP요청을 쉽게 처리할 수 있는 인터페이스입니다.
 
-HandlerMapping으로 특정 URL
+HandlerMapping으로 특정 URL에 매핑됩니다.
+
+DispatcherServlet은 handlerAdaptor를 통해 Handler를 실행하고, 이로인해 DispatcherServlet과 Handler는 느슨한 연결을 유지할 수 있습니다.
+
+```
+public interface HandlerAdapter { 
+	boolean supports(Object handler); 
+	ModelAndView handle( 
+		HttpServletRequest request, 
+		HttpServletResponse response, 
+		Object handler) throws Exception; 
+	
+	long getLastModified(HttpServletRequest request, Object handler); 
+}
+```
+
+support함수로 해당 핸들러가 요청을
 
 
-
+getLastModified는 Deprecated되었습니다
 
 
 https://stackoverflow.com/questions/195357/what-is-a-handler
