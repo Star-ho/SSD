@@ -102,7 +102,10 @@ protected HandlerMethod getHandlerInternal(HttpServletRequest request) throws Ex
 ```
 
 
-이제 path와 request를 가지고 실제로 HandlerMethod를 매칭하는 부분입니다.
+이제 path와 request를 가지고 실제로 HandlerMethod를 확인합니다.
+- getMappingsByDirectPath메서드를 사용하여 path와 직접 매칭을 확인(getMappingsByDirectPath)합니다
+- 없다면 mapping registry에서 모든 매핑정보를 가져와 확인합니다.
+- 1개를 초과한다면 정렬을 하고, 첫번째와 두번째 mapping의 우선순위가 없다면 IllegalStateException를 리턴합니다
 ```java
 protected HandlerMethod lookupHandlerMethod(String lookupPath, HttpServletRequest request) throws Exception {  
     List<Match> matches = new ArrayList<>();  
@@ -119,16 +122,9 @@ protected HandlerMethod lookupHandlerMethod(String lookupPath, HttpServletReques
           Comparator<Match> comparator = new MatchComparator(getMappingComparator(request));  
           matches.sort(comparator);  
           bestMatch = matches.get(0);  
-          if (logger.isTraceEnabled()) {  
-             logger.trace(matches.size() + " matching mappings: " + matches);  
-          }  
-          if (CorsUtils.isPreFlightRequest(request)) {  
-             for (Match match : matches) {  
-                if (match.hasCorsConfig()) {  
-                   return PREFLIGHT_AMBIGUOUS_MATCH;  
-                }  
-             }  
-          }  
+          
+ ...
+ 
           else {  
              Match secondBestMatch = matches.get(1);  
              if (comparator.compare(bestMatch, secondBestMatch) == 0) {  
@@ -152,7 +148,7 @@ protected HandlerMethod lookupHandlerMethod(String lookupPath, HttpServletReques
 1. `mappingRegistry.getMappingsByDirectPath(String urlPath)`에서는 path와 매칭되는 모든 mapping을 가져옵니다
 	- 같은 path로 여러개의 method(GET, POST 등)이 존재할 수 있습니다
 2. addMatchingMappings을 따라가다보면 getMatchingCondition메서드를 만납니다
-```
+```java 
 public RequestMappingInfo getMatchingCondition(HttpServletRequest request) {  
     RequestMethodsRequestCondition methods = this.methodsCondition.getMatchingCondition(request);  
     if (methods == null) {  
@@ -173,4 +169,6 @@ public RequestMappingInfo getMatchingCondition(HttpServletRequest request) {
           methods, params, headers, consumes, produces, custom, this.options);  
 }
 ```
-- 
+- 메서드, 파라미터, 헤더, path 등을 확인하며 RequestMappingInfo정보를 만듭니다
+여기서 만들어진 RequestMappingInfo정보는 addMatchingMappings에서 match리스트에 들어가게 됩니다.
+
