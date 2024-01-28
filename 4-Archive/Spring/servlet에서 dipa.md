@@ -17,7 +17,7 @@ protected void doDispatch(HttpServletRequest request, HttpServletResponse respon
           multipartRequestParsed = (processedRequest != request);  
   
           // Determine handler for the current request.  
-          mappedHandler = getHandler(processedRequest);  
+          mappedHandler = getHandler(processedRequest);
           if (mappedHandler == null) {  
              noHandlerFound(processedRequest, response);  
              return;  
@@ -26,19 +26,7 @@ protected void doDispatch(HttpServletRequest request, HttpServletResponse respon
           // Determine handler adapter for the current request.  
           HandlerAdapter ha = getHandlerAdapter(mappedHandler.getHandler());  
   
-          // Process last-modified header, if supported by the handler.  
-          String method = request.getMethod();  
-          boolean isGet = HttpMethod.GET.matches(method);  
-          if (isGet || HttpMethod.HEAD.matches(method)) {  
-             long lastModified = ha.getLastModified(request, mappedHandler.getHandler());  
-             if (new ServletWebRequest(request, response).checkNotModified(lastModified) && isGet) {  
-                return;  
-             }  
-          }  
-  
-          if (!mappedHandler.applyPreHandle(processedRequest, response)) {  
-             return;  
-          }  
+...
   
           // Actually invoke the handler.  
           mv = ha.handle(processedRequest, response, mappedHandler.getHandler());  
@@ -49,37 +37,7 @@ protected void doDispatch(HttpServletRequest request, HttpServletResponse respon
   
           applyDefaultViewName(processedRequest, mv);  
           mappedHandler.applyPostHandle(processedRequest, response, mv);  
-       }  
-       catch (Exception ex) {  
-          dispatchException = ex;  
-       }  
-       catch (Throwable err) {  
-          // As of 4.3, we're processing Errors thrown from handler methods as well,  
-          // making them available for @ExceptionHandler methods and other scenarios.          dispatchException = new NestedServletException("Handler dispatch failed", err);  
-       }  
-       processDispatchResult(processedRequest, response, mappedHandler, mv, dispatchException);  
-    }  
-    catch (Exception ex) {  
-       triggerAfterCompletion(processedRequest, response, mappedHandler, ex);  
-    }  
-    catch (Throwable err) {  
-       triggerAfterCompletion(processedRequest, response, mappedHandler,  
-             new NestedServletException("Handler processing failed", err));  
-    }  
-    finally {  
-       if (asyncManager.isConcurrentHandlingStarted()) {  
-          // Instead of postHandle and afterCompletion  
-          if (mappedHandler != null) {  
-             mappedHandler.applyAfterConcurrentHandlingStarted(processedRequest, response);  
-          }  
-       }  
-       else {  
-          // Clean up any resources used by a multipart request.  
-          if (multipartRequestParsed) {  
-             cleanupMultipart(processedRequest);  
-          }  
-       }  
-    }  
+       ...
 }
 ```
 
@@ -122,31 +80,13 @@ public final HandlerExecutionChain getHandler(HttpServletRequest request) throws
     }  
   
     HandlerExecutionChain executionChain = getHandlerExecutionChain(handler, request);  
-  
-    if (logger.isTraceEnabled()) {  
-       logger.trace("Mapped to " + handler);  
-    }  
-    else if (logger.isDebugEnabled() && !DispatcherType.ASYNC.equals(request.getDispatcherType())) {  
-       logger.debug("Mapped to " + executionChain.getHandler());  
-    }  
-  
-    if (hasCorsConfigurationSource(handler) || CorsUtils.isPreFlightRequest(request)) {  
-       CorsConfiguration config = getCorsConfiguration(handler, request);  
-       if (getCorsConfigurationSource() != null) {  
-          CorsConfiguration globalConfig = getCorsConfigurationSource().getCorsConfiguration(request);  
-          config = (globalConfig != null ? globalConfig.combine(config) : config);  
-       }  
-       if (config != null) {  
-          config.validateAllowCredentials();  
-       }  
-       executionChain = getCorsHandlerExecutionChain(request, executionChain, config);  
-    }  
+  .....
   
     return executionChain;  
 }
 ```
 
-getHandlerInternal에서는 
+getHandlerInternal에서는 request를 확인하여 lookupPath를 만들고, lookupHandlerMethod메서드를 통해 HandlerMethod를 가져옵니다
 ```java
 protected HandlerMethod getHandlerInternal(HttpServletRequest request) throws Exception {  
     String lookupPath = initLookupPath(request);  
@@ -157,6 +97,55 @@ protected HandlerMethod getHandlerInternal(HttpServletRequest request) throws Ex
     }  
     finally {  
        this.mappingRegistry.releaseReadLock();  
+    }  
+}
+```
+
+
+
+```java
+protected HandlerMethod lookupHandlerMethod(String lookupPath, HttpServletRequest request) throws Exception {  
+    List<Match> matches = new ArrayList<>();  
+    List<T> directPathMatches = this.mappingRegistry.getMappingsByDirectPath(lookupPath);  
+    if (directPathMatches != null) {  
+       addMatchingMappings(directPathMatches, matches, request);  
+    }  
+    if (matches.isEmpty()) {  
+       addMatchingMappings(this.mappingRegistry.getRegistrations().keySet(), matches, request);  
+    }  
+    if (!matches.isEmpty()) {  
+       Match bestMatch = matches.get(0);  
+       if (matches.size() > 1) {  
+          Comparator<Match> comparator = new MatchComparator(getMappingComparator(request));  
+          matches.sort(comparator);  
+          bestMatch = matches.get(0);  
+          if (logger.isTraceEnabled()) {  
+             logger.trace(matches.size() + " matching mappings: " + matches);  
+          }  
+          if (CorsUtils.isPreFlightRequest(request)) {  
+             for (Match match : matches) {  
+                if (match.hasCorsConfig()) {  
+                   return PREFLIGHT_AMBIGUOUS_MATCH;  
+                }  
+             }  
+          }  
+          else {  
+             Match secondBestMatch = matches.get(1);  
+             if (comparator.compare(bestMatch, secondBestMatch) == 0) {  
+                Method m1 = bestMatch.getHandlerMethod().getMethod();  
+                Method m2 = secondBestMatch.getHandlerMethod().getMethod();  
+                String uri = request.getRequestURI();  
+                throw new IllegalStateException(  
+                      "Ambiguous handler methods mapped for '" + uri + "': {" + m1 + ", " + m2 + "}");  
+             }  
+          }  
+       }  
+       request.setAttribute(BEST_MATCHING_HANDLER_ATTRIBUTE, bestMatch.getHandlerMethod());  
+       handleMatch(bestMatch.mapping, lookupPath, request);  
+       return bestMatch.getHandlerMethod();  
+    }  
+    else {  
+       return handleNoMatch(this.mappingRegistry.getRegistrations().keySet(), lookupPath, request);  
     }  
 }
 ```

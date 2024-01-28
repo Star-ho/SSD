@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc056216f4e0e742",
@@ -158,7 +159,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "25e4c0a19e6756db",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
     "4-Archive/Tip/디버깅.md",
     "4-Archive/Spring/servlet에서 dipa.md",
