@@ -1,5 +1,5 @@
-DispatcherServlet의 doDispatch는 핸들러로 실제로 디스패치 하는 메서드입니다
-request를 가지고 getHandler메서드에서 매핑된 핸들러를 가져옵니다
+DispatcherServlet의 doDispatch는 요청을 핸들러로 실제로 디스패치 하는 메서드입니다
+먼저 request로 getHandler메서드에서 매핑된 핸들러를 가져옵니다
 ```java
 protected void doDispatch(HttpServletRequest request, HttpServletResponse response) throws Exception {  
     HttpServletRequest processedRequest = request;  
@@ -42,7 +42,7 @@ protected void doDispatch(HttpServletRequest request, HttpServletResponse respon
 ```
 
 
-getHander메서드에서는 현재 인스턴스의 handlerMappings에있는 mapping에서 현재 request를 인자로 getHandler요청을 호출합니다
+getHander메서드에서는 현재 인스턴스의 handlerMappings에 존재하는 mapping에서 현재 request를 인자로 getHandler요청을 호출합니다
 mapping의 getHandler는 AbstractHandlerMapping의 getHandler를 사용합니다
 ```java
 protected HandlerExecutionChain getHandler(HttpServletRequest request) throws Exception {  
@@ -58,7 +58,7 @@ protected HandlerExecutionChain getHandler(HttpServletRequest request) throws Ex
 }
 ```
 
-AbstractHandlerMapping의 getHandler는 getHandlerInternal을 호출하여 hander를 가져옵니다
+AbstractHandlerMapping의 getHandler는 getHandlerInternal을 호출하여 handler를 가져옵니다
 ```java
 public final HandlerExecutionChain getHandler(HttpServletRequest request) throws Exception {  
     Object handler = getHandlerInternal(request);  
@@ -101,8 +101,13 @@ protected HandlerMethod getHandlerInternal(HttpServletRequest request) throws Ex
 }
 ```
 
-
-이제 path와 request를 가지고 실제로 HandlerMethod를 확인합니다.
+path와 request를 가지고 HandlerMethod를 확인합니다.
+- getMappingsByDirectPath메서드를 사용하여 path와 직접 되는 매핑을 확인하고 matches list에 넣습니다
+	- 없다면 mapping registry에서 모든 매핑정보를 가져와 확인합니다.
+- 매핑후 matches list의 갯수에 따라
+	- 1개를 초과한다면정렬을 하고, 첫번째와 두번째 mapping의 우선순위가 없다면 IllegalStateException를 리턴합니다
+	- 없다면 null을 리턴합니다
+- 1개만 존재한다면 매칭된 핸들러 메소드를 리턴합니다
 ```java
 protected HandlerMethod lookupHandlerMethod(String lookupPath, HttpServletRequest request) throws Exception {  
     List<Match> matches = new ArrayList<>();  
@@ -142,12 +147,7 @@ protected HandlerMethod lookupHandlerMethod(String lookupPath, HttpServletReques
     }  
 }
 ```
-- getMappingsByDirectPath메서드를 사용하여 path와 직접 되는 매핑을 확인하고 matches list에 넣습니다
-	- 없다면 mapping registry에서 모든 매핑정보를 가져와 확인합니다.
-- 매핑후 matches list의 갯수에 따라
-	- 1개를 초과한다면정렬을 하고, 첫번째와 두번째 mapping의 우선순위가 없다면 IllegalStateException를 리턴합니다
-	- 없다면 null을 리턴합니다
-- 1개만 존재한다면 매칭된 핸들러 메소드를 리턴합니다
+
 
 addMatchingMappings을 따라가다보면 getMatchingCondition메서드를 만납니다
 - 메서드, 파라미터, 헤더, path 등을 확인하며 RequestMappingInfo정보를 만듭니다
