@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Spring/servlet에서 dipa.md",
+                "file": "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Spring/servlet에서 dipa.md",
+                "file": "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Spring/servlet에서 dipa.md",
+                "file": "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Spring/servlet에서 dipa.md"
+                "file": "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md"
               }
             }
           },
@@ -159,10 +159,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "25e4c0a19e6756db",
   "lastOpenFiles": [
     "4-Archive/Tip/디버깅.md",
-    "4-Archive/Spring/servlet에서 dipa.md",
+    "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
     "4-Archive/Spring/Handler.md",
     "4-Archive/Spring/AOP.md",
     "2-Area/Series/Server/2-Sevlet.md",

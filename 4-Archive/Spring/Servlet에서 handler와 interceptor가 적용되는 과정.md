@@ -58,7 +58,7 @@ protected HandlerExecutionChain getHandler(HttpServletRequest request) throws Ex
 }
 ```
 
-HandlerMapping의 getHandler는 getHandlerInternal을 호출합니다
+AbstractHandlerMapping의 getHandler는 getHandlerInternal을 호출하여 hander를 가져옵니다
 ```java
 public final HandlerExecutionChain getHandler(HttpServletRequest request) throws Exception {  
     Object handler = getHandlerInternal(request);  
@@ -103,9 +103,12 @@ protected HandlerMethod getHandlerInternal(HttpServletRequest request) throws Ex
 
 
 이제 path와 request를 가지고 실제로 HandlerMethod를 확인합니다.
-- getMappingsByDirectPath메서드를 사용하여 path와 직접 매칭을 확인(getMappingsByDirectPath)합니다
-- 없다면 mapping registry에서 모든 매핑정보를 가져와 확인합니다.
-- 1개를 초과한다면 정렬을 하고, 첫번째와 두번째 mapping의 우선순위가 없다면 IllegalStateException를 리턴합니다
+- getMappingsByDirectPath메서드를 사용하여 path와 직접 되는 매핑을 확인하고 matches list에 넣습니다
+	- 없다면 mapping registry에서 모든 매핑정보를 가져와 확인합니다.
+- 매핑후 matches list의 갯수에 따라
+	- 1개를 초과한다면정렬을 하고, 첫번째와 두번째 mapping의 우선순위가 없다면 IllegalStateException를 리턴합니다
+	- 없다면 null을 리턴합니다
+- 1개만 존재한다면 매칭된 핸들러 메소드를 리턴합니다
 ```java
 protected HandlerMethod lookupHandlerMethod(String lookupPath, HttpServletRequest request) throws Exception {  
     List<Match> matches = new ArrayList<>();  
@@ -172,3 +175,29 @@ public RequestMappingInfo getMatchingCondition(HttpServletRequest request) {
 - 메서드, 파라미터, 헤더, path 등을 확인하며 RequestMappingInfo정보를 만듭니다
 여기서 만들어진 RequestMappingInfo정보는 addMatchingMappings에서 match리스트에 들어가게 됩니다.
 
+getHandlerInternal에서 가져온 
+```java
+public final HandlerExecutionChain getHandler(HttpServletRequest request) throws Exception {  
+    Object handler = getHandlerInternal(request);  
+    if (handler == null) {  
+       handler = getDefaultHandler();  
+    }  
+    if (handler == null) {  
+       return null;  
+    }  
+    // Bean name or resolved handler?  
+    if (handler instanceof String) {  
+       String handlerName = (String) handler;  
+       handler = obtainApplicationContext().getBean(handlerName);  
+    }  
+  
+    // Ensure presence of cached lookupPath for interceptors and others  
+    if (!ServletRequestPathUtils.hasCachedPath(request)) {  
+       initLookupPath(request);  
+    }  
+  
+    HandlerExecutionChain executionChain = getHandlerExecutionChain(handler, request);  
+  .....
+  
+    return executionChain;  
+}
