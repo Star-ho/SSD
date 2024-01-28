@@ -1,7 +1,8 @@
 suspend가 뭔지?
 DefaultDispatcher-worker가 뭔지?
-- coroutine
+- coroutine이 실행되는 쓰레드, IO든, Default든 DefaultDispatcher-worker이름으로 실행됨
 쓰레드와의 차이가 뭔지
+limitedParallelism확인해보기
 
 핵심은 continueos passing style
 
@@ -18,7 +19,7 @@ blocking job이 있을때
 reactive, coroutine에서 nonblocking이 가능하려면 어차피 nonblocking io를 지원하는 라이브러리가 있어야 가능
 
 - 하나의 요청에 여러개의 io가 발생한다면 coroutine+virtual thread가 제일 나을까?
-- 
+
 
 여기서 reactive streamse랑 어떻게 호환되는지
 - https://huisam.tistory.com/entry/webflux-coroutine
