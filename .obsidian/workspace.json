@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Database/Query실행 순서.md",
+                "file": "3-Resource/Database/mysqldmup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Database/Query실행 순서.md",
+                "file": "3-Resource/Database/mysqldmup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Database/Query실행 순서.md",
+                "file": "3-Resource/Database/mysqldmup.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Database/Query실행 순서.md"
+                "file": "3-Resource/Database/mysqldmup.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "25e4c0a19e6756db",
   "lastOpenFiles": [
-    "3-Resource/Database/GTID.md",
     "5-Temp/Database/Query실행 순서.md",
+    "3-Resource/Database/mysqldmup.md",
+    "3-Resource/Database/GTID.md",
     "Pasted image 20240129182336.png",
     "2-Area/Series/kotlin/Coroutine.md",
     "2-Area/Series/kotlin/코루틴.md",
@@ -186,7 +187,6 @@
     "4-Archive/Spring/spring boot yaml.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "5-Temp/Spring/Handler란?.md",
-    "5-Temp/Computer Science/Network/IOCP.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
