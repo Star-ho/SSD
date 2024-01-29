@@ -2,7 +2,8 @@ suspend가 뭔지?
 DefaultDispatcher-worker가 뭔지?
 - coroutine이 실행되는 쓰레드,  DefaultDispatcher-worker이름으로 실행됨
 - Dispatcher.Default라서 DefaultDispatcher가 아닌, Dispatcher이름이 지정되지 않아서 DefaultDispatcher로 뜨는거
-- newSingleThreadContext
+- CoroutineContext의 이름이 뜬다
+	- 이름 바꾸면 worker이름도 변경됨
 쓰레드와의 차이가 뭔지
 limitedParallelism확인해보기
 
