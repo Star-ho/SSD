@@ -10,7 +10,7 @@ CoroutineScope
 - 가진 coroutineContext를 가지고 Scope를 만든다
 - 해당 Scope를 실행시킨다
 - launch와 async 확장 함수를 가지고 있다
-	- launch와 async에 CroutineScope를 따로 지정 안할경우, EmptyCoroutineScope를 가짐
+	- launch와 async에 CoroutineContext를 따로 지정 안할경우, EmptyCoroutineContext를 가짐
 
 
 runBlocking
