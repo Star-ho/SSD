@@ -13,6 +13,7 @@ CoroutineScope
 - launch와 async 확장 함수를 가지고 있다
 	- launch와 async에 CoroutineContext를 따로 지정 안할경우, EmptyCoroutineContext를 가짐
 
+Continuation
 
 runBlocking
 - Coroutine에서 쓰레드를 블록시키는애
