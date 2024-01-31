@@ -3,7 +3,8 @@
 	- 키는 해당 컨텍스트를 식별하는 키
 	- Element는 Context를 상속받는 요소
 		- context안에 context를 가질 수 있음
-
+- 합치면 CombinContext가 됨
+	- left에 이전의 context를 찾음
 
 CoroutineScope
 - CoroutineContext를 가진다
