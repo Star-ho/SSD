@@ -56,7 +56,8 @@ public interface CoroutineContext {
 - CoroutineContext 내부에는 get, fold, plus, minusKey메서드와 Key, Element의 선언부가 잇음
 - CoroutineContext는 minus, plus, fold와 같은 연산이 가능
 	- plus시에는 두개의 CoroutineContext내부의 Key가 합쳐짐
-	- 두개의 CoroutineContext가 같은 Key를 가지고 있다면 마지막에 등장한 키값을 가짐
+	- 두개의 CoroutineContext가 같은 Key를 가지고 있다면 더하는 쪽의 키가 우선임
+		- 같은 키를 가지고 있을때 더하면 항상 새로운 키가 저장됨
 	- 두개의 CoroutineContext합치면, CombinedContext가 됨
 		- CombinedContext는 CoroutineContext의 구현 중 하나임
 		- CombinedContext는 내부에 CoroutineContext타입의 left필드가 존재
@@ -64,7 +65,11 @@ public interface CoroutineContext {
 		- CoroutineContext가 여러 Key를 가지고 있을 수 있는 이유임
 
 - Element는 Context를 상속받는 요소
-	- Element의 구현으로는 `Job`, `CoroutineName`, `CouroutineDispatcher`가 있는데 
+	- Element의 구현으로는 `Job`, `CoroutineName`, `CouroutineDispatcher`등 여러가지가 존재
+	- 각 Element는 Key로 식별이 가능하며, 각 Key는 참조로 비교됨
+		- 하위 context에서 같은키를 가지고 있다면, 하위 context의 키가 우선함
+
+- withContext메서드로 context를 재정의 할 수 있음
 
 
 
