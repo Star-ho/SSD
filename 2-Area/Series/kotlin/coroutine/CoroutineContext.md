@@ -1,3 +1,9 @@
+## 정의
+*Persistent context for the coroutine. It is an indexed set of Element instances. An indexed set is a mix between a set and a map. Every element in this set has a unique Key**
+- 코루틴의 영속 컨텍스트
+- Element 인스턴스의 색인된 set이고, 색인된 set은 set과 map을 합친것,
+- set안에 있는 각각의 element는 unique Key를 가짐
+
 ## CoroutineContext가 쓰이는곳
 - coroutine builder의 첫번째 파라미터
 ```java
@@ -69,9 +75,13 @@ public interface CoroutineContext {
 	- 각 Element는 Key로 식별이 가능하며, 각 Key는 참조로 비교됨
 		- 하위 context에서 같은키를 가지고 있다면, 하위 context의 키가 우선함
 
-- withContext메서드로 context를 재정의 할 수 있음
 
 
 
 
+참고자료
 https://kt.academy/article/cc-coroutine-context
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.coroutines/-coroutine-context/
+https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-global-scope/coroutine-context.html
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.coroutines/-coroutine-context/-element/
+https://github.com/JetBrains/kotlin/blob/0938b46726b9c6938df309098316ce741815bb55/libraries/stdlib/src/kotlin/coroutines/CoroutineContext.kt#L59
