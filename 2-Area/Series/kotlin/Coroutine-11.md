@@ -18,6 +18,13 @@
 - launch와 async 확장 함수를 가지고 있다
 	- launch와 async에 CoroutineContext를 따로 지정 안할경우, EmptyCoroutineContext를 가짐
 
+### launch
+- return을 job으로함
+### async
+- return defer로 함
+- return값을 받을 수 있음
+
+
 ### Continuation
 - 현재 상태를 저장하는 객체
 - 지역변수, resume 상태등을 관리
@@ -28,11 +35,6 @@
 - Coroutine에서는 blocking이 아닌 suspend인데 얘만 blocking임
 - coroutine이 아닌세계와 coroutine밖의 세계를 연결
 
-coroutine context의 확장함수
-### launch
-- return을 job으로함
-### async
-- return defer로 함
 
 ### job
 - coroutineConext의 element 구현체중 하나
@@ -47,3 +49,8 @@ coroutine context의 확장함수
 	- context switching을 줄여 cpu집약적인 일을 빠르게 처리
 
 
+### CoroutineStart
+- Default
+- LAZY
+- ATOMIC
+- UNDISPATCHED
