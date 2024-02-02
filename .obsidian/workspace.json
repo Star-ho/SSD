@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/CoroutineContext.md",
+                "file": "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/CoroutineContext.md",
+                "file": "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/CoroutineContext.md",
+                "file": "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/CoroutineContext.md"
+                "file": "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md"
               }
             }
           },
@@ -160,11 +160,12 @@
   },
   "active": "c74d8a7990b67d25",
   "lastOpenFiles": [
-    "2-Area/Series/kotlin/coroutine/CoroutineContext.md",
+    "2-Area/Series/kotlin/coroutine/1-CoroutineContext.md",
+    "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
+    "2-Area/Series/kotlin/coroutine/0-Coroutine.md",
+    "2-Area/Series/kotlin/코루틴.md",
     "2-Area/Series/kotlin/Coroutine-11.md",
     "2-Area/Series/kotlin/Coroutine.md",
-    "2-Area/Series/kotlin/코루틴.md",
-    "2-Area/Series/kotlin/coroutine/Coroutine.md",
     "2-Area/Series/kotlin/coroutine",
     "3-Resource/Database/mysqldmup.md",
     "5-Temp/Database/Query실행 순서.md",
@@ -187,7 +188,6 @@
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "4-Archive/Spring/Interceptor.md",
     "4-Archive/Spring/HandlerMethodArgumentResolver.md",
-    "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
