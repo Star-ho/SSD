@@ -1,15 +1,4 @@
-### Coroutine
-- 작은 쓰레드, 하나의 쓰레드를 어떻게 효율적으로 처리할것인가에 대한 방안 중 하나
-- block작업(io요청)이 발생했을때, thread를 block하지않고 해당 작업을 suspend시키고 다른작업을 처리함
 
-### Coroutine-Context
-- 해당 context의 정보를 가지고 있음
-- Key와 Element를 가짐
-	- 키는 해당 컨텍스트를 식별하는 키
-	- Element는 Context를 상속받는 요소
-		- context안에 context를 가질 수 있음
-- 합치면 CombinContext가 됨
-	- left에 이전의 context를 찾음
 
 ### CoroutineScope
 - CoroutineContext를 가진다

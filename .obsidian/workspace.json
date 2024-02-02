@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/kotlin/Coroutine-11.md",
+                "file": "2-Area/Series/kotlin/coroutine/Coroutine-Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/kotlin/Coroutine-11.md",
+                "file": "2-Area/Series/kotlin/coroutine/Coroutine-Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/kotlin/Coroutine-11.md",
+                "file": "2-Area/Series/kotlin/coroutine/Coroutine-Context.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/kotlin/Coroutine-11.md"
+                "file": "2-Area/Series/kotlin/coroutine/Coroutine-Context.md"
               }
             }
           },
@@ -160,9 +160,12 @@
   },
   "active": "25e4c0a19e6756db",
   "lastOpenFiles": [
-    "2-Area/Series/kotlin/Coroutine.md",
     "2-Area/Series/kotlin/Coroutine-11.md",
+    "2-Area/Series/kotlin/Coroutine.md",
     "2-Area/Series/kotlin/코루틴.md",
+    "2-Area/Series/kotlin/coroutine/Coroutine-Context.md",
+    "2-Area/Series/kotlin/coroutine/Coroutine.md",
+    "2-Area/Series/kotlin/coroutine",
     "3-Resource/Database/mysqldmup.md",
     "5-Temp/Database/Query실행 순서.md",
     "3-Resource/Database/GTID.md",
@@ -185,8 +188,6 @@
     "4-Archive/Spring/Interceptor.md",
     "4-Archive/Spring/HandlerMethodArgumentResolver.md",
     "4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
-    "4-Archive/Spring/spring boot yaml.md",
-    "2-Area/Series/Async-messaging/Async-messaging.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
@@ -196,7 +197,6 @@
     "5-Temp/Database/Tools",
     "5-Temp/Database/Concept",
     "5-Temp/Database/Innodb",
-    "5-Temp/Database/otherdb",
     "real-resource-image/Pasted image 20231223233013.png",
     "real-resource-image/Pasted image 20240119224729.png",
     "real-resource-image/Pasted image 20240116230222.png",
