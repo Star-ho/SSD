@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/vs thread.md",
+                "file": "2-Area/Series/kotlin/coroutine/99-Job.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/vs thread.md",
+                "file": "2-Area/Series/kotlin/coroutine/99-Job.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/vs thread.md",
+                "file": "2-Area/Series/kotlin/coroutine/99-Job.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/vs thread.md"
+                "file": "2-Area/Series/kotlin/coroutine/99-Job.md"
               }
             }
           }
@@ -166,18 +166,18 @@
   },
   "active": "b74fdbc550298693",
   "lastOpenFiles": [
-    "2-Area/Series/kotlin/coroutine/Coroutine.md",
-    "2-Area/Series/kotlin/coroutine/vs thread.md",
-    "2-Area/Series/kotlin/coroutine/99-Job.md",
-    "2-Area/Series/kotlin/coroutine/Continuation.md",
     "2-Area/Series/kotlin/coroutine/코루틴.md",
-    "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
-    "2-Area/Series/kotlin/coroutine/4-Coroutine suspend.md",
     "2-Area/Series/kotlin/coroutine/0-Coroutine.md",
     "2-Area/Series/kotlin/coroutine/1-CoroutineContext.md",
+    "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
+    "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
+    "2-Area/Series/kotlin/coroutine/vs thread.md",
+    "2-Area/Series/kotlin/coroutine/Coroutine.md",
+    "2-Area/Series/kotlin/coroutine/99-Job.md",
+    "2-Area/Series/kotlin/coroutine/Continuation.md",
+    "2-Area/Series/kotlin/coroutine/4-Coroutine suspend.md",
     "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
-    "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
     "Pasted image 20240203163401.png",
     "Pasted image 20240203163338.png",
     "2-Area/Series/kotlin/coroutine/Coroutine-11.md",
