@@ -80,8 +80,27 @@ suspend fun printCoroutinesTime(
 
 ![[Pasted image 20240203163338.png|center|400]]
 
-- IO Dispatcher에서 limitedParallelism을 사용하면 새로운 쓰레드 풀이 생성됨
-- Default Dispatcher에서는 limitedParallelism사용시 기존 쓰레드풀에서 
+- IO Dispatcher에서 limitedParallelism을 사용하면 특정 작업을 위한 새로운 쓰레드 풀이 생성됨
+- Default Dispatcher에서는 limitedParallelism사용시 기존 쓰레드풀 내에서 특정작업을 위한 쓰레드갯수를 지정함
+
+- 쓰레드에 대한 더 세밀한 조정을 위해 asCoroutineDispatcher함수로 dispatcher를 지정할 수 있음
+```
+val NUMBER_OF_THREADS = 20
+val dispatcher = Executors
+    .newFixedThreadPool(NUMBER_OF_THREADS)
+    .asCoroutineDispatcher()
+```
+
+- limitedParallelism(1)로 동시성 제어를 할 수 있음
+
+- VirtualThread를 위한 지원도 있음
+```
+val LoomDispatcher = Executors
+    .newVirtualThreadPerTaskExecutor()
+    .asCoroutineDispatcher()
+```
+
+## Uncomfined Dispatcher
 
 
 ## Main dispatcher
