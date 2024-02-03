@@ -113,4 +113,5 @@ class PrintUserContinuation(
 	- 22번 라인과 56번라인이 동일 기능을 함
 	- 앞서 말한다로 직전에 호출한 suspend 함수의 결과를 result변수에 넣음
 
+
 https://kt.academy/article/cc-under-the-hood
