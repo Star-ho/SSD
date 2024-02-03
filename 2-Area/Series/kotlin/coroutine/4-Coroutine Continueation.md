@@ -1,5 +1,5 @@
 - Kotlin Coroutine은 일시중단을 구현하기 위해 ContinuosPassing style을 적용하였음
-```
+```kotlin
 suspend fun getUser(): User?
 
 fun getUser(continuation: Continuation<*>): Any?
@@ -11,7 +11,9 @@ fun getUser(continuation: Continuation<*>): Any?
 
 > 추후 kotlin에 유니온 타입이 추가된다면 User?|COROUTINE_SUSPENDED가 될 수 있음
 
-```
+
+
+```kotlin
 suspend fun printUser(token: String) {
   println("Before")
   val userId = getUserId(token) // suspending
@@ -91,10 +93,14 @@ class PrintUserContinuation(
 }
 ```
 
+- Continuation이 있는지 체크 후 
+
 - Continuation은 label을 가짐
 	- label로 현재 어디까지 코드가 진행되었는지 파악하고, 다음 실행때 어디부터 시작할지 결정함
 - Continuation은 지역변수들을 저장함
-- 현재 실행된 구문에서 지역변수들이 변경되었
+- 현재 실행된 구문에서 지역변수들이 변경되면 continuation에 저장됨
+- suspend된다면, COROUTINE_SUSPENDED을 리턴 후 중단이 끝난 후 다시시작함
+- 
 
 
 https://kt.academy/article/cc-under-the-hood
