@@ -11,33 +11,90 @@ fun getUser(continuation: Continuation<*>): Any?
 
 > 추후 kotlin에 유니온 타입이 추가된다면 User?|COROUTINE_SUSPENDED가 될 수 있음
 
-```
-suspend fun myFunction() {
+```kotlin
+suspend fun printUser(token: String) {
   println("Before")
-  delay(1000) // suspending
+  val userId = getUserId(token) // suspending
+  println("Got userId: $userId")
+  val userName = getUserName(userId, token) // suspending
+  println(User(userId, userName))
   println("After")
 }
 ```
 
-```
-fun myFunction(continuation: Continuation<Unit>): Any {
-    val continuation = continuation as? MyFunctionContinuation
-        ?: MyFunctionContinuation(continuation)
+```kotlin
+fun printUser(
+    token: String,
+    continuation: Continuation<*>
+        ): Any {
+    val continuation = continuation as? PrintUserContinuation
+    ?: PrintUserContinuation(
+        continuation as Continuation<Unit>,
+        token
+    )
+
+    var result: Result<Any>? = continuation.result
+    var userId: String? = continuation.userId
+    val userName: String
 
     if (continuation.label == 0) {
         println("Before")
         continuation.label = 1
-        if (delay(1000, continuation) == COROUTINE_SUSPENDED){
+        val res = getUserId(token, continuation)
+        if (res == COROUTINE_SUSPENDED) {
             return COROUTINE_SUSPENDED
         }
+        result = Result.success(res)
     }
     if (continuation.label == 1) {
+        userId = result!!.getOrThrow() as String
+        println("Got userId: $userId")
+        continuation.label = 2
+        continuation.userId = userId
+        val res = getUserName(userId, continuation)
+        if (res == COROUTINE_SUSPENDED) {
+            return COROUTINE_SUSPENDED
+        }
+        result = Result.success(res)
+    }
+    if (continuation.label == 2) {
+        userName = result!!.getOrThrow() as String
+        println(User(userId as String, userName))
         println("After")
         return Unit
     }
     error("Impossible")
 }
+
+class PrintUserContinuation(
+    val completion: Continuation<Unit>,
+    val token: String
+) : Continuation<String> {
+    override val context: CoroutineContext
+    get() = completion.context
+
+    var label = 0
+    var result: Result<Any>? = null
+    var userId: String? = null
+
+    override fun resumeWith(result: Result<String>) {
+        this.result = result
+        val res = try {
+            val r = printUser(token, this)
+            if (r == COROUTINE_SUSPENDED) return
+            Result.success(r as Unit)
+        } catch (e: Throwable) {
+            Result.failure(e)
+        }
+        completion.resumeWith(res)
+    }
+}
 ```
+
+- Continuation은 label을 가짐
+	- label로 현재 어디까지 코드가 진행되었는지 파악하고, 다음 실행때 어디부터 시작할지 결정함
+- Continuation은 지역변수들을 저장함
+- 현재 실행된 구문에서 지역변수들이 변경되었
 
 
 https://kt.academy/article/cc-under-the-hood
