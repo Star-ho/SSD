@@ -1,18 +1,7 @@
 - Kotlin Coroutine은 일시중단을 구현하기 위해 ContinuosPassing style을 적용하였음
-```kotlin
-suspend fun getUser(): User?
 
-fun getUser(continuation: Continuation<*>): Any?
-```
-- 위쪽의 suspend function은 컴파일 시 아래와 같이 continuation이라는 인자를 받고, User?가 아닌 Any?타입을 반환하게 변경됨
-	- continuation은 현재 코루틴의 상태를 가지고 있는 상태머신임
-	- 항상 function의 마지막 인자로 추가됨
-	- Any?로 바뀌는 이유는 getUser 함수가 User?도 반환하지만, suspend된다면 COROUTINE_SUSPENDED을 반환하기 때문
-
-> 추후 kotlin에 유니온 타입이 추가된다면 User?|COROUTINE_SUSPENDED가 될 수 있음
-
-
-## Suspend함수 컴파일
+## Suspend함수 CPS스타일로 변환
+- 실제 코드가 아닌, 중요한 로직만 정리함
 
 ```kotlin
 suspend fun printUser(token: String) {
@@ -94,11 +83,22 @@ class PrintUserContinuation(
 }
 ```
 - 함수의 오퍼레이션이 변경됨
-	- 마지막 인자로 continuation이 생기고, return 타입이 Any로 변경됨 
+	- 마지막 인자로 continuation이 생김
+		- continuation은 현재 코루틴의 상태를 가지고 있는 상태머신임
+		- 항상 function의 마지막 인자로 추가됨
+	- return 타입이 Any로 변경됨 
+		- Any?로 바뀌는 이유는 실제 리턴타입 뿐만아니라, suspend된다면 COROUTINE_SUSPENDED을 반환해야하기 때문
+
+> 추후 kotlin에 유니온 타입이 추가된다면 User?|COROUTINE_SUSPENDED가 될 수 있음
+
+
 - 5번 라인, Continuation이 해당 함수의 Continuation인지 확인하고, 아니라면 생성
 	- resume될떄는 해당 함수의 Continuation이므로, 처음 실행될때만 생성함
 
-- 11,12,13번 라인, 지역변수들을 선언하고, 
+- 11,12,13번 라인, 지역변수들을 선언하고, 값을 대입
+	- 11번 result변수는 직전에 호출한 suspend 함수의 결과 가짐
+	- 12번 userId는 여러 단계(1,2)에 걸쳐서 필요하므로 Continuation에 저장됨
+	- 13번 userName은 한번의 단계에서만 사용하므로 re
 
 - Continuation은 label을 가짐
 	- label로 현재 어디까지 코드가 진행되었는지 파악하고, 다음 실행때 어디부터 시작할지 결정함
@@ -106,6 +106,8 @@ class PrintUserContinuation(
 - suspend된다면, COROUTINE_SUSPENDED을 리턴 후 중단이 끝난 후 다시시작함
 	- io작업이 발생한다면 작업을 끝내지 못하므로 우선 COROUTINE_SUSPENDED을 리턴함
 
-- suspend이후 resum
+- suspend이후 resume된다면, PrintUserContinuation의 resumeWith가 호출됨
+	- 22번 라인과 56번라인이 동일 기능을 함
+	- 앞서 말한다로 직전에 호출한 suspend 함수의 결과를 result변수에 넣음
 
 https://kt.academy/article/cc-under-the-hood
