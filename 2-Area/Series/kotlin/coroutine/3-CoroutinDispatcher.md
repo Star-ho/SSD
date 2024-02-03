@@ -8,13 +8,13 @@
 ## Default dispatcher
 - 코루틴에서 아무것도 설정하지 않는다면 기본으로 제공되는 dispatcher
 - CPU-intensive한 작업을 실행하기 위해 디자인됨
-- 기본 thread pool은 최소 2개, 최대 cpu core수만큼 생성됨
+- 기본 thread갯수는 최소 2개, 최대 cpu core수만큼 생성됨
 	- 이론상 cpu-intensive한 작업을 하고, blocking하지 않는다고 가정하면 최적의 갯수임
 
 ## IO Dispatcher
 - 파일 읽기/쓰기, 네트워크 요청과 같은 I/O작업에 사용하기 위해 만들어짐
-- 코어의 수에 따라 다르지만, 최대 64개 thread pool을 생성
-	- thread pool
+- 코어의 수에 따라 다르지만, 최대 64개 thread를 생성
+	- thread 갯수가 무제한이라면 쓰레드를 계속 생산할것이고, 쓰레드를 생성/삭제하는 것도 비용이므로 적절한 thread 수를 관리해야함
 
 ## Main dispatcher
 - UI를 다루는 어플리케이션에서 사용하는거
