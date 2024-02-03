@@ -1,5 +1,5 @@
 
-
+### [ContinuationInterceptor](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.coroutines/-continuation-interceptor/index.html)
 ### CoroutineScope
 - CoroutineContext를 가진다
 - 가진 coroutineContext를 가지고 Scope를 만든다
