@@ -12,6 +12,7 @@ fun getUser(continuation: Continuation<*>): Any?
 > 추후 kotlin에 유니온 타입이 추가된다면 User?|COROUTINE_SUSPENDED가 될 수 있음
 
 
+## Suspend함수 컴파일
 
 ```kotlin
 suspend fun printUser(token: String) {
@@ -92,17 +93,19 @@ class PrintUserContinuation(
     }
 }
 ```
-
+- 함수의 오퍼레이션이 변경됨
+	- 마지막 인자로 continuation이 생기고, return 타입이 Any로 변경됨 
 - 5번 라인, Continuation이 해당 함수의 Continuation인지 확인하고, 아니라면 생성
 	- resume될떄는 해당 함수의 Continuation이므로, 처음 실행될때만 생성함
-- 11,12번 라인, 지역변수들를 continuation에서 가져옴
-- 
+
+- 11,12,13번 라인, 지역변수들을 선언하고, 
+
 - Continuation은 label을 가짐
 	- label로 현재 어디까지 코드가 진행되었는지 파악하고, 다음 실행때 어디부터 시작할지 결정함
-- Continuation은 지역변수들을 저장함
-- 현재 실행된 구문에서 지역변수들이 변경되면 continuation에 저장됨
-- suspend된다면, COROUTINE_SUSPENDED을 리턴 후 중단이 끝난 후 다시시작함
-- 
 
+- suspend된다면, COROUTINE_SUSPENDED을 리턴 후 중단이 끝난 후 다시시작함
+	- io작업이 발생한다면 작업을 끝내지 못하므로 우선 COROUTINE_SUSPENDED을 리턴함
+
+- suspend이후 resum
 
 https://kt.academy/article/cc-under-the-hood
