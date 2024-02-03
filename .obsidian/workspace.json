@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2d5a5beba25e0f1a",
+        "id": "55afb530d252fca5",
         "type": "tabs",
         "children": [
           {
-            "id": "c74d8a7990b67d25",
+            "id": "b74fdbc550298693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2-Area/Series/kotlin/coroutine/4-Coroutine Continueation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -155,20 +155,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "c74d8a7990b67d25",
+  "active": "b74fdbc550298693",
   "lastOpenFiles": [
-    "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
     "2-Area/Series/kotlin/coroutine/4-Coroutine Continueation.md",
+    "2-Area/Series/kotlin/coroutine/99-Job.md",
+    "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
     "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
     "2-Area/Series/kotlin/coroutine/1-CoroutineContext.md",
     "2-Area/Series/kotlin/coroutine/0-Coroutine.md",
     "2-Area/Series/kotlin/coroutine/Coroutine.md",
     "2-Area/Series/kotlin/coroutine/Continuation.md",
     "2-Area/Series/kotlin/coroutine/코루틴.md",
-    "2-Area/Series/kotlin/coroutine/99-Job.md",
     "Pasted image 20240203163401.png",
     "Pasted image 20240203163338.png",
     "2-Area/Series/kotlin/coroutine/Coroutine-11.md",

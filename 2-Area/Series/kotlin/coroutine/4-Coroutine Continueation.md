@@ -11,7 +11,7 @@ fun getUser(continuation: Continuation<*>): Any?
 
 > 추후 kotlin에 유니온 타입이 추가된다면 User?|COROUTINE_SUSPENDED가 될 수 있음
 
-```kotlin
+```
 suspend fun printUser(token: String) {
   println("Before")
   val userId = getUserId(token) // suspending
