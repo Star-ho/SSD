@@ -4,8 +4,12 @@
 	- 코루틴을 실행시킬 thread를 결정
 	- 코루틴을 실행시킬 쓰레드를 제한함
 	- 쓰레드 풀로 dipath하거나, unconfined한 상태로 실행할 수 있음
-
-
+- coroutine builder에서는 CoroutinContext를 optional하게 받는데 여기서 dispatcher를 인자로 받을 수 있음
+## Default dispatcher
+- 코루틴에서 아무것도 설정하지 않는다면 기본으로 제공되는 dispatcher
+- CPU-intensive한 작업을 실행하기 위해 디자인됨
+- 기본 thread pool은 최소 2개, 최대 cpu core수만큼 생성됨
+	- 이론상 cpu-intensive한 작업을 하고, blocking하지 않는다고 가정하면 최적의 갯수임
 
 
 https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-coroutine-dispatcher/
