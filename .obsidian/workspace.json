@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
+                "file": "2-Area/Series/kotlin/coroutine/4-Coroutine Continueation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
+                "file": "2-Area/Series/kotlin/coroutine/4-Coroutine Continueation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
+                "file": "2-Area/Series/kotlin/coroutine/4-Coroutine Continueation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md"
+                "file": "2-Area/Series/kotlin/coroutine/4-Coroutine Continueation.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "c74d8a7990b67d25",
   "lastOpenFiles": [
+    "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
+    "2-Area/Series/kotlin/coroutine/4-Coroutine Continueation.md",
     "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
     "2-Area/Series/kotlin/coroutine/1-CoroutineContext.md",
     "2-Area/Series/kotlin/coroutine/0-Coroutine.md",
@@ -167,7 +169,6 @@
     "2-Area/Series/kotlin/coroutine/Continuation.md",
     "2-Area/Series/kotlin/coroutine/코루틴.md",
     "2-Area/Series/kotlin/coroutine/99-Job.md",
-    "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
     "Pasted image 20240203163401.png",
     "Pasted image 20240203163338.png",
     "2-Area/Series/kotlin/coroutine/Coroutine-11.md",
@@ -189,7 +190,6 @@
     "2-Area/Series/Server/1-Applet.md",
     "2-Area/Series/Server/3-Servlet Container.md",
     "2-Area/Series/Server/5-Apache Tomcat.md",
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
