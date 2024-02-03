@@ -100,8 +100,13 @@ val LoomDispatcher = Executors
     .asCoroutineDispatcher()
 ```
 
-## Uncomfined Dispatcher
-
+## Unconfined Dispatcher
+- 다른 Dispatcher들과 다르게 쓰레드를 변경하지 않음
+- Unconfined Dispatcher를 사용하면, suspend를 만날때까지 이를 실행한 쓰레드에서 작업이 시작됨
+- suspend 후 resume시에는 resume을 실행한 쓰레드에서 작업을 이어함
+- 성능 측면에서는 쓰레드를 변경시키지 않아 유용할 수 있지만, main쓰레드를 중단할 수 있기에 추천되지 않음
+- 일반적인 상황에서 유용하지 않음
+- Unit Test시 사용
 
 ## Main dispatcher
 - UI를 다루는 어플리케이션에서 사용하는거
