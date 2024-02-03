@@ -10,7 +10,6 @@ blocking job이 있을때
 - coroutine에서는 blocking작업 발생시 해당 쓰레드에서 context switch를 하여 다음 작업을 실행함
 
 reactive, coroutine에서 nonblocking이 가능하려면 어차피 nonblocking io를 지원하는 라이브러리가 있어야 가능
-
 - 하나의 요청에 여러개의 io가 발생한다면 coroutine+virtual thread가 제일 나을까?
 
 여기서 reactive streamse랑 어떻게 호환되는지
