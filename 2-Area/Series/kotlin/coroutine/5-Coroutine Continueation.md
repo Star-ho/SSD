@@ -93,8 +93,10 @@ class PrintUserContinuation(
 }
 ```
 
-- Continuation이 있는지 체크 후 
-
+- 5번 라인, Continuation이 해당 함수의 Continuation인지 확인하고, 아니라면 생성
+	- resume될떄는 해당 함수의 Continuation이므로, 처음 실행될때만 생성함
+- 11,12번 라인, 지역변수들를 continuation에서 가져옴
+- 
 - Continuation은 label을 가짐
 	- label로 현재 어디까지 코드가 진행되었는지 파악하고, 다음 실행때 어디부터 시작할지 결정함
 - Continuation은 지역변수들을 저장함

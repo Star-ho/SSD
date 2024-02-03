@@ -41,7 +41,61 @@ suspend fun main() {
 // After
 ```
 - 위 코드는 delay 함수의 간략한 구현임
+- 로직을 지연 후  재실행할때 쓰레드를 새로 생성하지 않고 지연이 가능
+- delay를 실행하는 하나의 쓰레드만 존재
+	- 모든 delay를 하나의 스레드로 관리
+	- delay를 100번해도 하나의 쓰레드로 관리되므로 쓰레드가 더 생성되지 않음
 
+```kotlin
+suspend fun requestUser(): User {
+    return suspendCancellableCoroutine<User> { cont ->
+        requestUser { resp ->
+            if (resp.isSuccessful) {
+                cont.resume(resp.data)
+            } else {
+                val e = ApiException(
+                    resp.code,
+                    resp.message
+                )
+                cont.resumeWithException(e)
+            }
+        }
+    }
+}
 
+suspend fun requestNews(): News {
+    return suspendCancellableCoroutine<News> { cont ->
+        requestNews(
+            onSuccess = { news -> cont.resume(news) },
+            onError = { e -> cont.resumeWithException(e) }
+        )
+    }
+}
+```
+
+- 위와같이 suspendCancellableCoroutine으로 성공시와 실패시 로직을 다르게 구현할 수 있음
+
+```kotlin
+// Do not do this
+var continuation: Continuation<Unit>? = null
+
+suspend fun suspendAndSetContinuation() {
+    suspendCoroutine<Unit> { cont ->
+        continuation = cont
+    }
+}
+
+suspend fun main() {
+    println("Before")
+
+    suspendAndSetContinuation()
+    continuation?.resume(Unit)
+
+    println("After")
+}
+// Before
+```
+- suspend은 함수를 중지하는것이 아닌, coroutine을 중지하는 것임
+- suspendAndSetContinuation에서 suspend후 바로 다음 라인(14번) continuation?.resume(Unit)이 실행되어 실행이 재개될 것 처럼 보이지만 재개되지 않음
 
 https://kt.academy/article/cc-suspension
