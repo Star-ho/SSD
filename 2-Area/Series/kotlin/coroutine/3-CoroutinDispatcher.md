@@ -35,7 +35,54 @@ suspend fun main(): Unit = coroutineScope {
 - 풀을 공유하기에 Default Dispather안에서 IO Dispatcher를 사용한다고 redispatching이 발생하지 않음
 - 하지만 서로의 limit은 공유하지않음
 	- Default Dispather안에서 IO Dispatcher로 바꼈을때, thread는 변경되지 않지만, 서로가 서로를 고갈시키지 않기 위해, IO Dispathcer의 thread로 count함
-- limit을 공유하지 않으므로, Default Dispather과 IO Dispatcher를 동시에 최대로 사용했을떄, 8코어 환경에서는 (Default Dispather의 갯수(8) + IO Dispatcher(64)) 총 72개의 쓰레드가 쓰레드풀에 생성됨
+- limit을 공유하지 않으므로, Default Dispather과 IO Dispatcher를 동시에 최대로 사용했을떄, 8코어 환경에서는 (Default Dispather의 갯수(8) + IO Dispatcher(64)) 쓰레드풀에 총 72개의 쓰레드가 관리됨
+
+### IO Dispatcher에서의 limitedParallelism
+- IO Dispatcher에서 limitedParallelism는 다른 Dispatcher와 다르게 동작함
+	- 새로운 독립된 쓰레드 풀을 가진 Dispatcher를 생성함
+- 원하는 만큼, 64개보다 더 많은 쓰레드를 지정할 수 있음
+```
+import kotlinx.coroutines.*
+import kotlin.system.measureTimeMillis
+
+suspend fun main(): Unit = coroutineScope {
+    launch {
+        printCoroutinesTime(Dispatchers.IO)
+        // Dispatchers.IO took: 2074
+    }
+
+    launch {
+        val dispatcher = Dispatchers.IO
+            .limitedParallelism(100)
+        printCoroutinesTime(dispatcher)
+        // LimitedDispatcher@XXX took: 1082
+    }
+}
+
+​
+
+suspend fun printCoroutinesTime(
+	dispatcher: CoroutineDispatcher
+) {
+    val test = measureTimeMillis {
+        coroutineScope {
+            repeat(100) {
+                launch(dispatcher) {
+                    Thread.sleep(1000)
+                }
+            }
+        }
+    }
+    println("$dispatcher took: $test")
+
+}
+```
+
+![[Pasted image 20240203163338.png|center|400]]
+
+- IO Dispatcher에서 limitedParallelism을 사용하면 새로운 쓰레드 풀이 생성됨
+- Default Dispatcher에서는 limitedParallelism사용시 기존 쓰레드풀에서 
+
 
 ## Main dispatcher
 - UI를 다루는 어플리케이션에서 사용하는거
