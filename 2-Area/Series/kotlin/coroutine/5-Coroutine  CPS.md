@@ -1,6 +1,9 @@
+---
+createDate: 2024-02-03T22:45:00
+---
 - Kotlin Coroutine은 일시중단을 구현하기 위해 ContinuosPassing style을 적용하였음
 
-## Suspend함수 CPS스타일로 변환
+## CPS스타일로 변환된 Suspend 함수 
 - 실제 코드가 아닌, 중요한 로직만 정리함
 
 ```kotlin
@@ -98,7 +101,7 @@ class PrintUserContinuation(
 - 11,12,13번 라인, 지역변수들을 선언하고, 값을 대입
 	- 11번 result변수는 직전에 호출한 suspend 함수의 결과 가짐
 	- 12번 userId는 여러 단계(1,2)에 걸쳐서 필요하므로 Continuation에 저장됨
-	- 13번 userName은 한번의 단계에서만 사용하므로 re
+	- 13번 userName은 한번의 단계에서만 사용하므로 result로 가져올수 있어 따로 저장되지 않음
 
 - Continuation은 label을 가짐
 	- label로 현재 어디까지 코드가 진행되었는지 파악하고, 다음 실행때 어디부터 시작할지 결정함

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
+                "file": "2-Area/Series/kotlin/coroutine/Coroutine.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
+                "file": "2-Area/Series/kotlin/coroutine/Coroutine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
+                "file": "2-Area/Series/kotlin/coroutine/Coroutine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,22 +126,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md"
+                "file": "2-Area/Series/kotlin/coroutine/Coroutine.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6b6a2ff2c4ca1ae3",
+        "type": "tabs",
+        "children": [
           {
             "id": "fe0d784216b3bbaa",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "alphabetical"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,16 +167,17 @@
   },
   "active": "b74fdbc550298693",
   "lastOpenFiles": [
-    "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
-    "2-Area/Series/kotlin/coroutine/4-Coroutine suspend.md",
-    "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
     "2-Area/Series/kotlin/coroutine/99-Job.md",
-    "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
-    "2-Area/Series/kotlin/coroutine/1-CoroutineContext.md",
-    "2-Area/Series/kotlin/coroutine/0-Coroutine.md",
-    "2-Area/Series/kotlin/coroutine/Coroutine.md",
     "2-Area/Series/kotlin/coroutine/Continuation.md",
     "2-Area/Series/kotlin/coroutine/코루틴.md",
+    "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
+    "2-Area/Series/kotlin/coroutine/4-Coroutine suspend.md",
+    "2-Area/Series/kotlin/coroutine/0-Coroutine.md",
+    "2-Area/Series/kotlin/coroutine/1-CoroutineContext.md",
+    "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
+    "2-Area/Series/Async-messaging/Async-messaging.md",
+    "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
+    "2-Area/Series/kotlin/coroutine/Coroutine.md",
     "Pasted image 20240203163401.png",
     "Pasted image 20240203163338.png",
     "2-Area/Series/kotlin/coroutine/Coroutine-11.md",
@@ -190,7 +197,6 @@
     "2-Area/Series/Server/4-Jakarta Servlet.md",
     "2-Area/Series/Server/0-Static Web Server.md",
     "2-Area/Series/Server/1-Applet.md",
-    "2-Area/Series/Server/3-Servlet Container.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",

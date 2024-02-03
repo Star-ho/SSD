@@ -1,15 +1,5 @@
-suspend가 뭔지?
-DefaultDispatcher-worker가 뭔지?
-- coroutine이 실행되는 쓰레드,  DefaultDispatcher-worker이름으로 실행됨
-- Dispatcher.Default라서 DefaultDispatcher가 아닌, Dispatcher이름이 지정되지 않아서 DefaultDispatcher로 뜨는거
-- CoroutineContext의 이름이 뜬다
-	- 이름 바꾸면 worker이름도 변경됨
 쓰레드와의 차이가 뭔지
 limitedParallelism확인해보기
-
-핵심은 continueos passing style
-
-코루틴의 코드들은 cps 스타일로 바뀌며, delay가 발생했을때 해당 메서드를 리턴하고 다음 메서드를 실행
 
 coroutine은 하나의 쓰레드를 어떻게 나눠쓸지 생각하는것
 blocking job이 있을때
@@ -22,7 +12,6 @@ blocking job이 있을때
 reactive, coroutine에서 nonblocking이 가능하려면 어차피 nonblocking io를 지원하는 라이브러리가 있어야 가능
 
 - 하나의 요청에 여러개의 io가 발생한다면 coroutine+virtual thread가 제일 나을까?
-
 
 여기서 reactive streamse랑 어떻게 호환되는지
 - https://huisam.tistory.com/entry/webflux-coroutine
