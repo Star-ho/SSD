@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/99-Job.md",
+                "file": "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/99-Job.md",
+                "file": "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/99-Job.md",
+                "file": "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/99-Job.md"
+                "file": "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "c74d8a7990b67d25",
   "lastOpenFiles": [
-    "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
     "2-Area/Series/kotlin/coroutine/99-Job.md",
+    "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
+    "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
     "2-Area/Series/kotlin/coroutine/1-CoroutineContext.md",
     "2-Area/Series/kotlin/coroutine/0-Coroutine.md",
     "2-Area/Series/kotlin/코루틴.md",
@@ -187,7 +188,6 @@
     "2-Area/Series/Server/5-Apache Tomcat.md",
     "2-Area/Series/Server/7-Reactive Manifesto.md",
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
-    "4-Archive/Spring/Interceptor.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
