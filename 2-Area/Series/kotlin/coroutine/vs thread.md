@@ -20,5 +20,15 @@
 - 작업내용
 	- A,B,C에 요청을 보내고 응답을 바탕으로 d를 만들어서 리턴
 	- Thread일때
-		- A요청을 보내고 (context switching)
-		- B
+		- A에 요청을 보내고 (context switching)
+		- A의 결과가 오면 (context switching) B에 요청을 보내고 (context switching)
+		- B의 결과가 오면 C에 요청을 보내고 (context switching)
+		- C의 결과가 나오면 d를 만들어서 응답
+	- coroutine일때
+		- A요청을 보내고, B에 요청을 보내고, C에 요청을 보내고 결과를 기다림(context switching)후에 결과가 다 오면 d를 만들어 응답
+			- thread에 비해 한번에 요청을 다 보낼 수 있다는 장점이 있음
+
+> thread가 비동기라고 크게 다르지 않음
+> reactor Java의 경우 default로 eleasticBounded 스케줄러를 사용하면
+> A와 B와 C의 요청이 동시에 보내겠지만, 모두 다른 Thread에서 처리되므로 context switching이 발생
+>  coroutine이라고 다를까? 어차피 DispatcherIO thread를 사용할텐데?
