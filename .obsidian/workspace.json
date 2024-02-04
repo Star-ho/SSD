@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
+                "file": "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
+                "file": "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
+                "file": "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md"
+                "file": "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md"
               }
             }
           }
@@ -166,8 +166,9 @@
   },
   "active": "b74fdbc550298693",
   "lastOpenFiles": [
-    "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md",
     "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
+    "Pasted image 20240204111912.png",
+    "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md",
     "2-Area/Series/kotlin/coroutine/99-Job.md",
     "2-Area/Series/kotlin/coroutine/4-Coroutine suspend.md",
     "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
@@ -196,7 +197,6 @@
     "4-Archive/Spring/Handler.md",
     "4-Archive/Spring/AOP.md",
     "2-Area/Series/Server/2-Sevlet.md",
-    "2-Area/Series/Server/4-Jakarta Servlet.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
@@ -211,7 +211,6 @@
     "real-resource-image/Pasted image 20240116230222.png",
     "real-resource-image/Pasted image 20240115231350.png",
     "real-resource-image/Pasted image 20240115231322.png",
-    "real-resource-image/Pasted image 20240110132820.png",
     "Untitled.canvas"
   ]
 }
