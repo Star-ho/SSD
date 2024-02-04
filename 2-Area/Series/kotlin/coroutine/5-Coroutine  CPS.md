@@ -113,5 +113,6 @@ class PrintUserContinuation(
 	- 22번 라인과 56번라인이 동일 기능을 함
 	- 앞서 말한다로 직전에 호출한 suspend 함수의 결과를 result변수에 넣음
 
+- 콜스택 마지막에 있는 함수의 continuation이 resume되고, 작업을 다 끝마치면, 바로 상위
 
 https://kt.academy/article/cc-under-the-hood
