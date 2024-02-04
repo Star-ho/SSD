@@ -43,10 +43,65 @@ public actual fun <T> runBlocking(context: CoroutineContext, block: suspend Coro
 
 
 ## launch
-- 
+- 개념적으로 새로운 쓰레드를 생성하는 것과 유사함
+- 코루틴을 시작하고, 독립적으로 실행함
+```kotlin
+public fun CoroutineScope.launch(  
+    context: CoroutineContext = EmptyCoroutineContext,  
+    start: CoroutineStart = CoroutineStart.DEFAULT,  
+    block: suspend CoroutineScope.() -> Unit  
+): Job {  
+    val newContext = newCoroutineContext(context)  
+    val coroutine = if (start.isLazy)  
+        LazyStandaloneCoroutine(newContext, block) else  
+        StandaloneCoroutine(newContext, active = true)  
+    coroutine.start(start, coroutine, block)  
+    return coroutine  
+}
+```
+- CoroutineScope의 extension function임
+- coroutine context를 받아, 해당 context내에서 3번쨰 인자로 받은 block을 실행시킴
+
+```kotlin
+fun main() {  
+    GlobalScope.launch {  
+        delay(1000L)  
+        println("World!")  
+    }  
+      
+    GlobalScope.launch {  
+        delay(1000L)  
+        println("World!")  
+    }
+  
+    println("Hello,")  
+    Thread.sleep(1500L)  
+}// Hello,  
+// (1 sec)  
+// World!  
+// World!  
+```
+- main 함수에서 Thread.sleep()을 호출하지 않는다면, Hello만 출력됨
+	- launch내의 delay는 실제로 쓰레드를 block하지 않음
 
 ## async
-
+```kotlin
+public fun <T> CoroutineScope.async(  
+    context: CoroutineContext = EmptyCoroutineContext,  
+    start: CoroutineStart = CoroutineStart.DEFAULT,  
+    block: suspend CoroutineScope.() -> T  
+): Deferred<T> {  
+    val newContext = newCoroutineContext(context)  
+    val coroutine = if (start.isLazy)  
+        LazyDeferredCoroutine(newContext, block) else  
+        DeferredCoroutine<T>(newContext, active = true)  
+    coroutine.start(start, coroutine, block)  
+    return coroutine  
+}
+```
+- launch와 비슷하지만 async는 값을 Deffered로 감싸서 return함
+- Deffered는 suspending method await를 가짐
+- 
 
 
 https://medium.com/@wind.orca.pe/kotlin-coroutines-coroutine-builders-korean-recap-24a36300513b
