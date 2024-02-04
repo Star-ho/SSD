@@ -105,7 +105,27 @@ public actual fun <T> runBlocking(context: CoroutineContext, block: suspend Coro
 ## Structured Concurrency
 
 - launch와 async함수는 CoroutineScope의 extenstion함수 임
-- 
+- 따로 CoroutineScope를 지정하지 않는다면, 해당 함수를 실행한 CoroutineScope의 확장함수로 동작
+	- 부모-자식관계 형성
+- 부모자식 관계가 형성된다면 아래와 같은 관계가 됨
+	- 자식 코루틴은 부모 코루틴으로부터 context를 상속 받음
+	- 부모코루틴은 자식 코루틴이 끝날때까지 suspend됨
+	- 
+- CoroutineScope를 따로 지정한다면 부모-자식 관계가 아니므로 launch와 async의 종료를 기다리지 않음
+```kotlin
+fun main(){  
+    runBlocking {  
+        println("start")  
+        CoroutineScope(EmptyCoroutineContext).launch(CoroutineName("123")) {  
+            delay(100)  
+            println("another scope!")  
+        }  
+        println("end")  
+    }  
+    //start  
+    //end}
+```
+
 
 
 https://medium.com/@wind.orca.pe/kotlin-coroutines-coroutine-builders-korean-recap-24a36300513b
