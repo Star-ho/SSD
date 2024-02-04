@@ -130,8 +130,50 @@ fun main(){
 
 ## withContext
 
+```kotlin
+public suspend fun <T> withContext(  
+    context: CoroutineContext,  
+    block: suspend CoroutineScope.() -> T  
+): T {  
+    contract {  
+        callsInPlace(block, InvocationKind.EXACTLY_ONCE)  
+    }  
+    return suspendCoroutineUninterceptedOrReturn sc@ { uCont ->  
+        // compute new context  
+        val oldContext = uCont.context  
+        // Copy CopyableThreadContextElement if necessary  
+        val newContext = oldContext.newCoroutineContext(context)  
+        // always check for cancellation of new context  
+        newContext.ensureActive()  
+        // FAST PATH #1 -- new context is the same as the old one  
+        if (newContext === oldContext) {  
+            val coroutine = ScopeCoroutine(newContext, uCont)  
+            return@sc coroutine.startUndispatchedOrReturn(coroutine, block)  
+        }  
+        // FAST PATH #2 -- the new dispatcher is the same as the old one (something else changed)  
+        // `equals` is used by design (see equals implementation is wrapper context like ExecutorCoroutineDispatcher)        if (newContext[ContinuationInterceptor] == oldContext[ContinuationInterceptor]) {  
+            val coroutine = UndispatchedCoroutine(newContext, uCont)  
+            // There are changes in the context, so this thread needs to be updated  
+            withCoroutineContext(coroutine.context, null) {  
+                return@sc coroutine.startUndispatchedOrReturn(coroutine, block)  
+            }  
+        }  
+        // SLOW PATH -- use new dispatcher  
+        val coroutine = DispatchedCoroutine(newContext, uCont)  
+        block.startCoroutineCancellable(coroutine, coroutine)  
+        coroutine.getResult()  
+    }  
+}
+```
 
-
+- 결과를 리턴한점에서 async와 많이 비교됨
+- async와의 차이점
+	- 인자로 CoroutineStart을 받지않는 것
+	- context의 디폴트 값이 없는 것
+	- coroutineScope의 확장함수가 아니라는 것 3개
+- withContext는 block이 끝날때까지 부모 coroutine을 suspend함
+	- 즉시 실행되므로 CoroutineStart가 필요
+- 
 ## CoroutineStart
 - 코루틴 빌더의 시작 옵션을 설정
 - DEFAULT 
