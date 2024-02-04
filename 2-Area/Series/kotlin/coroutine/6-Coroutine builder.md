@@ -151,7 +151,8 @@ public suspend fun <T> withContext(
             return@sc coroutine.startUndispatchedOrReturn(coroutine, block)  
         }  
         // FAST PATH #2 -- the new dispatcher is the same as the old one (something else changed)  
-        // `equals` is used by design (see equals implementation is wrapper context like ExecutorCoroutineDispatcher)        if (newContext[ContinuationInterceptor] == oldContext[ContinuationInterceptor]) {  
+        // `equals` is used by design (see equals implementation is wrapper context like ExecutorCoroutineDispatcher)        
+        if (newContext[ContinuationInterceptor] == oldContext[ContinuationInterceptor]) {  
             val coroutine = UndispatchedCoroutine(newContext, uCont)  
             // There are changes in the context, so this thread needs to be updated  
             withCoroutineContext(coroutine.context, null) {  
@@ -172,7 +173,9 @@ public suspend fun <T> withContext(
 	- context의 디폴트 값이 없는 것
 	- coroutineScope의 확장함수가 아니라는 것 3개
 - withContext는 block이 끝날때까지 부모 coroutine을 suspend함
-	- 즉시 실행되므로 CoroutineStart가 필요
+	- 즉시 실행되므로 CoroutineStart가 필요없음
+- 인자로 받은 context내에서 실행이됨
+	- withContext의 개념임
 - 
 ## CoroutineStart
 - 코루틴 빌더의 시작 옵션을 설정
