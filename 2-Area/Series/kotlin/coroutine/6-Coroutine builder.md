@@ -171,12 +171,13 @@ public suspend fun <T> withContext(
 - async와의 차이점
 	- 인자로 CoroutineStart을 받지않는 것
 	- context의 디폴트 값이 없는 것
-	- coroutineScope의 확장함수가 아니라는 것 3개
+	- coroutineScope의 확장함수가 아니라는 것
 - withContext는 block이 끝날때까지 부모 coroutine을 suspend함
 	- 즉시 실행되므로 CoroutineStart가 필요없음
 - 인자로 받은 context내에서 실행이됨
-	- withContext의 개념임
-- 
+	- withContext는 현재 Context가 아닌 다른 Context로 실행할경우 사용하는것이기에, Context를 인자로 받아야함
+- coroutineScope의 확장함수가 아닌, suspend함수임
+	- 현재 corutineScope를 확장하는것이 아닌, 현재 ㅊ
 ## CoroutineStart
 - 코루틴 빌더의 시작 옵션을 설정
 - DEFAULT 
