@@ -134,6 +134,14 @@ fun main(){
 
 ## CoroutineStart
 - 코루틴 빌더의 시작 옵션을 설정
-- 
+- DEFAULT 
+	- 해당 컨텍스트에 코루틴을 실행하도록 즉시 예약함
+- LAZY
+	- 해당 코루틴이 필요할때까지, 코루틴 시작을 늦춤
+- ATOMIC 
+	- 컨텍스트에 따라 실행할 코루틴을 원자적으로(취소할 수 없는 방식으로) 예약합니다.
+	- -- atomically (in a non-cancellable way) schedules coroutine for execution according to its context;
+    
+- [UNDISPATCHED](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-coroutine-start/-u-n-d-i-s-p-a-t-c-h-e-d/index.html) -- immediately executes coroutine until its first suspension point _in the current thread_.
 https://medium.com/@wind.orca.pe/kotlin-coroutines-coroutine-builders-korean-recap-24a36300513b
 https://kotlinlang.org/docs/coroutines-basics.html#an-explicit-job
