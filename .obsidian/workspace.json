@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md",
+                "file": "2-Area/Series/kotlin/coroutine/vs thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md",
+                "file": "2-Area/Series/kotlin/coroutine/vs thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md",
+                "file": "2-Area/Series/kotlin/coroutine/vs thread.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md"
+                "file": "2-Area/Series/kotlin/coroutine/vs thread.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "b74fdbc550298693",
   "lastOpenFiles": [
-    "2-Area/Series/kotlin/coroutine/4-Coroutine suspend.md",
     "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md",
+    "2-Area/Series/kotlin/coroutine/4-Coroutine suspend.md",
     "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
     "Pasted image 20240204111912.png",
     "2-Area/Series/kotlin/coroutine/99-Job.md",
