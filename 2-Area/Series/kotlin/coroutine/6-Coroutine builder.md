@@ -103,8 +103,9 @@ public actual fun <T> runBlocking(context: CoroutineContext, block: suspend Coro
 	- 완료될때까지 쓰레드를 block하므로 CoroutineScope외부에서 사용하는건 권장하지 않음
 
 ## Structured Concurrency
-- 
 
+- launch와 async함수는 CoroutineScope의 extenstion함수 임
+- 
 
 
 https://medium.com/@wind.orca.pe/kotlin-coroutines-coroutine-builders-korean-recap-24a36300513b
