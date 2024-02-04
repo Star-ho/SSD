@@ -4,7 +4,6 @@
 - **Coroutine builder**
 - 일반세계와 suspend세계를 연결하는 다리역할
 
-
 ## runBlocking
 ```kotlin
 @Throws(InterruptedException::class)  
@@ -22,7 +21,8 @@ public actual fun <T> runBlocking(context: CoroutineContext, block: suspend Coro
         newContext = GlobalScope.newCoroutineContext(context + eventLoop)  
     } else {  
         // See if context's interceptor is an event loop that we shall use (to support TestContext)  
-        // or take an existing thread-local event loop if present to avoid blocking it (but don't create one)        eventLoop = (contextInterceptor as? EventLoop)?.takeIf { it.shouldBeProcessedFromContext() }  
+        // or take an existing thread-local event loop if present to avoid blocking it (but don't create one)        
+        eventLoop = (contextInterceptor as? EventLoop)?.takeIf { it.shouldBeProcessedFromContext() }  
             ?: ThreadLocalEventLoop.currentOrNull()  
         newContext = GlobalScope.newCoroutineContext(context)  
     }  
@@ -37,6 +37,10 @@ public actual fun <T> runBlocking(context: CoroutineContext, block: suspend Coro
 - runBlocking인자로 Dispatcher를 전달하여 다른 쓰레드에서 runBlocking을 실행하게 할 수 있음
 	- 다른 쓰레드에서 runBlocking을 실행해도 runBlocking을 실행한 쓰레드를 Block함
 	- Dispatcher는 코루틴을 실행할 쓰레드를 선택하는 것으로, 현재 쓰레드를 block하는 것을 막을 수 없음
+- CoroutineScope의 확장함수가 아님, CoroutineScope외부에서 사용 가능
+	- 완료될때까지 쓰레드를 block하므로 CoroutineScope외부에서 사용하는건 권장하지 않음
+	- 
+
 
 ## launch
 - 
