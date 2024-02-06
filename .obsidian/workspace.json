@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55afb530d252fca5",
+        "id": "4da496564acb5d50",
         "type": "tabs",
         "children": [
           {
-            "id": "b74fdbc550298693",
+            "id": "3f5a7e4083e176b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md",
+                "file": "4-Archive/JAVA/vm option.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md",
+                "file": "4-Archive/JAVA/vm option.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md",
+                "file": "4-Archive/JAVA/vm option.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-SSD/server-paradigm/11-Reactor Java(2).md"
+                "file": "4-Archive/JAVA/vm option.md"
               }
             }
           }
@@ -165,8 +164,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b74fdbc550298693",
+  "active": "3f5a7e4083e176b8",
   "lastOpenFiles": [
+    "0-SSD/server-paradigm/11-Reactor Java(2).md",
+    "4-Archive/JAVA/vm option.md",
     "4-Archive/Database/Query/버퍼풀 크기 확인 쿼리.md",
     "4-Archive/Database/Query/테이블 크기 확인할 쿼리.md",
     "5-Temp/z-etc/sftp 명령어.md",
@@ -198,8 +199,6 @@
     "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md",
     "3-Resource/Spring/Hibernate.md",
     "2-Area/복잡하지 않은 코드란?.md",
-    "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
-    "4-Archive/Tip/디버깅.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
