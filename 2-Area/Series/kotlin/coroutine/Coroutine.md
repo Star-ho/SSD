@@ -1,6 +1,8 @@
 쓰레드와의 차이가 뭔지
 limitedParallelism확인해보기
 
+coroutine dispatcher 생명주기
+
 coroutine은 하나의 쓰레드를 어떻게 나눠쓸지 생각하는것
 blocking job이 있을때
 현재 자바의 green쓰레드에서는 
