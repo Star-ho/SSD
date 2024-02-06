@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/z-etc/sftp 명령어.md",
+                "file": "4-Archive/Database/Query/버퍼풀 크기 확인 쿼리.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/z-etc/sftp 명령어.md",
+                "file": "4-Archive/Database/Query/버퍼풀 크기 확인 쿼리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/z-etc/sftp 명령어.md",
+                "file": "4-Archive/Database/Query/버퍼풀 크기 확인 쿼리.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/z-etc/sftp 명령어.md"
+                "file": "4-Archive/Database/Query/버퍼풀 크기 확인 쿼리.md"
               }
             }
           }
@@ -167,6 +166,10 @@
   },
   "active": "b74fdbc550298693",
   "lastOpenFiles": [
+    "4-Archive/Database/Query/테이블 크기 확인할 쿼리.md",
+    "4-Archive/Database/Query/버퍼풀 크기 확인 쿼리.md",
+    "5-Temp/z-etc/sftp 명령어.md",
+    "4-Archive/Database/Query",
     "2-Area/Series/kotlin/coroutine/vs thread.md",
     "2-Area/Series/kotlin/coroutine/CoroutineInterceptor.md",
     "2-Area/Series/kotlin/coroutine/Coroutine-11.md",
@@ -196,9 +199,6 @@
     "2-Area/복잡하지 않은 코드란?.md",
     "4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
     "4-Archive/Tip/디버깅.md",
-    "4-Archive/Spring/Handler.md",
-    "4-Archive/Spring/AOP.md",
-    "2-Area/Series/Server/2-Sevlet.md",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
@@ -207,7 +207,6 @@
     "5-Temp/InfraStructure/Docker",
     "5-Temp/Database/Tools",
     "5-Temp/Database/Concept",
-    "5-Temp/Database/Innodb",
     "real-resource-image/Pasted image 20231223233013.png",
     "real-resource-image/Pasted image 20240119224729.png",
     "real-resource-image/Pasted image 20240116230222.png",
