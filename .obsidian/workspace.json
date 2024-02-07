@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Study Matirials/Untitled.md",
+                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "localhost",
+                "query": "blocking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Study Matirials/Untitled.md",
+                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Study Matirials/Untitled.md",
+                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Study Matirials/Untitled.md"
+                "file": "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md"
               }
             }
           }
@@ -166,8 +167,20 @@
   },
   "active": "3f5a7e4083e176b8",
   "lastOpenFiles": [
+    "0-SSD/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+    "5-Temp/테스트/SpringBootTest.md",
+    "5-Temp/마인드셋/변화.md",
+    "5-Temp/Java&Kotlin/java8 stream lambda.md",
+    "4-Archive/Concept/CAP.md",
+    "5-Temp/Computer Science/Untitled.md",
+    "5-Temp/Computer Science/virtual memory space.md",
+    "5-Temp/마인드셋/기술내용 외의 글/시간난다, 시간낸다.md",
+    "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
+    "5-Temp/Spring/jpa id필드 var.md",
+    "5-Temp/rest/path variable vs query param.md",
+    "4-Archive/Study Matirials/컴퓨터과학 스스로 학습하기.md",
+    "5-Temp/rest",
     "2-Area/Series/kotlin/coroutine/Coroutine.md",
-    "4-Archive/Study Matirials/Untitled.md",
     "2-Area/Series/kotlin/coroutine/코루틴.md",
     "5-Temp/Computer Science/Network/localhost vs 127.0.0.1.md",
     "5-Temp/마인드셋/기술내용 외의 글/신뢰를 잃어버리는 몇 가지 습관.md",
@@ -182,22 +195,11 @@
     "2-Area/Series/kotlin/coroutine/CoroutineInterceptor.md",
     "2-Area/Series/kotlin/coroutine/Coroutine-11.md",
     "2-Area/Series/kotlin/coroutine/6-Coroutine builder.md",
-    "2-Area/Series/kotlin/coroutine/4-Coroutine suspend.md",
-    "2-Area/Series/kotlin/coroutine/5-Coroutine  CPS.md",
     "Pasted image 20240204111912.png",
-    "2-Area/Series/kotlin/coroutine/99-Job.md",
-    "2-Area/Series/kotlin/coroutine/3-CoroutinDispatcher.md",
-    "2-Area/Series/kotlin/coroutine/2-CoroutineScope.md",
-    "2-Area/Series/kotlin/coroutine/1-CoroutineContext.md",
-    "2-Area/Series/kotlin/coroutine/0-Coroutine.md",
     "Pasted image 20240203234029.png",
-    "2-Area/Series/kotlin/coroutine/Continuation.md",
-    "2-Area/Series/Async-messaging/Async-messaging.md",
     "Pasted image 20240203163401.png",
     "Pasted image 20240203163338.png",
     "2-Area/Series/kotlin/coroutine",
-    "3-Resource/Database/mysqldmup.md",
-    "5-Temp/Database/Query실행 순서.md",
     "Pasted image 20240129182336.png",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
@@ -206,7 +208,6 @@
     "5-Temp/InfraStructure/Redis",
     "5-Temp/InfraStructure/Docker",
     "5-Temp/Database/Tools",
-    "5-Temp/Database/Concept",
     "real-resource-image/Pasted image 20231223233013.png",
     "real-resource-image/Pasted image 20240119224729.png",
     "real-resource-image/Pasted image 20240116230222.png",
