@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/coroutine/6-Coroutine builder.md",
+                "file": "2-Area/Series/coroutine/0-Coroutine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/coroutine/6-Coroutine builder.md",
+                "file": "2-Area/Series/coroutine/0-Coroutine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/coroutine/6-Coroutine builder.md",
+                "file": "2-Area/Series/coroutine/0-Coroutine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/coroutine/6-Coroutine builder.md"
+                "file": "2-Area/Series/coroutine/0-Coroutine.md"
               }
             }
           }
@@ -166,16 +166,17 @@
   },
   "active": "3f5a7e4083e176b8",
   "lastOpenFiles": [
+    "2-Area/Series/coroutine/1-CoroutineContext.md",
+    "2-Area/Series/coroutine/2-CoroutineScope.md",
+    "2-Area/Series/coroutine/0-Coroutine.md",
+    "2-Area/Series/coroutine/6-Coroutine builder.md",
     "2-Area/Series/coroutine/Coroutine.md",
     "2-Area/Series/coroutine/코루틴.md",
     "2-Area/Series/coroutine/7-Job.md",
     "2-Area/Series/coroutine/3-CoroutinDispatcher.md",
     "2-Area/Series/coroutine/5-Coroutine  CPS.md",
     "2-Area/Series/coroutine/4-Coroutine suspend.md",
-    "2-Area/Series/coroutine/6-Coroutine builder.md",
     "Pasted image 20240207224956.png",
-    "2-Area/Series/coroutine/1-CoroutineContext.md",
-    "2-Area/Series/coroutine/0-Coroutine.md",
     "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "0-SSD/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "5-Temp/테스트/SpringBootTest.md",
@@ -193,7 +194,6 @@
     "5-Temp/Computer Science/Network/localhost vs 127.0.0.1.md",
     "5-Temp/마인드셋/기술내용 외의 글/신뢰를 잃어버리는 몇 가지 습관.md",
     "5-Temp/마인드셋/Untitled.md",
-    "4-Archive/JAVA/vm option.md",
     "4-Archive/Database/Query",
     "Pasted image 20240204111912.png",
     "Pasted image 20240203234029.png",

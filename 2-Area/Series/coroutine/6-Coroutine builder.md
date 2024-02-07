@@ -128,6 +128,7 @@ fun main(){
 //end
 ```
 
+> suspend 함수 내부에서 launch, async를 호출할떄는 coroutineScope{}로 코루틴스코프를 새로 생성 후 호출해야함
 ## withContext
 
 ```kotlin
