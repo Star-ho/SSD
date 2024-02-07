@@ -1,6 +1,8 @@
 ---
 createDate: 2024-02-07T22:54:00
 ---
+### JOB은 코루틴이 상속하지 않는 유일한 코루틴 컨텍스트임
+
 ## 생명주기
 ![[Pasted image 20240207224956.png|center|600]]
 
@@ -28,7 +30,12 @@ createDate: 2024-02-07T22:54:00
 - 후처리 작업이 완료되면 CANCELLED상태로 변경됨
 
 ### CANCELLED
-- CANCELLING에서 후처리 작업이 완료
+- CANCELLING에서 후처리 작업이 완료된 상태
+- final상태이므로 상태가 변경되지 않음
+
+---
+
+- Coroutine builder빌더는 부모의 잡을 기초로 자신들의 잡을 생성함
 
 https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-job/
 https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-job.html
