@@ -1,3 +1,31 @@
+## Coroutine은 어떤 방식으로 Reactor를 지원하는가
+- 아래 코드는는 org.jetbrains.kotlinx:kotlinx-coroutines-reactor의 mono\<T\>를 suspend 해서 T로 변경하는 awaitSingleOrNull함수이다
+```kotlin
+public suspend fun <T> Mono<T>.awaitSingleOrNull(): T? = suspendCancellableCoroutine { cont ->  
+    injectCoroutineContext(cont.context).subscribe(object : Subscriber<T> {  
+        private var seenValue = false  
+  
+        override fun onSubscribe(s: Subscription) {  
+            cont.invokeOnCancellation { s.cancel() }  
+            s.request(Long.MAX_VALUE)  
+        }  
+  
+        override fun onComplete() {  
+            if (!seenValue) cont.resume(null)  
+        }  
+  
+        override fun onNext(t: T) {  
+            seenValue = true  
+            cont.resume(t)  
+        }  
+  
+        override fun onError(error: Throwable) { cont.resumeWithException(error) }  
+    })  
+}
+```
+- Mono를 확장함수
+- injectCoroutineContext로 context를 주입한 후 subs
+
 ## 작업
 1. a에 요청 
    	- 리스폰스 A

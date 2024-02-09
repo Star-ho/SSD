@@ -27,7 +27,7 @@ createDate: 2024-02-03T22:46:00
 	- 또한 thread가 무한정 생성하면 Out-Of-Memory가 발생
 
 ### Default Dispatcher와 IO Dispatcher를 함께쓴다면?
-```
+```kotlin
 suspend fun main(): Unit = coroutineScope {
     launch(Dispatchers.Default) {
         println(Thread.currentThread().name)
@@ -46,7 +46,7 @@ suspend fun main(): Unit = coroutineScope {
 - IO Dispatcher에서 limitedParallelism는 다른 Dispatcher와 다르게 동작함
 	- 새로운 독립된 쓰레드 풀을 가진 Dispatcher를 생성함
 - 원하는 만큼, 64개보다 더 많은 쓰레드를 지정할 수 있음
-```
+```kotlin
 import kotlinx.coroutines.*
 import kotlin.system.measureTimeMillis
 
@@ -89,7 +89,7 @@ suspend fun printCoroutinesTime(
 - Default Dispatcher에서는 limitedParallelism사용시 기존 쓰레드풀 내에서 특정작업을 위한 쓰레드갯수를 지정함
 
 - 쓰레드에 대한 더 세밀한 조정을 위해 asCoroutineDispatcher함수로 dispatcher를 지정할 수 있음
-```
+```kotlin
 val NUMBER_OF_THREADS = 20
 val dispatcher = Executors
     .newFixedThreadPool(NUMBER_OF_THREADS)
@@ -99,7 +99,7 @@ val dispatcher = Executors
 - limitedParallelism(1)로 동시성 제어를 할 수 있음
 
 - VirtualThread를 위한 지원도 있음
-```
+```kotlin
 val LoomDispatcher = Executors
     .newVirtualThreadPerTaskExecutor()
     .asCoroutineDispatcher()
