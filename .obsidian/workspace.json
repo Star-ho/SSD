@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "```",
+                "query": "ㅋ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +165,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3f5a7e4083e176b8",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
     "2-Area/Series/coroutine/1-CoroutineContext.md",
     "2-Area/Series/coroutine/3-CoroutinDispatcher.md",

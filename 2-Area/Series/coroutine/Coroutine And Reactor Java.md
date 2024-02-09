@@ -24,7 +24,14 @@ public suspend fun <T> Mono<T>.awaitSingleOrNull(): T? = suspendCancellableCorou
 }
 ```
 - Mono를 확장함수
-- injectCoroutineContext로 context를 주입한 후 subs
+- injectCoroutineContext로 context를 주입한 후 subscribe함
+- subscribe시 Subscriber를 정의함
+	- onSubscribet시 continuation의 취소 핸들러를 정의함
+	- onNext시 인자로 받은 값을 continuation의 resume에 인자로 호출
+	- onComplete시 null을 continuation의 resume에 인자로 호출
+	- onError시 인자로 받은 error를 continuation의 resumWithException에 인자로 호출
+
+### Coroutine은 onSubscribe시 Subscriber에 동작을 추가함으로서 reactor를 지원함
 
 ## 작업
 1. a에 요청 
