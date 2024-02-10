@@ -1,6 +1,6 @@
 - 소프트웨어의 복잡성을 해결하는 방법중 하나
 - 객체의 메서드를 Query와 Command로 분리하는것
-- CQRS는 side effect 어떻게 다룰까에 대한 문제임
+- CQRS는 side effect 어떻게 다룰까에 관한 문제임
 
 ### Query
 - 객체의 상태를 변경시키지 않고 특정한 값을 리턴하는 메서드
@@ -36,9 +36,6 @@
 > 	- query에서는 side effect가 생기면 안되기 때문
 
 https://martinfowler.com/bliki/CommandQuerySeparation.html
-
-
-
 https://blog.ploeh.dk/2014/08/11/cqs-versus-server-generated-ids/
 
 #Software-design 

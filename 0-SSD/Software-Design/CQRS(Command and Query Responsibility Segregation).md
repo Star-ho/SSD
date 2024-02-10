@@ -36,9 +36,6 @@
 > 	- query에서는 side effect가 생기면 안되기 때문
 
 https://martinfowler.com/bliki/CommandQuerySeparation.html
-
-
-
 https://blog.ploeh.dk/2014/08/11/cqs-versus-server-generated-ids/
 
 #Software-design 
