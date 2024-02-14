@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
+                "file": "2-Area/Series/cache/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
+                "file": "2-Area/Series/cache/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
+                "file": "2-Area/Series/cache/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Async-messaging/Async-messaging.md"
+                "file": "2-Area/Series/cache/Untitled.md"
               }
             }
           }
@@ -165,8 +164,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "3f5a7e4083e176b8",
   "lastOpenFiles": [
+    "2-Area/Series/cache/cache.md",
+    "2-Area/Series/Async-messaging/Async-messaging.md",
     "4-Archive/Study Matirials/컴퓨터과학 스스로 학습하기.md",
     "4-Archive/Study Matirials/dev handbook.md",
     "4-Archive/Study Matirials/MSA 관련 유튜브.md",
@@ -191,8 +192,6 @@
     "2-Area/Series/coroutine/6-Coroutine builder.md",
     "2-Area/Series/coroutine/Coroutine.md",
     "2-Area/Series/coroutine/코루틴.md",
-    "2-Area/Series/coroutine/7-Job.md",
-    "2-Area/Series/coroutine/5-Coroutine  CPS.md",
     "Pasted image 20240207224956.png",
     "5-Temp/rest",
     "4-Archive/Database/Query",
