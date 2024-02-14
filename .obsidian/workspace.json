@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Study Matirials/컴퓨터과학 스스로 학습하기.md",
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cqs",
+                "query": "query exc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Study Matirials/컴퓨터과학 스스로 학습하기.md",
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Study Matirials/컴퓨터과학 스스로 학습하기.md",
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Study Matirials/컴퓨터과학 스스로 학습하기.md"
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md"
               }
             }
           }
@@ -164,12 +165,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3f5a7e4083e176b8",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
+    "4-Archive/Study Matirials/컴퓨터과학 스스로 학습하기.md",
     "4-Archive/Study Matirials/dev handbook.md",
     "4-Archive/Study Matirials/MSA 관련 유튜브.md",
     "4-Archive/Study Matirials/System Design Case Studies.md",
-    "4-Archive/Study Matirials/컴퓨터과학 스스로 학습하기.md",
     "4-Archive/Study Matirials/유쾌한 스프링방 콘서트.md",
     "4-Archive/Study Matirials/우형 프리코스 github.md",
     "4-Archive/Study Matirials/리눅스 커널 doc.md",
