@@ -23,7 +23,8 @@ public suspend fun <T> Mono<T>.awaitSingleOrNull(): T? = suspendCancellableCorou
     })  
 }
 ```
-- Mono를 확장함수
+- Mono의 확장함수
+- 기존에는 값을 바로 가져오려면 block()을 호출하여 데이터를 가져올 때 까지 Thread를 block시켰음
 - injectCoroutineContext로 context를 주입한 후 subscribe함
 - subscribe시 Subscriber를 정의함
 	- onSubscribet시 continuation의 취소 핸들러를 정의함
@@ -87,17 +88,18 @@ val c:C = webclient.get("c").awaitSingle()
 1. A에 요청하는 publisher생성 후 요청보냄
 - selector에 등록
 - selector에서 리스폰스 오면 subscriber에게 알림
-- subscriber는 
+- subscriber는 continuation.resume()을 호출하여 해당 continuation재실행
 - 리스폰스 생성
 
 2. B에 요청하는 publisher생성 후 요청보냄
 - selector에 등록
 - selector에서 리스폰스 오면 subscriber에게 알림
+- subscriber는 continuation.resume()을 호출하여 해당 continuation재실행
 - 리스폰스 생성
 
 - continuation 결과를 기존 로직을 실행하는 (쓰레드?)에 '전달'함
 
-3.C를 보내기전에 reactor에서도 wait가 필요 
+3. C를 보내기전에 reactor에서도 wait가 필요 
 
 
 io dispatcher에도 selector가 있어
