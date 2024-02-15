@@ -70,6 +70,7 @@ return c
 - 리스폰스 생성
 
 3. C를 보내기전에 reactor에서도 wait가 필요 
+- publisher를 사용하므로, thread를 block하는게 아닌 queue에 들어감
 
 ## coroutine
 
@@ -100,7 +101,6 @@ val c:C = webclient.get("c").awaitSingle()
 - continuation 결과를 기존 로직을 실행하는 (쓰레드?)에 '전달'함
 
 3. C를 보내기전에 reactor에서도 wait가 필요 
-
 
 io dispatcher에도 selector가 있어
 send만 하고 다른 클라이언트로 스위칭 하는지?
