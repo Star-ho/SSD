@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/coroutine/7-Job.md",
+                "file": "0-SSD/Tools/p6spy.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "레디스 펍섭 유실잇어서",
+                "query": "p6spy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/coroutine/7-Job.md",
+                "file": "0-SSD/Tools/p6spy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/coroutine/7-Job.md",
+                "file": "0-SSD/Tools/p6spy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/coroutine/7-Job.md"
+                "file": "0-SSD/Tools/p6spy.md"
               }
             }
           }
@@ -177,10 +177,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "ed58d6d5b36db8d5",
   "lastOpenFiles": [
-    "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
+    "5-Temp/Spring/p6spy.md",
     "2-Area/Series/coroutine/7-Job.md",
+    "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
     "2-Area/Series/coroutine/2-CoroutineScope.md",
     "2-Area/Series/coroutine/1-CoroutineContext.md",
     "5-Temp/0-이직자료/면접자료/기초cs.md",
@@ -204,7 +205,6 @@
     "5-Temp/Softeware Architecture/분산 트랜잭션.md",
     "2-Area/Series/coroutine/3-CoroutinDispatcher.md",
     "2-Area/Series/Server/9-Reactive Streams.md",
-    "2-Area/Series/coroutine/0-Coroutine.md",
     "Pasted image 20240207224956.png",
     "5-Temp/rest",
     "4-Archive/Database/Query",
