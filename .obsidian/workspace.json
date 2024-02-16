@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-SSD/Tools/p6spy.md",
+                "file": "2-Area/Series/cache/Caching Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-SSD/Tools/p6spy.md",
+                "file": "2-Area/Series/cache/Caching Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-SSD/Tools/p6spy.md",
+                "file": "2-Area/Series/cache/Caching Strategy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-SSD/Tools/p6spy.md"
+                "file": "2-Area/Series/cache/Caching Strategy.md"
               }
             }
           }
@@ -181,6 +180,11 @@
   },
   "active": "ed58d6d5b36db8d5",
   "lastOpenFiles": [
+    "Pasted image 20240216132233.png",
+    "Pasted image 20240216132217.png",
+    "Pasted image 20240216132203.png",
+    "Pasted image 20240216132133.png",
+    "0-SSD/Tools/p6spy.md",
     "5-Temp/Spring/p6spy.md",
     "2-Area/Series/coroutine/7-Job.md",
     "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
@@ -188,7 +192,7 @@
     "2-Area/Series/coroutine/1-CoroutineContext.md",
     "5-Temp/0-이직자료/면접자료/기초cs.md",
     "2-Area/Series/cache/Untitled.md",
-    "2-Area/Series/cache/cache.md",
+    "2-Area/Series/cache/Caching Strategy.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "4-Archive/Study Matirials/컴퓨터과학 스스로 학습하기.md",
     "4-Archive/Study Matirials/dev handbook.md",
@@ -205,8 +209,6 @@
     "3-Resource/Software-Design/Saga Pattern.md",
     "5-Temp/z-etc/msa 트랜잭션 관리.md",
     "5-Temp/Softeware Architecture/분산 트랜잭션.md",
-    "2-Area/Series/coroutine/3-CoroutinDispatcher.md",
-    "2-Area/Series/Server/9-Reactive Streams.md",
     "Pasted image 20240207224956.png",
     "5-Temp/rest",
     "4-Archive/Database/Query",
@@ -224,9 +226,6 @@
     "5-Temp/InfraStructure/Docker",
     "5-Temp/Database/Tools",
     "real-resource-image/Pasted image 20231223233013.png",
-    "real-resource-image/Pasted image 20240119224729.png",
-    "real-resource-image/Pasted image 20240116230222.png",
-    "real-resource-image/Pasted image 20240115231350.png",
     "Untitled.canvas"
   ]
 }
