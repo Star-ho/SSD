@@ -155,7 +155,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
