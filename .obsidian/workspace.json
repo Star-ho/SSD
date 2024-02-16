@@ -180,6 +180,8 @@
   },
   "active": "ed58d6d5b36db8d5",
   "lastOpenFiles": [
+    "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
+    "2-Area/Series/cache/Caching Strategy.md",
     "Pasted image 20240216132233.png",
     "Pasted image 20240216132217.png",
     "Pasted image 20240216132203.png",
@@ -187,12 +189,10 @@
     "0-SSD/Tools/p6spy.md",
     "5-Temp/Spring/p6spy.md",
     "2-Area/Series/coroutine/7-Job.md",
-    "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
     "2-Area/Series/coroutine/2-CoroutineScope.md",
     "2-Area/Series/coroutine/1-CoroutineContext.md",
     "5-Temp/0-이직자료/면접자료/기초cs.md",
     "2-Area/Series/cache/Untitled.md",
-    "2-Area/Series/cache/Caching Strategy.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "4-Archive/Study Matirials/컴퓨터과학 스스로 학습하기.md",
     "4-Archive/Study Matirials/dev handbook.md",
@@ -225,7 +225,6 @@
     "5-Temp/InfraStructure/Redis",
     "5-Temp/InfraStructure/Docker",
     "5-Temp/Database/Tools",
-    "real-resource-image/Pasted image 20231223233013.png",
     "Untitled.canvas"
   ]
 }
