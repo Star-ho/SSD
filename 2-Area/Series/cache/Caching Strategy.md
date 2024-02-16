@@ -19,9 +19,13 @@
 ## 캐시 전략
 ### Cache-Aside
 ![[Pasted image 20240216132133.png|center|700]]
+- 캐시에서 데이터를 확인 후, 캐시에 데이터가 없다면 데이터베이스에 요청하는 방식
+- 어플리케이션이 캐시 관리의 책임을 가짐
+- 캐시를 최신상태로 관리하도록 노력이 많이 필요함
 
 ### Write-Through
 ![[Pasted image 20240216132203.png|center|700]]
+- 쓰기작업시 캣
 
 ### Write-Behind
 ![[Pasted image 20240216132217.png|center|700]]
