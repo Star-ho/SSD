@@ -1,0 +1,2 @@
+Rectangle
+마그네틱

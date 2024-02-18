@@ -1,1 +1,0 @@
-https://web.archive.org/web/20220121055640/butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
