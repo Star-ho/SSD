@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f5a7e4083e176b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
+                "file": "0-SSD/Architechure/OOD.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
+                "file": "0-SSD/Architechure/OOD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
+                "file": "0-SSD/Architechure/OOD.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/coroutine/Coroutine And Reactor Java.md"
+                "file": "0-SSD/Architechure/OOD.md"
               }
             }
           }
@@ -178,54 +166,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ed58d6d5b36db8d5",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
-    "2-Area/Series/coroutine/3-CoroutinDispatcher.md",
-    "2-Area/Series/coroutine/0-Coroutine.md",
-    "2-Area/Series/cache/Caching Strategy.md",
-    "2-Area/Series/Concurrency/9-Record Locks.md",
-    "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
-    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
-    "2-Area/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
-    "2-Area/Series/Concurrency/5-Optimistic Lock.md",
-    "2-Area/Series/Concurrency/4-Consistent Read(일관된 읽기).md",
-    "2-Area/Series/Concurrency/3-Critical section(임계영역).md",
-    "2-Area/Series/Concurrency/2-Semaphore.md",
-    "2-Area/Series/Concurrency/1-Mutex(Lock).md",
-    "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
-    "2-Area/Series/Async-messaging/Async-messaging.md",
-    "0-SSD/Concurrency/10-Isolation level(격리 수준).md",
-    "0-SSD/Concurrency/8-Intention shared lock, exclusive lock.md",
-    "0-SSD/Concurrency/11-분산락(Distributed lock).md",
-    "0-SSD/Concurrency/5-Optimistic Lock.md",
-    "0-SSD/Concurrency/4-Consistent Read(일관된 읽기).md",
-    "0-SSD/Concurrency/0-동시성(Concurrency).md",
-    "0-SSD/Concurrency/3-Critical section(임계영역).md",
-    "0-SSD/Concurrency/6-Exclusive Lock(X-Lock).md",
-    "0-SSD/Concurrency/7-Shared Lock(S-lock).md",
-    "0-SSD/Concurrency/2-Semaphore.md",
-    "0-SSD/Concurrency/9-Record Locks.md",
-    "0-SSD/Concurrency/1-Mutex(Lock).md",
-    "0-SSD/Concurrency",
-    "0-SSD/cache",
-    "cache",
+    "4-Archive/Database/오픈스택.md",
+    "4-Archive/Database/그룹별 순위 가져오기.md",
+    "4-Archive/Database/Query/버퍼풀 크기 확인 쿼리.md",
+    "4-Archive/Database/Query/테이블 크기 확인할 쿼리.md",
+    "4-Archive/Database/데비지움, CDC.md",
+    "4-Archive/Database/맵리듀스.md",
+    "4-Archive/kafka.md",
+    "1-Project/Temp에 있는것들 정리.md",
+    "3-Resource/Cache Passivation, Expiration, Eviction.md",
+    "0-SSD/Database/Query/버퍼풀 크기 확인 쿼리.md",
+    "0-SSD/Database/Query/테이블 크기 확인할 쿼리.md",
+    "0-SSD/Database/Query",
+    "0-SSD/Database/PostgreSQL vs MariaDB.md",
+    "0-SSD/Database/kafka.md",
+    "0-SSD/Database/DB 날려먹었을때 복구방법.md",
+    "0-SSD/Database/오픈스택.md",
+    "0-SSD/Database/맵리듀스.md",
+    "0-SSD/Database/데비지움, CDC.md",
+    "0-SSD/Database/그룹별 순위 가져오기.md",
+    "0-SSD/Concept/TSID(Sorted Unique Identifiers).md",
+    "0-SSD/Concept/Static vs Dynamic,Strong vs Weak.md",
+    "0-SSD/Concept/SPI(Service Provider Interface).md",
+    "0-SSD/Concept/OpenTelemetry.md",
+    "0-SSD/Concept/OLTP, OLAP, DW, DL.md",
+    "0-SSD/Concept/Forward Proxy, Reverse Proxy.md",
+    "0-SSD/Concept/DLQ(Dead Letter Queue).md",
+    "0-SSD/Concept/CPU bound, IO bound.md",
+    "0-SSD/Computer-Siece/shell command",
+    "0-SSD/Tool",
+    "0-SSD/Spring",
+    "0-SSD/Java&Kotlin",
+    "0-SSD/Infrastructure",
+    "0-SSD/Database/Innodb",
+    "0-SSD/Database",
+    "0-SSD/Concept",
+    "0-SSD/Computer-Siece",
     "Pasted image 20240218223235.png",
     "Pasted image 20240216132233.png",
     "Pasted image 20240216132217.png",
     "Pasted image 20240216132203.png",
     "Pasted image 20240216132133.png",
     "Pasted image 20240207224956.png",
-    "5-Temp/rest",
-    "4-Archive/Database/Query",
     "Pasted image 20240204111912.png",
     "Pasted image 20240203234029.png",
     "Pasted image 20240203163401.png",
     "Pasted image 20240203163338.png",
-    "2-Area/Series/coroutine",
-    "5-Temp/Computer Science/Concept",
-    "5-Temp/Java&Kotlin/coroutine",
-    "5-Temp/InfraStructure/elastic-search",
-    "5-Temp/InfraStructure/messsge-queue",
     "Untitled.canvas"
   ]
 }
