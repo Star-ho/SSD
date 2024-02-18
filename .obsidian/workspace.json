@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/0-이직자료/신기한 회사.md",
+                "file": "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/0-이직자료/신기한 회사.md",
+                "file": "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/0-이직자료/신기한 회사.md",
+                "file": "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/0-이직자료/신기한 회사.md"
+                "file": "2-Area/Series/coroutine/Coroutine And Reactor Java.md"
               }
             }
           }
@@ -180,36 +180,40 @@
   },
   "active": "ed58d6d5b36db8d5",
   "lastOpenFiles": [
-    "5-Temp/0-이직자료/이직 연봉 협상때.md",
-    "5-Temp/0-이직자료/신기한 회사.md",
-    "5-Temp/0-이직자료/서드파티 서비스에 장애가 생길 경우.md",
-    "5-Temp/0-이직자료/모든 회사에 어필 할 수 있는 지원 동기와 목표설정 방법.md",
-    "2-Area/생각정리/read, write, jpa?.md",
-    "2-Area/생각정리/황성호 공부법.md",
-    "2-Area/생각정리/혁펜하임 공부법.md",
-    "2-Area/생각정리/팀원으로서 마인드셋.md",
-    "2-Area/생각정리/테스트코드.md",
-    "2-Area/생각정리/클래스, 메서드,.md",
-    "2-Area/생각정리/일정.md",
-    "2-Area/생각정리/신경론.md",
-    "2-Area/생각정리/수정시 코드의 영향도.md",
-    "2-Area/생각정리/레거시.md",
-    "2-Area/생각정리/계속해서 기술공부를 하는 이유.md",
-    "2-Area/생각정리/개발자.md",
-    "5-Temp/코드짤떄/단일 책임의 원칙.md",
+    "2-Area/Series/coroutine/3-CoroutinDispatcher.md",
+    "2-Area/Series/coroutine/0-Coroutine.md",
     "2-Area/Series/cache/Caching Strategy.md",
-    "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
+    "2-Area/Series/Concurrency/9-Record Locks.md",
+    "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
+    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
+    "2-Area/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
+    "2-Area/Series/Concurrency/5-Optimistic Lock.md",
+    "2-Area/Series/Concurrency/4-Consistent Read(일관된 읽기).md",
+    "2-Area/Series/Concurrency/3-Critical section(임계영역).md",
+    "2-Area/Series/Concurrency/2-Semaphore.md",
+    "2-Area/Series/Concurrency/1-Mutex(Lock).md",
+    "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
+    "2-Area/Series/Async-messaging/Async-messaging.md",
+    "0-SSD/Concurrency/10-Isolation level(격리 수준).md",
+    "0-SSD/Concurrency/8-Intention shared lock, exclusive lock.md",
+    "0-SSD/Concurrency/11-분산락(Distributed lock).md",
+    "0-SSD/Concurrency/5-Optimistic Lock.md",
+    "0-SSD/Concurrency/4-Consistent Read(일관된 읽기).md",
+    "0-SSD/Concurrency/0-동시성(Concurrency).md",
+    "0-SSD/Concurrency/3-Critical section(임계영역).md",
+    "0-SSD/Concurrency/6-Exclusive Lock(X-Lock).md",
+    "0-SSD/Concurrency/7-Shared Lock(S-lock).md",
+    "0-SSD/Concurrency/2-Semaphore.md",
+    "0-SSD/Concurrency/9-Record Locks.md",
+    "0-SSD/Concurrency/1-Mutex(Lock).md",
+    "0-SSD/Concurrency",
+    "0-SSD/cache",
+    "cache",
+    "Pasted image 20240218223235.png",
     "Pasted image 20240216132233.png",
     "Pasted image 20240216132217.png",
     "Pasted image 20240216132203.png",
     "Pasted image 20240216132133.png",
-    "0-SSD/Tools/p6spy.md",
-    "5-Temp/Spring/p6spy.md",
-    "2-Area/Series/coroutine/7-Job.md",
-    "2-Area/Series/coroutine/2-CoroutineScope.md",
-    "2-Area/Series/coroutine/1-CoroutineContext.md",
-    "5-Temp/0-이직자료/면접자료/기초cs.md",
-    "2-Area/Series/cache/Untitled.md",
     "Pasted image 20240207224956.png",
     "5-Temp/rest",
     "4-Archive/Database/Query",
@@ -218,14 +222,10 @@
     "Pasted image 20240203163401.png",
     "Pasted image 20240203163338.png",
     "2-Area/Series/coroutine",
-    "Pasted image 20240129182336.png",
     "5-Temp/Computer Science/Concept",
     "5-Temp/Java&Kotlin/coroutine",
     "5-Temp/InfraStructure/elastic-search",
     "5-Temp/InfraStructure/messsge-queue",
-    "5-Temp/InfraStructure/Redis",
-    "5-Temp/InfraStructure/Docker",
-    "5-Temp/Database/Tools",
     "Untitled.canvas"
   ]
 }

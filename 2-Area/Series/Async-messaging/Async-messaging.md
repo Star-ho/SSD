@@ -8,7 +8,6 @@
 # 방식
 ## Database(Transaction Outbox Pattern)
 ### 구성
-![Pasted image 20231105224429.png](app://df8f59cfdb2eba9748f1ed25dad91cbedcbe/Users/sungho/obsidian/SSD/real-resource-image/Pasted%20image%2020231105224429.png?1699191869128)
 - 데이터베이스 테이블을 messaging box로 이용
 - 해당 데이터 + 상태 로 구성됨
 	- 상태는 진행예정, 진행중, 완료 등의 상태가 있음
@@ -29,7 +28,7 @@
 
 ## Redis Pub-sub
 
-![[Pasted image 20240110132820.png]]
+![[Pasted image 20240110132820.png|center|700]]
 - subscriber가 해당 channel을 구독하고 있을때, publisher가 데이터를 publish하면 구독하고 있는 모든 subscriber에게 데이터를 전달함
 - subscriber가 존재하지 않는다면 따로 보관하지 않으므로 데이터는 사라짐
 - 100프로 전송 보장이 되지 않아도 문제없는 케이스에서 사용하기 좋음
