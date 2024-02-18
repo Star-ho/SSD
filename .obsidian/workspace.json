@@ -11,9 +11,11 @@
             "id": "ed58d6d5b36db8d5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "real-resource-image/Pasted image 20240129182336.png"
+                "file": "2-Area/생각정리/신경론.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real-resource-image/Pasted image 20240129182336.png",
+                "file": "2-Area/생각정리/신경론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real-resource-image/Pasted image 20240129182336.png",
+                "file": "2-Area/생각정리/신경론.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real-resource-image/Pasted image 20240129182336.png"
+                "file": "2-Area/생각정리/신경론.md"
               }
             }
           }
@@ -166,6 +168,20 @@
   },
   "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "0-SSD/내생각/복잡한 코드란?.md",
+    "2-Area/내 생각/복잡한 코드란?.md",
+    "2-Area/생각정리/레거시.md",
+    "2-Area/생각정리/신경론.md",
+    "2-Area/생각정리/일정.md",
+    "2-Area/생각정리/수정시 코드의 영향도.md",
+    "2-Area/생각정리/계속해서 기술공부를 하는 이유.md",
+    "2-Area/생각정리/개발자.md",
+    "2-Area/생각정리/테스트코드.md",
+    "2-Area/생각정리/혁펜하임 공부법.md",
+    "2-Area/생각정리/팀원으로서 마인드셋.md",
+    "0-SSD/내생각",
+    "2-Area/내 생각",
+    "real-resource-image/Pasted image 20240129182336.png",
     "0-SSD/Spring/spring boot yaml.md",
     "0-SSD/Tool/MybatisX.md",
     "0-SSD/Tool/memory-measurer.md",
@@ -181,18 +197,7 @@
     "0-SSD/Tool/Byte Buddy.md",
     "0-SSD/Tool/Brotli.md",
     "0-SSD/Tool/화면분할 in mac.md",
-    "0-SSD/Tool/테스트 픽스처 도구.md",
-    "0-SSD/Tool/드로윙 툴.md",
-    "0-SSD/Tool/Java Development Kit Version 20 Tool Specifications.md",
-    "0-SSD/Tip/디버깅.md",
-    "0-SSD/Tip/code convention.md",
-    "0-SSD/Tip/인텔리제이 java 버전 변경 시.md",
-    "0-SSD/Tip/Time zone 관련 팁.md",
     "0-SSD/Tip",
-    "0-SSD/Study Matirials/공부할자료.md",
-    "0-SSD/Study Matirials/우형 프리코스 github.md",
-    "0-SSD/Study Matirials/컴퓨터과학 스스로 학습하기.md",
-    "0-SSD/Study Matirials/개발관련 유튜브.md",
     "0-SSD/Study Matirials",
     "0-SSD/Spring/Study Matirials",
     "0-SSD/JVM",
@@ -200,8 +205,6 @@
     "0-SSD/Frontend",
     "0-SSD/Database/Query",
     "0-SSD/Computer-Siece/shell command",
-    "0-SSD/Tool",
-    "0-SSD/Spring",
     "real-resource-image/Pasted image 20240218223235.png",
     "real-resource-image/Pasted image 20240216132233.png",
     "real-resource-image/Pasted image 20240216132217.png",
@@ -211,7 +214,6 @@
     "real-resource-image/Pasted image 20240204111912.png",
     "real-resource-image/Pasted image 20240203234029.png",
     "real-resource-image/Pasted image 20240203163401.png",
-    "real-resource-image/Pasted image 20240203163338.png",
     "Untitled.canvas"
   ]
 }
