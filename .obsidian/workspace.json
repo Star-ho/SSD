@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-SSD/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                "file": "3-Resource/JVM/Garbage Collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "running",
+                "query": "garbage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-SSD/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                "file": "3-Resource/JVM/Garbage Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-SSD/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                "file": "3-Resource/JVM/Garbage Collection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-SSD/Spring/Hibernate Associate(하이버네이트 연관관계).md"
+                "file": "3-Resource/JVM/Garbage Collection.md"
               }
             }
           }
@@ -167,8 +166,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "ed58d6d5b36db8d5",
   "lastOpenFiles": [
+    "5-Temp/Java&Kotlin/java garbage collector.md",
+    "3-Resource/JVM/Garbage Collection.md",
+    "5-Temp/Java&Kotlin/Garbage collection.md",
+    "0-SSD/JVM/jvm option for Container.md",
+    "3-Resource/JVM/jvm option for Container.md",
+    "0-SSD/Spring/Hibernate Associate(하이버네이트 연관관계).md",
     "0-SSD/Spring/JPA 영속성전이, 프록시객체.md",
     "2-Area/생각정리/신경론.md",
     "0-SSD/0-Server-Paradigm/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
@@ -192,12 +197,6 @@
     "0-SSD/Tool/Kotlin Auto fill.md",
     "0-SSD/Tool/Konsist.md",
     "0-SSD/Tool/JRebel.md",
-    "0-SSD/Tool/Eclips memory Analyzer.md",
-    "0-SSD/Tool/DeepL.md",
-    "0-SSD/Tool/Cucumber.md",
-    "0-SSD/Tool/ctop.md",
-    "0-SSD/Tool/Clippy.md",
-    "0-SSD/Tool/Byte Buddy.md",
     "0-SSD/Tip",
     "0-SSD/Study Matirials",
     "0-SSD/Spring/Study Matirials",
