@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/생각정리/신경론.md",
+                "file": "0-SSD/Spring/Hibernate Associate(하이버네이트 연관관계).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "단일 책임의",
+                "query": "running",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/생각정리/신경론.md",
+                "file": "0-SSD/Spring/Hibernate Associate(하이버네이트 연관관계).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/생각정리/신경론.md",
+                "file": "0-SSD/Spring/Hibernate Associate(하이버네이트 연관관계).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/생각정리/신경론.md"
+                "file": "0-SSD/Spring/Hibernate Associate(하이버네이트 연관관계).md"
               }
             }
           }
@@ -166,10 +167,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ed58d6d5b36db8d5",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
-    "0-SSD/0-Server-Paradigm/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
+    "0-SSD/Spring/JPA 영속성전이, 프록시객체.md",
     "2-Area/생각정리/신경론.md",
+    "0-SSD/0-Server-Paradigm/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "0-SSD/내생각/복잡한 코드란?.md",
     "2-Area/내 생각/복잡한 코드란?.md",
     "2-Area/생각정리/레거시.md",
@@ -196,7 +198,6 @@
     "0-SSD/Tool/ctop.md",
     "0-SSD/Tool/Clippy.md",
     "0-SSD/Tool/Byte Buddy.md",
-    "0-SSD/Tool/Brotli.md",
     "0-SSD/Tip",
     "0-SSD/Study Matirials",
     "0-SSD/Spring/Study Matirials",
