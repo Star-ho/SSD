@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58dd6ee16f2bcbba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Resource/Database/Sargable query.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "garbage",
+                "query": "sarg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection.md",
+                "file": "3-Resource/Database/Sargable query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection.md",
+                "file": "3-Resource/Database/Sargable query.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection.md"
+                "file": "3-Resource/Database/Sargable query.md"
               }
             }
           }
@@ -166,10 +180,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ed58d6d5b36db8d5",
+  "active": "58dd6ee16f2bcbba",
   "lastOpenFiles": [
-    "5-Temp/Java&Kotlin/java garbage collector.md",
     "3-Resource/JVM/Garbage Collection.md",
+    "3-Resource/Database/Sargable query.md",
+    "5-Temp/Java&Kotlin/java garbage collector.md",
     "5-Temp/Java&Kotlin/Garbage collection.md",
     "0-SSD/JVM/jvm option for Container.md",
     "3-Resource/JVM/jvm option for Container.md",
@@ -196,7 +211,6 @@
     "0-SSD/Tool/Locust.md",
     "0-SSD/Tool/Kotlin Auto fill.md",
     "0-SSD/Tool/Konsist.md",
-    "0-SSD/Tool/JRebel.md",
     "0-SSD/Tip",
     "0-SSD/Study Matirials",
     "0-SSD/Spring/Study Matirials",
