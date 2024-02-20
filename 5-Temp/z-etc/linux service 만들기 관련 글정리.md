@@ -15,9 +15,14 @@ Description=Systemd Test Daemon
 Type=simple
 ExecStart=java -jar /root/ktx-cron/build/libs/ktx-cron-1.0-SNAPSHOT.jar
 Restart=always
+RuntimeMaxSec=1d
+```
+
+```
 
 [Install]
 WantedBy=multi-user.target
+
 ```
 
 서비스 실행

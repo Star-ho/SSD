@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "bfd3a54738ca430e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Resource/JVM/Garbage Collection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "88e877073b4f2d43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
+                "file": "5-Temp/Java&Kotlin/java garbage collector.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jar",
+                "query": "garbage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md"
+                "file": "5-Temp/Java&Kotlin/Garbage collection.md"
               }
             }
           }
@@ -167,9 +177,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "88e877073b4f2d43",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "5-Temp/Java&Kotlin/java garbage collector.md",
+    "3-Resource/JVM/Garbage Collection.md",
+    "5-Temp/Java&Kotlin/Garbage collection.md",
     "0-SSD/JVM/kotlin vs java.md",
+    "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
     "5-Temp/마인드셋/기획과 개발의 경계.md",
     "5-Temp/z-etc/응답 메시지 바디에 이스케이프 문자가 포함되는 이유.md",
     "5-Temp/z-etc/msa.md",
@@ -191,10 +205,6 @@
     "5-Temp/마인드셋/깊은 고민을 잘한다.md",
     "5-Temp/마인드셋/개발익혀야할것들.md",
     "5-Temp/마인드셋/개발자란.md",
-    "5-Temp/마인드셋/내가 오류를 잘 찾는 이유.md",
-    "5-Temp/마인드셋/코드 문서화.md",
-    "2-Area/1-Weekly-Reading/림프관 마사지.md",
-    "5-Temp/InfraStructure/IaC 장점 7원칙.md",
     "Pasted image 20240220131636.png",
     "0-SSD/내생각",
     "2-Area/내 생각",
