@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f470f03a4cc2e474",
+        "id": "0de607758aad5340",
         "type": "tabs",
         "children": [
           {
-            "id": "f2d7b836212e63b6",
+            "id": "88e877073b4f2d43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/IaC 장점 7원칙.md",
+                "file": "0-SSD/JVM/kotlin vs java.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IaC 장점 7",
+                "query": "kotlin vs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/IaC 장점 7원칙.md",
+                "file": "0-SSD/JVM/kotlin vs java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/IaC 장점 7원칙.md",
+                "file": "0-SSD/JVM/kotlin vs java.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/IaC 장점 7원칙.md"
+                "file": "0-SSD/JVM/kotlin vs java.md"
               }
             }
           }
@@ -166,35 +167,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f2d7b836212e63b6",
+  "active": "88e877073b4f2d43",
   "lastOpenFiles": [
-    "2-Area/0-Sung-ho/인생 팁/금융.md",
-    "5-Temp/InfraStructure/IaC 장점 7원칙.md",
-    "5-Temp/Java&Kotlin/kotlin sealed class.md",
-    "2-Area/0-Sung-ho/운전 팁.md",
-    "5-Temp/InfraStructure/카프카 순서보장.md",
-    "5-Temp/InfraStructure/저장소의 성능을 올리는 법.md",
-    "5-Temp/z-etc/모니터링 툴.md",
-    "Pasted image 20240220131636.png",
-    "5-Temp/z-etc/톰캣 쓰레드.md",
-    "3-Resource/JVM/Garbage Collection.md",
-    "5-Temp/ㅆ.md",
-    "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
-    "5-Temp/Concept/동시성 문제.md",
-    "5-Temp/Concept/ROP.md",
-    "5-Temp/Spring/Spring tip repo.md",
+    "5-Temp/마인드셋/기획과 개발의 경계.md",
+    "5-Temp/z-etc/응답 메시지 바디에 이스케이프 문자가 포함되는 이유.md",
+    "5-Temp/z-etc/msa.md",
+    "5-Temp/z-etc/SICP.md",
+    "5-Temp/마인드셋/내가 리더가 되면 사과를 빠르게하자.md",
+    "5-Temp/마인드셋/팀원과의 합의.md",
+    "5-Temp/마인드셋/팀플할때.md",
+    "5-Temp/마인드셋/트래픽 예상시.md",
+    "5-Temp/마인드셋/완벽하다고 생각하는 사람은 방심이라는 녹에 슬기 쉽다.md",
+    "5-Temp/마인드셋/역사를 알아야하는 이유.md",
+    "5-Temp/마인드셋/새로운 코드, 프로젝트, 남의코드를 볼때.md",
     "5-Temp/마인드셋/변화.md",
-    "2-Area/0-Sung-ho/광교 맛집.md",
-    "4-Archive/Concept/CAP.md",
-    "1-Project/InnoDB.md",
-    "3-Resource/Database/Innodb/Undo log.md",
-    "3-Resource/Database/Innodb/Redo log.md",
-    "3-Resource/Database/Innodb/Log Buffer.md",
-    "3-Resource/Database/Innodb/Change Buffer.md",
-    "3-Resource/Database/Innodb/adaptive hash index.md",
-    "3-Resource/Database/Innodb/Buffer Pool.md",
-    "3-Resource/Database/쿼리 실행 순서.md",
-    "3-Resource/Database/Sargable query.md",
+    "5-Temp/마인드셋/변하지 않을 근본적인 기술에 대한건.md",
+    "5-Temp/마인드셋/리팩토링.md",
+    "5-Temp/마인드셋/거짓말.md",
+    "5-Temp/마인드셋/개발하다 막혔을때.md",
+    "5-Temp/마인드셋/공부할때.md",
+    "5-Temp/마인드셋/기분, 태도.md",
+    "5-Temp/마인드셋/깊은 고민을 잘한다.md",
+    "5-Temp/마인드셋/개발익혀야할것들.md",
+    "5-Temp/마인드셋/개발자란.md",
+    "5-Temp/마인드셋/내가 오류를 잘 찾는 이유.md",
+    "5-Temp/마인드셋/코드 문서화.md",
+    "2-Area/1-Weekly-Reading/림프관 마사지.md",
+    "5-Temp/InfraStructure/IaC 장점 7원칙.md",
+    "2-Area/0-Sung-ho/인생 팁/금융.md",
+    "Pasted image 20240220131636.png",
     "0-SSD/내생각",
     "2-Area/내 생각",
     "real-resource-image/Pasted image 20240129182336.png",
