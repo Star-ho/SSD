@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4da496564acb5d50",
+        "id": "f470f03a4cc2e474",
         "type": "tabs",
         "children": [
           {
-            "id": "ed58d6d5b36db8d5",
+            "id": "f2d7b836212e63b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "748de97e94392a30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Temp/Concept/동시성 문제.md",
+                "file": "5-Temp/InfraStructure/IaC 장점 7원칙.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://kciter.so/posts/railway-oriented-programming",
+                "query": "IaC 장점 7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Concept/동시성 문제.md",
+                "file": "5-Temp/InfraStructure/IaC 장점 7원칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Concept/동시성 문제.md",
+                "file": "5-Temp/InfraStructure/IaC 장점 7원칙.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Concept/동시성 문제.md"
+                "file": "5-Temp/InfraStructure/IaC 장점 7원칙.md"
               }
             }
           }
@@ -179,15 +166,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "748de97e94392a30",
+  "active": "f2d7b836212e63b6",
   "lastOpenFiles": [
-    "5-Temp/Concept/ROP.md",
+    "2-Area/0-Sung-ho/인생 팁/금융.md",
+    "5-Temp/InfraStructure/IaC 장점 7원칙.md",
+    "5-Temp/Java&Kotlin/kotlin sealed class.md",
+    "2-Area/0-Sung-ho/운전 팁.md",
+    "5-Temp/InfraStructure/카프카 순서보장.md",
+    "5-Temp/InfraStructure/저장소의 성능을 올리는 법.md",
+    "5-Temp/z-etc/모니터링 툴.md",
+    "Pasted image 20240220131636.png",
+    "5-Temp/z-etc/톰캣 쓰레드.md",
+    "3-Resource/JVM/Garbage Collection.md",
+    "5-Temp/ㅆ.md",
+    "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
     "5-Temp/Concept/동시성 문제.md",
+    "5-Temp/Concept/ROP.md",
     "5-Temp/Spring/Spring tip repo.md",
     "5-Temp/마인드셋/변화.md",
     "2-Area/0-Sung-ho/광교 맛집.md",
     "4-Archive/Concept/CAP.md",
-    "3-Resource/JVM/Garbage Collection.md",
     "1-Project/InnoDB.md",
     "3-Resource/Database/Innodb/Undo log.md",
     "3-Resource/Database/Innodb/Redo log.md",
@@ -197,16 +195,6 @@
     "3-Resource/Database/Innodb/Buffer Pool.md",
     "3-Resource/Database/쿼리 실행 순서.md",
     "3-Resource/Database/Sargable query.md",
-    "5-Temp/Java&Kotlin/java garbage collector.md",
-    "5-Temp/Java&Kotlin/Garbage collection.md",
-    "0-SSD/JVM/jvm option for Container.md",
-    "3-Resource/JVM/jvm option for Container.md",
-    "0-SSD/Spring/Hibernate Associate(하이버네이트 연관관계).md",
-    "0-SSD/Spring/JPA 영속성전이, 프록시객체.md",
-    "2-Area/생각정리/신경론.md",
-    "0-SSD/0-Server-Paradigm/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
-    "0-SSD/내생각/복잡한 코드란?.md",
-    "2-Area/내 생각/복잡한 코드란?.md",
     "0-SSD/내생각",
     "2-Area/내 생각",
     "real-resource-image/Pasted image 20240129182336.png",
@@ -226,7 +214,6 @@
     "real-resource-image/Pasted image 20240207224956.png",
     "real-resource-image/Pasted image 20240204111912.png",
     "real-resource-image/Pasted image 20240203234029.png",
-    "real-resource-image/Pasted image 20240203163401.png",
     "Untitled.canvas"
   ]
 }

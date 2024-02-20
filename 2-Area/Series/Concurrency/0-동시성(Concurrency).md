@@ -22,26 +22,26 @@
 - Temporary Update Problem( dirty read problem)
 	- 커밋되지 않은 데이터를 읽어서 발생하는 문제
 ![[Pasted image 20231218231800.png|center|400]]
-- Incorrect Summary Problem
-	- 
 - Phantom Read Problem
 	- 데이터가 삭제되어 같은 트랜잭션에서 데이터를 못가져오는 문제
 ![[Pasted image 20231218231610.png|center|400]]
 
 
 ## 해결책
+- 동시성 문제는 어떻게 동시에 처리하지 않을까에 대한 고민
+- 추상화한것들 어떻게 구체화 할것인가
 1. 개념
 	- critical section
 	- mutex
 	- semaphore
 
-3. JAVA에서 코드레벨  lock [참고자료](https://www.baeldung.com/java-mutex)
+2. JAVA에서 코드레벨  lock [참고자료](https://www.baeldung.com/java-mutex)
 	- synchronized
 	- lock
 	- Semaphore
 	- Guava’s  Monitor
 
-4. 데이터베이스에서 동시성 문제 처리
+3. 데이터베이스에서 동시성 문제 처리
 	- lock mode
 		- Shared Lock
 		- Exclusive Lock
@@ -55,7 +55,7 @@
 		- insert intention lock
 	- isolation level
 
-5. Named Lock
+4. Named Lock
 	- redis
 	- database
 
