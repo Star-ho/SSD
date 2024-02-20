@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3-Resource/JVM/Garbage Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3-Resource/JVM/Garbage Collection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Java&Kotlin/Garbage collection.md"
+                "file": "3-Resource/JVM/Garbage Collection.md"
               }
             }
           }
@@ -177,11 +178,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "bfd3a54738ca430e",
   "lastOpenFiles": [
+    "5-Temp/Java&Kotlin/Garbage collection.md",
     "5-Temp/Java&Kotlin/java garbage collector.md",
     "3-Resource/JVM/Garbage Collection.md",
-    "5-Temp/Java&Kotlin/Garbage collection.md",
     "0-SSD/JVM/kotlin vs java.md",
     "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
     "5-Temp/마인드셋/기획과 개발의 경계.md",

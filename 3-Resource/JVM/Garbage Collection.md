@@ -3,8 +3,6 @@
 
 
 https://d2.naver.com/helloworld/1329
-https://d2.naver.com/helloworld/37111
-https://d2.naver.com/helloworld/6043
 https://d2.naver.com/helloworld/0128759
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
 https://developers.redhat.com/articles/2021/08/20/stages-and-levels-java-garbage-collection#generational_garbage_collection
