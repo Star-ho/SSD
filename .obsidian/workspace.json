@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/마인드셋/피드백.md",
+                "file": "3-Resource/JVM/Garbage Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/마인드셋/피드백.md",
+                "file": "3-Resource/JVM/Garbage Collection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/마인드셋/피드백.md"
+                "file": "3-Resource/JVM/Garbage Collection.md"
               }
             }
           }
@@ -179,8 +178,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "88e877073b4f2d43",
+  "active": "bfd3a54738ca430e",
   "lastOpenFiles": [
+    "5-Temp/마인드셋/피드백.md",
     "5-Temp/마인드셋/피드백 잘 하는법.md",
     "5-Temp/Concept/MVC MVP MMVM VIPER.md",
     "Pasted image 20240221232515.png",
@@ -207,7 +207,6 @@
     "5-Temp/마인드셋/역사를 알아야하는 이유.md",
     "5-Temp/마인드셋/새로운 코드, 프로젝트, 남의코드를 볼때.md",
     "5-Temp/마인드셋/변화.md",
-    "5-Temp/마인드셋/변하지 않을 근본적인 기술에 대한건.md",
     "Pasted image 20240220131636.png",
     "0-SSD/내생각",
     "2-Area/내 생각",
