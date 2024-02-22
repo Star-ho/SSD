@@ -20,6 +20,23 @@
 ![[Pasted image 20240222133340.png|center|400]]
 - Memory Allocator는 비어있는 공간에 대한 첫번째 참조를 가지고, 메모리를 순차적으로 할당
 
+## Generation Garbage Collection
+
+![[Pasted image 20240222224100.png|center|600]]
+- JVM의 모든 객체를 marking하고 compact하는것은 비효율적임
+- 시간이 지날수록 객체의 숫자는 늘어가며 이에따라 garbage collection의 시간은 증가할것임
+- 하지만 대부분의 객체의 수명은 짧기에 Generation Garbage Collection을 사용함
+	- 경험적으로 증명됨
+- 위의 그래프에서 알 수 있듯이 대부분의 객체의 수명은 짧고, 시간이 지남에 따라 객체의 숫자가 줄어든다는 것을 파악할 수 있음
+
+![[Pasted image 20240222224505.png|center|600]]
+- JVM heap은 위와 같이 3가지 구역(Young, Old, Permanent)으로 나뉨
+- Yong Generation
+	- 새로운 객체가 할당되고, aged되는 곳
+	- Yong Generation이 가득차면 minor gc가 발생함
+	- minor gc는 객체의 사망률이 높을때 최적화됨
+	- dead object는 빠르게 수거됨
+	- 살아남은 일부 객체는 Old Gen로 이동함
 
 https://d2.naver.com/helloworld/1329
 https://d2.naver.com/helloworld/0128759
