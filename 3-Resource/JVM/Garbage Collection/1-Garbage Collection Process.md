@@ -21,7 +21,26 @@
 - 다음 miner GC때 3의 동작이 한번 더 발생됨
 - Referenced 객체는 suvivor 영역으로 이동하고, Unreferenced 객체는 삭제됨
 - 3과 다른점은 S0에 존재했던 객체들이 S1영역 으로 간다는 것
-- S0에서 S1으로 이동한 객체는 이동하면서 
+- S0에서 S1으로 이동한 객체는 이동하면서 1살을 더 먹음
+- miner GC가 발생하므로서 Eden과 S0은 비워지고 S1에만 객체가 존재함
+
+### 5. Additional Aging
+![[Pasted image 20240222233018.png|center|600]]
+- 다음 minor GC때 4의 과정이 반복되며 나이를 먹음
+- S1에 있던 Referenced 객체들이 S0으로 이동하며 나이를 먹고, Eden과 S2 영역은 비워짐
+
+### 6. Promotion - 1
+![[Pasted image 20240222233216.png|center|600]]
+- 계속 minor gc가 발생하고, 특정 임계값(예제에서는 8)을 넘은 객체들은 Old Generation(Tenured)영역으로 이동함
+
+### Promotion -2
+![[Pasted image 20240222233418.png|center|400]]
+- minor GC가 계속 발생하면서 Old Generation으로 객체가 계속 승격됨
+
+### GC Process Summary
+![[Pasted image 20240222233605.png|center|600]]
+- 결국에는 Old Generation에도 객체가 꽉차고 major GC가 발생함
+
 
 
 
