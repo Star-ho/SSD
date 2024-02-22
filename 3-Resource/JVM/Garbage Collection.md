@@ -36,7 +36,23 @@
 	- Yong Generation이 가득차면 minor gc가 발생함
 	- minor gc는 객체의 사망률이 높을때 최적화됨
 	- dead object는 빠르게 수거됨
-	- 살아남은 일부 객체는 Old Gen로 이동함
+	- 살아남은 일부 객체는 Old Generation으로 이동함
+	- minor gc가 발생할때 Stop-the-world가 발생함
+>Stop-the-world가 발생하면 모든 어플리케이션의 쓰레드가 중지됨
+
+- Old Generation
+	- 오래 살아남은 객체가 저장되는곳
+	- Yong Generation에는 임계값이 존재하고 임계값을 넘어서 생존하는 경우 Old Generation으로 이동함
+	- 언젠간 Old Generation에도 Garbage Collection이 발생해야 하고 이것을 major GC로 명명함
+	- major gc에서도 Stop-the-world가 발생함
+	- major gc는 모든 살아있는 객체를 대상으로 하기에 느림
+	- 반응형 애플리케이션에서는 major gc가 최소한으로 발생해야함
+	- major gc는 Old Generation에서 사용하는 garbage collector 종류에 따라 Stop-the-world의 시간이 결정됨
+
+- Permanent Generation
+	- JVM의 class와 Method를 describe하기 위한 정보가 저장됨
+	- Permanent Generation는 어플리케이션에서 사용중인 
+
 
 https://d2.naver.com/helloworld/1329
 https://d2.naver.com/helloworld/0128759
