@@ -1,5 +1,13 @@
 - 메모리 관리 기법중 하나로 프로그램이 동적으로 할당했던 메모리 영역 중에서 필요없게된 영역을 해제하는 기능
 
+## Garbage Collection 과정
+
+### Step 1. Marking
+- Garbage Collector가 메모리 조각중에서 사용되고 있는 것과 사용되지 않는것을 찾아 marking
+![[Pasted image 20240222132054.png|center|400]]
+
+### Step 2. Noㄱmal Deletion
+- 
 
 
 https://d2.naver.com/helloworld/1329
