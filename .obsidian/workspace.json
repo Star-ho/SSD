@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "94e84af4c4975f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bfd3a54738ca430e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection.md",
+                "file": "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process and Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection.md",
+                "file": "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process and Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection.md",
+                "file": "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process and Types.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection.md"
+                "file": "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process and Types.md"
               }
             }
           }
@@ -180,6 +193,12 @@
   },
   "active": "bfd3a54738ca430e",
   "lastOpenFiles": [
+    "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process and Types.md",
+    "Pasted image 20240222231607.png",
+    "3-Resource/JVM/Garbage Collection",
+    "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
+    "3-Resource/JVM/jvm option for Container.md",
     "Pasted image 20240222224505.png",
     "Pasted image 20240222224100.png",
     "Pasted image 20240222224037.png",
@@ -198,7 +217,6 @@
     "5-Temp/Java&Kotlin/JAVA lombok.md",
     "2-Area/0-Sung-ho/분업.md",
     "2-Area/0-Sung-ho/명상.md",
-    "3-Resource/JVM/Garbage Collection.md",
     "5-Temp/Java&Kotlin/Garbage collection.md",
     "0-SSD/JVM/kotlin vs java.md",
     "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
@@ -210,13 +228,9 @@
     "5-Temp/마인드셋/팀원과의 합의.md",
     "5-Temp/마인드셋/팀플할때.md",
     "5-Temp/마인드셋/트래픽 예상시.md",
-    "5-Temp/마인드셋/완벽하다고 생각하는 사람은 방심이라는 녹에 슬기 쉽다.md",
-    "5-Temp/마인드셋/역사를 알아야하는 이유.md",
-    "5-Temp/마인드셋/새로운 코드, 프로젝트, 남의코드를 볼때.md",
     "Pasted image 20240220131636.png",
     "0-SSD/내생각",
     "2-Area/내 생각",
-    "real-resource-image/Pasted image 20240129182336.png",
     "0-SSD/Tip",
     "0-SSD/Study Matirials",
     "0-SSD/Spring/Study Matirials",
@@ -224,8 +238,6 @@
     "0-SSD/Java&Kotlin",
     "0-SSD/Frontend",
     "0-SSD/Database/Query",
-    "0-SSD/Computer-Siece/shell command",
-    "real-resource-image/Pasted image 20240218223235.png",
     "Untitled.canvas"
   ]
 }

@@ -55,15 +55,12 @@
 	- Java SE 라이브러리 클래스 및 메서드가 채워질 수 있음
 	- JVM이 더 이상 필요없다고 판단하거나, 다른 클래스를 위한 공간이 필요할경우 unload될 수 있음
 	- Permanent Generation은 full garbage collection에 포함됨
-	
+> full garbage collection이란?
 
 
 
 https://d2.naver.com/helloworld/1329
-https://d2.naver.com/helloworld/0128759
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
-https://developers.redhat.com/articles/2021/08/20/stages-and-levels-java-garbage-collection#generational_garbage_collection
-https://developers.redhat.com/articles/2021/09/09/how-jvm-uses-and-allocates-memory#how_to_check_the_thread_stack_size
 
 #ComputerScience
 #java
