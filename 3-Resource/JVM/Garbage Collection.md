@@ -50,8 +50,13 @@
 	- major gc는 Old Generation에서 사용하는 garbage collector 종류에 따라 Stop-the-world의 시간이 결정됨
 
 - Permanent Generation
-	- JVM의 class와 Method를 describe하기 위한 정보가 저장됨
-	- Permanent Generation는 어플리케이션에서 사용중인 
+	- JVM의 class와 Method를 describe하기 위한 메타데이터가 저장됨
+	- Permanent Generation는 어플리케이션에서 사용중인 클래스를 기반으로 런타임에 JVM에 의해 채워짐
+	- Java SE 라이브러리 클래스 및 메서드가 채워질 수 있음
+	- JVM이 더 이상 필요없다고 판단하거나, 다른 클래스를 위한 공간이 필요할경우 unload될 수 있음
+	- Permanent Generation은 full garbage collection에 포함됨
+	
+
 
 
 https://d2.naver.com/helloworld/1329
