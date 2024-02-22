@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Java&Kotlin/java garbage collector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c94d13572243806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/0-Sung-ho/명상.md",
+                "file": "5-Temp/마인드셋/피드백.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/0-Sung-ho/명상.md",
+                "file": "5-Temp/마인드셋/피드백.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/0-Sung-ho/명상.md",
+                "file": "5-Temp/마인드셋/피드백.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/0-Sung-ho/명상.md"
+                "file": "5-Temp/마인드셋/피드백.md"
               }
             }
           }
@@ -191,10 +179,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4c94d13572243806",
+  "active": "88e877073b4f2d43",
   "lastOpenFiles": [
-    "2-Area/0-Sung-ho/명상.md",
+    "5-Temp/마인드셋/피드백 잘 하는법.md",
+    "5-Temp/Concept/MVC MVP MMVM VIPER.md",
+    "Pasted image 20240221232515.png",
     "5-Temp/Java&Kotlin/java garbage collector.md",
+    "5-Temp/Java&Kotlin/coroutine/coroutine, reactive streams.md",
+    "5-Temp/Java&Kotlin/coroutine/coroutine 블로그.md",
+    "5-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
+    "5-Temp/Java&Kotlin/JAVA lombok.md",
+    "2-Area/0-Sung-ho/분업.md",
+    "2-Area/0-Sung-ho/명상.md",
     "3-Resource/JVM/Garbage Collection.md",
     "5-Temp/Java&Kotlin/Garbage collection.md",
     "0-SSD/JVM/kotlin vs java.md",
@@ -212,13 +208,6 @@
     "5-Temp/마인드셋/새로운 코드, 프로젝트, 남의코드를 볼때.md",
     "5-Temp/마인드셋/변화.md",
     "5-Temp/마인드셋/변하지 않을 근본적인 기술에 대한건.md",
-    "5-Temp/마인드셋/리팩토링.md",
-    "5-Temp/마인드셋/거짓말.md",
-    "5-Temp/마인드셋/개발하다 막혔을때.md",
-    "5-Temp/마인드셋/공부할때.md",
-    "5-Temp/마인드셋/기분, 태도.md",
-    "5-Temp/마인드셋/깊은 고민을 잘한다.md",
-    "5-Temp/마인드셋/개발익혀야할것들.md",
     "Pasted image 20240220131636.png",
     "0-SSD/내생각",
     "2-Area/내 생각",
@@ -238,7 +227,6 @@
     "real-resource-image/Pasted image 20240216132133.png",
     "real-resource-image/Pasted image 20240207224956.png",
     "real-resource-image/Pasted image 20240204111912.png",
-    "real-resource-image/Pasted image 20240203234029.png",
     "Untitled.canvas"
   ]
 }
