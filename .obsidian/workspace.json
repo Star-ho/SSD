@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/마인드셋/피드백.md",
+                "file": "3-Resource/JVM/Lock/Lock.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
+                "file": "3-Resource/JVM/Lock/Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
+                "file": "3-Resource/JVM/Lock/Lock.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md"
+                "file": "3-Resource/JVM/Lock/Lock.md"
               }
             }
           }
@@ -191,15 +191,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bfd3a54738ca430e",
+  "active": "88e877073b4f2d43",
   "lastOpenFiles": [
+    "5-Temp/마인드셋/피드백.md",
+    "3-Resource/JVM/Lock/Lock.md",
+    "3-Resource/JVM/Lock",
+    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
     "Pasted image 20240222233605.png",
     "Pasted image 20240222233418.png",
     "Pasted image 20240222233216.png",
     "Pasted image 20240222233018.png",
     "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
     "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
-    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
     "Pasted image 20240222232408.png",
     "Pasted image 20240222232238.png",
     "Pasted image 20240222232133.png",
@@ -209,8 +212,6 @@
     "3-Resource/JVM/jvm option for Container.md",
     "Pasted image 20240222224505.png",
     "Pasted image 20240222224100.png",
-    "Pasted image 20240222224037.png",
-    "5-Temp/마인드셋/피드백.md",
     "5-Temp/마인드셋/피드백 잘 하는법.md",
     "5-Temp/Concept/MVC MVP MMVM VIPER.md",
     "5-Temp/Java&Kotlin/java garbage collector.md",
@@ -238,7 +239,6 @@
     "0-SSD/JVM",
     "0-SSD/Java&Kotlin",
     "0-SSD/Frontend",
-    "0-SSD/Database/Query",
     "Untitled.canvas"
   ]
 }
