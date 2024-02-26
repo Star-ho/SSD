@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/코드짤떄/DTO.md",
+                "file": "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rsistence layer",
+                "query": "reent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/코드짤떄/DTO.md",
+                "file": "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/코드짤떄/DTO.md",
+                "file": "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/코드짤떄/DTO.md"
+                "file": "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md"
               }
             }
           }
@@ -179,19 +180,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bfd3a54738ca430e",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
+    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
+    "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
+    "5-Temp/Java&Kotlin/java primitive vs wrapper.md",
+    "5-Temp/Java&Kotlin/whit java nested class is static?.md",
+    "5-Temp/Database/쿼리 프로파일링.md",
+    "5-Temp/마인드셋/개발에서 정리.md",
+    "5-Temp/Java&Kotlin/코틀린은 함수형패러다임을 지원하므로 list는 immutable하다.md",
+    "5-Temp/0-이직자료/세션 vs 토큰.md",
+    "5-Temp/InfraStructure/링크드인 카프카 이야기.md",
+    "5-Temp/Spring/fetch join이 실제 DB에선 inner join으로 동작.md",
     "5-Temp/InfraStructure/오픈스택.md",
     "5-Temp/코드짤떄/DTO.md",
-    "5-Temp/Spring/fetch join이 실제 DB에선 inner join으로 동작.md",
-    "5-Temp/InfraStructure/링크드인 카프카 이야기.md",
-    "5-Temp/0-이직자료/세션 vs 토큰.md",
-    "5-Temp/Java&Kotlin/코틀린은 함수형패러다임을 지원하므로 list는 immutable하다.md",
-    "5-Temp/마인드셋/개발에서 정리.md",
-    "5-Temp/Database/쿼리 프로파일링.md",
-    "5-Temp/Java&Kotlin/whit java nested class is static?.md",
-    "5-Temp/Java&Kotlin/java primitive vs wrapper.md",
-    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
+    "5-Temp/마인드셋/여러번 읽고 정리해야 하는 이유.md",
+    "5-Temp/Spring/스프링 볼트 vault.md",
+    "5-Temp/Softeware Architecture/대용량 아키텍처 고민해볼만한 내용.md",
+    "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "2-Area/0-Sung-ho/영양제.md",
     "5-Temp/마인드셋/신뢰비용.md",
     "5-Temp/테스트/다들 persistence layer도 테스트 다 작성하시나요?.md",
@@ -203,8 +209,6 @@
     "Pasted image 20240222233418.png",
     "Pasted image 20240222233216.png",
     "Pasted image 20240222233018.png",
-    "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
-    "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "Pasted image 20240222232408.png",
     "Pasted image 20240222232238.png",
     "Pasted image 20240222232133.png",
@@ -216,9 +220,6 @@
     "Pasted image 20240222224100.png",
     "5-Temp/마인드셋/피드백 잘 하는법.md",
     "5-Temp/Concept/MVC MVP MMVM VIPER.md",
-    "5-Temp/Java&Kotlin/java garbage collector.md",
-    "5-Temp/Java&Kotlin/coroutine/coroutine, reactive streams.md",
-    "5-Temp/Java&Kotlin/coroutine/coroutine 블로그.md",
     "0-SSD/내생각",
     "2-Area/내 생각",
     "0-SSD/Tip",
