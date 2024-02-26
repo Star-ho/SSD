@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Java&Kotlin/whit java nested class is static?.md",
+                "file": "5-Temp/코드짤떄/DTO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Java&Kotlin/whit java nested class is static?.md",
+                "file": "5-Temp/코드짤떄/DTO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Java&Kotlin/whit java nested class is static?.md",
+                "file": "5-Temp/코드짤떄/DTO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Java&Kotlin/whit java nested class is static?.md"
+                "file": "5-Temp/코드짤떄/DTO.md"
               }
             }
           }
@@ -181,8 +181,16 @@
   },
   "active": "bfd3a54738ca430e",
   "lastOpenFiles": [
-    "5-Temp/Java&Kotlin/java primitive vs wrapper.md",
+    "5-Temp/InfraStructure/오픈스택.md",
+    "5-Temp/코드짤떄/DTO.md",
+    "5-Temp/Spring/fetch join이 실제 DB에선 inner join으로 동작.md",
+    "5-Temp/InfraStructure/링크드인 카프카 이야기.md",
+    "5-Temp/0-이직자료/세션 vs 토큰.md",
+    "5-Temp/Java&Kotlin/코틀린은 함수형패러다임을 지원하므로 list는 immutable하다.md",
+    "5-Temp/마인드셋/개발에서 정리.md",
+    "5-Temp/Database/쿼리 프로파일링.md",
     "5-Temp/Java&Kotlin/whit java nested class is static?.md",
+    "5-Temp/Java&Kotlin/java primitive vs wrapper.md",
     "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
     "2-Area/0-Sung-ho/영양제.md",
     "5-Temp/마인드셋/신뢰비용.md",
@@ -211,14 +219,6 @@
     "5-Temp/Java&Kotlin/java garbage collector.md",
     "5-Temp/Java&Kotlin/coroutine/coroutine, reactive streams.md",
     "5-Temp/Java&Kotlin/coroutine/coroutine 블로그.md",
-    "5-Temp/Java&Kotlin/데이터 지향 프로그래밍.md",
-    "5-Temp/Java&Kotlin/JAVA lombok.md",
-    "2-Area/0-Sung-ho/분업.md",
-    "2-Area/0-Sung-ho/명상.md",
-    "5-Temp/Java&Kotlin/Garbage collection.md",
-    "0-SSD/JVM/kotlin vs java.md",
-    "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
-    "5-Temp/마인드셋/기획과 개발의 경계.md",
     "0-SSD/내생각",
     "2-Area/내 생각",
     "0-SSD/Tip",
