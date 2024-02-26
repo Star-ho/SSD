@@ -41,7 +41,7 @@
 ![[Pasted image 20240222233605.png|center|600]]
 - 결국에는 Old Generation에도 객체가 꽉차고 major GC가 발생함
 
-
+닌
 
 
 https://d2.naver.com/helloworld/1329

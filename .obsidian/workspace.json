@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88e877073b4f2d43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Resource/JVM/Lock/Lock.md",
+                "file": "5-Temp/Java&Kotlin/whit java nested class is static?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "garbage",
+                "query": "rsistence layer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Lock/Lock.md",
+                "file": "5-Temp/Java&Kotlin/whit java nested class is static?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Lock/Lock.md",
+                "file": "5-Temp/Java&Kotlin/whit java nested class is static?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Lock/Lock.md"
+                "file": "5-Temp/Java&Kotlin/whit java nested class is static?.md"
               }
             }
           }
@@ -191,12 +179,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "88e877073b4f2d43",
+  "active": "bfd3a54738ca430e",
   "lastOpenFiles": [
-    "5-Temp/마인드셋/피드백.md",
-    "3-Resource/JVM/Lock/Lock.md",
-    "3-Resource/JVM/Lock",
+    "5-Temp/Java&Kotlin/java primitive vs wrapper.md",
+    "5-Temp/Java&Kotlin/whit java nested class is static?.md",
     "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
+    "2-Area/0-Sung-ho/영양제.md",
+    "5-Temp/마인드셋/신뢰비용.md",
+    "5-Temp/테스트/다들 persistence layer도 테스트 다 작성하시나요?.md",
+    "3-Resource/JVM/Lock/Lock.md",
+    "5-Temp/ㅆ.md",
+    "5-Temp/마인드셋/피드백.md",
+    "3-Resource/JVM/Lock",
     "Pasted image 20240222233605.png",
     "Pasted image 20240222233418.png",
     "Pasted image 20240222233216.png",
@@ -225,12 +219,6 @@
     "0-SSD/JVM/kotlin vs java.md",
     "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
     "5-Temp/마인드셋/기획과 개발의 경계.md",
-    "5-Temp/z-etc/응답 메시지 바디에 이스케이프 문자가 포함되는 이유.md",
-    "5-Temp/z-etc/msa.md",
-    "5-Temp/z-etc/SICP.md",
-    "5-Temp/마인드셋/내가 리더가 되면 사과를 빠르게하자.md",
-    "5-Temp/마인드셋/팀원과의 합의.md",
-    "5-Temp/마인드셋/팀플할때.md",
     "0-SSD/내생각",
     "2-Area/내 생각",
     "0-SSD/Tip",
