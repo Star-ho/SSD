@@ -13,6 +13,7 @@
 ## Volatile
 ## VarHandle
 ## ExcutersService
+- CountDownLatch
 ## CAS
 
 
