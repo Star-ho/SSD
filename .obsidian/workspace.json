@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/z-etc/프로젝트 실리카.md",
+                "file": "3-Resource/JVM/Lock/Lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/z-etc/프로젝트 실리카.md",
+                "file": "3-Resource/JVM/Lock/Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/z-etc/프로젝트 실리카.md",
+                "file": "3-Resource/JVM/Lock/Lock.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/z-etc/프로젝트 실리카.md"
+                "file": "3-Resource/JVM/Lock/Lock.md"
               }
             }
           }
@@ -181,8 +182,8 @@
   },
   "active": "bfd3a54738ca430e",
   "lastOpenFiles": [
-    "5-Temp/z-etc/Ec2 메모리 swap.md",
     "5-Temp/z-etc/프로젝트 실리카.md",
+    "5-Temp/z-etc/Ec2 메모리 swap.md",
     "5-Temp/InfraStructure/클러스터링, 샤딩, 레플리케이션.md",
     "3-Resource/JVM/Lock/Lock.md",
     "0-SSD/0-Server-Paradigm/12-Virtual Thread.md",
