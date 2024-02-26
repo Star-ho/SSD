@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
+                "file": "5-Temp/z-etc/프로젝트 실리카.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
+                "file": "5-Temp/z-etc/프로젝트 실리카.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
+                "file": "5-Temp/z-etc/프로젝트 실리카.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md"
+                "file": "5-Temp/z-etc/프로젝트 실리카.md"
               }
             }
           }
@@ -180,10 +179,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "bfd3a54738ca430e",
   "lastOpenFiles": [
-    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
+    "5-Temp/z-etc/Ec2 메모리 swap.md",
+    "5-Temp/z-etc/프로젝트 실리카.md",
+    "5-Temp/InfraStructure/클러스터링, 샤딩, 레플리케이션.md",
+    "3-Resource/JVM/Lock/Lock.md",
+    "0-SSD/0-Server-Paradigm/12-Virtual Thread.md",
     "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
+    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
     "5-Temp/Java&Kotlin/java primitive vs wrapper.md",
     "5-Temp/Java&Kotlin/whit java nested class is static?.md",
     "5-Temp/Database/쿼리 프로파일링.md",
@@ -201,7 +205,6 @@
     "2-Area/0-Sung-ho/영양제.md",
     "5-Temp/마인드셋/신뢰비용.md",
     "5-Temp/테스트/다들 persistence layer도 테스트 다 작성하시나요?.md",
-    "3-Resource/JVM/Lock/Lock.md",
     "5-Temp/ㅆ.md",
     "5-Temp/마인드셋/피드백.md",
     "3-Resource/JVM/Lock",
@@ -214,12 +217,8 @@
     "Pasted image 20240222232133.png",
     "Pasted image 20240222231607.png",
     "3-Resource/JVM/Garbage Collection",
-    "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
-    "3-Resource/JVM/jvm option for Container.md",
     "Pasted image 20240222224505.png",
     "Pasted image 20240222224100.png",
-    "5-Temp/마인드셋/피드백 잘 하는법.md",
-    "5-Temp/Concept/MVC MVP MMVM VIPER.md",
     "0-SSD/내생각",
     "2-Area/내 생각",
     "0-SSD/Tip",
