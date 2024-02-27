@@ -7,7 +7,30 @@
 # 종류 및 사용방법
 
 ## Synchronized
-- 
+- java에서는 synchronized method와 synchronized statment를 제공함
+### synchronized method
+```kotlin
+class SynchronizedCounter {  
+    private var c = 0  
+  
+    @Synchronized  
+    fun increment() {  
+        c++  
+    }  
+  
+    @Synchronized  
+    fun decrement() {  
+        c--  
+    }  
+  
+    @Synchronized  
+    fun value(): Int {  
+        return c  
+    }  
+}
+```
+- synchronized 메소드를 사용하면 아래 2가지 효과를 얻을 수 있음
+	- 동일한 객체에 대해 동기화된 메서드 호출이 
 ## ReentrantLock
 - Condition
 ## Volatile
