@@ -32,7 +32,8 @@ class SynchronizedCounter {
 - synchronized 메소드를 사용하면 아래 2가지 효과를 얻을 수 있음
 	- 동일한 객체에 대해 synchronized 메서드 호출이 동시에 발생되지 않음
 		- 한 스레드가 객체에 대해 synchronized 메서드를 실행하면, 첫번째 쓰레드가 작업을 완료할때까지 동기화된 메서드를 호출하는 다른 모든 쓰레드가 block됨
-	- synchronized된 메서드가 종료되면, 동일한 객체에 대한 synchronized 메서드후
+	- synchronized된 메서드가 종료되면, 동일한 객체에 대한 synchronized 메서드의 후속  호출과 함께 happends-before 관계가 설립됨
+		- 이렇게 하면 모든 스레드에서 객체의 상태 변경 사항을 볼 수 있음
 - 생성자 메소드에는 synchronized를 호출할 수 없음
 ## ReentrantLock
 - Condition
