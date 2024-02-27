@@ -98,16 +98,15 @@ public class MsLunch {
 - Synchronized method or statements외에 사용시 IllegalMonitorStateException 오류 발생
 
 - wait
-- notify, notifyAll
-
-
-
-- Condition
-## Semaphore
-## VarHandle
-## ExcutersService
-- CountDownLatch
-## CAS
+	- 현재 쓰레드를 중단하고 객체 잠금을 해제함
+	 - notify() 또는 notifyAll메서드를 호출하여 해당 객체를 알릴때까지 대기함
+- notify
+	- 객체 잠금을 가진 한 쓰레드르 깨우고 실행함
+	- 깨어난 쓰레드는 객체 잠금을 얻고 작업을 수행
+	- 어떤 쓰레드를 깨울지는 알 수 없기에 notifyAll을 주로 사용
+- notifyAll
+	- 객체 잠금을 기다리는 모든 스레드르 꺠우고 실행
+	- 깨어난 쓰레드들은 객체 잠금을 얻기위해 경쟁함
 
 
 
