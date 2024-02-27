@@ -8,6 +8,17 @@
 # 종류 및 사용방법
 
 ## Synchronized
+- synchronized는 내재적 잠금(Intrinsic Lock) 또는 모니터 잠금(Monitor Lock)으로 알려진 내부 앤티티 중심으로 구현됨
+	- 내재적 잠금은 동기화의 두가지 측면을 구현함
+		- 객체의 상태에 대한 배타적 엑세스를 강제함
+		- 가시성에 필수적인 happens-before relationships(발생 전 관계)를 설정
+- java의 모든 Object은 내재적 잠금을 가지고 있음
+	- header에 들어가있음
+- 객체의 필드에 독점적이고 일관된 엑세스를 필요로 하는 쓰레드는, 객체를 접근하기전객체의 내재적 잠금을 얻어야함
+	- 그리고 작업이 끝나면 내재적 잠금을 해제(release)해야함
+- 쓰레드는 잠금을 획득한 시점부터 해제할때까지 내재적 잠금을 소유해야함
+- 한 스레드가 내재적 잠금을 소유하고 있으면, 다른 쓰레드는 같은 lock을 소유할 수 없음
+	- 다른 쓰레드가 잠금을 획득하려하면 
 - java에서는 synchronized method와 synchronized statment를 제공함
 ### synchronized method
 ```kotlin
@@ -36,6 +47,7 @@ class SynchronizedCounter {
 	- synchronized된 메서드가 종료되면, 동일한 객체에 대한 synchronized 메서드의 후속  호출과 함께 happends-before 관계가 설립됨
 		- 이로인해 모든 스레드에서 해당 객체 변경사항을 확인할 수 있음
 - 생성자 메소드에는 synchronized를 호출할 수 없음
+- wait, notifiy
 
 ### Synchronized statements
 ## ReentrantLock

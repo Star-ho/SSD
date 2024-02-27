@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "bfd3a54738ca430e",
+            "id": "154846165275dd24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,11 +179,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bfd3a54738ca430e",
+  "active": "154846165275dd24",
   "lastOpenFiles": [
     "3-Resource/JVM/Concurrent/Volitile.md",
-    "3-Resource/JVM/Concurrent/Lock.md",
     "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+    "5-Temp/JVM/Kotlin Any vs Java Object.md",
+    "3-Resource/JVM/Concurrent/Lock.md",
     "3-Resource/JVM/JVM memory structure.md",
     "Pasted image 20240226231714.png",
     "Pasted image 20240226231655.png",
@@ -193,11 +194,11 @@
     "0-SSD/0-Server-Paradigm/12-Virtual Thread.md",
     "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
     "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
-    "5-Temp/Java&Kotlin/java primitive vs wrapper.md",
-    "5-Temp/Java&Kotlin/whit java nested class is static?.md",
+    "5-Temp/JVM/java primitive vs wrapper.md",
+    "5-Temp/JVM/whit java nested class is static?.md",
     "5-Temp/Database/쿼리 프로파일링.md",
     "5-Temp/마인드셋/개발에서 정리.md",
-    "5-Temp/Java&Kotlin/코틀린은 함수형패러다임을 지원하므로 list는 immutable하다.md",
+    "5-Temp/JVM/코틀린은 함수형패러다임을 지원하므로 list는 immutable하다.md",
     "5-Temp/0-이직자료/세션 vs 토큰.md",
     "5-Temp/InfraStructure/링크드인 카프카 이야기.md",
     "5-Temp/Spring/fetch join이 실제 DB에선 inner join으로 동작.md",
@@ -208,7 +209,6 @@
     "5-Temp/Softeware Architecture/대용량 아키텍처 고민해볼만한 내용.md",
     "2-Area/0-Sung-ho/영양제.md",
     "5-Temp/마인드셋/신뢰비용.md",
-    "5-Temp/테스트/다들 persistence layer도 테스트 다 작성하시나요?.md",
     "3-Resource/JVM/Concurrent",
     "Pasted image 20240222233605.png",
     "Pasted image 20240222233418.png",
