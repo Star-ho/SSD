@@ -179,12 +179,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "bfd3a54738ca430e",
   "lastOpenFiles": [
     "3-Resource/JVM/Concurrent/Volitile.md",
+    "3-Resource/JVM/Concurrent/Lock.md",
+    "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+    "3-Resource/JVM/JVM memory structure.md",
     "Pasted image 20240226231714.png",
     "Pasted image 20240226231655.png",
-    "3-Resource/JVM/Concurrent/Lock.md",
     "5-Temp/z-etc/프로젝트 실리카.md",
     "5-Temp/z-etc/Ec2 메모리 swap.md",
     "5-Temp/InfraStructure/클러스터링, 샤딩, 레플리케이션.md",
@@ -204,7 +206,6 @@
     "5-Temp/마인드셋/여러번 읽고 정리해야 하는 이유.md",
     "5-Temp/Spring/스프링 볼트 vault.md",
     "5-Temp/Softeware Architecture/대용량 아키텍처 고민해볼만한 내용.md",
-    "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "2-Area/0-Sung-ho/영양제.md",
     "5-Temp/마인드셋/신뢰비용.md",
     "5-Temp/테스트/다들 persistence layer도 테스트 다 작성하시나요?.md",
