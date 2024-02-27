@@ -48,16 +48,6 @@
 | wait | await |
 | notify | signal |
 | notifyAll | signalAll |
-- wait - await
 
-
-
-## Semaphore
-## VarHandle
-## ExcutersService
-- CountDownLatch
-## CAS
-
-
-
+javadoc
 https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/locks/ReentrantLock.html
