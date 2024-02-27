@@ -18,9 +18,14 @@
 	- 그리고 작업이 끝나면 내재적 잠금을 해제(release)해야함
 - 쓰레드는 잠금을 획득한 시점부터 해제할때까지 내재적 잠금을 소유해야함
 - 한 스레드가 내재적 잠금을 소유하고 있으면, 다른 쓰레드는 같은 lock을 소유할 수 없음
-	- 다른 쓰레드가 잠금을 획득하려하면 
+	- 다른 쓰레드가 잠금을 획득하려하면 block됨
+- 스레드가 내재적 잠금을 해제하면, 해당 작업과 이후 동일한 잠금을 획득하는 모든 작업간에 선후(happens-before) 관계가 설정됨
+
 - java에서는 synchronized method와 synchronized statment를 제공함
 ### synchronized method
+- 스레드가 synchronized 메서드를 호추랗면, 해당 메서드의 객체에 대한 내재 잠금을 자동으로 획득하고 메서드가 반환될때 잠금을 해제
+	- 반환이 잡히지 않은 예외로 인해 발생한 경우에도 잠금이 해제됨
+- 정적 synchronized 메서드가 호출되면 객체가 아닌 클래스 객체에 대한 내재 잠금을 획득
 ```kotlin
 class SynchronizedCounter {  
     private var c = 0  
@@ -47,9 +52,11 @@ class SynchronizedCounter {
 	- synchronized된 메서드가 종료되면, 동일한 객체에 대한 synchronized 메서드의 후속  호출과 함께 happends-before 관계가 설립됨
 		- 이로인해 모든 스레드에서 해당 객체 변경사항을 확인할 수 있음
 - 생성자 메소드에는 synchronized를 호출할 수 없음
-- wait, notifiy
 
 ### Synchronized statements
+
+
+- wait, notifiy
 ## ReentrantLock
 - Condition
 ## Semaphore
