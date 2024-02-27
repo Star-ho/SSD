@@ -20,7 +20,14 @@
 - 다른 스레드에서 lock을 점유하고 있지 않다면 lock을 점유하고 즉시 return함
 - 현재 스레드에서 점유하고 있었다면, hold count를 1 증가시키고 즉시 return함
 - 다른 스레드에서 점유중이라면 현재 스레드는 사용불가능하고 lock을 얻을 수 있을때 까지 대기함
-- 
+	- lock을 얻는다면 hold count를 1로 세팅함
+### unLock()
+- lock을 헤제함
+- 현재 스레드가 lock을 점유하고 있다면 hold count를 1 감소시킴
+	- hold count가 0이 된다면 락을 해제함
+- 현재 스레드가 lock을 점유하고 있지 않다면 illegalMonitorStateException 예외를 발생시킴
+
+### tryLock
 
 
 - Condition
