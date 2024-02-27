@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/Lock.md",
+                "file": "5-Temp/JVM/jvm 종류.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reent",
+                "query": "graalvm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/Lock.md",
+                "file": "5-Temp/JVM/jvm 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/Lock.md",
+                "file": "5-Temp/JVM/jvm 종류.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/Lock.md"
+                "file": "5-Temp/JVM/jvm 종류.md"
               }
             }
           }
@@ -181,10 +182,10 @@
   },
   "active": "154846165275dd24",
   "lastOpenFiles": [
+    "3-Resource/JVM/Concurrent/Lock.md",
     "3-Resource/JVM/Concurrent/Volitile.md",
     "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "5-Temp/JVM/Kotlin Any vs Java Object.md",
-    "3-Resource/JVM/Concurrent/Lock.md",
     "3-Resource/JVM/JVM memory structure.md",
     "Pasted image 20240226231714.png",
     "Pasted image 20240226231655.png",

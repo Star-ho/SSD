@@ -23,9 +23,10 @@
 
 - java에서는 synchronized method와 synchronized statment를 제공함
 ### synchronized method
-- 스레드가 synchronized 메서드를 호추랗면, 해당 메서드의 객체에 대한 내재 잠금을 자동으로 획득하고 메서드가 반환될때 잠금을 해제
+- 스레드가 synchronized 메서드를 호출하면, 해당 메서드의 객체에 대한 내재 잠금을 자동으로 획득하고 메서드가 반환될때 잠금을 해제
 	- 반환이 잡히지 않은 예외로 인해 발생한 경우에도 잠금이 해제됨
-- 정적 synchronized 메서드가 호출되면 객체가 아닌 클래스 객체에 대한 내재 잠금을 획득
+	- 잠금이 객체단위에 적용되므로 increment뿐만 아닌 increment와 decrement도 동시에 동작하지 않음
+- 정적 synchronized 메서드가 호출되면 객체가 아닌 클래스에 대한 내재 잠금을 획득
 ```kotlin
 class SynchronizedCounter {  
     private var c = 0  
@@ -54,7 +55,19 @@ class SynchronizedCounter {
 - 생성자 메소드에는 synchronized를 호출할 수 없음
 
 ### Synchronized statements
-
+- synchronized method와 다르게 명시적으로 객체를 정의해야함
+- 명시적의로 정의한 객체의 잠금을 획득하고 반환할때 잠금을 해제함
+```java
+public void addName(String name) {
+    synchronized(this) {
+        lastName = name;
+        nameCount++;
+    }
+    nameList.add(name);
+}
+```
+- 위의 예시에서는 lastName과 nameCount에는 동기화가 필요하지만, nameList에는 동기화가 필요하지 않은 경우이다
+- Synchronized statements가 없다면 nameList.add를 호출하는 별도의 메서드가 필요함
 
 - wait, notifiy
 ## ReentrantLock
