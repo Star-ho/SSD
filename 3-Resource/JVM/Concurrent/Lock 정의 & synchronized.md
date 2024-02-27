@@ -94,9 +94,18 @@ public class MsLunch {
 	- 하지만 c1과 c2사이의 동기화는 고려하지도 않아도 됨
 - 위와 같은상황에서 synchronized statements가 유용함
 
-### wait, notify, notifyAll
-- java wait, notifiy
-## ReentrantLock
+### Synchronized method or statements에서만 사용가능한 메서드
+
+- Synchronized method or statements외에 사용시 
+![[Pasted image 20240227181021.png|center|800]]
+wait, notify, notifyAll
+
+## - wait(), notify(), notifyAll() 은 **동기화 메소드 또는 블록에서만 호출 가능**한 Object의 메소드  
+  두개의 쓰레드가 교대로 번갈아 가며 실행해야 할 경우에 주로 사용한다.  
+- wait() 호출한 쓰레드는 일시 정지가 된다.  
+- notify() or notifyAll()을 호출하면 다른 쓰레드가 실행 대기 상태가 된다.
+
+
 - Condition
 ## Semaphore
 ## VarHandle

@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+                "file": "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "154846165275dd24",
+            "id": "f6ed072acd76fd8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/Lock.md",
+                "file": "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/Lock.md",
+                "file": "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/Lock.md",
+                "file": "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/Lock.md"
+                "file": "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md"
               }
             }
           }
@@ -180,12 +179,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "154846165275dd24",
+  "active": "f6ed072acd76fd8a",
   "lastOpenFiles": [
-    "3-Resource/JVM/Concurrent/Volitile.md",
-    "3-Resource/JVM/Concurrent/Lock.md",
-    "5-Temp/JVM/jvm 종류.md",
+    "Pasted image 20240227181021.png",
+    "Pasted image 20240227181019.png",
+    "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
+    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
+    "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md",
     "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+    "4-Archive/Study Matirials/개발관련 유튜브.md",
+    "4-Archive/Study Matirials/java튜토리얼.md",
+    "5-Temp/일단 봐야함.md",
+    "3-Resource/JVM/Concurrent/Volitile.md",
+    "5-Temp/JVM/jvm 종류.md",
     "5-Temp/JVM/Kotlin Any vs Java Object.md",
     "3-Resource/JVM/JVM memory structure.md",
     "Pasted image 20240226231714.png",
@@ -195,7 +201,6 @@
     "5-Temp/InfraStructure/클러스터링, 샤딩, 레플리케이션.md",
     "0-SSD/0-Server-Paradigm/12-Virtual Thread.md",
     "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
-    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
     "5-Temp/JVM/java primitive vs wrapper.md",
     "5-Temp/JVM/whit java nested class is static?.md",
     "5-Temp/Database/쿼리 프로파일링.md",
@@ -205,11 +210,6 @@
     "5-Temp/InfraStructure/링크드인 카프카 이야기.md",
     "5-Temp/Spring/fetch join이 실제 DB에선 inner join으로 동작.md",
     "5-Temp/InfraStructure/오픈스택.md",
-    "5-Temp/코드짤떄/DTO.md",
-    "5-Temp/마인드셋/여러번 읽고 정리해야 하는 이유.md",
-    "5-Temp/Spring/스프링 볼트 vault.md",
-    "5-Temp/Softeware Architecture/대용량 아키텍처 고민해볼만한 내용.md",
-    "2-Area/0-Sung-ho/영양제.md",
     "3-Resource/JVM/Concurrent",
     "Pasted image 20240222233605.png",
     "Pasted image 20240222233418.png",
@@ -218,7 +218,6 @@
     "Pasted image 20240222232408.png",
     "Pasted image 20240222232238.png",
     "Pasted image 20240222232133.png",
-    "Pasted image 20240222231607.png",
     "3-Resource/JVM/Garbage Collection",
     "0-SSD/내생각",
     "2-Area/내 생각",
