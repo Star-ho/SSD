@@ -40,7 +40,15 @@
 - getQueuedThreads() : 락 점유 대기중인 스레드 Collection을 리턴
 
 ## Condition
-- 
+- Lock이 synchronized를 대체하듯 Condition은 Object를 대체함
+- Lock.newCondition 메서드로 생성가능
+
+| synchronized | lock |
+| :--: | :--: |
+| wait | await |
+| notify | signal |
+| notifyAll | signalAll |
+- wait - await
 
 
 

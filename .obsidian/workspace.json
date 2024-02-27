@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graalvm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,9 +142,17 @@
                 "file": "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md"
               }
             }
+          },
+          {
+            "id": "78c5d7263e8d7184",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "6b6a2ff2c4ca1ae3",
@@ -176,10 +185,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6ed072acd76fd8a",
+  "active": "78c5d7263e8d7184",
   "lastOpenFiles": [
     "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md",
     "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
