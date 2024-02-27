@@ -1,6 +1,5 @@
 # ReentrantLock
 - Lock 인터페이스의 구현체
-- 
 - synchronized method, statements와 기본적인 동작과 의미가 동일하지만 확장된 기능을 가짐
 - synchronized 키워드를 사용할때보다 더 유연하게 사용가능
 
@@ -27,8 +26,12 @@
 	- hold count가 0이 된다면 락을 해제함
 - 현재 스레드가 lock을 점유하고 있지 않다면 illegalMonitorStateException 예외를 발생시킴
 
-### tryLock
-
+### tryLock()
+- 다른 스레드에서 lock을 점유하지 않다면, 락을 점유하고 true를 리턴하고 hold count를 1로 세팅함
+	- 심지어 해당 ReentrantLock객체가 fair하게 동작하고 있고, 다른 스레드에서 lock을 대기하고 있는 상태라도 해당 lock을 점유할 수 있는 상태라면 lock을 점유함
+	- 만약 공정성을 해치고 싶지 않다면 tryLock(0,TimeUnit.SECONDS)로 호출하면 공정성을 해치지 않을 수 있음
+- 해당 스레드가 Lock을 이미 점유하고 있다면 true를 리턴하고 hold count를 1 증가시킴
+- 다른 스레드에 의해 이미 lock이 점유되어 있다면 즉시 false를 리턴함
 
 - Condition
 ## Semaphore
