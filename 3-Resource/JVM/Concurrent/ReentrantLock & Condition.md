@@ -33,7 +33,17 @@
 - 해당 스레드가 Lock을 이미 점유하고 있다면 true를 리턴하고 hold count를 1 증가시킴
 - 다른 스레드에 의해 이미 lock이 점유되어 있다면 즉시 false를 리턴함
 
-- Condition
+### 기타
+- hasQueuedThreads() : 해당 락을 점유하기 위해 대기하고 있는 쓰레드의 존재여부를 알려줌
+- hasQueuedThread(Thread thread) : 주어진 쓰레드가 락을 점유하기 위해 대기중인지 여부를 알려줌
+- getQueueLength() : 락 점유 대기중인 스레드 수를 알려줌
+- getQueuedThreads() : 락 점유 대기중인 스레드 Collection을 리턴
+
+## Condition
+- 
+
+
+
 ## Semaphore
 ## VarHandle
 ## ExcutersService
