@@ -4,7 +4,7 @@
 - synchronized method, statements와 기본적인 동작과 의미가 동일하지만 확장된 기능을 가짐
 - synchronized 키워드를 사용할때보다 더 유연하게 사용가능
 
-## 생성자
+## Fair
 - 생정자에서 fair변수의 값을 받음
 - fair가 true라면 잠금을 가장 오래 기다린 쓰레드에 엑세스 권한부여
 - false라면 특정 엑세스 순서를 보장하지 않음
@@ -14,6 +14,13 @@
 - tryLock 메소드는 fair필드의 여부와는 상관없음
 - tryLock을 사용한다면, 다른 쓰레드가 대기중이더라도 lock을 점유할 수 있음
 
+## Method
+### lock()
+- lock을 점유함
+- 다른 스레드에서 lock을 점유하고 있지 않다면 lock을 점유하고 즉시 return함
+- 현재 스레드에서 점유하고 있었다면, hold count를 1 증가시키고 즉시 return함
+- 다른 스레드에서 점유중이라면 현재 스레드는 사용불가능하고 lock을 얻을 수 있을때 까지 대기함
+- 
 
 
 - Condition
