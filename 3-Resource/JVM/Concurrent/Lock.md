@@ -36,6 +36,8 @@ class SynchronizedCounter {
 	- synchronized된 메서드가 종료되면, 동일한 객체에 대한 synchronized 메서드의 후속  호출과 함께 happends-before 관계가 설립됨
 		- 이로인해 모든 스레드에서 해당 객체 변경사항을 확인할 수 있음
 - 생성자 메소드에는 synchronized를 호출할 수 없음
+
+### Synchronized statements
 ## ReentrantLock
 - Condition
 ## Semaphore
