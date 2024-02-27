@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/JVM/jvm 종류.md",
+                "file": "3-Resource/JVM/Concurrent/Lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/JVM/jvm 종류.md",
+                "file": "3-Resource/JVM/Concurrent/Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/JVM/jvm 종류.md",
+                "file": "3-Resource/JVM/Concurrent/Lock.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/JVM/jvm 종류.md"
+                "file": "3-Resource/JVM/Concurrent/Lock.md"
               }
             }
           }
@@ -182,8 +182,9 @@
   },
   "active": "154846165275dd24",
   "lastOpenFiles": [
-    "3-Resource/JVM/Concurrent/Lock.md",
     "3-Resource/JVM/Concurrent/Volitile.md",
+    "3-Resource/JVM/Concurrent/Lock.md",
+    "5-Temp/JVM/jvm 종류.md",
     "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "5-Temp/JVM/Kotlin Any vs Java Object.md",
     "3-Resource/JVM/JVM memory structure.md",
@@ -209,7 +210,6 @@
     "5-Temp/Spring/스프링 볼트 vault.md",
     "5-Temp/Softeware Architecture/대용량 아키텍처 고민해볼만한 내용.md",
     "2-Area/0-Sung-ho/영양제.md",
-    "5-Temp/마인드셋/신뢰비용.md",
     "3-Resource/JVM/Concurrent",
     "Pasted image 20240222233605.png",
     "Pasted image 20240222233418.png",

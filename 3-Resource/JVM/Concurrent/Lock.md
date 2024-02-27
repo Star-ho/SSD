@@ -69,7 +69,33 @@ public void addName(String name) {
 - 위의 예시에서는 lastName과 nameCount에는 동기화가 필요하지만, nameList에는 동기화가 필요하지 않은 경우이다
 - Synchronized statements가 없다면 nameList.add를 호출하는 별도의 메서드가 필요함
 
-- wait, notifiy
+- 세분화된 동기화시에도 Synchronized statements가 유용함
+```java
+public class MsLunch {
+    private long c1 = 0;
+    private long c2 = 0;
+    private Object lock1 = new Object();
+    private Object lock2 = new Object();
+
+    public void inc1() {
+        synchronized(lock1) {
+            c1++;
+        }
+    }
+
+    public void inc2() {
+        synchronized(lock2) {
+            c2++;
+        }
+    }
+}
+```
+- c1과 c2는 절대 함께 사용되지 않으며, 이런 필드의 모든 업데이트는 동기화 되어야함
+	- 하지만 c1과 c2사이의 동기화는 고려하지도 않아도 됨
+- 위와 같은상황에서 synchronized statements가 유용함
+
+### wait, notify, notifyAll
+- java wait, notifiy
 ## ReentrantLock
 - Condition
 ## Semaphore
