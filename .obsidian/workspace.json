@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
+                "file": "3-Resource/JVM/Concurrent/Semaphore.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
+                "file": "3-Resource/JVM/Concurrent/Semaphore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
+                "file": "3-Resource/JVM/Concurrent/Semaphore.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md"
+                "file": "3-Resource/JVM/Concurrent/Semaphore.md"
               }
             }
           },
@@ -190,9 +190,9 @@
   },
   "active": "f6ed072acd76fd8a",
   "lastOpenFiles": [
+    "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
     "3-Resource/JVM/Concurrent/Semaphore.md",
     "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md",
-    "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
     "Pasted image 20240227181021.png",
     "Pasted image 20240227181019.png",
     "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
