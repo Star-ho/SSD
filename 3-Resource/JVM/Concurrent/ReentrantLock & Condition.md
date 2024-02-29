@@ -2,7 +2,7 @@
 - Lock 인터페이스의 구현체
 - synchronized method, statements와 기본적인 동작과 의미가 동일하지만 확장된 기능을 가짐
 - synchronized 키워드를 사용할때보다 더 유연하게 사용가능
-
+- lock을 얻은후 다시 Lock을 얻을 수 있음
 ## Fair
 - 생정자에서 fair변수의 값을 받음
 - fair가 true라면 잠금을 가장 오래 기다린 쓰레드에 엑세스 권한부여
