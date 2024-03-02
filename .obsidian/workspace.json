@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1747479085e4193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/Series/coroutine/2-CoroutineScope.md",
+                "file": "toTest/3-coroutine/2-CoroutineScope.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"createDate\"]",
+                "query": "[\"lastModifiedDate\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/coroutine/2-CoroutineScope.md",
+                "file": "toTest/3-coroutine/2-CoroutineScope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/coroutine/2-CoroutineScope.md",
+                "file": "toTest/3-coroutine/2-CoroutineScope.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/coroutine/2-CoroutineScope.md"
+                "file": "toTest/3-coroutine/2-CoroutineScope.md"
               }
             }
           },
@@ -189,13 +176,26 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e1747479085e4193",
+  "active": "94e84af4c4975f1a",
   "lastOpenFiles": [
-    "황성호.md",
+    "4-Archive/JVM/Bazel.md",
     "SSD.md",
+    "5-Temp/0122-12-29.md",
+    "toTest/3-coroutine/2-CoroutineScope.md",
+    "toTest/3-coroutine/4-Coroutine suspend.md",
+    "2-Area/Series/coroutine/2-CoroutineScope.md",
+    "toTest/3-coroutine/Coroutine And Reactor Java.md",
+    "toTest/3-coroutine/3-CoroutinDispatcher.md",
+    "toTest/3-coroutine/6-Coroutine builder.md",
+    "toTest/3-coroutine/7-Job.md",
+    "toTest/3-coroutine/5-Coroutine  CPS.md",
+    "toTest/3-coroutine/0-Coroutine.md",
+    "toTest/3-coroutine/1-CoroutineContext.md",
+    "toTest/3-coroutine",
+    "toTest",
+    "황성호.md",
     "publish.css",
     ":*",
-    "4-Archive/JVM/Bazel.md",
     "toHugo/Cache/Caching Strategy.md",
     "toHugo/Cache/Cache Passivation, Expiration, Eviction.md",
     "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
@@ -209,24 +209,12 @@
     "toHugo/Tool/Byte Buddy.md",
     "toHugo/Tool/MybatisX.md",
     "toHugo/Tool/Cucumber.md",
-    "toHugo/Tool/Codecove.md",
-    "toHugo/Tool/드로윙 툴.md",
-    "toHugo/Tool/jooq.md",
-    "toHugo/Tool/ctop.md",
-    "toHugo/Tool/Locust.md",
-    "toHugo/Tool/Konsist.md",
-    "toHugo/Tool/JRebel.md",
-    "toHugo/Tool/DeepL.md",
-    "toHugo/Tool/Clippy.md",
-    "toHugo/Tool/Brotli.md",
     "toHugo/Tool",
     "toHugo/Tip",
     "toHugo/thinking",
     "toHugo/Study Matirials",
     "toHugo/Spring",
     "toHugo/Software Design",
-    "toHugo/Life",
-    "toHugo/JVM",
     "real-resource-image/Pasted image 20240220131636.png",
     "real-resource-image/Pasted image 20240227181021.png",
     "real-resource-image/Pasted image 20240227181019.png",
