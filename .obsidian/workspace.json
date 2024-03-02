@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "7a52a4181fa2909c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "2a5b2f5688605b86",
             "type": "leaf",
             "state": {
@@ -35,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,6 +70,14 @@
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a52a4181fa2909c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -182,42 +181,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "custom-sort:Toggle custom sorting": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "7a52a4181fa2909c",
+  "active": "3083f928ef073b7e",
   "lastOpenFiles": [
+    "toTest/coroutine/00 0-Coroutine.md",
+    "toTest/coroutine/02 2-CoroutineScope.md",
+    "toTest/coroutine/코루틴.md",
+    "toTest/coroutine/vs thread.md",
+    "toTest/coroutine/CoroutineInterceptor.md",
+    "toTest/coroutine/Coroutine.md",
+    "toTest/coroutine/Coroutine And Reactor Java.md",
+    "toTest/coroutine/7-Job.md",
+    "toTest/coroutine/6-Coroutine builder.md",
+    "toTest/coroutine/5-Coroutine  CPS.md",
+    "toTest/coroutine/4-Coroutine suspend.md",
+    "toTest/coroutine/3-CoroutinDispatcher.md",
+    "toTest/coroutine/2-CoroutineScope.md",
+    "toTest/coroutine/1-CoroutineContext.md",
+    "toTest/coroutine/0-Coroutine.md",
     "0-SSD/황성호.md",
     "1-Project/InnoDB.md",
-    "toTest/coroutine/vs thread.md",
-    "toTest/coroutine/Coroutine.md",
-    "toTest/coroutine/0-Coroutine.md",
-    "toTest/coroutine/4-Coroutine suspend.md",
-    "toTest/coroutine/2-CoroutineScope.md",
+    "toTest/coroutine/12 vs thread.md",
+    "toTest/coroutine/09 Coroutine.md",
+    "toTest/coroutine/05 4-Coroutine suspend.md",
     "4-Archive/Computer-Science/0.0.0.0 ip address.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "real-resource-document/시스템 설계 청사진.md",
-    "toTest/coroutine/3-CoroutinDispatcher.md",
-    "toTest/coroutine/1-CoroutineContext.md",
+    "toTest/coroutine/04 3-CoroutinDispatcher.md",
+    "toTest/coroutine/03 1-CoroutineContext.md",
     "7-Zettlecasten.md",
     "Spaces/Home",
     "Spaces",
     "5-성호의 Second Brain.md",
-    "1-Project/Micro Sevice Pattern.md",
-    "2-Area/Series/Server/999-Reactor netty.md",
-    "2-Area/Series/coroutine/5-Coroutine  CPS.md",
-    "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
-    "2-Area/Series/cache/Caching Strategy.md",
-    "toTest/coroutine/코루틴.md",
-    "toTest/coroutine/CoroutineInterceptor.md",
-    "2-Area/Series/coroutine/코루틴.md",
-    "2-Area/Series/coroutine/CoroutineInterceptor.md",
-    "toTest/coroutine/Coroutine And Reactor Java.md",
-    "toTest/coroutine/5-Coroutine  CPS.md",
-    "toTest/coroutine/6-Coroutine builder.md",
-    "2-Area/Series/coroutine/Coroutine.md",
     "toTest/coroutine",
     "toTest/3-coroutine",
     "toTest",
