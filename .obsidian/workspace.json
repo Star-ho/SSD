@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1747479085e4193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sungho's Blog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSD.md",
+                "file": "Sungho's Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSD.md",
+                "file": "Sungho's Blog.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSD.md"
+                "file": "Sungho's Blog.md"
               }
             }
           },
@@ -175,12 +188,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "94e84af4c4975f1a",
+  "active": "e1747479085e4193",
   "lastOpenFiles": [
-    "5-Temp/Untitled.md",
+    "SSD.md",
+    "Sungho's Blog.md",
     "publish.css",
     ":*",
-    "SSD.md",
     "4-Archive/JVM/Bazel.md",
     "toHugo/Cache/Caching Strategy.md",
     "toHugo/Cache/Cache Passivation, Expiration, Eviction.md",
