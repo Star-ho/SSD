@@ -18,8 +18,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a52a4181fa2909c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a5b2f5688605b86",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,14 +75,6 @@
             }
           },
           {
-            "id": "7a52a4181fa2909c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "09d86eb711abf944",
             "type": "leaf",
             "state": {
@@ -86,6 +95,7 @@
       {
         "id": "9d4f4bda74de11aa",
         "type": "tabs",
+        "dimension": 36.347826086956516,
         "children": [
           {
             "id": "3d190e1434a87553",
@@ -143,6 +153,7 @@
       {
         "id": "6b6a2ff2c4ca1ae3",
         "type": "tabs",
+        "dimension": 63.65217391304348,
         "children": [
           {
             "id": "fe0d784216b3bbaa",
@@ -175,7 +186,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ede09fcf5d637354",
+  "active": "7a52a4181fa2909c",
   "lastOpenFiles": [
     "0-SSD/황성호.md",
     "1-Project/InnoDB.md",

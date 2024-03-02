@@ -3,7 +3,957 @@
     {
       "type": "group",
       "ctime": 1709388331686,
-      "items": [],
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1709388626085,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/12-Virtual Thread.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/11-Reactor Java(2).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/10-Reactor Java(1).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/9-Reactive Streams.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/8-Stream Processing.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/7-Reactive Manifesto.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/6-spring mvc request 처리 과정.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/5-Apache Tomcat.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/4-Jakarta Servlet.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/3-Servlet Container.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/2-Sevlet.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/1-Applet.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/0-Server-Paradigm/0-Static Web Server.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "0-Server-Paradigm"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Tip/Time zone 관련 팁.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Tip/code convention.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Tip/인텔리제이 java 버전 변경 시.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Tip/디버깅.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Tip"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/Sargable query.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/mysqldmup.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/mysql 프로세스 리스트 보기.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/mysql 락걸린 쿼리 확인.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/GTID.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/DB PK 자연키 vs 대체키.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/Database LSN.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/Database Check point.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/Covering Indexes(커버링 인덱스).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/Count(*) vs Count(Column).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/Clustered Index, non-Clustered Index.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/Cardinality.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/ACID.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/쿼리 튜닝시.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/1-Database/정규화 역정규화.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1709388865469,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1709388865469,
+                      "path": "0-SSD/1-Database/Innodb/Undo log.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1709388865469,
+                      "path": "0-SSD/1-Database/Innodb/Redo log.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1709388865469,
+                      "path": "0-SSD/1-Database/Innodb/mysql Binanry Log.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1709388865469,
+                      "path": "0-SSD/1-Database/Innodb/Log Buffer.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1709388865469,
+                      "path": "0-SSD/1-Database/Innodb/Double Write Buffer.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1709388865469,
+                      "path": "0-SSD/1-Database/Innodb/Change Buffer.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1709388865469,
+                      "path": "0-SSD/1-Database/Innodb/Buffer Pool.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1709388865469,
+                      "path": "0-SSD/1-Database/Innodb/adaptive hash index.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "Innodb"
+                }
+              ],
+              "title": "1-Database"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/thinking/복잡한 코드란?.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "thinking"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/3-coroutine/Coroutine And Reactor Java.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/3-coroutine/7-Job.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/3-coroutine/6-Coroutine builder.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/3-coroutine/5-Coroutine  CPS.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/3-coroutine/4-Coroutine suspend.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/3-coroutine/3-CoroutinDispatcher.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/3-coroutine/2-CoroutineScope.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/3-coroutine/1-CoroutineContext.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/3-coroutine/0-Coroutine.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "3-coroutine"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Study Matirials/System Design Case Studies.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Study Matirials/MSA 관련 유튜브.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Study Matirials/dev handbook.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Study Matirials/컴퓨터과학 스스로 학습하기.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Study Matirials/유쾌한 스프링방 콘서트.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Study Matirials/우형 프리코스 github.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Study Matirials/리눅스 커널 doc.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Study Matirials/공부할자료.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Study Matirials/개발관련 유튜브.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Study Matirials"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Spring/spring boot yaml.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Spring/JPA entity manager.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Spring/JPA 영속성전이, 프록시객체.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Spring/Interceptor.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Spring/Hibernate.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Spring/HandlerMethodArgumentResolver.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Spring/Handler.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Spring/Dynamic update.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Spring"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Software Design/Transactional outbox.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Software Design/Service.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Software Design/Saga Pattern.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Software Design/Entity, VO.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Software Design/CQRS(Command and Query Responsibility Segregation).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Software Design/Aggregate 생명주기(Factory, Repository).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Software Design/Aggregate.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Software Design/협력, 책임, 역할.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Software Design"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [],
+              "title": "Life"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/JVM/vm option.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/JVM/kotlin, coroutine, kotest 버전별 호환 목록.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/JVM/kotlin vs java.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/JVM/jvm option for Container.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/JVM/JUnit.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/JVM/JLS, JSR, JEP.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/JVM/Java memory structure.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/JVM/Java built in Annotation.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/JVM/buck.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/JVM/Bazel.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "JVM"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Infrastructure/Split brain.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Infrastructure/Elastic Search Data Tier.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Infrastructure"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Frontend/Velocity.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Frontend/shadcn.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Frontend/빌드시간 단축.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Frontend/브라우저 공부자료.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Frontend"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Concept/HTTP Method PUT vs PATCH.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Concept/파티셔닝.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Concept"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Computer-Siece/루프백으로 통신시 tcp ip가 아닌 ipc로 통신.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Computer-Siece/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Computer-Siece/0.0.0.0 ip address.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1709388865469,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1709388865469,
+                      "path": "0-SSD/Computer-Siece/shell command/프로세스 관련 명령어.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1709388865469,
+                      "path": "0-SSD/Computer-Siece/shell command/파일목록 보기, 파일디스크립터.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1709388865469,
+                      "path": "0-SSD/Computer-Siece/shell command/일정 기간 파일 삭제 및 빈 디렉토리 삭제.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "shell command"
+                }
+              ],
+              "title": "Computer-Siece"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Cache/Caching Strategy.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/Cache/Cache Passivation, Expiration, Eviction.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Cache"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/11-분산락(Distributed lock).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/10-Isolation level(격리 수준).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/9-Record Locks.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/8-Intention shared lock, exclusive lock.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/7-Shared Lock(S-lock).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/6-Exclusive Lock(X-Lock).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/5-Optimistic Lock.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/4-Consistent Read(일관된 읽기).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/3-Critical section(임계영역).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/2-Semaphore.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/1-Mutex(Lock).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1709388865469,
+                  "path": "0-SSD/2-Concurrency/0-동시성(Concurrency).md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "2-Concurrency"
+            },
+            {
+              "type": "group",
+              "ctime": 1709388865469,
+              "items": [],
+              "title": "Tool"
+            }
+          ],
+          "title": "0-SSD"
+        },
+        {
+          "type": "group",
+          "ctime": 1709388626085,
+          "items": [],
+          "title": "1-Project"
+        },
+        {
+          "type": "group",
+          "ctime": 1709388626085,
+          "items": [],
+          "title": "2-Area"
+        },
+        {
+          "type": "group",
+          "ctime": 1709388626085,
+          "items": [],
+          "title": "3-Resource"
+        },
+        {
+          "type": "group",
+          "ctime": 1709388626085,
+          "items": [],
+          "title": "4-Archive"
+        },
+        {
+          "type": "group",
+          "ctime": 1709388626085,
+          "items": [],
+          "title": "5-Temp"
+        },
+        {
+          "type": "group",
+          "ctime": 1709388626085,
+          "items": [],
+          "title": "real-resource-document"
+        },
+        {
+          "type": "group",
+          "ctime": 1709388626085,
+          "items": [],
+          "title": "real-resource-image"
+        },
+        {
+          "type": "group",
+          "ctime": 1709388626085,
+          "items": [],
+          "title": "Spaces"
+        },
+        {
+          "type": "group",
+          "ctime": 1709388626085,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1709388787878,
+              "items": [],
+              "title": "coroutine"
+            }
+          ],
+          "title": "toTest"
+        },
+        {
+          "type": "file",
+          "ctime": 1709388626085,
+          "path": ":*",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1709388626085,
+          "path": "5-성호의 Second Brain.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1709388626085,
+          "path": "6-PARA Method.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1709388626085,
+          "path": "7-Zettlecasten.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1709388626085,
+          "path": "publish.css",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1709388626085,
+          "path": "SSD.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1709388794846,
+          "items": [],
+          "title": "4-Archive"
+        }
+      ],
       "title": "sortspec"
     }
   ]
