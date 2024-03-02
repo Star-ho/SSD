@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b017cdcd7ac3486",
+        "id": "9cfc2b05cb4bad12",
         "type": "tabs",
         "children": [
           {
-            "id": "82d7ac08701b9c53",
+            "id": "3083f928ef073b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-Zettlecasten.md",
+                "file": "0-SSD/황성호.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,9 +64,16 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "09d86eb711abf944",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-Zettlecasten.md",
+                "file": "0-SSD/황성호.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7-Zettlecasten.md",
+                "file": "0-SSD/황성호.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,20 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7-Zettlecasten.md"
+                "file": "0-SSD/황성호.md"
               }
-            }
-          },
-          {
-            "id": "78c5d7263e8d7184",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6b6a2ff2c4ca1ae3",
@@ -172,49 +171,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "82d7ac08701b9c53",
+  "active": "ede09fcf5d637354",
   "lastOpenFiles": [
-    "황성호.md",
+    "0-SSD/황성호.md",
+    "1-Project/InnoDB.md",
+    "toTest/coroutine/vs thread.md",
+    "toTest/coroutine/Coroutine.md",
+    "toTest/coroutine/0-Coroutine.md",
+    "toTest/coroutine/4-Coroutine suspend.md",
+    "toTest/coroutine/2-CoroutineScope.md",
+    "4-Archive/Computer-Science/0.0.0.0 ip address.md",
+    "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
+    "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+    "real-resource-document/시스템 설계 청사진.md",
+    "toTest/coroutine/3-CoroutinDispatcher.md",
+    "toTest/coroutine/1-CoroutineContext.md",
+    "7-Zettlecasten.md",
+    "Spaces/Home",
+    "Spaces",
+    "5-성호의 Second Brain.md",
     "1-Project/Micro Sevice Pattern.md",
     "2-Area/Series/Server/999-Reactor netty.md",
     "2-Area/Series/coroutine/5-Coroutine  CPS.md",
     "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
     "2-Area/Series/cache/Caching Strategy.md",
-    "5-성호의 Second Brain.md",
-    "7-Zettlecasten.md",
-    "toTest/coroutine/vs thread.md",
     "toTest/coroutine/코루틴.md",
     "toTest/coroutine/CoroutineInterceptor.md",
     "2-Area/Series/coroutine/코루틴.md",
     "2-Area/Series/coroutine/CoroutineInterceptor.md",
     "toTest/coroutine/Coroutine And Reactor Java.md",
-    "toTest/coroutine/3-CoroutinDispatcher.md",
-    "toTest/coroutine/4-Coroutine suspend.md",
-    "toTest/coroutine/2-CoroutineScope.md",
     "toTest/coroutine/5-Coroutine  CPS.md",
     "toTest/coroutine/6-Coroutine builder.md",
-    "toTest/coroutine/Coroutine.md",
     "2-Area/Series/coroutine/Coroutine.md",
-    "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
-    "toTest/coroutine/1-CoroutineContext.md",
-    "toTest/coroutine/0-Coroutine.md",
-    "toTest/coroutine/7-Job.md",
     "toTest/coroutine",
-    "toTest/3-coroutine/0-Coroutine.md",
     "toTest/3-coroutine",
     "toTest",
     "publish.css",
     ":*",
     "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
     "toHugo/Tool",
-    "toHugo/Tip",
-    "toHugo/thinking",
-    "toHugo/Study Matirials",
-    "toHugo/Spring",
     "real-resource-image/Pasted image 20240220131636.png",
     "real-resource-image/Pasted image 20240227181021.png",
     "real-resource-image/Pasted image 20240227181019.png",
