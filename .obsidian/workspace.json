@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
+                "file": "toHugo/Cache/Cache Passivation, Expiration, Eviction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
+                "file": "toHugo/Cache/Cache Passivation, Expiration, Eviction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
+                "file": "toHugo/Cache/Cache Passivation, Expiration, Eviction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png"
+                "file": "toHugo/Cache/Cache Passivation, Expiration, Eviction.md"
               }
             }
           },
@@ -174,8 +174,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "94e84af4c4975f1a",
   "lastOpenFiles": [
+    "toHugo/Cache/Caching Strategy.md",
+    "toHugo/Cache/Cache Passivation, Expiration, Eviction.md",
+    "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
     "toHugo/Tool/Java Development Kit Version 20 Tool Specifications.md",
     "toHugo/Tool/Eclips memory Analyzer.md",
     "toHugo/Tool/Kotlin Auto fill.md",
@@ -202,9 +205,7 @@
     "toHugo/Tip/code convention.md",
     "toHugo/Tip/Time zone 관련 팁.md",
     "toHugo/Tip",
-    "toHugo/thinking/복잡한 코드란?.md",
     "toHugo/thinking",
-    "toHugo/Study Matirials/System Design Case Studies.md",
     "toHugo/Study Matirials",
     "toHugo/Spring",
     "toHugo/Software Design",
@@ -221,7 +222,6 @@
     "real-resource-image/Pasted image 20240222233418.png",
     "real-resource-image/Pasted image 20240222233216.png",
     "real-resource-image/Pasted image 20240222233018.png",
-    "real-resource-image/Pasted image 20240222232408.png",
     "Untitled.canvas"
   ]
 }
