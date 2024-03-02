@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "toHugo/Cache/Cache Passivation, Expiration, Eviction.md",
+                "file": "toHugo/Cache/Caching Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toHugo/Cache/Cache Passivation, Expiration, Eviction.md",
+                "file": "toHugo/Cache/Caching Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "toHugo/Cache/Cache Passivation, Expiration, Eviction.md",
+                "file": "toHugo/Cache/Caching Strategy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "toHugo/Cache/Cache Passivation, Expiration, Eviction.md"
+                "file": "toHugo/Cache/Caching Strategy.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "94e84af4c4975f1a",
   "lastOpenFiles": [
-    "toHugo/Cache/Caching Strategy.md",
     "toHugo/Cache/Cache Passivation, Expiration, Eviction.md",
+    "toHugo/Cache/Caching Strategy.md",
     "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
     "toHugo/Tool/Java Development Kit Version 20 Tool Specifications.md",
     "toHugo/Tool/Eclips memory Analyzer.md",
