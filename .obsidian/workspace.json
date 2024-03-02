@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "황성호.md",
+                "file": "2-Area/Series/coroutine/2-CoroutineScope.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"createDate\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "황성호.md",
+                "file": "2-Area/Series/coroutine/2-CoroutineScope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "황성호.md",
+                "file": "2-Area/Series/coroutine/2-CoroutineScope.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "황성호.md"
+                "file": "2-Area/Series/coroutine/2-CoroutineScope.md"
               }
             }
           },
@@ -190,8 +191,8 @@
   },
   "active": "e1747479085e4193",
   "lastOpenFiles": [
-    "SSD.md",
     "황성호.md",
+    "SSD.md",
     "publish.css",
     ":*",
     "4-Archive/JVM/Bazel.md",
