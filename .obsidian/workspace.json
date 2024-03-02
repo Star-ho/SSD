@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0-SSD/Cache/Caching Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4428c3b946f23573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "0-SSD/황성호.md",
                 "mode": "source",
                 "source": false
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +197,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3083f928ef073b7e",
+  "active": "4428c3b946f23573",
   "lastOpenFiles": [
-    "0-SSD/2-Concurrency/2-Semaphore.md",
+    "0-SSD/Cache/Caching.md",
     "0-SSD/황성호.md",
+    "0-SSD/Cache/Caching Strategy.md",
+    "0-SSD/Cache/Cache Passivation, Expiration, Eviction.md",
+    "0-SSD/2-Concurrency/2-Semaphore.md",
     "5-Temp/0-이직자료/경력 기술서에.md",
     "7-Zettlecasten.md",
     "toTest/coroutine/00 0-Coroutine.md",
@@ -209,11 +225,8 @@
     "toTest/coroutine/12 vs thread.md",
     "toTest/coroutine/09 Coroutine.md",
     "toTest/coroutine/05 4-Coroutine suspend.md",
-    "4-Archive/Computer-Science/0.0.0.0 ip address.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
-    "real-resource-document/시스템 설계 청사진.md",
-    "toTest/coroutine/04 3-CoroutinDispatcher.md",
     "Spaces/Home",
     "Spaces",
     "toTest/coroutine",
