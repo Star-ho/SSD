@@ -10,3 +10,5 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 h
 85-Temp/0-이직자료/네이버 파이낸셜/질문 1.md,0/c/0c18488ba8b262060051736814064f3e714f7d3c
+^
+.0-SSD/0-Server-Paradigm/0-Static Web Server.md,8/0/8001b7906869e5c60076d62bf454a470014392f2

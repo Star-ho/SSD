@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/개발 OFF/블로그 이전.md",
+                "file": "2-Area/개발 OFF/블로그 생성.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/개발 OFF/블로그 이전.md",
+                "file": "2-Area/개발 OFF/블로그 생성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/개발 OFF/블로그 이전.md",
+                "file": "2-Area/개발 OFF/블로그 생성.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/개발 OFF/블로그 이전.md"
+                "file": "2-Area/개발 OFF/블로그 생성.md"
               }
             }
           },
@@ -190,7 +190,7 @@
   "active": "f6ed072acd76fd8a",
   "lastOpenFiles": [
     "2-Area/0-Sung-ho/인생 팁/금융.md",
-    "2-Area/개발 OFF/블로그 이전.md",
+    "2-Area/개발 OFF/블로그 생성.md",
     "0-SSD/thinking/복잡한 코드란?.md",
     "2-Area/개발 OFF",
     "0-SSD/Life",
