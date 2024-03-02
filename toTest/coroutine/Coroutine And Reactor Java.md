@@ -1,5 +1,5 @@
 ---
-date: 2024-02-15T13:29:29
+date: 2024-03-02T22:41:32
 ---
 ## Coroutine은 어떤 방식으로 Reactor를 지원하는가
 - 아래 코드는는 org.jetbrains.kotlinx:kotlinx-coroutines-reactor의 mono\<T\>를 suspend 해서 T로 변경하는 awaitSingleOrNull함수이다
@@ -107,5 +107,4 @@ val c:C = webclient.get("c").awaitSingle()
 
 io dispatcher에도 selector가 있어
 send만 하고 다른 클라이언트로 스위칭 하는지?
-
 

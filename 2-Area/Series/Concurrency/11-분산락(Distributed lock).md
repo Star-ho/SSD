@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 - named lock
 - mysql, redis 등 named lock을 지원하는 저장소에서 사용가능
 - redis서버가 없는 상황에서 mysql named lock도 유용한 선택지임

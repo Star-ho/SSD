@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 - buffer pool 내부에 존재하며, secondary index의 변경을 캐싱하기 위한 공간
 - DML(INSERT, UPDATE, DELETE)로 인한 변경되는 페이지가 buffer pool에 없을떄, secondary index의 변경을 캐시하는 buffer
 - secondary index는 clustered index와는 다르게 고유하지 않고, 무작위로 데이터가 삽입됨

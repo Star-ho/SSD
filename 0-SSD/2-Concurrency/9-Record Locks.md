@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 - record의 index에 거는 lock
 
 > primary index가 없는 테이블에도 가능
@@ -10,4 +13,3 @@
 
 
 https://dev.mysql.com/doc/refman/8.0/en/innodb-locking.html
-

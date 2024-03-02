@@ -1,3 +1,6 @@
+---
+date: 2023-12-03T23:11:26
+---
 Mysql order by 동작관련해서 질문이 있는데요~!
 
 Mysql에서 order by를 수행 할 때 sort_buffer_size는 정렬을 할때 사용되는 버퍼사이즈고, 정렬된 데이터들을 sort_buffer_size 만큼 read_rnd_buffer에 저장 한후 

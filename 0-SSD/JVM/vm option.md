@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 ### visualVM startup profiler 옵션
 - startup profiler 설정시 필요한 옵션
 	- 마지막 포트번호 변경될 수 있음

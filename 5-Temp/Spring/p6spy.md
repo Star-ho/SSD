@@ -1,3 +1,6 @@
+---
+date: 2024-01-07T22:56:25
+---
 implementation("com.github.gavlyukovskiy:p6spy-spring-boot-starter:1.8.0")
 
 database-platform: com.tpirates.conf.CustomDialect

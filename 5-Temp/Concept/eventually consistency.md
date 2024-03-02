@@ -1,3 +1,6 @@
+---
+date: 2024-01-19T22:37:23
+---
 nosql eventual consistency
 
 최종적 일관성이 나타나는 이유

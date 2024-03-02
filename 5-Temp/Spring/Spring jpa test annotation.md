@@ -1,3 +1,6 @@
+---
+date: 2023-09-26T22:10:41
+---
 package team.hlab.infrastructure.jpa
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration

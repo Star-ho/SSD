@@ -1,3 +1,6 @@
+---
+date: 2024-01-25T23:27:34
+---
 읽어보기
 - https://junghyungil.tistory.com/m/178
 - https://dba.stackexchange.com/questions/168707/what-is-locking-order-of-mysql-on-query-with-join-statement

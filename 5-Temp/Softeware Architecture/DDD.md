@@ -1,3 +1,6 @@
+---
+date: 2023-09-28T17:32:12
+---
 복잡한것들을 어떻게 풀것인지
 복잡한건 복잡한게 맞는데 어떻게 표현할지
 복잡할수록 클린아키텍처
@@ -10,4 +13,3 @@ https://yozm.wishket.com/magazine/detail/2157/?utm_source=stibee&utm_medium=emai
 #Architecture 
 #OOD
 #Layered-Architecture
-

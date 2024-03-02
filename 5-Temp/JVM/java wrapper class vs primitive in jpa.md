@@ -1,3 +1,6 @@
+---
+date: 2023-10-26T23:02:39
+---
 https://velog.io/@chiyongs/JPA-Entity-Wrapper-class-or-Primitive-type
 
 null도 하나의 표현 방식중 하나라서

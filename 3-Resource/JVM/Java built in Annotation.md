@@ -1,3 +1,6 @@
+---
+date: 2023-11-05T23:25:17
+---
 java의 built in Annotation은
 **@Deprecated**
 **@Override**

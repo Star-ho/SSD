@@ -1,3 +1,6 @@
+---
+date: 2023-09-19T13:12:26
+---
 
 https://github.com/woowacourse/service-apply/issues/565
 

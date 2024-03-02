@@ -1,3 +1,6 @@
+---
+date: 2023-10-03T23:08:04
+---
 멀티모듈 만들때 setting.gradle에 include되어 있어야 통합으로 관리할 수 있음
 
 application.yml 여러개  

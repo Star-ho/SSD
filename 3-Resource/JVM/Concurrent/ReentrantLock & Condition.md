@@ -1,3 +1,6 @@
+---
+date: 2024-02-29T23:42:01
+---
 # ReentrantLock
 - Lock 인터페이스의 구현체
 - synchronized method, statements와 기본적인 동작과 의미가 동일하지만 확장된 기능을 가짐

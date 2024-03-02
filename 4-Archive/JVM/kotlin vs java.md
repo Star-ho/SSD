@@ -1,3 +1,6 @@
+---
+date: 2024-02-18T23:10:58
+---
 ### 1. null 안정성
 - safe call ?.
 - elvis Operation ?:

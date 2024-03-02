@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 ## JEP - [JDK Enhancement Proposal](https://openjdk.org/jeps/0)
 
 - 실험적인 아이디어에 대한 제안

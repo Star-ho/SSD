@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 - kotlin 1.6.0    
     - implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
     - testImplementation("io.kotest:kotest-runner-junit5:5.0.0")

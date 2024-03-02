@@ -1,3 +1,6 @@
+---
+date: 2024-01-28T17:15:59
+---
 Spring handler에 대해 공부하던 중, 실제로 어떻게 동작하는지 궁금하여 알아보았습니다.
 
 DispatcherServlet의 doDispatch는 요청을 핸들러로 실제로 디스패치 하는 메서드입니다

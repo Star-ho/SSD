@@ -1,3 +1,6 @@
+---
+date: 2024-01-07T22:35:33
+---
 #argent 
 
 https://stackoverflow.com/questions/11938253/jpa-joincolumn-vs-mappedby

@@ -1,3 +1,6 @@
+---
+date: 2023-10-05T23:18:11
+---
 최근 example.com
 검색 사이트에서 도메인이 이상하게 올라왔다.
 test-v2.example.com

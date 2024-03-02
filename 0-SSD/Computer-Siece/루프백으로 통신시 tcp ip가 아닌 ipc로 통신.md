@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 
 
 https://stackoverflow.com/questions/5537375/when-doing-ipc-using-tcp-ip-sockets-using-the-loopback-address-do-common-networ

@@ -1,3 +1,6 @@
+---
+date: 2024-01-19T22:49:20
+---
 virtual thread, reactive
 아직 vt를 완전히 사용할 수 잇는 라이브러리가 나오지 않아 잘 모르지만, reactive가 vt보다 성능이 좋다면 어떻게 할것인가?
 platform thread보다는 io성능이 좋을것이라 채택되겠지만 vt보다 성능이 더 필요하다면 

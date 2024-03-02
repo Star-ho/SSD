@@ -1,3 +1,6 @@
+---
+date: 2023-12-11T22:53:11
+---
 1. 요청
 2. 메모리 -> buffer
 - socket buffer? kernel buffer?

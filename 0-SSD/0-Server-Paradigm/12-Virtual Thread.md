@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 ## Platform Thread
 ![[Pasted image 20231223233300.png]]
 - 기존 Java의 Thread 모델

@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 ![[Pasted image 20231125233607.png|center|600]]
 
 ### Filter

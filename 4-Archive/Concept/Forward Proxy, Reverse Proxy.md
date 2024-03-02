@@ -1,3 +1,6 @@
+---
+date: 2023-10-03T22:59:35
+---
 ## Forward Proxy
 
 ![[Pasted image 20231003225905.png]]

@@ -1,3 +1,6 @@
+---
+date: 2023-10-04T23:07:45
+---
 mac에서 Eclips memory Analyzer 사용시
 
 heap dump 분석하는 어플리케이션

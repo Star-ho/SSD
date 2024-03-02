@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 - callback보다 나은점
 	- callback hell이 발생하지 않음
 - Future보다 나은점

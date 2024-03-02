@@ -1,3 +1,6 @@
+---
+date: 2023-12-26T22:29:40
+---
 HotSpot jvm
 graalvm
 JRockit jvm

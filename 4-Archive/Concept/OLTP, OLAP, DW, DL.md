@@ -1,3 +1,6 @@
+---
+date: 2023-10-03T23:19:37
+---
 OLTP(Online Transaction Processing)
 - 실시간 transaction처리
 

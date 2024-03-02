@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 # Threading and Scheduler
 - Flux나 Mono를 얻는다고 실행되지 않음
 - 따로 지정하지 않으면 Reactor는 subscribe가 발생한 쓰레드에서 모든 연산자가 실행됨
@@ -121,5 +124,4 @@ new Thread(() -> flux.subscribe(System.out::println)); - 2번쓰레드
 
 https://projectreactor.io/docs/core/release/reference/index.html
 https://brunch.co.kr/@springboot/153
-
 

@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 https://zettelkasten.de/posts/overview/
 - 카테고리화 하지마라
 	- 카테고리 할 수 없는것들을 고민하는 시간 자체가 아깝다

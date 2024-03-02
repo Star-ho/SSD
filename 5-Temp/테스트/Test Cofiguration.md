@@ -1,3 +1,6 @@
+---
+date: 2023-12-07T22:51:03
+---
  여쭤본 @DataJpaTest는 데이터소스+JPA쪽만 컨텍스트에 올려줘서 @Service, @Repository가 붙은 클래스를 같이 주입해주기가 번거로웠고 편하게 하려면 @SpringBootTest를 올려야 하거나 구성파일을 주입해줬어야했는데요
 그래서 짱구를 굴려보다가 찾은 방법이
 E2E API 테스트 하지 않는 이상은 webEnvironment 속성은 사용하지 않았던걸로 기억해서요.

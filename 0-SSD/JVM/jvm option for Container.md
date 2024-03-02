@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 ### 현재 옵션 확인
 - java -XX:+PrintFlagsFinal -version 2>&1 | grep -i -E 'heapsize|metaspace|version'
 

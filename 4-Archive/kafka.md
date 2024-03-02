@@ -1,3 +1,6 @@
+---
+date: 2023-12-19T22:38:57
+---
 kafka ui
 
 [https://kafka.apache.org/documentation/](https://kafka.apache.org/documentation/)

@@ -1,3 +1,6 @@
+---
+date: 2023-09-30T14:43:57
+---
 ```
 @AutoConfiguration(after = { ReactiveWebServerFactoryAutoConfiguration.class, CodecsAutoConfiguration.class,
 		ReactiveMultipartAutoConfiguration.class, ValidationAutoConfiguration.class,

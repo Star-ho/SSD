@@ -1,3 +1,6 @@
+---
+date: 2023-11-13T22:35:23
+---
 - Disk에 데이터를 쓰기 전 데이터가 저장되는 메모리 영역
 - 기본 크기는 16MB
 - log buffer의 크기가 크다면, 큰 크기의 redo log를 써야하는 transaction에서 redo log를 disk에 옮기지않고 한번에 작업 가능

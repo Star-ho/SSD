@@ -1,3 +1,6 @@
+---
+date: 2023-11-13T22:34:31
+---
 - 트랜잭션이나 안정성의 희생 없이, innodb를 memorydb처럼 활용할 수 있게함
 - 검색 관찰자 패턴(observe pattern of search)를 기반으로 인덱스 키의 접두사를 사용하여 인덱스를 구축
 - mysql에서 innodb테이블의 인덱스 검색을 모니터링 하여 자주 사용하는 인덱스페이지에 대해 hash index를 만듬

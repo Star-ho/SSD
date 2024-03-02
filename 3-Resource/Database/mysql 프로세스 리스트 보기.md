@@ -1,3 +1,6 @@
+---
+date: 2023-10-07T16:35:33
+---
 select * from information_schema.PROCESSLIST;
 
 ![[Pasted image 20231007162016.png]]

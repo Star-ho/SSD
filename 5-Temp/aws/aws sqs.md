@@ -1,3 +1,6 @@
+---
+date: 2023-10-19T23:26:34
+---
 https://note.hatemogi.com/amazon-sqs.html
 
 https://channel.io/ko/blog/tech-backend-aws-sqs-introduction

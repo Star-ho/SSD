@@ -1,3 +1,6 @@
+---
+date: 2023-10-13T23:00:06
+---
 mysql 8.0
 select * from performance_schema.data_locks;
 

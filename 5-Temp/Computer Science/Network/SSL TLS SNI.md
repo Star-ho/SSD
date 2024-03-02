@@ -1,3 +1,6 @@
+---
+date: 2023-12-19T22:17:22
+---
 네트워크 관련 질문이 있습니다. SNI(Server Name Indication) 기능이 없었을 때에는 SSL/TLS 요청 시 서버가 어떤 인증서를 제시해야 할지 결정하는데 사용할 수 있는 유일한 정보가 IP 주소였다고 하는데, 인증서는 서버가 가지고 있는거 아닌가요? 그럼 그냥 보유하고 있는 인증서를 제시하면 될텐데 IP 주소가 왜 필요한건지 잘 모르겠습니다.
 
 https://www.cloudflare.com/ko-kr/learning/ssl/what-is-sni/

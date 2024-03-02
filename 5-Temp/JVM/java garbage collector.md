@@ -1,3 +1,6 @@
+---
+date: 2024-02-20T22:51:36
+---
 gc가 뭔지  
 어떻게 이루어지는지  
 stop the world?  
@@ -27,5 +30,4 @@ https://mirinae312.github.io/develop/2018/06/04/jvm_gc.html
 https://d2.naver.com/helloworld/1329
 
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
-
 

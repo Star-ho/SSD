@@ -1,3 +1,6 @@
+---
+date: 2024-03-02T22:41:32
+---
 - google에서 개발한 압축방식
 - gzip 더 나은 압축성능을 보여줌
 	- 14% smaller JavaScript files

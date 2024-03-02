@@ -1,3 +1,6 @@
+---
+date: 2024-01-25T13:19:09
+---
 ## entity manager
 - entity 인스턴스의 생명주기를 관리
 - hibernate에서는 entity manager를 상속한 session인터페이스가 있음

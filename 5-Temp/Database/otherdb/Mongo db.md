@@ -1,3 +1,6 @@
+---
+date: 2023-12-19T22:38:34
+---
 
 [https://www.mongodb.com/docs/manual/](https://www.mongodb.com/docs/manual/)
 저 몽고디비 운영 관련해서 궁금한게 있는데요, 혹시 nosql의 가장 큰 장점 중 하나가 스키마가 없는 것이라 하는데 만약 스키마가 변경되면 애플리케이션에서 스키마 관리 어떻게 하시나요?
