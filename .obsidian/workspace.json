@@ -11,12 +11,8 @@
             "id": "94e84af4c4975f1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toTest/3-coroutine/5-Coroutine  CPS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toTest/3-coroutine/5-Coroutine  CPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "toTest/3-coroutine/5-Coroutine  CPS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "toTest/3-coroutine/5-Coroutine  CPS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,43 +169,43 @@
   },
   "active": "94e84af4c4975f1a",
   "lastOpenFiles": [
-    "toTest/3-coroutine/1-CoroutineContext.md",
+    "toTest/coroutine/Coroutine And Reactor Java.md",
+    "toTest/coroutine/CoroutineInterceptor.md",
+    "toTest/coroutine/3-CoroutinDispatcher.md",
+    "toTest/coroutine/6-Coroutine builder.md",
+    "toTest/coroutine/4-Coroutine suspend.md",
+    "toTest/coroutine/1-CoroutineContext.md",
+    "toTest/coroutine/5-Coroutine  CPS.md",
+    "toTest/coroutine/2-CoroutineScope.md",
+    "toTest/coroutine/0-Coroutine.md",
+    "toTest/coroutine/vs thread.md",
+    "toTest/coroutine/코루틴.md",
+    "toTest/coroutine/Coroutine.md",
+    "toTest/coroutine/7-Job.md",
+    "toTest/coroutine",
     "toTest/3-coroutine/0-Coroutine.md",
-    "toTest/3-coroutine/2-CoroutineScope.md",
+    "toTest/3-coroutine/1-CoroutineContext.md",
     "toTest/3-coroutine/4-Coroutine suspend.md",
-    "toTest/3-coroutine/7-Job.md",
     "toTest/3-coroutine/5-Coroutine  CPS.md",
+    "toTest/3-coroutine/7-Job.md",
+    "toTest/3-coroutine/6-Coroutine builder.md",
     "toTest/3-coroutine/3-CoroutinDispatcher.md",
+    "toTest/3-coroutine/2-CoroutineScope.md",
+    "toTest/3-coroutine/Coroutine And Reactor Java.md",
     "4-Archive/JVM/Bazel.md",
     "SSD.md",
     "5-Temp/0122-12-29.md",
     "2-Area/Series/coroutine/2-CoroutineScope.md",
-    "toTest/3-coroutine/Coroutine And Reactor Java.md",
-    "toTest/3-coroutine/6-Coroutine builder.md",
     "toTest/3-coroutine",
     "toTest",
-    "황성호.md",
     "publish.css",
     ":*",
-    "toHugo/Cache/Caching Strategy.md",
-    "toHugo/Cache/Cache Passivation, Expiration, Eviction.md",
     "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
-    "toHugo/Tool/Java Development Kit Version 20 Tool Specifications.md",
-    "toHugo/Tool/Eclips memory Analyzer.md",
-    "toHugo/Tool/Kotlin Auto fill.md",
-    "toHugo/Tool/memory-measurer.md",
-    "toHugo/Tool/화면분할 in mac.md",
-    "toHugo/Tool/kotlin-jdsl.md",
-    "toHugo/Tool/테스트 픽스처 도구.md",
-    "toHugo/Tool/Byte Buddy.md",
-    "toHugo/Tool/MybatisX.md",
-    "toHugo/Tool/Cucumber.md",
     "toHugo/Tool",
     "toHugo/Tip",
     "toHugo/thinking",
     "toHugo/Study Matirials",
     "toHugo/Spring",
-    "toHugo/Software Design",
     "real-resource-image/Pasted image 20240220131636.png",
     "real-resource-image/Pasted image 20240227181021.png",
     "real-resource-image/Pasted image 20240227181019.png",
