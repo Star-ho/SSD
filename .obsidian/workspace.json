@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-SSD/황성호.md",
+                "file": "0-SSD/황성호 - Backend Engineer.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-SSD/황성호.md",
+                "file": "0-SSD/황성호 - Backend Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-SSD/황성호.md",
+                "file": "0-SSD/황성호 - Backend Engineer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-SSD/황성호.md"
+                "file": "0-SSD/황성호 - Backend Engineer.md"
               }
             }
           }
@@ -200,7 +200,7 @@
   "active": "4428c3b946f23573",
   "lastOpenFiles": [
     "0-SSD/Cache/Caching.md",
-    "0-SSD/황성호.md",
+    "0-SSD/황성호 - Backend Engineer.md",
     "0-SSD/Cache/Caching Strategy.md",
     "0-SSD/Cache/Cache Passivation, Expiration, Eviction.md",
     "0-SSD/2-Concurrency/2-Semaphore.md",
