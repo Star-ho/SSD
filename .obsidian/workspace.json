@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f6ed072acd76fd8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/개발 OFF/블로그 생성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/개발 OFF/블로그 생성.md",
+                "file": "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/개발 OFF/블로그 생성.md",
+                "file": "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/개발 OFF/블로그 생성.md"
+                "file": "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png"
               }
             }
           },
@@ -187,54 +174,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6ed072acd76fd8a",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
-    "2-Area/0-Sung-ho/인생 팁/금융.md",
-    "2-Area/개발 OFF/블로그 생성.md",
-    "0-SSD/thinking/복잡한 코드란?.md",
-    "2-Area/개발 OFF",
-    "0-SSD/Life",
-    "0-SSD/0-Server-Paradigm/0-Static Web Server.md",
-    "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md",
-    "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
-    "3-Resource/JVM/Concurrent/Semaphore.md",
-    "Pasted image 20240227181021.png",
-    "Pasted image 20240227181019.png",
-    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
-    "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
-    "4-Archive/Study Matirials/개발관련 유튜브.md",
-    "4-Archive/Study Matirials/java튜토리얼.md",
-    "5-Temp/일단 봐야함.md",
-    "3-Resource/JVM/Concurrent/Volitile.md",
-    "5-Temp/JVM/jvm 종류.md",
-    "5-Temp/JVM/Kotlin Any vs Java Object.md",
-    "3-Resource/JVM/JVM memory structure.md",
-    "Pasted image 20240226231714.png",
-    "Pasted image 20240226231655.png",
-    "5-Temp/z-etc/프로젝트 실리카.md",
-    "5-Temp/z-etc/Ec2 메모리 swap.md",
-    "5-Temp/InfraStructure/클러스터링, 샤딩, 레플리케이션.md",
-    "0-SSD/0-Server-Paradigm/12-Virtual Thread.md",
-    "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
-    "5-Temp/JVM/java primitive vs wrapper.md",
-    "5-Temp/JVM/whit java nested class is static?.md",
-    "5-Temp/Database/쿼리 프로파일링.md",
-    "5-Temp/마인드셋/개발에서 정리.md",
-    "5-Temp/JVM/코틀린은 함수형패러다임을 지원하므로 list는 immutable하다.md",
-    "3-Resource/JVM/Concurrent",
-    "Pasted image 20240222233605.png",
-    "Pasted image 20240222233418.png",
-    "Pasted image 20240222233216.png",
-    "Pasted image 20240222233018.png",
-    "Pasted image 20240222232408.png",
-    "Pasted image 20240222232238.png",
-    "3-Resource/JVM/Garbage Collection",
-    "0-SSD/thinking",
-    "2-Area/내 생각",
-    "0-SSD/Tip",
-    "0-SSD/Study Matirials",
-    "0-SSD/Spring/Study Matirials",
-    "0-SSD/JVM",
+    "toHugo/Tool/Java Development Kit Version 20 Tool Specifications.md",
+    "toHugo/Tool/Eclips memory Analyzer.md",
+    "toHugo/Tool/Kotlin Auto fill.md",
+    "toHugo/Tool/memory-measurer.md",
+    "toHugo/Tool/화면분할 in mac.md",
+    "toHugo/Tool/kotlin-jdsl.md",
+    "toHugo/Tool/테스트 픽스처 도구.md",
+    "toHugo/Tool/Byte Buddy.md",
+    "toHugo/Tool/MybatisX.md",
+    "toHugo/Tool/Cucumber.md",
+    "toHugo/Tool/Codecove.md",
+    "toHugo/Tool/드로윙 툴.md",
+    "toHugo/Tool/jooq.md",
+    "toHugo/Tool/ctop.md",
+    "toHugo/Tool/Locust.md",
+    "toHugo/Tool/Konsist.md",
+    "toHugo/Tool/JRebel.md",
+    "toHugo/Tool/DeepL.md",
+    "toHugo/Tool/Clippy.md",
+    "toHugo/Tool/Brotli.md",
+    "toHugo/Tool",
+    "toHugo/Tip/인텔리제이 java 버전 변경 시.md",
+    "toHugo/Tip/디버깅.md",
+    "toHugo/Tip/code convention.md",
+    "toHugo/Tip/Time zone 관련 팁.md",
+    "toHugo/Tip",
+    "toHugo/thinking/복잡한 코드란?.md",
+    "toHugo/thinking",
+    "toHugo/Study Matirials/System Design Case Studies.md",
+    "toHugo/Study Matirials",
+    "toHugo/Spring",
+    "toHugo/Software Design",
+    "toHugo/Life",
+    "toHugo/JVM",
+    "toHugo/Infrastructure",
+    "toHugo/Frontend",
+    "real-resource-image/Pasted image 20240220131636.png",
+    "real-resource-image/Pasted image 20240227181021.png",
+    "real-resource-image/Pasted image 20240227181019.png",
+    "real-resource-image/Pasted image 20240226231714.png",
+    "real-resource-image/Pasted image 20240226231655.png",
+    "real-resource-image/Pasted image 20240222233605.png",
+    "real-resource-image/Pasted image 20240222233418.png",
+    "real-resource-image/Pasted image 20240222233216.png",
+    "real-resource-image/Pasted image 20240222233018.png",
+    "real-resource-image/Pasted image 20240222232408.png",
     "Untitled.canvas"
   ]
 }
