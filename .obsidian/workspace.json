@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/2-Semaphore.md",
+                "file": "3-Resource/JVM/Concurrent/ExecutorService & CountDownLatch.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/2-Semaphore.md",
+                "file": "3-Resource/JVM/Concurrent/ExecutorService & CountDownLatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/2-Semaphore.md",
+                "file": "3-Resource/JVM/Concurrent/ExecutorService & CountDownLatch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/2-Semaphore.md"
+                "file": "3-Resource/JVM/Concurrent/ExecutorService & CountDownLatch.md"
               }
             }
           }
@@ -179,11 +179,11 @@
   },
   "active": "4428c3b946f23573",
   "lastOpenFiles": [
+    "3-Resource/JVM/Concurrent/2-Semaphore.md",
+    "3-Resource/JVM/Concurrent/ExecutorService & CountDownLatch.md",
+    "3-Resource/JVM/Concurrent/4-Volitile.md",
     "3-Resource/JVM/Concurrent/1-ReentrantLock & Condition.md",
     "3-Resource/JVM/Concurrent/0-Lock 정의 & synchronized.md",
-    "3-Resource/JVM/Concurrent/Excuters.md",
-    "3-Resource/JVM/Concurrent/2-Semaphore.md",
-    "3-Resource/JVM/Concurrent/Volitile.md",
     "2-Area/Concept/Test.md",
     "2-Area/Series/Concurrency/11-분산락(Distributed lock).md",
     "2-Area/Series/Concurrency/10-Isolation level(격리 수준).md",
