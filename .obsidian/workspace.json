@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-SSD/Cache/Caching Strategy.md",
+                "file": "3-Resource/JVM/Concurrent/Semaphore.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSD.md",
+                "file": "3-Resource/JVM/Concurrent/Semaphore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSD.md",
+                "file": "3-Resource/JVM/Concurrent/Semaphore.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSD.md"
+                "file": "3-Resource/JVM/Concurrent/Semaphore.md"
               }
             }
           }
@@ -199,13 +197,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
-    "0-SSD/황성호 - Backend Engineer.md",
+    "Untitled",
+    "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
+    "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md",
+    "3-Resource/JVM/Concurrent/Volitile.md",
+    "0-Blog/Cache/Caching Strategy.md",
+    "SSD.md",
+    "0-Blog/황성호 - Backend Engineer.md",
     "0-SSD/Cache/Caching.md",
-    "0-SSD/Cache/Caching Strategy.md",
-    "0-SSD/Cache/Cache Passivation, Expiration, Eviction.md",
-    "0-SSD/2-Concurrency/2-Semaphore.md",
+    "0-Blog/Cache/Cache Passivation, Expiration, Eviction.md",
+    "0-Blog/2-Concurrency/2-Semaphore.md",
     "5-Temp/0-이직자료/경력 기술서에.md",
     "7-Zettlecasten.md",
     "toTest/coroutine/00 0-Coroutine.md",
@@ -222,11 +225,6 @@
     "toTest/coroutine/3-CoroutinDispatcher.md",
     "toTest/coroutine/2-CoroutineScope.md",
     "toTest/coroutine/1-CoroutineContext.md",
-    "toTest/coroutine/0-Coroutine.md",
-    "1-Project/InnoDB.md",
-    "toTest/coroutine/12 vs thread.md",
-    "toTest/coroutine/09 Coroutine.md",
-    "toTest/coroutine/05 4-Coroutine suspend.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Spaces/Home",

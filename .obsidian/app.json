@@ -2,6 +2,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "5-Temp",
   "attachmentFolderPath": "real-resource",
-  "alwaysUpdateLinks": false,
-  "showLineNumber": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "rightToLeft": false
 }
