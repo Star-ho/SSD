@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2a5b2f5688605b86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99-templates/dateTempate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99-templates/dateTempate.md",
+                "file": "SSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99-templates/dateTempate.md",
+                "file": "SSD.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99-templates/dateTempate.md"
+                "file": "SSD.md"
               }
             }
           }
@@ -190,17 +177,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a5b2f5688605b86",
+  "active": "4428c3b946f23573",
   "lastOpenFiles": [
-    "3-Resource/0-Think/Untitled.md",
+    "4-Archive/Untitled.md",
+    "SSD.md",
+    "5-Temp/Untitled.md",
+    "99-templates/meta.md",
     "99-templates/dateTempate.md",
+    "3-Resource/0-Think/Untitled.md",
     "3-Resource/JVM/Concurrent/Semaphore.md",
     "99-templates",
     "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
     "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md",
     "3-Resource/JVM/Concurrent/Volitile.md",
     "0-Blog/Cache/Caching Strategy.md",
-    "SSD.md",
     "0-Blog/황성호 - Backend Engineer.md",
     "0-SSD/Cache/Caching.md",
     "0-Blog/Cache/Cache Passivation, Expiration, Eviction.md",
@@ -216,9 +206,6 @@
     "toTest/coroutine/Coroutine And Reactor Java.md",
     "toTest/coroutine/7-Job.md",
     "toTest/coroutine/6-Coroutine builder.md",
-    "toTest/coroutine/5-Coroutine  CPS.md",
-    "toTest/coroutine/4-Coroutine suspend.md",
-    "toTest/coroutine/3-CoroutinDispatcher.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Spaces/Home",
