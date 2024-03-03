@@ -1,6 +1,6 @@
 ---
 created: 2024-03-03T17:25
-updated: 2024-03-03T17:46
+updated: 2024-03-03T17:53
 ---
 # ExecutorService
 - 비동기 작업을 할때 쓰레드관리가 복잡한 과정임
@@ -24,4 +24,25 @@ updated: 2024-03-03T17:46
 - 제출된 작업이 완료되면 종료함
 
 ### shutdownNow()
-- 이제
+- 실행중인 작업과 대기중인 작업 모두 중지하고, 실행 대기중인 작업을 반환함
+
+# CountDownlatch
+- 하나 이상의 스레드가 다른 쓰레드의 작업이 완료될때 까지 기다려주는 보조 동기화 장치
+- 생성자로 count를 받으며, count가 0이 되면 await를 즉시 리턴함
+
+## 메서드
+### CountDownLatch(int count)
+- 생성자로 count를 받고, await를 호출하면 해당 count가 0이 될때까지 스레드를 wait함
+
+### countDown()
+- count를 1감소시킴, 0이되면 await중인 스레드의 release함
+
+### getCount()
+- 현재 count를 가져옴
+
+### await()
+- 스레드가 인터럽트 되지 않는 한, count가 0이 될때까지 현재 쓰레드를 wait함
+
+
+https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CountDownLatch.html
+https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ExecutorService.html
