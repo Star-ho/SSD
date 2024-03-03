@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/z-etc/Frontend CTO.md",
+                "file": "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/z-etc/Frontend CTO.md",
+                "file": "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/z-etc/Frontend CTO.md",
+                "file": "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/z-etc/Frontend CTO.md"
+                "file": "3-Resource/JVM/Garbage Collection/Full garbage collection.md"
               }
             }
           }
@@ -187,8 +187,19 @@
   },
   "active": "4428c3b946f23573",
   "lastOpenFiles": [
-    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
+    "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
+    "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
+    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
+    "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+    "5-Temp/0-이직자료/기술적으로 어려웠던 경험.md",
+    "Pasted image 20240303224907.png",
+    "Pasted image 20240303224857.png",
+    "Pasted image 20240303224850.png",
+    "5-Temp/Softeware Architecture/Anemic Domain Model.md",
+    "5-Temp/JVM/java object memory layout.md",
+    "5-Temp/JVM/java garbage collector.md",
     "5-Temp/z-etc/Frontend CTO.md",
+    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
     "0-Blog/2-Concurrency/0-동시성(Concurrency).md",
     "3-Resource/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
     "3-Resource/JVM/Concurrent/4-Volitile.md",
@@ -204,15 +215,6 @@
     "2-Area/Series/Concurrency/5-Optimistic Lock.md",
     "2-Area/Series/Concurrency/4-Consistent Read(일관된 읽기).md",
     "2-Area/Series/Concurrency/3-Critical section(임계영역).md",
-    "2-Area/Series/Concurrency/2-Semaphore.md",
-    "2-Area/Series/Concurrency/1-Mutex(Lock).md",
-    "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
-    "0-Blog/황성호 - Backend Engineer.md",
-    "1-Project/InnoDB.md",
-    "1-Project/Micro Sevice Pattern.md",
-    "1-Project/intellij 단축키 외우기.md",
-    "1-Project/개발 OFF/블로그 생성.md",
-    "SSD.md",
     "99-templates",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
@@ -230,9 +232,6 @@
     "real-resource-image/Pasted image 20240226231714.png",
     "real-resource-image/Pasted image 20240226231655.png",
     "real-resource-image/Pasted image 20240222233605.png",
-    "real-resource-image/Pasted image 20240222233418.png",
-    "real-resource-image/Pasted image 20240222233216.png",
-    "real-resource-image/Pasted image 20240222233018.png",
     "Untitled.canvas"
   ]
 }

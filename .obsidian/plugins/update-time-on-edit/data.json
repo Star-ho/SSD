@@ -778,9 +778,9 @@
     "3-Resource/Software-Design/CQRS(Command and Query Responsibility Segregation).md": "f4a101f1a6a9228079684de32a48a00a3c6e72d6546e971563a01140a59561a1",
     "3-Resource/JVM/JUnit.md": "5e4d07fa5f33a2fd9b64fc6dddfd2f8ce7ae300c82e75fa5abe252a1e503d94c",
     "3-Resource/JVM/JVM memory structure.md": "a124c3ee66aef28a7185cf8d2cc73b6439c6617ac63ccc8ded09b64ae1ef4a3b",
-    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md": "e0116e0f521831072fe67717c47379b607beea3b68b8bdad96f3e9bd6f188609",
+    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md": "71239edb26d1498a0e01d10d9ef05dc7d49421095862f5f3eb9454d4a2ad4884",
     "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md": "b756cfcefe4b68988f16f25aecc1fc621963dfcb10c2c0d1c7f20e6a9c0d140f",
-    "3-Resource/JVM/Garbage Collection/Full garbage collection.md": "55e6dedee48a4e3b48da1a93141d2ac5ec58f7d82a1b04f42ed3e1a832b3149f",
+    "3-Resource/JVM/Garbage Collection/Full garbage collection.md": "909f391e332e5f81d6a317d2167018b83890e27ed0a7358b9646a47020960c0c",
     "3-Resource/JVM/Java built in Annotation.md": "5ca1b4f800b200a934c62d9f1c1e9a748f411aac21ad1296f9a981607daeacdf",
     "3-Resource/JVM/jvm option for Container.md": "6305cab0ecf6d81b514272efb2d9ab84f2c02c0b7d1369a5228512893b8ce77e",
     "3-Resource/Computer-Siece/Process and Thread.md": "4f6481345bb6b107b09b1f70582c46c5cb0c8b0980364d775af060090a684c92",
@@ -811,6 +811,9 @@
     "3-Resource/JVM/Concurrent/2-Semaphore.md": "ee2c5ff5f808231989232b9703aa8f2c37b584207ab1c92efd4c58c3bbe2fadf",
     "3-Resource/JVM/Concurrent/4-Volitile.md": "e6cd1db495bd713430fbcc029bd57e70650045a333ac50b4e10d5d25c6deca9b",
     "3-Resource/JVM/Concurrent/5-ExecutorService & CountDownLatch.md": "a30b4b2984af0cd8fe413dc3aac7ba9233c2759a1846fbbea2e4013cab6c0e38",
-    "5-Temp/z-etc/Frontend CTO.md": "6faa1f3cb30bae5203197562f98ea1d151fd453a7066dc6945161c14870436bf"
+    "5-Temp/z-etc/Frontend CTO.md": "a26aa07546ddceccceb3ab021cba824c13d5221666fab6c92c7bd0b6f236fd4f",
+    "5-Temp/JVM/java object memory layout.md": "6c9d0ca38d7eb2d387a6c8c6d6db567d0e37d422c620d69214546b92e3d41ae1",
+    "5-Temp/Softeware Architecture/Anemic Domain Model.md": "05225f7fd5ff99e74e38a03885edaf2e8951986e60786bfa88374ca86cd08537",
+    "5-Temp/0-이직자료/기술적으로 어려웠던 경험.md": "7378aadcfc22e2821d7a7653a0762e0cda71e243f4eba8626610355dc0ec469a"
   }
 }

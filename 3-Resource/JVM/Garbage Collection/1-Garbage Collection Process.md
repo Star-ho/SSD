@@ -1,6 +1,6 @@
 ---
 created: 2024-02-22T23:15:48
-updated: 2024-03-03T11:41
+updated: 2024-03-03T22:46
 ---
 - 앞의 Garbage Collection Concept에서는 heap이 나누어져 저장되는 것을 이해함
 - 여기서는 나누어져 저장되는 것들의 상호작용에 대해 알아봄
@@ -44,8 +44,6 @@ updated: 2024-03-03T11:41
 ### GC Process Summary
 ![[Pasted image 20240222233605.png|center|600]]
 - 결국에는 Old Generation에도 객체가 꽉차고 major GC가 발생함
-
-닌
 
 
 https://d2.naver.com/helloworld/1329
