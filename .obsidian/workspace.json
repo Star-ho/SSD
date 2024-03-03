@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSD.md",
+                "file": "99-templates/dateTempate.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSD.md",
+                "file": "99-templates/dateTempate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSD.md",
+                "file": "99-templates/dateTempate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSD.md"
+                "file": "99-templates/dateTempate.md"
               }
             }
           }
@@ -179,9 +179,10 @@
   },
   "active": "4428c3b946f23573",
   "lastOpenFiles": [
-    "4-Archive/Untitled.md",
-    "SSD.md",
     "5-Temp/Untitled.md",
+    "5-Temp/Untitled 1.md",
+    "SSD.md",
+    "4-Archive/Untitled.md",
     "99-templates/meta.md",
     "99-templates/dateTempate.md",
     "3-Resource/0-Think/Untitled.md",
@@ -205,7 +206,6 @@
     "toTest/coroutine/Coroutine.md",
     "toTest/coroutine/Coroutine And Reactor Java.md",
     "toTest/coroutine/7-Job.md",
-    "toTest/coroutine/6-Coroutine builder.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Spaces/Home",

@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-style-settings",
   "code-styler",
-  "templater-obsidian"
+  "templater-obsidian",
+  "update-time-on-edit"
 ]

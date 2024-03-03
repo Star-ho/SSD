@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "/",
+      "template": "99-templates/dateTempate.md"
     }
   ],
   "syntax_highlighting": true,
