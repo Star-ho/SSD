@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
+                "file": "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
+                "file": "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
+                "file": "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/5-ExecutorService & CountDownLatch.md"
+                "file": "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md"
               }
             }
           }
@@ -186,8 +186,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "4428c3b946f23573",
   "lastOpenFiles": [
+    "0-Blog/2-Concurrency/0-동시성(Concurrency).md",
     "3-Resource/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
     "3-Resource/JVM/Concurrent/4-Volitile.md",
     "3-Resource/JVM/Concurrent/2-Semaphore.md",
@@ -213,7 +214,6 @@
     "1-Project/개발 OFF/블로그 생성.md",
     "SSD.md",
     "2-Area/0-Sung-ho/앤드류 후버만 루틴.md",
-    "2-Area/0-Sung-ho/글쓸때.md",
     "99-templates",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",

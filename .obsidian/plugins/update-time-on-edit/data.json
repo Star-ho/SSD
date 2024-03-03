@@ -52,7 +52,7 @@
     "2-Area/Series/Concurrency/4-Consistent Read(일관된 읽기).md": "bf8f72b40e5d49cd7edf7a2360524cc1ada539209c4a6b03bc0681af50908c1a",
     "2-Area/Series/Concurrency/5-Optimistic Lock.md": "18a92f28c8fe9c703533cfc1c0a1fffc69069bd95075f6a7275409076734e7cc",
     "2-Area/Series/Concurrency/11-분산락(Distributed lock).md": "8ae078d03b26e56eee42a9db5d2131c42dbae63b8883c55a4e4ac05a151e1237",
-    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md": "2adb7be3f698ddc44576a700caa36899aa089fe26209cc352eebfa09382e8d78",
+    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md": "18d599eec4e903bcb2778e879e0ab9306ac9840b944272ebeb9ffb12b16f3e81",
     "2-Area/Series/Concurrency/10-Isolation level(격리 수준).md": "9682ed2195a3bd541917f9251adc06c7a381f73def880d5aa22c43235949d66c",
     "2-Area/Series/java-database-connect/jpa.md": "7f914f439053a99470ea4fc48e94c55a5bce63d718652528a32f8eba06a950f2",
     "2-Area/Software Design/Entity, VO.md": "6dfee4cb3097cf883c96be7c40b3c56b98fcf753bebe7ec7e647e34964370018",
