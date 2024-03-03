@@ -5,6 +5,7 @@
     "tags": "tags",
     "createDate": "datetime",
     "lastModifiedDate": "date",
-    "lastModifiedDateTime": "datetime"
+    "lastModifiedDateTime": "datetime",
+    "created": "datetime"
   }
 }
