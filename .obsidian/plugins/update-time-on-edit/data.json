@@ -7,5 +7,7 @@
   "ignoreGlobalFolder": [],
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
-  "fileHashMap": {}
+  "fileHashMap": {
+    "99-templates/dateTempate.md": "0889398cb2bd6d4e6e307631af2715feeffa888e967ecbf436842dcbe3a13f0c"
+  }
 }
