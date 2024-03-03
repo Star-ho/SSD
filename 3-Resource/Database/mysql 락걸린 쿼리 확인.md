@@ -1,5 +1,6 @@
 ---
-date: 2023-10-13T23:00:06
+created: 2023-10-06T23:29:37
+updated: 2024-03-03T11:41
 ---
 mysql 8.0
 select * from performance_schema.data_locks;

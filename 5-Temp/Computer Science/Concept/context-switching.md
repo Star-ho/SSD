@@ -1,5 +1,6 @@
 ---
-date: 2024-01-07T23:00:33
+created: 2024-01-07T22:24:59
+updated: 2024-03-03T11:41
 ---
 context switchg은 time slice를 다썻거나, interrupt 발생시 발생됨
 

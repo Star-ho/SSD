@@ -1,5 +1,6 @@
 ---
-date: 2024-01-25T13:19:09
+created: 2023-09-30T14:49:42
+updated: 2024-03-03T11:41
 ---
 ## entity manager
 - entity 인스턴스의 생명주기를 관리

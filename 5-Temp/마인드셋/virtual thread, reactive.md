@@ -1,5 +1,6 @@
 ---
-date: 2024-01-19T22:49:20
+created: 2024-01-19T22:49:17
+updated: 2024-03-03T11:41
 ---
 virtual thread, reactive
 아직 vt를 완전히 사용할 수 잇는 라이브러리가 나오지 않아 잘 모르지만, reactive가 vt보다 성능이 좋다면 어떻게 할것인가?

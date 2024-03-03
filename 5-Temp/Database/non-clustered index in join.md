@@ -1,4 +1,5 @@
 ---
-date: 2023-11-03T23:16:48
+created: 2023-11-03T23:16:35
+updated: 2024-03-03T11:41
 ---
 non-clustered index가 join 에서는 어떻게 동작할지?

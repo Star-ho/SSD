@@ -1,5 +1,6 @@
 ---
-date: 2023-10-26T23:02:39
+created: 2023-10-26T23:02:17
+updated: 2024-03-03T11:41
 ---
 https://velog.io/@chiyongs/JPA-Entity-Wrapper-class-or-Primitive-type
 

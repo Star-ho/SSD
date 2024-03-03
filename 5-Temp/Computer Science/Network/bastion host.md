@@ -1,5 +1,6 @@
 ---
-date: 2023-11-15T22:29:56
+created: 2023-11-15T22:29:53
+updated: 2024-03-03T11:41
 ---
 질문있어요..!
 Private subnet 안의 ec2와 jenkins간 ssh 통신을 하려고 합니다

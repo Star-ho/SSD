@@ -1,5 +1,6 @@
 ---
-date: 2024-03-02T22:41:32
+created: 2024-03-02T22:41:32
+updated: 2024-03-03T11:41
 ---
  - atomicity, consistency, isolation, durability의 앞글자를 따온 것
  - mysql의 트랜잭션과 밀접한 연관관계를 가짐

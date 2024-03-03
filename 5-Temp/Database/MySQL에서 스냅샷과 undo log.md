@@ -1,5 +1,6 @@
 ---
-date: 2023-10-07T16:56:16
+created: 2023-10-07T16:55:52
+updated: 2024-03-03T11:41
 ---
 https://www.alibabacloud.com/blog/an-in-depth-analysis-of-undo-logs-in-innodb_598966
 

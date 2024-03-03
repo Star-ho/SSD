@@ -1,5 +1,6 @@
 ---
-date: 2023-10-19T23:26:34
+created: 2023-10-19T23:25:51
+updated: 2024-03-03T11:41
 ---
 https://note.hatemogi.com/amazon-sqs.html
 

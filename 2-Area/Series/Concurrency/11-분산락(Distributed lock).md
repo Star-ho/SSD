@@ -1,5 +1,6 @@
 ---
-date: 2024-03-02T22:41:32
+created: 2024-03-02T22:41:32
+updated: 2024-03-03T11:41
 ---
 - named lock
 - mysql, redis 등 named lock을 지원하는 저장소에서 사용가능

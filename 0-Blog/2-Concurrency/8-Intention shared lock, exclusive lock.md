@@ -1,5 +1,6 @@
 ---
-date: 2024-03-02T22:41:32
+created: 2024-03-02T22:41:32
+updated: 2024-03-03T11:41
 ---
 - IS, IX lock과 S,X Lock과의 차이는 테이블까지 락이 걸림
 - IS, IX lock을 걸면 해당 테이블에 SHARED_READ 메타데이터락이 걸림

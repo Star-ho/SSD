@@ -1,5 +1,6 @@
 ---
-date: 2023-10-16T22:59:10
+created: 2023-10-03T23:07:24
+updated: 2024-03-03T11:41
 ---
 [  
 https://docs.oracle.com/en/database/oracle/oracle-database/19/tgdba/tuning-database-buffer-cache.html#GUID-F2D11BC8-986F-4A8B-A37F-530BE9EB2DA8](https://docs.oracle.com/en/database/oracle/oracle-database/19/tgdba/tuning-database-buffer-cache.html#GUID-F2D11BC8-986F-4A8B-A37F-530BE9EB2DA8)

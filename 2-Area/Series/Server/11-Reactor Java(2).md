@@ -1,5 +1,6 @@
 ---
-date: 2024-03-02T22:41:32
+created: 2024-03-02T22:41:32
+updated: 2024-03-03T11:41
 ---
 # Threading and Scheduler
 - Flux나 Mono를 얻는다고 실행되지 않음
@@ -124,4 +125,3 @@ new Thread(() -> flux.subscribe(System.out::println)); - 2번쓰레드
 
 https://projectreactor.io/docs/core/release/reference/index.html
 https://brunch.co.kr/@springboot/153
-

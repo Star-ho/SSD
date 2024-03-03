@@ -1,5 +1,6 @@
 ---
-date: 2024-03-02T22:41:32
+created: 2024-03-02T22:41:32
+updated: 2024-03-03T11:41
 ---
 - 이전의 이름음 java servlet임
 	- eclipse재단과 oracle과의 상표권 분쟁으로 jakarta로 변경됨 [링크](https://www.samsungsds.com/kr/insights/java_jakarta.html)

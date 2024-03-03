@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-templates/dateTempate.md",
+                "file": "1-Project/InnoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"date\"]",
+                "query": "[\"updated\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99-templates/dateTempate.md",
+                "file": "1-Project/InnoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99-templates/dateTempate.md",
+                "file": "1-Project/InnoDB.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99-templates/dateTempate.md"
+                "file": "1-Project/InnoDB.md"
               }
             }
           }
@@ -177,35 +178,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4428c3b946f23573",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
-    "5-Temp/Untitled.md",
-    "5-Temp/Untitled 1.md",
+    "1-Project/Micro Sevice Pattern.md",
+    "1-Project/intellij 단축키 외우기.md",
+    "1-Project/개발 OFF/블로그 생성.md",
     "SSD.md",
-    "4-Archive/Untitled.md",
-    "99-templates/meta.md",
+    "2-Area/0-Sung-ho/앤드류 후버만 루틴.md",
+    "2-Area/0-Sung-ho/글쓸때.md",
+    "2-Area/0-Sung-ho/공부법.md",
+    "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
+    "2-Area/Series/Concurrency/4-Consistent Read(일관된 읽기).md",
+    "2-Area/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
+    "4-Archive/Computer-Science/디멀티플렉싱.md",
+    "4-Archive/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md",
+    "2-Area/Series/Concurrency/2-Semaphore.md",
+    "2-Area/1-Weekly-Reading/운동.md",
+    "2-Area/1-Weekly-Reading/림프관 마사지.md",
+    "2-Area/0-Sung-ho/운전 팁.md",
+    "2-Area/0-Sung-ho/영양제.md",
+    "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
+    "2-Area/0-Sung-ho/분업.md",
+    "2-Area/0-Sung-ho/회고록/2023 회고록.md",
+    "2-Area/0-Sung-ho/회고록/이번에 로그시스템을 만든것에 대한 회고.md",
+    "2-Area/0-Sung-ho/광교 맛집.md",
+    "2-Area/0-Sung-ho/명상.md",
+    "2-Area/0-Sung-ho/좋은 개발자가 되는법.md",
     "99-templates/dateTempate.md",
-    "3-Resource/0-Think/Untitled.md",
-    "3-Resource/JVM/Concurrent/Semaphore.md",
+    "5-Temp/Untitled.md",
     "99-templates",
-    "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
-    "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md",
-    "3-Resource/JVM/Concurrent/Volitile.md",
-    "0-Blog/Cache/Caching Strategy.md",
-    "0-Blog/황성호 - Backend Engineer.md",
-    "0-SSD/Cache/Caching.md",
-    "0-Blog/Cache/Cache Passivation, Expiration, Eviction.md",
-    "0-Blog/2-Concurrency/2-Semaphore.md",
-    "5-Temp/0-이직자료/경력 기술서에.md",
-    "7-Zettlecasten.md",
-    "toTest/coroutine/00 0-Coroutine.md",
-    "toTest/coroutine/02 2-CoroutineScope.md",
-    "toTest/coroutine/코루틴.md",
-    "toTest/coroutine/vs thread.md",
-    "toTest/coroutine/CoroutineInterceptor.md",
-    "toTest/coroutine/Coroutine.md",
-    "toTest/coroutine/Coroutine And Reactor Java.md",
-    "toTest/coroutine/7-Job.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Spaces/Home",

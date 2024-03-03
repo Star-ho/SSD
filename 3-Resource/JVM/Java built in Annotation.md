@@ -1,5 +1,6 @@
 ---
-date: 2023-11-05T23:25:17
+created: 2023-10-01T23:06:17
+updated: 2024-03-03T11:41
 ---
 java의 built in Annotation은
 **@Deprecated**

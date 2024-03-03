@@ -1,5 +1,6 @@
 ---
-date: 2023-10-26T22:53:16
+created: 2023-10-05T23:32:36
+updated: 2024-03-03T11:41
 ---
 node 
 - elastic search 인스턴스

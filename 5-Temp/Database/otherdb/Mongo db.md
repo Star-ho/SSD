@@ -1,5 +1,6 @@
 ---
-date: 2023-12-19T22:38:34
+created: 2023-12-19T22:38:26
+updated: 2024-03-03T11:41
 ---
 
 [https://www.mongodb.com/docs/manual/](https://www.mongodb.com/docs/manual/)
