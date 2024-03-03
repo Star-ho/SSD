@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3083f928ef073b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Resource/JVM/Concurrent/Semaphore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4428c3b946f23573",
             "type": "leaf",
             "state": {
@@ -35,11 +23,16 @@
             "id": "2a5b2f5688605b86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "99-templates/dateTempate.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/Semaphore.md",
+                "file": "99-templates/dateTempate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/Semaphore.md",
+                "file": "99-templates/dateTempate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/Semaphore.md"
+                "file": "99-templates/dateTempate.md"
               }
             }
           }
@@ -197,9 +190,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "2a5b2f5688605b86",
   "lastOpenFiles": [
-    "Untitled",
+    "3-Resource/0-Think/Untitled.md",
+    "99-templates/dateTempate.md",
+    "3-Resource/JVM/Concurrent/Semaphore.md",
+    "99-templates",
     "3-Resource/JVM/Concurrent/ReentrantLock & Condition.md",
     "3-Resource/JVM/Concurrent/Lock 정의 & synchronized.md",
     "3-Resource/JVM/Concurrent/Volitile.md",
@@ -223,8 +219,6 @@
     "toTest/coroutine/5-Coroutine  CPS.md",
     "toTest/coroutine/4-Coroutine suspend.md",
     "toTest/coroutine/3-CoroutinDispatcher.md",
-    "toTest/coroutine/2-CoroutineScope.md",
-    "toTest/coroutine/1-CoroutineContext.md",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Spaces/Home",
@@ -235,7 +229,6 @@
     "publish.css",
     ":*",
     "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
-    "toHugo/Tool",
     "real-resource-image/Pasted image 20240220131636.png",
     "real-resource-image/Pasted image 20240227181021.png",
     "real-resource-image/Pasted image 20240227181019.png",
