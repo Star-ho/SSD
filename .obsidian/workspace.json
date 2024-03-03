@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-SSD/황성호 - Backend Engineer.md",
+                "file": "SSD.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-SSD/황성호 - Backend Engineer.md",
+                "file": "SSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-SSD/황성호 - Backend Engineer.md",
+                "file": "SSD.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-SSD/황성호 - Backend Engineer.md"
+                "file": "SSD.md"
               }
             }
           }
@@ -194,13 +195,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4428c3b946f23573",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
-    "0-SSD/Cache/Caching.md",
     "0-SSD/황성호 - Backend Engineer.md",
+    "0-SSD/Cache/Caching.md",
     "0-SSD/Cache/Caching Strategy.md",
     "0-SSD/Cache/Cache Passivation, Expiration, Eviction.md",
     "0-SSD/2-Concurrency/2-Semaphore.md",
