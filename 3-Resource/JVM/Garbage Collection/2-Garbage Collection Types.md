@@ -1,6 +1,6 @@
 ---
 created: 2024-02-22T23:19
-updated: 2024-03-04T22:25
+updated: 2024-03-04T22:32
 ---
 
 ## Serial GC
@@ -26,10 +26,23 @@ updated: 2024-03-04T22:25
 ### ParallelOldGC
 - Old영역, Young영역 둘다 멀티스레드로 동작
 - compact도 멀티스레드로 동작
+- `-XX:+UseParallelOldGC`로 사용가능
 
 ## The Concurrent Mark Sweep (CMS) Collector
 - tenured영역을 collect하는 GC
-- GC를 application스레드와 동시에 
+- GC를 애플리케이션 스레드와 동시에 수행하여 애플리케이션의 일시중단 시간을 최소화 하려함
+- live객체를 이동, 복사하거나 압축하지 않음
+- 조각화가 문제가 되는경우 더 큰 힙을 할당해야함
+- `-XX:+UseConcMarkSweepGC`로 사용가능
+- *거의 사용되지 않음*
+
+## G1 GC
+
+![[Pasted image 20240304223056.png|center|600]]
+
+- 아래와 같이 바둑판 영역에 객체를 할당하고 GC를 실행함
+- 해당 영역에 데이터가 꽉 차면 다른 영역에 객체를 할당하고 gc를 실행함
+
 
 
 https://d2.naver.com/helloworld/1329

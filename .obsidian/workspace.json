@@ -188,6 +188,7 @@
   },
   "active": "4428c3b946f23573",
   "lastOpenFiles": [
+    "Pasted image 20240304223056.png",
     "5-성호의 Second Brain.md",
     "2-Area/Series/cache/Caching Strategy.md",
     "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
@@ -216,7 +217,6 @@
     "2-Area/Series/Concurrency/10-Isolation level(격리 수준).md",
     "2-Area/Series/Concurrency/9-Record Locks.md",
     "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
-    "2-Area/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
     "99-templates",
     "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
     "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
