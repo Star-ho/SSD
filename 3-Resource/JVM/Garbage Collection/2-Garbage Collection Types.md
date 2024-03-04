@@ -1,6 +1,6 @@
 ---
 created: 2024-02-22T23:19
-updated: 2024-03-04T13:27
+updated: 2024-03-04T13:35
 ---
 
 ## Serial GC
@@ -13,9 +13,15 @@ updated: 2024-03-04T13:27
 
 ## Parallel GC
 - 사용하는 알고리즘은 Serial GC와 같으나, 여러 스레드를 사용함
-- CPU코어나 메모리가 많을때 유용함
+- CPU코어가 1개 이상일때 많을때 유용함
 - CPU코어가 N개일때 N개의 garbage Collector를 사용
 	- 옵션으로 garbage Collector갯수 설정 가능
-- CPU코어가 1개인 환경에서는 Parallel GC를 사용하더라도 해당 JVM의 기본 GC가 사용됨
+- CPU코어가 1개인 환경에서는 Parallel GC를 사용하더라도 해당 Serial GC가 사용됨
+
+- ParallelGC는 2가지 가 있음
+### ParallelGC
+
+### ParallelOldGC
+
 
 
