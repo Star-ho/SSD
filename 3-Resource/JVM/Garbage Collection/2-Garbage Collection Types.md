@@ -1,6 +1,6 @@
 ---
 created: 2024-02-22T23:19
-updated: 2024-03-04T13:35
+updated: 2024-03-04T22:25
 ---
 
 ## Serial GC
@@ -20,8 +20,18 @@ updated: 2024-03-04T13:35
 
 - ParallelGC는 2가지 가 있음
 ### ParallelGC
-
+- Old영역은 싱글스레드, Young 영역은 멀티스레드로 동작
+- Old영역의 compact도 싱글스레드로 동작
+- `-XX:+UseParallelGC`로 사용가능
 ### ParallelOldGC
+- Old영역, Young영역 둘다 멀티스레드로 동작
+- compact도 멀티스레드로 동작
+
+## The Concurrent Mark Sweep (CMS) Collector
+- tenured영역을 collect하는 GC
+- GC를 application스레드와 동시에 
 
 
+https://d2.naver.com/helloworld/1329
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
 
