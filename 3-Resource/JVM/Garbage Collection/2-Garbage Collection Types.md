@@ -1,6 +1,6 @@
 ---
 created: 2024-02-22T23:19
-updated: 2024-03-03T23:40
+updated: 2024-03-04T13:27
 ---
 
 ## Serial GC
@@ -16,4 +16,6 @@ updated: 2024-03-03T23:40
 - CPU코어나 메모리가 많을때 유용함
 - CPU코어가 N개일때 N개의 garbage Collector를 사용
 	- 옵션으로 garbage Collector갯수 설정 가능
-- CPU코어가 1개인 환경에서 Parallel GC를 사용하더라도 기본 GC가 사용됨
+- CPU코어가 1개인 환경에서는 Parallel GC를 사용하더라도 해당 JVM의 기본 GC가 사용됨
+
+
