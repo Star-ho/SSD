@@ -1,0 +1,20 @@
+---
+created: 2023-10-03T22:55:57
+updated: 2024-03-08T23:20
+---
+- kotlin 1.6.0    
+    - implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
+    - testImplementation("io.kotest:kotest-runner-junit5:5.0.0")
+    - testImplementation("io.kotest:kotest-assertions-core:5.0.0")
+    - testImplementation("io.kotest:kotest-property-jvm:5.0.0")
+    - testImplementation("io.kotest.extensions:kotest-extensions-spring:1.1.0")
+
+- kotlin 1.7.2
+    - implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
+    - testImplementation("io.kotest:kotest-runner-junit5:5.6.2")
+    - testImplementation("io.kotest:kotest-assertions-core:5.6.2")
+    - testImplementation("com.ninja-squad:springmockk:3.0.1")
+    - testImplementation("io.kotest.extensions:kotest-extensions-spring:1.1.3")
+
+#Kotlin 
+#Kotest
