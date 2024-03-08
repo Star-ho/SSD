@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/0-Lock 정의 & synchronized.md",
+                "file": "3-Resource/Computer-Siece/Process and Thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/0-Lock 정의 & synchronized.md",
+                "file": "3-Resource/Computer-Siece/Process and Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/0-Lock 정의 & synchronized.md",
+                "file": "3-Resource/Computer-Siece/Process and Thread.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/Concurrent/0-Lock 정의 & synchronized.md"
+                "file": "3-Resource/Computer-Siece/Process and Thread.md"
               }
             }
           }
@@ -185,48 +185,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "4428c3b946f23573",
   "lastOpenFiles": [
-    "5-Temp/Database/쿼리 튜닝 관련 명령어.md",
-    "5-Temp/Database/쿼리 프로파일링.md",
-    "5-Temp/Database/pagenation optimizer.md",
-    "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
+    "0-Blog/Software-Design/Service.md",
+    "0-Blog/Software-Design/Entity, VO.md",
+    "0-Blog/Software-Design/Aggregate.md",
+    "0-Blog/Software-Design/Aggregate 생명주기(Factory, Repository).md",
+    "0-Blog/Software-Design/협력, 책임, 역할.md",
+    "0-Blog/Tool/Codecove.md",
+    "0-Blog/Tool/kotlin-jdsl.md",
+    "0-Blog/Tool/jooq.md",
+    "0-Blog/Spring/Hibernate Associate(하이버네이트 연관관계).md",
+    "0-Blog/Spring/Hibernate.md",
+    "0-Blog/Spring/JPA 영속성전이, 프록시객체.md",
+    "0-Blog/Spring/JPA entity manager.md",
+    "0-Blog/Software-Design/CQRS(Command and Query Responsibility Segregation).md",
+    "0-Blog/Software-Design/Transactional outbox.md",
+    "0-Blog/Software-Design/Saga Pattern.md",
+    "0-Blog/JVM/jvm option for Container.md",
+    "0-Blog/JVM/Java built in Annotation.md",
+    "0-Blog/JVM/Garbage Collection/Full garbage collection.md",
+    "0-Blog/JVM/Garbage Collection/2-Garbage Collection Types.md",
+    "0-Blog/JVM/Garbage Collection/1-Garbage Collection Process.md",
+    "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+    "0-Blog/JVM/Garbage Collection",
+    "0-Blog/JVM/JVM memory structure.md",
+    "0-Blog/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
+    "0-Blog/JVM/Concurrent/4-Volitile.md",
+    "0-Blog/JVM/Concurrent/2-Semaphore.md",
+    "0-Blog/JVM/Concurrent/1-ReentrantLock & Condition.md",
+    "0-Blog/JVM/Concurrent",
+    "0-Blog/Tool",
+    "0-Blog/Spring",
+    "0-Blog/Software-Design",
+    "0-Blog/JVM",
+    "0-Blog/Infrastructure",
+    "0-Blog/Database/Innodb",
+    "0-Blog/Database",
+    "0-Blog/Concept",
     "Pasted image 20240304223056.png",
-    "5-성호의 Second Brain.md",
-    "2-Area/Series/cache/Caching Strategy.md",
-    "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
-    "2-Area/Series/coroutine/7-Job.md",
-    "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
-    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
-    "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
-    "5-Temp/0-이직자료/기술적으로 어려웠던 경험.md",
     "Pasted image 20240303224907.png",
     "Pasted image 20240303224857.png",
     "Pasted image 20240303224850.png",
-    "5-Temp/Softeware Architecture/Anemic Domain Model.md",
-    "5-Temp/JVM/java object memory layout.md",
-    "5-Temp/JVM/java garbage collector.md",
-    "5-Temp/z-etc/Frontend CTO.md",
-    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
-    "0-Blog/2-Concurrency/0-동시성(Concurrency).md",
-    "3-Resource/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
-    "3-Resource/JVM/Concurrent/4-Volitile.md",
-    "3-Resource/JVM/Concurrent/2-Semaphore.md",
-    "3-Resource/JVM/Concurrent/1-ReentrantLock & Condition.md",
-    "3-Resource/JVM/Concurrent/0-Lock 정의 & synchronized.md",
-    "2-Area/Concept/Test.md",
-    "2-Area/Series/Concurrency/11-분산락(Distributed lock).md",
-    "2-Area/Series/Concurrency/10-Isolation level(격리 수준).md",
-    "99-templates",
-    "real-resource-document/ByteByteGo_LinkedIn_PDF.pdf",
-    "real-resource-document/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
-    "Spaces/Home",
-    "Spaces",
-    "toTest/coroutine",
-    "toTest/3-coroutine",
-    "toTest",
-    "publish.css",
-    ":*",
     "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
     "real-resource-image/Pasted image 20240220131636.png",
     "real-resource-image/Pasted image 20240227181021.png",

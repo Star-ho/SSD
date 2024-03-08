@@ -1,6 +1,6 @@
 ---
-created: 2024-03-02T22:41:32
-updated: 2024-03-03T11:41
+created: 2023-10-04T22:54:59
+updated: 2024-03-08T23:19
 ---
 - Data Tier는 Content, Hot, Warm, Cold, Frozen 5개의 티어로 나눔
 
