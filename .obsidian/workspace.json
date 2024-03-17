@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "query profile",
+                "query": "coroutineIn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,8 +187,10 @@
   },
   "active": "4428c3b946f23573",
   "lastOpenFiles": [
-    "0-Blog/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
+    "2-Area/Series/coroutine/CoroutineInterceptor.md",
+    "0-Blog/3-coroutine/CoroutineInterceptor.md",
     "0-Blog/황성호 - Backend Engineer.md",
+    "0-Blog/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
     "0-Blog/Computer-Science/팬아웃.md",
     "0-Blog/1-Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "0-Blog/1-Server/7-Reactive Manifesto.md",
@@ -212,8 +214,6 @@
     "0-Blog/cache/Caching Strategy.md",
     "0-Blog/cache/Cache Passivation, Expiration, Eviction.md",
     "0-Blog/Computer-Science/Artifact.md",
-    "0-Blog/Async-messaging/Async-messaging.md",
-    "4-Archive/kafka.md",
     "0-Blog/Tip",
     "0-Blog/Study Matirials",
     "0-Blog/Database/Query",
