@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coroutineIn",
+                "query": "jfrog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f04c73fb4219f20b",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
     "0-Blog/1-Server/2-Sevlet.md",
     "0-Blog/1-Server/3-Servlet Container.md",
