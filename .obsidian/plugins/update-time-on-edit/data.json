@@ -844,6 +844,7 @@
     "0-Blog/1-Server/999-webflux 관련.md": "9abdac55af0d2eec9d61ad735c18860ce796fe56cc9c00fc89ed4dacf637ad36",
     "0-Blog/1-Server/999-Reactor netty.md": "840429f853e79dd8924f825d5bc780f7dc8111b8e0970fb4ad780c05fe73b3cf",
     "0-Blog/1-Server/7-Reactive Manifesto.md": "fe752c5e77f492c48492ad1e42ae26022ee7cccae19c6b48e5803af518522cba",
-    "0-Blog/1-Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md": "eeec2e106c84b79a154a352a13fdd53a2a8a02b9bc30123cd9166ed8560426a3"
+    "0-Blog/1-Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md": "eeec2e106c84b79a154a352a13fdd53a2a8a02b9bc30123cd9166ed8560426a3",
+    "4-Archive/Tools/Jfrog.md": "9522c245b477005524d45ecce829cbecd44457111a67e59c0fc9dc7f986bb351"
   }
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Blog/1-Server/1-Applet.md",
+                "file": "4-Archive/Tools/Jfrog.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jfrog",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Blog/1-Server/1-Applet.md",
+                "file": "4-Archive/Tools/Jfrog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Blog/1-Server/1-Applet.md",
+                "file": "4-Archive/Tools/Jfrog.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Blog/1-Server/1-Applet.md"
+                "file": "4-Archive/Tools/Jfrog.md"
               }
             }
           }
@@ -178,12 +177,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "f04c73fb4219f20b",
   "lastOpenFiles": [
+    "0-Blog/1-Server/1-Applet.md",
+    "4-Archive/Tools/Jfrog.md",
     "0-Blog/1-Server/2-Sevlet.md",
     "0-Blog/1-Server/3-Servlet Container.md",
     "0-Blog/1-Server/4-Jakarta Servlet.md",
-    "0-Blog/1-Server/1-Applet.md",
     "0-Blog/황성호 - Backend Engineer.md",
     "0-Blog/cache/Caching Strategy.md",
     "0-Blog/1-Server/0-Static Web Server.md",
@@ -206,7 +206,6 @@
     "0-Blog/Computer-Science/영속성.md",
     "0-Blog/Computer-Science/TSID(Sorted Unique Identifiers).md",
     "0-Blog/cache/Cache Passivation, Expiration, Eviction.md",
-    "0-Blog/Computer-Science/Artifact.md",
     "0-Blog/Tip",
     "0-Blog/Study Matirials",
     "0-Blog/Database/Query",
