@@ -855,10 +855,11 @@
     "5-Temp/코드짤떄/static method naming convention.md": "a8834c08ed1bc164f985f0da522e274c7f8f672d433dfbd9f08c24a1f00ec332",
     "5-Temp/Softeware Architecture/SOA vs msa.md": "0e7a0797879e5a37a2aba54be7d102baf024bfbe6986bbf7e1b43f1b62743c05",
     "5-Temp/마인드셋/협업시.md": "ba2e160d56b8f7e4d33bfcaa52e80345a55b0057045624c8474a3a2e148c488b",
-    "5-Temp/Database/쿼리관련/쿼리 프로파일링.md": "c37c40cf532faaeb34cf2e61bee6b7d50f8e9835c9fbf92ff4114d58f51d73e8",
-    "5-Temp/Database/쿼리관련/쿼리 실행 순서.md": "49833f534ce7025d38638310c59d8ed0f09a10dcebc5788e6305fbdd9eabc3a4",
-    "5-Temp/Database/쿼리관련/쿼리 실행시간 보는법.md": "96c5b12b9b0dfdfa3d067c2d508d31c7f06be939d8e70d97b3bf8b77773b588c",
-    "5-Temp/Database/쿼리관련/쿼리 튜닝 관련 명령어.md": "19c238ae2c12d92cad5c23a43457b76c496a9adc2132b83afbff6040efa72a3b",
-    "5-Temp/Database/쿼리관련/쿼리개선 관련글.md": "557610f3a0cb0036a31d9a7ec7acad450811a8734eed68218117989734149740"
+    "5-Temp/Database/쿼리튜닝/쿼리 프로파일링.md": "c37c40cf532faaeb34cf2e61bee6b7d50f8e9835c9fbf92ff4114d58f51d73e8",
+    "5-Temp/Database/쿼리튜닝/쿼리 실행 순서.md": "49833f534ce7025d38638310c59d8ed0f09a10dcebc5788e6305fbdd9eabc3a4",
+    "5-Temp/Database/쿼리튜닝/쿼리 실행시간 보는법.md": "96c5b12b9b0dfdfa3d067c2d508d31c7f06be939d8e70d97b3bf8b77773b588c",
+    "5-Temp/Database/쿼리튜닝/쿼리 튜닝 관련 명령어.md": "19c238ae2c12d92cad5c23a43457b76c496a9adc2132b83afbff6040efa72a3b",
+    "5-Temp/Database/쿼리튜닝/쿼리개선 관련글.md": "557610f3a0cb0036a31d9a7ec7acad450811a8734eed68218117989734149740",
+    "5-Temp/Database/쿼리튜닝/trace 거는 거부터가 튜닝 시작.md": "294f2fd6949dd05bf7653edc2b42c4e169ebc3f7dfb84613b9690173499d5ea9"
   }
 }

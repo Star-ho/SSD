@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Database/키 설계.md",
+                "file": "5-Temp/Database/쿼리튜닝/trace 거는 거부터가 튜닝 시작.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Database/키 설계.md",
+                "file": "5-Temp/Database/쿼리튜닝/trace 거는 거부터가 튜닝 시작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Database/키 설계.md",
+                "file": "5-Temp/Database/쿼리튜닝/trace 거는 거부터가 튜닝 시작.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Database/키 설계.md"
+                "file": "5-Temp/Database/쿼리튜닝/trace 거는 거부터가 튜닝 시작.md"
               }
             }
           }
@@ -180,6 +180,13 @@
   },
   "active": "e9208eb6c9239413",
   "lastOpenFiles": [
+    "5-Temp/Database/쿼리튜닝/쿼리 실행 순서.md",
+    "5-Temp/Database/쿼리튜닝/trace 거는 거부터가 튜닝 시작.md",
+    "5-Temp/Database/쿼리튜닝/쿼리 실행시간 보는법.md",
+    "5-Temp/Database/쿼리튜닝/쿼리 튜닝 관련 명령어.md",
+    "5-Temp/Database/쿼리튜닝/쿼리 프로파일링.md",
+    "5-Temp/Database/쿼리튜닝/쿼리개선 관련글.md",
+    "5-Temp/Database/키 설계.md",
     "5-Temp/Database/Mysql order by.md",
     "5-Temp/Database/Write-Ahead Logging.md",
     "5-Temp/Database/mysql 옵티마이저 트레이스.md",
@@ -187,9 +194,8 @@
     "5-Temp/Database/db 메모리.md",
     "5-Temp/Database/Binary log performance.md",
     "5-Temp/Database/backward index scan.md",
-    "5-Temp/Database/쿼리관련/쿼리 실행 순서.md",
     "5-Temp/Database/외래키, 양방향 연관관계.md",
-    "5-Temp/Database/쿼리관련",
+    "5-Temp/Database/쿼리튜닝",
     "5-Temp/마인드셋/협업시.md",
     "2-Area/1-Weekly-Reading/운동.md",
     "1-Project/개발 OFF/블로그 생성.md",
@@ -202,12 +208,6 @@
     "5-Temp/도커 관련 블로그.md",
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "5-Temp/Computer Science/10만유저 동시접속.md",
-    "5-Temp/00사업아이템/한국 전화 경보 Twillo.md",
-    "5-Temp/Database/foreign key에 대한 논의.md",
-    "5-Temp/Computer Science/동기 비동기.md",
-    "5-Temp/Database/mysql/Hint 동작 역할.md",
-    "5-Temp/Database/Untitled.md",
-    "5-Temp/JVM/threshold가 낮은 객체들이 eden에 쌓일때.md",
     "5-Temp/Operating-System",
     "0-Blog/1-Server",
     "0-Blog/Tip",
