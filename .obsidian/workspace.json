@@ -11,8 +11,12 @@
             "id": "e9208eb6c9239413",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/마인드셋/알려줄 영광.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5-Temp/마인드셋/알려줄 영광.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5-Temp/마인드셋/알려줄 영광.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "naver2044ab766e22ddf3ab3f131a44f835f2.html.md"
+                "file": "5-Temp/마인드셋/알려줄 영광.md"
               }
             }
           }
@@ -172,9 +178,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "e9208eb6c9239413",
   "lastOpenFiles": [
     "naver2044ab766e22ddf3ab3f131a44f835f2.html.md",
+    "5-Temp/마인드셋/알려줄 영광.md",
     "5-Temp/도커 관련 블로그.md",
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "5-Temp/Computer Science/10만유저 동시접속.md",
@@ -201,7 +208,6 @@
     "0-Blog/3-coroutine/CoroutineInterceptor.md",
     "0-Blog/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
     "0-Blog/Computer-Science/팬아웃.md",
-    "0-Blog/1-Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "0-Blog/1-Server",
     "0-Blog/Tip",
     "0-Blog/Study Matirials",
