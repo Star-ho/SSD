@@ -1,6 +1,6 @@
 ---
 created: 2024-03-27T23:00
-updated: 2024-03-27T23:02
+updated: 2024-03-27T23:03
 ---
 
 - 커넥션 관련 쿼리
@@ -10,6 +10,13 @@ show variables like '%max_connections%';
 
 -- 서버가 시작된 후로 동시에 연결된 최대 connection 갯수
 SHOW STATUS WHERE `variable_name` = 'Max_used_connections';  
--- 현저 ㅅ
+
+-- 현저 서버에 연결된 connection 수
 SHOW STATUS WHERE `variable_name` = 'Threads_connected';
 ```
+
+
+#Database
+#MySQL 
+#Mysql-connection
+#Trouble-Shooting
