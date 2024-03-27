@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Database/backward index scan.md",
+                "file": "0-Blog/Database/mysql 락걸린 쿼리 확인.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trouble",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Database/backward index scan.md",
+                "file": "0-Blog/Database/mysql 락걸린 쿼리 확인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Database/backward index scan.md",
+                "file": "0-Blog/Database/mysql 락걸린 쿼리 확인.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Database/backward index scan.md"
+                "file": "0-Blog/Database/mysql 락걸린 쿼리 확인.md"
               }
             }
           }
@@ -180,6 +181,20 @@
   },
   "active": "e9208eb6c9239413",
   "lastOpenFiles": [
+    "0-Blog/Database/mysql 프로세스 리스트 보기.md",
+    "4-Archive/Tools/Java Development Kit Version 20 Tool Specifications.md",
+    "4-Archive/Tools/ctop.md",
+    "5-Temp/z-etc/troubleshooting 참고자료.md",
+    "4-Archive/Study Matirials/공부할자료.md",
+    "5-Temp/Database/mysql system row?.md",
+    "5-Temp/Database/Mysql order by.md",
+    "5-Temp/Database/mysql lock foreign key.md",
+    "5-Temp/Database/mysql index leftmost rule.md",
+    "5-Temp/Database/mysql Full-Text Searches.md",
+    "5-Temp/Database/mysql buffer pool.md",
+    "5-Temp/Database/Bulk Insert.md",
+    "5-Temp/Database/Binary log performance.md",
+    "5-Temp/Database/backward index scan.md",
     "5-Temp/Database/B+ Tree의 fan-out.md",
     "5-Temp/Database/aurora vs mysql.md",
     "5-Temp/Database/메세지큐, 데이터베이스 초, 분당 최대 쓰기 갯수.md",
@@ -192,21 +207,7 @@
     "5-Temp/Database/쿼리튜닝/trace 거는 거부터가 튜닝 시작.md",
     "5-Temp/Database/쿼리튜닝/쿼리개선 관련글.md",
     "5-Temp/Database/쿼리튜닝/쿼리 프로파일링.md",
-    "5-Temp/Database/쿼리튜닝/쿼리 튜닝 관련 명령어.md",
-    "5-Temp/Database/쿼리튜닝/쿼리 실행 순서.md",
-    "5-Temp/Database/쿼리튜닝/쿼리 실행시간 보는법.md",
-    "5-Temp/Database/키 설계.md",
-    "5-Temp/Database/Mysql order by.md",
-    "5-Temp/Database/Write-Ahead Logging.md",
-    "5-Temp/Database/mysql 옵티마이저 트레이스.md",
-    "5-Temp/Database/Untitled 1.md",
-    "5-Temp/Database/db 메모리.md",
-    "5-Temp/Database/Binary log performance.md",
-    "5-Temp/Database/backward index scan.md",
-    "5-Temp/Database/외래키, 양방향 연관관계.md",
     "5-Temp/Database/쿼리튜닝",
-    "5-Temp/마인드셋/협업시.md",
-    "2-Area/1-Weekly-Reading/운동.md",
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "5-Temp/Operating-System",
     "0-Blog/1-Server",
