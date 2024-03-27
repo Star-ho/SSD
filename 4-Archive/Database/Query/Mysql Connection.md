@@ -1,6 +1,6 @@
 ---
 created: 2024-03-27T23:00
-updated: 2024-03-27T23:03
+updated: 2024-03-27T23:21
 ---
 
 - 커넥션 관련 쿼리
@@ -14,6 +14,7 @@ SHOW STATUS WHERE `variable_name` = 'Max_used_connections';
 -- 현저 서버에 연결된 connection 수
 SHOW STATUS WHERE `variable_name` = 'Threads_connected';
 ```
+
 
 
 #Database
