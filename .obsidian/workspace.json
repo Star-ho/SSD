@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Blog/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "4-Archive/Database/Query/Mysql Connection.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Blog/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "4-Archive/Database/Query/Mysql Connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Blog/Database/mysql 락걸린 쿼리 확인.md",
+                "file": "4-Archive/Database/Query/Mysql Connection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Blog/Database/mysql 락걸린 쿼리 확인.md"
+                "file": "4-Archive/Database/Query/Mysql Connection.md"
               }
             }
           }
@@ -181,6 +180,8 @@
   },
   "active": "e9208eb6c9239413",
   "lastOpenFiles": [
+    "0-Blog/Database/mysql 락걸린 쿼리 확인.md",
+    "4-Archive/Database/Query/Mysql Connection.md",
     "0-Blog/Database/mysql 프로세스 리스트 보기.md",
     "4-Archive/Tools/Java Development Kit Version 20 Tool Specifications.md",
     "4-Archive/Tools/ctop.md",
@@ -205,8 +206,6 @@
     "5-Temp/Database/데이터베이스 공부자료.md",
     "5-Temp/Database/대용량 테이블 파티션 추가.md",
     "5-Temp/Database/쿼리튜닝/trace 거는 거부터가 튜닝 시작.md",
-    "5-Temp/Database/쿼리튜닝/쿼리개선 관련글.md",
-    "5-Temp/Database/쿼리튜닝/쿼리 프로파일링.md",
     "5-Temp/Database/쿼리튜닝",
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "5-Temp/Operating-System",
