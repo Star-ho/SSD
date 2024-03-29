@@ -861,6 +861,6 @@
     "4-Archive/Database/Query/Mysql Connection.md": "063ee66abc2b44c3ef6b507a9e4bfc803720742900fec6a2993cfe6661a7f897",
     "4-Archive/Database/Query/HikariCP.md": "addee7f2beaaca36745c9dac568083f22e71f75e2181af1fbedcc54e2b617ed0",
     "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md": "8157a31555501ad4b93d63a6375b1b08aeddec065634194569dfc2b027eee6f0",
-    "5-Temp/Computer Science/Network/롱 폴링, 웹소켓.md": "1293d90619be515c1eb48d7f64520def033106d3244c958fc7f8b4905318e125"
+    "5-Temp/Computer Science/Network/Long pooling, Web Socket, Streaming.md": "284ed439620df08463e0d193cfec860a85a8407fe888681e6bc4c5e8f5416dae"
   }
 }
