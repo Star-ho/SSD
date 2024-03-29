@@ -1,6 +1,6 @@
 ---
 created: 2024-03-02T22:41
-updated: 2024-03-29T23:28
+updated: 2024-03-29T23:46
 ---
 
 ## 경력
@@ -11,13 +11,13 @@ updated: 2024-03-29T23:28
 - [Spring Framework PR#31632](https://github.com/spring-projects/spring-framework/pull/31632)
 
 ## Recently Post
-### [[JVM/Concurrent/5-ExecutorService & CountDownLatch.md|5-ExecutorService & CountDownLatch.md]]
-### [[cache/Cache Passivation, Expiration, Eviction.md|Cache Passivation, Expiration, Eviction.md]]
-### [[Software-Design/Entity, VO.md|Entity, VO.md]]
-### [[Software-Design/Service.md|Service.md]]
-### [[Software-Design/Aggregate.md|Aggregate.md]]
-### [[java-database-connect/jpa.md|jpa.md]]
-### [[2-Concurrency/1-Mutex(Lock).md|1-Mutex(Lock).md]]
-### [[2-Concurrency/9-Record Locks.md|9-Record Locks.md]]
-### [[2-Concurrency/2-Semaphore.md|2-Semaphore.md]]
-### [[2-Concurrency/7-Shared Lock(S-lock).md|7-Shared Lock(S-lock).md]]
+### [[Computer-Science/Long polling, Streaming, Web Socket.md|Long polling, Streaming, Web Socket.md]]
+### [[Database/정규화 역정규화.md|정규화 역정규화.md]]
+### [[Study Matirials/dev handbook.md|dev handbook.md]]
+### [[Study Matirials/MSA 관련 유튜브.md|MSA 관련 유튜브.md]]
+### [[JVM/JUnit.md|JUnit.md]]
+### [[Tip/Time zone 관련 팁.md|Time zone 관련 팁.md]]
+### [[Tip/인텔리제이 java 버전 변경 시.md|인텔리제이 java 버전 변경 시.md]]
+### [[Tool/DeepL.md|DeepL.md]]
+### [[Tool/드로윙 툴.md|드로윙 툴.md]]
+### [[Tool/Byte Buddy.md|Byte Buddy.md]]
