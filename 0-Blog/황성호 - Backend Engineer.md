@@ -1,6 +1,6 @@
 ---
 created: 2024-03-02T22:41
-updated: 2024-03-18T00:09
+updated: 2024-03-29T23:28
 ---
 
 ## 경력
@@ -12,12 +12,12 @@ updated: 2024-03-18T00:09
 
 ## Recently Post
 ### [[JVM/Concurrent/5-ExecutorService & CountDownLatch.md|5-ExecutorService & CountDownLatch.md]]
-### [[cache/Caching Strategy.md|Caching Strategy.md]]
 ### [[cache/Cache Passivation, Expiration, Eviction.md|Cache Passivation, Expiration, Eviction.md]]
-### [[Async-messaging/Async-messaging.md|Async-messaging.md]]
 ### [[Software-Design/Entity, VO.md|Entity, VO.md]]
-### [[Software-Design/Aggregate 생명주기(Factory, Repository).md|Aggregate 생명주기(Factory, Repository).md]]
 ### [[Software-Design/Service.md|Service.md]]
 ### [[Software-Design/Aggregate.md|Aggregate.md]]
-### [[Software-Design/협력, 책임, 역할.md|협력, 책임, 역할.md]]
 ### [[java-database-connect/jpa.md|jpa.md]]
+### [[2-Concurrency/1-Mutex(Lock).md|1-Mutex(Lock).md]]
+### [[2-Concurrency/9-Record Locks.md|9-Record Locks.md]]
+### [[2-Concurrency/2-Semaphore.md|2-Semaphore.md]]
+### [[2-Concurrency/7-Shared Lock(S-lock).md|7-Shared Lock(S-lock).md]]

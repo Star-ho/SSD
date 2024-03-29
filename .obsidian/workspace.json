@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Computer Science/Network/Long po lling, Streaming, Web Socket.md",
+                "file": "0-Blog/황성호 - Backend Engineer.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Computer Science/Network/Long po lling, Streaming, Web Socket.md",
+                "file": "0-Blog/황성호 - Backend Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Computer Science/Network/Long po lling, Streaming, Web Socket.md",
+                "file": "0-Blog/황성호 - Backend Engineer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Computer Science/Network/Long po lling, Streaming, Web Socket.md"
+                "file": "0-Blog/황성호 - Backend Engineer.md"
               }
             }
           }
@@ -180,6 +180,12 @@
   },
   "active": "e9208eb6c9239413",
   "lastOpenFiles": [
+    "0-Blog/Computer-Science/Long polling, Streaming, Web Socket.md",
+    "0-Blog/황성호 - Backend Engineer.md",
+    "4-Archive/Computer-Science/Long polling, Streaming, Web Socket.md",
+    "0-Blog/Computer-Science/CAP.md",
+    "5-Temp/Computer Science/Network/Network Interface Card.md",
+    "5-Temp/Computer Science/Network/socket.md",
     "Pasted image 20240329231640.png",
     "Pasted image 20240329231610.png",
     "Pasted image 20240329230355.png",
@@ -188,7 +194,6 @@
     "5-Temp/Softeware Architecture/SOA vs msa.md",
     "5-Temp/Softeware Architecture/Untitled.md",
     "5-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md",
-    "5-Temp/Computer Science/Network/Long po lling, Streaming, Web Socket.md",
     "4-Archive/Database/Query/HikariCP.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "0-Blog/Async-messaging/Async-messaging.md",
@@ -206,10 +211,6 @@
     "5-Temp/Database/Query실행 순서.md",
     "2-Area/생각정리/레거시.md",
     "5-Temp/Concept/end to end exactly once processing.md",
-    "5-Temp/Softeware Architecture/MSA 패턴.md",
-    "5-Temp/JVM/JAVA lombok.md",
-    "4-Archive/Database/Query/Mysql Connection.md",
-    "0-Blog/Database/mysql 락걸린 쿼리 확인.md",
     "5-Temp/Database/쿼리튜닝",
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "5-Temp/Operating-System",
@@ -225,7 +226,6 @@
     "Pasted image 20240303224857.png",
     "Pasted image 20240303224850.png",
     "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
-    "real-resource-image/Pasted image 20240220131636.png",
     "Untitled.canvas"
   ]
 }

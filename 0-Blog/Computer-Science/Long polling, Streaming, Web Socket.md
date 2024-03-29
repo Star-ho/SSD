@@ -1,6 +1,6 @@
 ---
 created: 2024-01-04T22:47:40
-updated: 2024-03-29T23:18
+updated: 2024-03-29T23:20
 ---
 ## Why?
 - 클라이언트가 서버에게 http요청을 보내는 상황이 아닌, 서버에서 클라이언트에게 요청을 보내는 상황이 발생시 유용함
@@ -45,7 +45,8 @@ updated: 2024-03-29T23:18
 ![[Pasted image 20240329231640.png|center|600]]
 
 - 위의 방식들은 HTTP를 잘 활용해서 만든 방식이라면 Web Socket은 HTTP 프로토콜을 사용하지 않음
-- 양방향으로 서록
+- 양방향으로 통신이 가능한 방식으로 언제든 서로 데이터를 보낼 수 있음
+
 
 https://dydtjr1128.github.io/etc/2019/09/23/polling-long-polling-streaming.html
 https://bcho.tistory.com/896
