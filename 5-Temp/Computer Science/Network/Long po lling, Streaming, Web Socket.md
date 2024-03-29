@@ -1,6 +1,6 @@
 ---
 created: 2024-01-04T22:47:40
-updated: 2024-03-29T23:07
+updated: 2024-03-29T23:18
 ---
 ## Why?
 - 클라이언트가 서버에게 http요청을 보내는 상황이 아닌, 서버에서 클라이언트에게 요청을 보내는 상황이 발생시 유용함
@@ -36,11 +36,21 @@ updated: 2024-03-29T23:07
 - HTTP/1.1 또는 HTTP/1.0에서 가능
 > RFC문서에서는 위 두버전만 명시되어 있지만, 해당 문서는 2011년에 작성되었기에, 위 두 버전만 명시한것으로 보임
 > 그 이후버전에서도 가능할것이라 생각함
-- HTTP의 
+- HTTP의 EOF와 chunked transfer를 사용하여 연결을 지속함
+	- HTTP/1.0에서는 EOF만 사용가능함
+	- HTTP/1.1에서는 EOF와 chunked transfer 둘다 사용가능함
+
+## Web Socket
+
+![[Pasted image 20240329231640.png|center|600]]
+
+- 위의 방식들은 HTTP를 잘 활용해서 만든 방식이라면 Web Socket은 HTTP 프로토콜을 사용하지 않음
+- 양방향으로 서록
 
 https://dydtjr1128.github.io/etc/2019/09/23/polling-long-polling-streaming.html
 https://bcho.tistory.com/896
 https://stackoverflow.com/questions/12555043/my-understanding-of-http-polling-long-polling-http-streaming-and-websockets
+https://sendbird.com/ko/developer/tutorials/websocket-vs-http-communication-protocols
 
 https://datatracker.ietf.org/doc/html/rfc6202
 https://datatracker.ietf.org/doc/html/rfc6455
