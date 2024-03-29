@@ -262,7 +262,6 @@
     "5-Temp/Computer Science/Network/소켓 프로그래밍.md": "1c7777c00449bd843d835be1b386ed9754239469f0c2b9c331d3938c6b2a1bb4",
     "5-Temp/Computer Science/Network/DNS평가순서.md": "a085d11498fa547d793e013db71d229e05fc8509eadd9ce75934d55754f9c93f",
     "5-Temp/Computer Science/Network/openssl.md": "4f404afbd3483e1668d156f711b05ffba1f838f69bb8a690f7b2974040a2b6d6",
-    "5-Temp/Computer Science/Network/롱 폴링.md": "a34ea02f46ed99aab018ffcb8220a5f889c590b5b903f7a2453027cfda1026f7",
     "5-Temp/Computer Science/Network/동기, 비동기 IO.md": "44822847a88eee23d3abc053d5db25891ac5a1a8ff1de019cc48302b10b49a74",
     "5-Temp/Computer Science/TTB.md": "25d79b0424fa82ddd618765a198751682b2b670750445c40dabc0fd9f67a663a",
     "5-Temp/Computer Science/Bool 형 자료형.md": "82c465fbb004b66611da8e4e118db38d8d39d0f0753385f665d59af34396406a",
@@ -851,7 +850,7 @@
     "5-Temp/Computer Science/Network/네트워크는 LAN 뿐이 없다.md": "ee98f6714780b956a4fe6e625eb17c97310a4cde8700070e4ee5194aa405494f",
     "5-Temp/Softeware Architecture/소프트웨어 개발에서 얻은 교훈들.md": "6cb68611515c9dbd89c330d94c829ab9736fee4da0a6347df1b05cf3921505e5",
     "5-Temp/코드짤떄/static method naming convention.md": "a8834c08ed1bc164f985f0da522e274c7f8f672d433dfbd9f08c24a1f00ec332",
-    "5-Temp/Softeware Architecture/SOA vs msa.md": "0e7a0797879e5a37a2aba54be7d102baf024bfbe6986bbf7e1b43f1b62743c05",
+    "5-Temp/Softeware Architecture/SOA vs msa.md": "61aa68553bb4e4bff5cb601f68c55c53482a9090dc59e2941f8f21764c15e9e3",
     "5-Temp/마인드셋/협업시.md": "ba2e160d56b8f7e4d33bfcaa52e80345a55b0057045624c8474a3a2e148c488b",
     "5-Temp/Database/쿼리튜닝/쿼리 프로파일링.md": "c37c40cf532faaeb34cf2e61bee6b7d50f8e9835c9fbf92ff4114d58f51d73e8",
     "5-Temp/Database/쿼리튜닝/쿼리 실행 순서.md": "49833f534ce7025d38638310c59d8ed0f09a10dcebc5788e6305fbdd9eabc3a4",
@@ -861,6 +860,7 @@
     "5-Temp/Database/쿼리튜닝/trace 거는 거부터가 튜닝 시작.md": "294f2fd6949dd05bf7653edc2b42c4e169ebc3f7dfb84613b9690173499d5ea9",
     "4-Archive/Database/Query/Mysql Connection.md": "063ee66abc2b44c3ef6b507a9e4bfc803720742900fec6a2993cfe6661a7f897",
     "4-Archive/Database/Query/HikariCP.md": "addee7f2beaaca36745c9dac568083f22e71f75e2181af1fbedcc54e2b617ed0",
-    "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md": "8157a31555501ad4b93d63a6375b1b08aeddec065634194569dfc2b027eee6f0"
+    "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md": "8157a31555501ad4b93d63a6375b1b08aeddec065634194569dfc2b027eee6f0",
+    "5-Temp/Computer Science/Network/롱 폴링, 웹소켓.md": "1293d90619be515c1eb48d7f64520def033106d3244c958fc7f8b4905318e125"
   }
 }

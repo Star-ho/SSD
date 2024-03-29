@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Computer Science/Network/롱 폴링.md",
+                "file": "5-Temp/Softeware Architecture/SOA vs msa.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#argent",
+                "query": "SOA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Computer Science/Network/롱 폴링.md",
+                "file": "5-Temp/Softeware Architecture/SOA vs msa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Computer Science/Network/롱 폴링.md",
+                "file": "5-Temp/Softeware Architecture/SOA vs msa.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Computer Science/Network/롱 폴링.md"
+                "file": "5-Temp/Softeware Architecture/SOA vs msa.md"
               }
             }
           }
@@ -181,12 +180,15 @@
   },
   "active": "e9208eb6c9239413",
   "lastOpenFiles": [
+    "5-Temp/Softeware Architecture/Untitled.md",
+    "5-Temp/Softeware Architecture/SOA vs msa.md",
+    "5-Temp/Concept/아키텍처 패턴, 아키텍처 스타일.md",
+    "5-Temp/Computer Science/Network/롱 폴링, 웹소켓.md",
     "4-Archive/Database/Query/HikariCP.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "0-Blog/Async-messaging/Async-messaging.md",
     "5-Temp/InfraStructure/messsge-queue/pub sub vs message queue vs message broker vs streaming platform.md",
     "5-Temp/Concept/느슨한 정족수.md",
-    "5-Temp/Computer Science/Network/롱 폴링.md",
     "5-Temp/Spring/jpa mappedby, joincolumn.md",
     "5-Temp/Spring/argument resolver.md",
     "5-Temp/Spring/Untitled.md",
@@ -204,9 +206,6 @@
     "4-Archive/Database/Query/Mysql Connection.md",
     "0-Blog/Database/mysql 락걸린 쿼리 확인.md",
     "0-Blog/Database/mysql 프로세스 리스트 보기.md",
-    "4-Archive/Tools/Java Development Kit Version 20 Tool Specifications.md",
-    "4-Archive/Tools/ctop.md",
-    "5-Temp/z-etc/troubleshooting 참고자료.md",
     "5-Temp/Database/쿼리튜닝",
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "5-Temp/Operating-System",

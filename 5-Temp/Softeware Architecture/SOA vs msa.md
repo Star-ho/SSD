@@ -1,6 +1,6 @@
 ---
 created: 2024-03-23T20:35
-updated: 2024-03-23T20:37
+updated: 2024-03-29T18:09
 ---
 netflix의 msa전환기
 https://open.substack.com/pub/bytebytego/p/a-brief-history-of-scaling-netflix?r=3ebbmm&utm_medium=ios
@@ -15,3 +15,6 @@ MSA와 SOA의 가장 중요한 차이점은 무엇일까요?
 좀더 정확히는
 롤백을 디비트렌젝션으로 처리 한다 모든걸 롤백 트렌젝션을 각각 컴포넌트의 api베이스로 한다 입니다
 당연히 디비가 분리되어 있으면 트렌젝션 하나로 안되지만 그 이유를 아시면 좋죠 
+
+
+#argent 
