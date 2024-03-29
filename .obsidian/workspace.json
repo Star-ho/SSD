@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md",
+                "file": "5-Temp/Computer Science/Network/롱 폴링.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md",
+                "file": "5-Temp/Computer Science/Network/롱 폴링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md",
+                "file": "5-Temp/Computer Science/Network/롱 폴링.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md"
+                "file": "5-Temp/Computer Science/Network/롱 폴링.md"
               }
             }
           }
@@ -181,32 +181,32 @@
   },
   "active": "e9208eb6c9239413",
   "lastOpenFiles": [
+    "4-Archive/Database/Query/HikariCP.md",
+    "2-Area/Series/Async-messaging/Async-messaging.md",
+    "0-Blog/Async-messaging/Async-messaging.md",
+    "5-Temp/InfraStructure/messsge-queue/pub sub vs message queue vs message broker vs streaming platform.md",
+    "5-Temp/Concept/느슨한 정족수.md",
+    "5-Temp/Computer Science/Network/롱 폴링.md",
+    "5-Temp/Spring/jpa mappedby, joincolumn.md",
+    "5-Temp/Spring/argument resolver.md",
+    "5-Temp/Spring/Untitled.md",
+    "5-Temp/Spring/Untitled 1.md",
+    "5-Temp/JVM/java object memory layout.md",
+    "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
+    "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
+    "5-Temp/InfraStructure/저장소의 성능을 올리는 법.md",
+    "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md",
     "5-Temp/Database/Query실행 순서.md",
     "2-Area/생각정리/레거시.md",
     "5-Temp/Concept/end to end exactly once processing.md",
     "5-Temp/Softeware Architecture/MSA 패턴.md",
     "5-Temp/JVM/JAVA lombok.md",
-    "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md",
-    "4-Archive/Database/Query/HikariCP.md",
     "4-Archive/Database/Query/Mysql Connection.md",
     "0-Blog/Database/mysql 락걸린 쿼리 확인.md",
     "0-Blog/Database/mysql 프로세스 리스트 보기.md",
     "4-Archive/Tools/Java Development Kit Version 20 Tool Specifications.md",
     "4-Archive/Tools/ctop.md",
     "5-Temp/z-etc/troubleshooting 참고자료.md",
-    "4-Archive/Study Matirials/공부할자료.md",
-    "5-Temp/Database/mysql system row?.md",
-    "5-Temp/Database/Mysql order by.md",
-    "5-Temp/Database/mysql lock foreign key.md",
-    "5-Temp/Database/mysql index leftmost rule.md",
-    "5-Temp/Database/mysql Full-Text Searches.md",
-    "5-Temp/Database/mysql buffer pool.md",
-    "5-Temp/Database/Bulk Insert.md",
-    "5-Temp/Database/Binary log performance.md",
-    "5-Temp/Database/backward index scan.md",
-    "5-Temp/Database/B+ Tree의 fan-out.md",
-    "5-Temp/Database/aurora vs mysql.md",
-    "5-Temp/Database/메세지큐, 데이터베이스 초, 분당 최대 쓰기 갯수.md",
     "5-Temp/Database/쿼리튜닝",
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "5-Temp/Operating-System",
