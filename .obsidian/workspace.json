@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Blog/JVM/JVM memory structure.md",
+                "file": "5-Temp/Spring/interface는 필요한가?.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Blog/JVM/JVM memory structure.md",
+                "file": "5-Temp/Spring/interface는 필요한가?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Blog/JVM/JVM memory structure.md",
+                "file": "5-Temp/Spring/interface는 필요한가?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Blog/JVM/JVM memory structure.md"
+                "file": "5-Temp/Spring/interface는 필요한가?.md"
               }
             }
           }
@@ -180,6 +180,9 @@
   },
   "active": "01f33a94044d9bac",
   "lastOpenFiles": [
+    "5-Temp/테스트/테스트 런던파 vs 고전파.md",
+    "5-Temp/Spring/interface는 필요한가?.md",
+    "0-Blog/JVM/JVM memory structure.md",
     "0-Blog/JVM/JUnit.md",
     "0-Blog/JVM/kotlin vs java.md",
     "0-Blog/JVM/kotlin, coroutine, kotest 버전별 호환 목록.md",
@@ -203,9 +206,6 @@
     "3-Resource/Software-Design/Saga Pattern.md",
     "0-Blog/Database/쿼리 실행 순서.md",
     "3-Resource/Cache Passivation, Expiration, Eviction.md",
-    "0-Blog/Database/쿼리 튜닝시.md",
-    "0-Blog/Database/ACID.md",
-    "0-Blog/Database/정규화 역정규화.md",
     "real-resource-image/Pasted image 20240329231640.png",
     "real-resource-image/Pasted image 20240329225214.png",
     "real-resource-image/Pasted image 20240303224850.png",

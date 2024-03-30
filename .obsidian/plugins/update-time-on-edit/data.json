@@ -859,6 +859,7 @@
     "4-Archive/Database/Query/HikariCP.md": "addee7f2beaaca36745c9dac568083f22e71f75e2181af1fbedcc54e2b617ed0",
     "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md": "8157a31555501ad4b93d63a6375b1b08aeddec065634194569dfc2b027eee6f0",
     "4-Archive/Computer-Science/Long polling, Streaming, Web Socket.md": "30de90175bdf49607c0b59d58f602714a957419c3959d6ee56405196ad39bdfa",
-    "0-Blog/Computer-Science/Long polling, Streaming, Web Socket.md": "c4277e81ead12bf0bddbdee2a4fca7d84a7408922992776800192d191789cf2e"
+    "0-Blog/Computer-Science/Long polling, Streaming, Web Socket.md": "c4277e81ead12bf0bddbdee2a4fca7d84a7408922992776800192d191789cf2e",
+    "5-Temp/Spring/interface는 필요한가?.md": "ac9b73886085ef9702c6a5725bfb602012fb446af2ad0b1e0ffe0bd7a88f6576"
   }
 }
