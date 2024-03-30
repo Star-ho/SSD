@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Spring/interface는 필요한가?.md",
+                "file": "5-Temp/마인드셋/협업/변경에 유연한구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Spring/interface는 필요한가?.md",
+                "file": "5-Temp/마인드셋/협업/변경에 유연한구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Spring/interface는 필요한가?.md",
+                "file": "5-Temp/마인드셋/협업/변경에 유연한구조.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Spring/interface는 필요한가?.md"
+                "file": "5-Temp/마인드셋/협업/변경에 유연한구조.md"
               }
             }
           }
@@ -180,32 +180,34 @@
   },
   "active": "01f33a94044d9bac",
   "lastOpenFiles": [
-    "5-Temp/테스트/테스트 런던파 vs 고전파.md",
-    "5-Temp/Spring/interface는 필요한가?.md",
-    "0-Blog/JVM/JVM memory structure.md",
-    "0-Blog/JVM/JUnit.md",
-    "0-Blog/JVM/kotlin vs java.md",
-    "0-Blog/JVM/kotlin, coroutine, kotest 버전별 호환 목록.md",
-    "0-Blog/Software-Design/Transactional outbox.md",
-    "0-Blog/JVM/vm option.md",
-    "0-Blog/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
-    "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
-    "0-Blog/JVM/Garbage Collection/1-Garbage Collection Process.md",
-    "0-Blog/JVM/Garbage Collection/2-Garbage Collection Types.md",
-    "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
-    "5-Temp/JVM/java garbage collector.md",
-    "0-Blog/JVM/Garbage Collection/Full garbage collection.md",
-    "3-Resource/Database/쿼리 실행 순서.md",
-    "5-Temp/Database/Query실행 순서.md",
-    "3-Resource/Database/Cardinality.md",
-    "3-Resource/Database/정규화 역정규화.md",
-    "3-Resource/Concept/HTTP Method PUT vs PATCH.md",
-    "3-Resource/Concept/파티셔닝.md",
-    "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
-    "3-Resource/Software-Design/Transactional outbox.md",
-    "3-Resource/Software-Design/Saga Pattern.md",
-    "0-Blog/Database/쿼리 실행 순서.md",
-    "3-Resource/Cache Passivation, Expiration, Eviction.md",
+    "5-Temp/마인드셋/기술내용 외의 글/스트레스.md",
+    "5-Temp/마인드셋/개발자란?/중급 이상의 자료.md",
+    "5-Temp/마인드셋/협업/팀원과의 합의.md",
+    "5-Temp/마인드셋/협업/팀원들과 합의가 되어야 하는것.md",
+    "5-Temp/마인드셋/협업/피드백.md",
+    "5-Temp/마인드셋/협업/협업시.md",
+    "5-Temp/마인드셋/협업/협업시 중요한거.md",
+    "5-Temp/마인드셋/협업/신뢰비용.md",
+    "5-Temp/마인드셋/협업/알려줄 영광.md",
+    "5-Temp/마인드셋/협업/정확한 시간산정.md",
+    "5-Temp/마인드셋/협업/중복 제거에대해.md",
+    "5-Temp/마인드셋/기분, 태도.md",
+    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
+    "5-Temp/마인드셋/협업/이직해서 협업.md",
+    "5-Temp/마인드셋/개발에서 정리.md",
+    "5-Temp/Concept/12factor.md",
+    "5-Temp/Concept/virtual thread, reactive.md",
+    "5-Temp/Concept/oop 컨셉.md",
+    "5-Temp/마인드셋/Untitled 1.md",
+    "5-Temp/마인드셋/Untitled 2.md",
+    "5-Temp/마인드셋/Untitled.md",
+    "5-Temp/마인드셋/A는 B다 라는 말을 했을 때 어떻게 신뢰할 수 있는가?.md",
+    "5-Temp/마인드셋/회사 정할 때 절대 불변의 1원칙.md",
+    "5-Temp/마인드셋/트래픽 예상시.md",
+    "5-Temp/마인드셋/컨트롤러 통합테스트 안하면 니는 병신이다.md",
+    "5-Temp/마인드셋/잘할수 있을까?.md",
+    "5-Temp/마인드셋/개발자란?",
+    "5-Temp/마인드셋/협업",
     "real-resource-image/Pasted image 20240329231640.png",
     "real-resource-image/Pasted image 20240329225214.png",
     "real-resource-image/Pasted image 20240303224850.png",
@@ -220,8 +222,6 @@
     "0-Blog/Study Matirials",
     "0-Blog/Database/Query",
     "0-Blog/Infrastructure/Query",
-    "0-Blog/Computer-Science/shell command",
-    "0-Blog/Computer-Science",
     "real-resource-image/Pasted image 20240304223056.png",
     "real-resource-image/Pasted image 20240303224907.png",
     "real-resource-image/Pasted image 20240303224857.png",
