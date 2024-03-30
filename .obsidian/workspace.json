@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/마인드셋/협업/변경에 유연한구조.md",
+                "file": "3-Resource/JVM/String pool.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/마인드셋/협업/변경에 유연한구조.md",
+                "file": "3-Resource/JVM/String pool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/마인드셋/협업/변경에 유연한구조.md",
+                "file": "3-Resource/JVM/String pool.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/마인드셋/협업/변경에 유연한구조.md"
+                "file": "3-Resource/JVM/String pool.md"
               }
             }
           }
@@ -180,6 +180,8 @@
   },
   "active": "01f33a94044d9bac",
   "lastOpenFiles": [
+    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
+    "3-Resource/JVM/String pool.md",
     "5-Temp/마인드셋/기술내용 외의 글/스트레스.md",
     "5-Temp/마인드셋/개발자란?/중급 이상의 자료.md",
     "5-Temp/마인드셋/협업/팀원과의 합의.md",
@@ -192,7 +194,6 @@
     "5-Temp/마인드셋/협업/정확한 시간산정.md",
     "5-Temp/마인드셋/협업/중복 제거에대해.md",
     "5-Temp/마인드셋/기분, 태도.md",
-    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
     "5-Temp/마인드셋/협업/이직해서 협업.md",
     "5-Temp/마인드셋/개발에서 정리.md",
     "5-Temp/Concept/12factor.md",
@@ -205,7 +206,6 @@
     "5-Temp/마인드셋/회사 정할 때 절대 불변의 1원칙.md",
     "5-Temp/마인드셋/트래픽 예상시.md",
     "5-Temp/마인드셋/컨트롤러 통합테스트 안하면 니는 병신이다.md",
-    "5-Temp/마인드셋/잘할수 있을까?.md",
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",
     "real-resource-image/Pasted image 20240329231640.png",
