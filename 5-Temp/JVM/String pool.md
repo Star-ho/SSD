@@ -1,6 +1,6 @@
 ---
 created: 2024-03-31T13:54
-updated: 2024-03-31T14:13
+updated: 2024-03-31T21:09
 ---
 ## String 생성 방법
 - new 연산자를 사용해서 생성하는 방법
@@ -20,3 +20,8 @@ updated: 2024-03-31T14:13
 
 - new String("abcd").intern() 을 사용하면 현재 스트링을 String pool에서 가져옴
 	- String pool에 없다면 새로 생성함
+
+https://deveric.tistory.com/123
+
+#Java 
+#String-pool

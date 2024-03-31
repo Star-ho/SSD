@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4d997875f4e65ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/JVM/String pool.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#argent",
+                "query": "string pool",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Database/HikariCP.md",
+                "file": "5-Temp/JVM/String pool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Database/HikariCP.md",
+                "file": "5-Temp/JVM/String pool.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Database/HikariCP.md"
+                "file": "5-Temp/JVM/String pool.md"
               }
             }
           }
@@ -190,14 +204,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "19572d54f6689608",
+  "active": "d4d997875f4e65ee",
   "lastOpenFiles": [
-    "4-Archive/Database/Mysql Connection.md",
+    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
+    "5-Temp/JVM/String pool.md",
     "4-Archive/Database/HikariCP.md",
+    "4-Archive/Database/Mysql Connection.md",
     "0-Blog/Async-messaging/Async-messaging.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "real-resource-image/Pasted image 20240331144001.png",
-    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
     "5-Temp/Spring/jpa mappedby, joincolumn.md",
     "5-Temp/JVM/java object memory layout.md",
     "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
@@ -209,7 +224,6 @@
     "5-Temp/Softeware Architecture/도메인 생명주기.md",
     "2-Area/생각정리/레거시.md",
     "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md",
-    "5-Temp/JVM/String pool.md",
     "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
     "5-Temp/InfraStructure/messsge-queue/pub sub vs message queue vs message broker vs streaming platform.md",
     "5-Temp/Concept/느슨한 정족수.md",
