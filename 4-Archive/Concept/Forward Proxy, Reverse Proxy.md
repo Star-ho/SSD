@@ -1,10 +1,11 @@
 ---
 created: 2023-10-03T22:58:54
-updated: 2024-03-03T11:41
+date: 2024-03-03T11:41
+updated: 2024-03-31T22:43
 ---
 ## Forward Proxy
 
-![[Pasted image 20231003225905.png]]
+![Pasted image 20231003225905](real-resource-image/Pasted%20image%2020231003225905.png)
 
 > A: 사용자의 가정용 컴퓨터  
 > B: 정방향 프록시 서버  
@@ -20,7 +21,7 @@ updated: 2024-03-03T11:41
 
 ## Reverse Proxy
 
-![[Pasted image 20231003225917.png]]
+![Pasted image 20231003225917](real-resource-image/Pasted%20image%2020231003225917.png)
 
 > D: 사용자의 가정용 컴퓨터  
 > E: 역방향 프록시 서버  

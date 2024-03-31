@@ -1,6 +1,7 @@
 ---
 created: 2024-02-22T23:19
-updated: 2024-03-29T23:51
+date: 2024-03-29T23:51
+updated: 2024-03-31T22:43
 ---
 
 ## Serial GC
@@ -38,7 +39,7 @@ updated: 2024-03-29T23:51
 
 ## G1 GC
 
-![[Pasted image 20240304223056.png|center|600]]
+![center|600](real-resource-image/Pasted%20image%2020240304223056.png)
 
 - 아래와 같이 바둑판 영역에 객체를 할당하고 GC를 실행함
 - 해당 영역에 데이터가 꽉 차면 다른 영역에 객체를 할당하고 gc를 실행함

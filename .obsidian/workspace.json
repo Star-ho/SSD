@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/InnoDB.md",
+                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "string pool",
+                "query": "path:\"0-Blog/cache/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/InnoDB.md",
+                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/InnoDB.md",
+                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/InnoDB.md"
+                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md"
               }
             }
           }
@@ -203,8 +204,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d4d997875f4e65ee",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
+    "0-Blog/Tool/Brotli.md",
+    "0-Blog/Tool/드로윙 툴.md",
+    "1-Project/InnoDB.md",
     "1-Project/개발 OFF/블로그 생성.md",
     "2-Area/Series/coroutine/Coroutine.md",
     "5-Temp/JVM/버츄얼쓰레드.md",
@@ -230,9 +234,6 @@
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
     "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
     "5-Temp/Concept/end to end exactly once processing.md",
-    "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
-    "5-Temp/Softeware Architecture/도메인 생명주기.md",
-    "2-Area/생각정리/레거시.md",
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",
     "real-resource-image/Pasted image 20240329231640.png",

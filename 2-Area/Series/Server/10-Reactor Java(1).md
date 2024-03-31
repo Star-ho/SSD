@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:18
+date: 2024-03-08T23:18
+updated: 2024-03-31T22:43
 ---
 - callback보다 나은점
 	- callback hell이 발생하지 않음
@@ -9,7 +10,7 @@ updated: 2024-03-08T23:18
 
 ## Flux
 
-![[Pasted image 20231208223306.png]]
+![Pasted image 20231208223306](real-resource-image/Pasted%20image%2020231208223306.png)
 
 - Flux\<T\>는 0개에서 N개의 비동기 시퀀스 항목을 방출하는 Publisher\<T\>임
 - onComplete 혹은 onError로 종료됨
@@ -20,7 +21,7 @@ updated: 2024-03-08T23:18
 
 ## Mono
 
-![[Pasted image 20231208224210.png]]
+![Pasted image 20231208224210](real-resource-image/Pasted%20image%2020231208224210.png)
 
 - 최대 하나의 항목만을 emit하는 Publisher
 - onNext이후 onComplete가 호출되거나 하나의 onError가 호출됨

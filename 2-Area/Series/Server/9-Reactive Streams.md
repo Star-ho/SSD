@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:18
+date: 2024-03-08T23:18
+updated: 2024-03-31T22:43
 ---
 ## 개념
 - 논블로킹 배압(back pressuer)을 사용한 비동기 스트리밍 처리를 위한 표준
@@ -86,7 +87,7 @@ public interface Processor<T, R> extends Subscriber<T>, Publisher<R> {
 
 ### publisher - subscriber간 프로세스
 
-![[Pasted image 20231218205808.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020231218205808.png)
 
 
 

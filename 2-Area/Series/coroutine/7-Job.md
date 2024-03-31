@@ -1,11 +1,12 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:18
+date: 2024-03-08T23:18
+updated: 2024-03-31T22:43
 ---
 ### JOB은 코루틴이 상속하지 않는 유일한 코루틴 컨텍스트임
 
 ## 생명주기
-![[Pasted image 20240207224956.png|center|600]]
+![center|600](real-resource-image/Pasted%20image%2020240207224956.png)
 
 - 위 그림과 같이 Job은 New, ACTIVE, COMPLETEING, COMPLETED, CANCELLING, CANCELLED 6가지 상태를 가진다
 

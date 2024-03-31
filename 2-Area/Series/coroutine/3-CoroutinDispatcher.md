@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:18
+date: 2024-03-08T23:18
+updated: 2024-03-31T22:43
 ---
 - dispatcher의 사전적 정의
 	- 사람이나 차량, 특히 긴급 차량을 필요한 곳으로 보낼 책임이 있는 사람
@@ -84,7 +85,7 @@ suspend fun printCoroutinesTime(
 }
 ```
 
-![[Pasted image 20240203163338.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020240203163338.png)
 
 - IO Dispatcher에서 limitedParallelism을 사용하면 특정 작업을 위한 새로운 쓰레드 풀이 생성됨
 - Default Dispatcher에서는 limitedParallelism사용시 기존 쓰레드풀 내에서 특정작업을 위한 쓰레드갯수를 지정함

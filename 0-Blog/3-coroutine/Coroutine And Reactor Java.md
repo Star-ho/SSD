@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:18
+date: 2024-03-08T23:18
+updated: 2024-03-31T22:43
 ---
 ## Coroutine은 어떤 방식으로 Reactor를 지원하는가
 - 아래 코드는는 org.jetbrains.kotlinx:kotlinx-coroutines-reactor의 mono\<T\>를 suspend 해서 T로 변경하는 awaitSingleOrNull함수이다

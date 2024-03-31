@@ -1,6 +1,7 @@
 ---
 created: 2023-10-13T22:31:10
-updated: 2024-03-03T11:41
+date: 2024-03-03T11:41
+updated: 2024-03-31T22:43
 ---
 - buffer pool에 있는 변경점(Dirty Page)를 실제로 디스크에 쓰기 전 Double write buffer에 기록
 - 변경점을 실제 테이블로 적용 후 Double write buffer를 삭제함

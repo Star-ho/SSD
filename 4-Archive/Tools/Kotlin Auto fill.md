@@ -1,6 +1,7 @@
 ---
 created: 2023-10-03T22:38:37
-updated: 2024-03-03T11:41
+date: 2024-03-03T11:41
+updated: 2024-03-31T22:43
 ---
 - kotlin aurgument를 자동으로 만들어줍니다
 - value 없이 생성

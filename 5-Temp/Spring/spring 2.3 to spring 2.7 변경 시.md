@@ -1,6 +1,7 @@
 ---
 created: 2023-12-04T22:50:33
-updated: 2024-03-03T11:41
+date: 2024-03-03T11:41
+updated: 2024-03-31T22:43
 ---
 spring version up시 httpconverter 문제가 있음
 
@@ -8,7 +9,7 @@ https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Config-Data-Migr
 마이그레이션 가이드
 
 자바 17은 spring boot 2.5부터 사용가능
-![[Pasted image 20231204225453.png]]
+![Pasted image 20231204225453](real-resource-image/Pasted%20image%2020231204225453.png)
 
 
 request를 Map<String,?>로 받는 사람들이 있었는데 spring 버전업하면 serialize변경사항으로 에러가 난다(해당 핸들러가 100개 이상이기에 수정하기 너무 빡셌다..)

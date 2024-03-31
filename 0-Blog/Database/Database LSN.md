@@ -1,6 +1,7 @@
 ---
 created: 2023-10-11T23:20:55
-updated: 2024-03-08T23:19
+date: 2024-03-08T23:19
+updated: 2024-03-31T22:43
 ---
 - Log Sequence Number의 약자
 - 임의로 계속 증분하여 redo log에 저장됨

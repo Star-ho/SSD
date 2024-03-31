@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:25
+date: 2024-03-08T23:25
+updated: 2024-03-31T22:43
 ---
 - 2013년 어플리케이션의 요구사항(짧은 응답시간, 100%가용성)의 변화로 리액티브 시스템을 정의한 리액티브 선언문(reactive manifesto)가 작성됨 (현재 최신 버전 2014년 v2.0)
 - 리액티브 선언문에서는 리액티브 시스템이란 Responsive, Resilient, Elastic, Message Driven을 가진 시스템이라고 정의
@@ -8,7 +9,7 @@ updated: 2024-03-08T23:25
 - 이중 Project Reactor와 Spring Framework가 손잡고 나온것이 Spring Webflux이다.
 - 현재 Spring Webflux에서 많이 사용하는 Http Server인 Reactor Netty는 Project Reactor의 프로젝트중 하나이다
 
-![[Pasted image 20231214232659.png]]
+![Pasted image 20231214232659](real-resource-image/Pasted%20image%2020231214232659.png)
 ### Responsive(응답성)
 - 시스템은 가능한 적시에 응답해야함
 - 사용성과 유용성 때문에 중요한것도 맞지만, 문제를 신속하게 감지할수 있다는 더 중요한 장점이 있음

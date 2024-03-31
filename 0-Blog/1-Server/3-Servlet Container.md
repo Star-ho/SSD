@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:25
+date: 2024-03-08T23:25
+updated: 2024-03-31T22:43
 ---
 - Servlet Engine이라고도 불림
 - 서블릿을 실행하고 관리함
@@ -9,7 +10,7 @@ updated: 2024-03-08T23:25
 - 서블릿이 호출되면 웹서버는 http요청을 서블릿 컨테이너를 호출함
 	- 컨테이너는 차례로 요청을 서블릿에 전달함
 
-![[Pasted image 20231122230728.png|center|600]]
+![center|600](real-resource-image/Pasted%20image%2020231122230728.png)
 
 - 요청이 들어오면 servlet conatiner는 다음과 같은 일련의 작업을 거침
 	- 서블릿 인스턴스를 생성 후 init메서드를 호출하여 초기화함

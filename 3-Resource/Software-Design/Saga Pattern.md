@@ -1,6 +1,7 @@
 ---
 created: 2023-11-05T16:36:56
-updated: 2024-03-29T23:49
+date: 2024-03-29T23:49
+updated: 2024-03-31T22:43
 ---
 - 이전의 이름은 LLT(Long Lived Transaction)
 - 이전의 이름에서 알수 있듯이 오래 살아있는 트랜잭션을 어떻게 처리할까는 문제의 해결책임
@@ -12,7 +13,7 @@ updated: 2024-03-29T23:49
 
 ## 정의 
 - SAGA는 로컬 트랜잭션의 연속임
-![[Pasted image 20231105210948.png]]
+![Pasted image 20231105210948](real-resource-image/Pasted%20image%2020231105210948.png)
 - 각각의 로컬 트랜잭션은 트랜잭션 완료후 다음 트랜잭션에 메시지를 보내거나, 이벤트를 발생시킴
 - 이 과정에서 에러 발생시 보상트랜잭션을 실행하여, 이전 로컬 트랜잭션 내용을 롤백시킴
 - 이를 구현하는 두가지 방법이 있음
@@ -20,7 +21,7 @@ updated: 2024-03-29T23:49
 	- 주문서비스에서는 고객의 잔고를 알 수 없기에, 고객 서비스에 요청을 해야 주문의 승인여부를 확인할 수 있음
 
 ### Choreography-based saga
-![[Pasted image 20231105170101.png]]
+![Pasted image 20231105170101](real-resource-image/Pasted%20image%2020231105170101.png)
 - 서비스 흐름
 	1. Order Service에서 `Post /orders`요청을 받고, PENDING 상태의 Order를 생성함
 	2. Order 생성 이벤트를 발생
@@ -35,7 +36,7 @@ updated: 2024-03-29T23:49
 
 ### Orchestration-based saga
 
-![[Pasted image 20231105170046.png]]
+![Pasted image 20231105170046](real-resource-image/Pasted%20image%2020231105170046.png)
 - 서비스 흐름
 	1. order Service에서 `Post /orders`요청을 받고, Order saga orchestrator를 생성함
 	2. saga orchestrator에서 PENDIN상태의 주문을 생성

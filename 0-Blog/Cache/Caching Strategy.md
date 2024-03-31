@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41
-updated: 2024-03-18T00:12
+date: 2024-03-18T00:12
+updated: 2024-03-31T22:43
 ---
 ## 어디에 저장할 것인가?
 ### In-memory caching
@@ -24,7 +25,7 @@ updated: 2024-03-18T00:12
 ## 캐시 전략
 ### Cache-Aside
 
-![[Pasted image 20240216132133.png|center|700]]
+![center|700](real-resource-image/Pasted%20image%2020240216132133.png)
 - 캐시에서 데이터를 확인 후, 캐시에 데이터가 없다면 데이터베이스에 요청하는 방식
 - 어플리케이션이 캐시 관리의 책임을 가짐
 - 캐시를 최신상태로 관리하도록 노력이 많이 필요함
@@ -36,13 +37,13 @@ updated: 2024-03-18T00:12
 
 ### Read-Through
 
-![[Pasted image 20240216132233.png|center|700]]
+![center|700](real-resource-image/Pasted%20image%2020240216132233.png)
 - 캐시에 데이터를 확인하고, 데이터가 없다면 데이터베이스를 읽어 캐시에 데이터를 작성하고 다시 캐시에서 데이터를 읽는 방식
 - 어플리케이션에서는 캐시에서만 데이터를 읽음
 
 ### Write-Through
 
-![[Pasted image 20240216132203.png|center|700]]
+![center|700](real-resource-image/Pasted%20image%2020240216132203.png)
 - 쓰기작업시 캐시와 데이터베이스 두곳 모두에 데이터를 쓰는 방식
 - 캐시에 항상 최신의 데이터가 있다는것을 보장
 - 쓰기성능이 좋지 않음
@@ -50,13 +51,13 @@ updated: 2024-03-18T00:12
 
 ### Write-Behind
 
-![[Pasted image 20240216132217.png|center|700]]
+![center|700](real-resource-image/Pasted%20image%2020240216132217.png)
 - 쓰기작업시 캐시에 데이터를 모아두었다가 
 - 쓰기성능이 증가됨
 - 캐시를 제대로 관리하지 않으면 데이터 불일치가 발생할 수 있음
 
 ### Write-Around
-![[Pasted image 20240218223235.png|center|600]]
+![center|600](real-resource-image/Pasted%20image%2020240218223235.png)
 
 - 모든 데이터는 데이터베이스에 저장되고, 읽은 데이터만 캐시에 저장되는 방식
 - Cache miss가 발생하는 경우에만 캐시에 저장되므로 데이터 불일치가 발생할 수 있음 

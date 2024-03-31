@@ -1,6 +1,7 @@
 ---
 created: 2023-10-04T23:06:58
-updated: 2024-03-03T11:41
+date: 2024-03-03T11:41
+updated: 2024-03-31T22:43
 ---
 mac에서 Eclips memory Analyzer 사용시
 

@@ -1,6 +1,7 @@
 ---
 created: 2023-10-07T16:16:13
-updated: 2024-03-03T11:41
+date: 2024-03-03T11:41
+updated: 2024-03-31T22:43
 ---
 - table 생성이나, table 데이터의 변경과 같은 데이터베이스의 변경 이벤트를 기록하는 로그
 - 변경을 야기할 수 있는 구문도 기록
@@ -25,7 +26,7 @@ update PRODUCT
 set PRODUCT.LABEL = RAND()
 where id = 1 or id = 2
 ```
-![[Pasted image 20231014225459.png]]
+![Pasted image 20231014225459](real-resource-image/Pasted%20image%2020231014225459.png)
 
 - Row-based logging
 ```
@@ -34,7 +35,7 @@ update PRODUCT
 set PRODUCT.LABEL = RAND()  
 where id = 1 or id = 2;
 ```
-![[Pasted image 20231014225322.png]]
+![Pasted image 20231014225322](real-resource-image/Pasted%20image%2020231014225322.png)
 - mixed logging
 	- default로 Statement-based logging 이지만, 특정상황에서 Row-based logging함
 > mixed logging은 중요하지 않을것 같아 기회가 생기면 추후 작성

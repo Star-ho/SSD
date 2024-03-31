@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:18
+date: 2024-03-08T23:18
+updated: 2024-03-31T22:43
 ---
 ## 개념
 - 프로그램, 알고리즘, 또는 문제의 부분이나 단위 등이, 결과에 영향을 주지 않고 특정한 순서없이 실행되거나 부분적인 순서만을 가지고 실행될 수 있는 성질 [링크](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
@@ -19,16 +20,16 @@ updated: 2024-03-08T23:18
 - **하나의 자원을 가지고 하나이상의 작업이 수행될때 자원의 무결성의 문제**
 - Lost Update Problem(write-write conflict)
 	- 하나의 로우에 동시에 여러번 변경이 발생했을 때 발생하는 문제
-![[Pasted image 20231218230909.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020231218230909.png)
 - Unrepeatable Read Problem
 	- 다른 트랜잭션에서 변경이 되어, 같은 조회 쿼리에서 다른 데이터가 오는 현상
-![[Pasted image 20231218231144.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020231218231144.png)
 - Temporary Update Problem( dirty read problem)
 	- 커밋되지 않은 데이터를 읽어서 발생하는 문제
-![[Pasted image 20231218231800.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020231218231800.png)
 - Phantom Read Problem
 	- 데이터가 삭제되어 같은 트랜잭션에서 데이터를 못가져오는 문제
-![[Pasted image 20231218231610.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020231218231610.png)
 
 
 ## 해결책

@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41
-updated: 2024-03-29T23:53
+date: 2024-03-29T23:53
+updated: 2024-03-31T22:43
 ---
 
 ## 경력
@@ -11,13 +12,13 @@ updated: 2024-03-29T23:53
 - [Spring Framework PR#31632](https://github.com/spring-projects/spring-framework/pull/31632)
 
 ## Recently Post
-### [[Concept/동기 & 비동기, 블로킹 & 논블로킹.md|동기 & 비동기, 블로킹 & 논블로킹.md]]
-### [[JVM/Garbage Collection/1-Garbage Collection Process.md|1-Garbage Collection Process.md]]
-### [[JVM/Garbage Collection/0-Garbage Collection Concept.md|0-Garbage Collection Concept.md]]
-### [[JVM/Garbage Collection/2-Garbage Collection Types.md|2-Garbage Collection Types.md]]
-### [[Database/쿼리 실행 순서.md|쿼리 실행 순서.md]]
-### [[Computer-Science/Long polling, Streaming, Web Socket.md|Long polling, Streaming, Web Socket.md]]
-### [[Database/정규화 역정규화.md|정규화 역정규화.md]]
-### [[Study Matirials/dev handbook.md|dev handbook.md]]
-### [[Study Matirials/MSA 관련 유튜브.md|MSA 관련 유튜브.md]]
-### [[JVM/JUnit.md|JUnit.md]]
+### [동기 & 비동기, 블로킹 & 논블로킹.md](0-Blog/Concept/동기%20&%20비동기,%20블로킹%20&%20논블로킹.md)
+### [1-Garbage Collection Process.md](0-Blog/JVM/Garbage%20Collection/1-Garbage%20Collection%20Process.md)
+### [0-Garbage Collection Concept.md](0-Blog/JVM/Garbage%20Collection/0-Garbage%20Collection%20Concept.md)
+### [2-Garbage Collection Types.md](0-Blog/JVM/Garbage%20Collection/2-Garbage%20Collection%20Types.md)
+### [쿼리 실행 순서.md](0-Blog/Database/쿼리%20실행%20순서.md)
+### [Long polling, Streaming, Web Socket.md](0-Blog/Computer-Science/Long%20polling,%20Streaming,%20Web%20Socket.md)
+### [정규화 역정규화.md](0-Blog/Database/정규화%20역정규화.md)
+### [dev handbook.md](0-Blog/Study%20Matirials/dev%20handbook.md)
+### [MSA 관련 유튜브.md](0-Blog/Study%20Matirials/MSA%20관련%20유튜브.md)
+### [JUnit.md](0-Blog/JVM/JUnit.md)

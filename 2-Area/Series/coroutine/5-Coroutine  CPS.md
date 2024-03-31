@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:18
+date: 2024-03-08T23:18
+updated: 2024-03-31T22:43
 ---
 - Kotlin Coroutine은 일시중단을 구현하기 위해 ContinuosPassing style을 적용하였음
 
@@ -115,6 +116,6 @@ class PrintUserContinuation(
 	- 앞서 말한다로 직전에 호출한 suspend 함수의 결과를 result변수에 넣음
 
 - 콜스택 마지막에 있는 함수의 continuation이 supend후 resume되고, 작업을 다 끝마치면, 바로 상위 함수의 continuation의 resume을 호출함
-![[Pasted image 20240204111912.png|center|600]]
+![center|600](real-resource-image/Pasted%20image%2020240204111912.png)
 
 https://kt.academy/article/cc-under-the-hood

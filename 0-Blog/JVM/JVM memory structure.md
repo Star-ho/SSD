@@ -1,8 +1,9 @@
 ---
 created: 2023-11-14T23:06:28
-updated: 2024-03-08T23:19
+date: 2024-03-08T23:19
+updated: 2024-03-31T22:43
 ---
-![[Pasted image 20231117232133.png]]
+![Pasted image 20231117232133](real-resource-image/Pasted%20image%2020231117232133.png)
 ### PC Register
 - 각각의 쓰레드마다 하나씩 가지고 있음
 - 현재 실행중인 명령의 주소를 저장하고있음

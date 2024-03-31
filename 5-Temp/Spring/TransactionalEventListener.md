@@ -1,6 +1,7 @@
 ---
 created: 2023-10-30T23:27:19
-updated: 2024-03-03T11:41
+date: 2024-03-03T11:41
+updated: 2024-03-31T22:43
 ---
 형님들 스프링 관련질문이있습니다!
 @TransactionalEventListener 사용시 이벤트 내부에서 에러 발생시 기본이 debug로 로그를찍는게 전부인데요

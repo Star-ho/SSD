@@ -1,6 +1,7 @@
 ---
 created: 2024-02-19T13:24:16
-updated: 2024-03-29T23:51
+date: 2024-03-29T23:51
+updated: 2024-03-31T22:43
 ---
 - 메모리 관리 기법중 하나로 프로그램이 동적으로 할당했던 메모리 영역 중에서 필요없게된 영역을 해제하는 기능
 
@@ -8,32 +9,32 @@ updated: 2024-03-29T23:51
 
 ### Step 1. Marking
 - Garbage Collector가 메모리 조각중에서 사용되고 있는 것과 사용되지 않는것을 찾아 marking하는 단계
-![[Pasted image 20240222132054.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020240222132054.png)
 - 그림에서 참조된 객체는 blue, 참조되지 않은 객체는 주황색임
 - marking단계에서는 삭제를 하기 위한 객체를 찾는 과정
 - 시스템을 모두 스캔해야 하는 경우 시간이 많이 소요될 수 있음
 ### Step 2. Normal Deletion
 - Step 1에서 찾은 객체를 삭제하는 단계
-![[Pasted image 20240222132435.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020240222132435.png)
 - memory allocator는 새 객체를 할당 할 수 있는 여유 공간 블록에 대한 참조를 보유
 	- memory allocator는 비어있는 공간에 대한 참조를 가지고, 할당이 필요한 비어있는 공간을 검색
 
 ### Step 2a. Deletion with Compacting
 - 추가적인 성능 향상을 위해, 참조되지 않는 객체를 삭제하면서 남아있는 참조 객체를 압축할 수 있음
 - 참조된 객체를 함께 이동함으로써, 메모리 할당은 더 빠르고 쉬워짐
-![[Pasted image 20240222133340.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020240222133340.png)
 - Memory Allocator는 비어있는 공간에 대한 첫번째 참조를 가지고, 메모리를 순차적으로 할당
 
 ## Generation Garbage Collection
 
-![[Pasted image 20240222224100.png|center|600]]
+![center|600](real-resource-image/Pasted%20image%2020240222224100.png)
 - JVM의 모든 객체를 marking하고 compact하는것은 비효율적임
 - 시간이 지날수록 객체의 숫자는 늘어가며 이에따라 garbage collection의 시간은 증가할것임
 - 하지만 대부분의 객체의 수명은 짧기에 Generation Garbage Collection을 사용함
 	- 경험적으로 증명됨
 - 위의 그래프에서 알 수 있듯이 대부분의 객체의 수명은 짧고, 시간이 지남에 따라 객체의 숫자가 줄어든다는 것을 파악할 수 있음
 
-![[Pasted image 20240222224505.png|center|600]]
+![center|600](real-resource-image/Pasted%20image%2020240222224505.png)
 - JVM heap은 위와 같이 3가지 구역(Young, Old, Permanent)으로 나뉨
 - Yong Generation
 	- 새로운 객체가 할당되고, aged되는 곳

@@ -1,10 +1,11 @@
 ---
 created: 2023-10-02T23:13:36
-updated: 2024-03-03T11:41
+date: 2024-03-03T11:41
+updated: 2024-03-31T22:43
 ---
 sentry가 올라가있는 인스턴스의 저장공간이 꽉참
 
-![[Pasted image 20231002231423.png]]
+![Pasted image 20231002231423](real-resource-image/Pasted%20image%2020231002231423.png)
 
 현재 리텐션 주기가 90일인데, 90일치를 다 저장하기에는 200G가 모자란 상황
 

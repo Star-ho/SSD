@@ -1,6 +1,7 @@
 ---
 created: 2024-02-26T23:11:59
-updated: 2024-03-08T23:19
+date: 2024-03-08T23:19
+updated: 2024-03-31T22:43
 ---
 ```kotlin
 fun main(){  
@@ -40,10 +41,10 @@ class Worker : Thread() {
 - 항상 main메모리에서 데이터를 읽어오기에 성능 저하가 발생한다
 
 ### Volatile을 사용하지 않았을때
-![[Pasted image 20240226231655.png|center|600]]
+![center|600](real-resource-image/Pasted%20image%2020240226231655.png)
 
 ### Volatile을 사용할 때 
-![[Pasted image 20240226231714.png|center|600]]
+![center|600](real-resource-image/Pasted%20image%2020240226231714.png)
 
 
 https://nesoy.github.io/articles/2018-06/Java-volatile

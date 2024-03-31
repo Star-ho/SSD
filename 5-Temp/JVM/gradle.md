@@ -1,6 +1,7 @@
 ---
 created: 2023-10-03T23:07:58
-updated: 2024-03-03T11:41
+date: 2024-03-03T11:41
+updated: 2024-03-31T22:43
 ---
 멀티모듈 만들때 setting.gradle에 include되어 있어야 통합으로 관리할 수 있음
 

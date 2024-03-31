@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-31T14:40
+date: 2024-03-31T14:40
+updated: 2024-03-31T22:43
 ---
 # 비동기 메시징
 - 결합도를 낮춰줌
@@ -32,7 +33,7 @@ updated: 2024-03-31T14:40
 
 ## Redis Pub-sub
 
-![[Pasted image 20240110132820.png|center|700]]
+![center|700](real-resource-image/Pasted%20image%2020240110132820.png)
 - subscriber가 해당 channel을 구독하고 있을때, publisher가 데이터를 publish하면 구독하고 있는 모든 subscriber에게 데이터를 전달함
 - subscriber가 존재하지 않는다면 따로 보관하지 않으므로 데이터는 사라짐
 - 100프로 전송 보장이 되지 않아도 문제없는 케이스에서 사용하기 좋음
@@ -46,7 +47,7 @@ updated: 2024-03-31T14:40
 
 ## Message queue(메시지큐)
 
-![[Pasted image 20240331144001.png|center]]
+![center](real-resource-image/Pasted%20image%2020240331144001.png)
 - pull 방식과 push 방식이 존재
 	- pull 방식은 컨슈머가 메시지큐에 요청을 보내 메시지를 가져와서 처리하는 방식
 	- push방식은 메시지큐가 요청이 생겼을 때 컨슈머에게 메시지를 보내는 방식

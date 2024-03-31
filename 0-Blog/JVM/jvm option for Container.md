@@ -1,6 +1,7 @@
 ---
 created: 2023-11-14T11:26:23
-updated: 2024-03-08T23:19
+date: 2024-03-08T23:19
+updated: 2024-03-31T22:43
 ---
 ### 현재 옵션 확인
 - java -XX:+PrintFlagsFinal -version 2>&1 | grep -i -E 'heapsize|metaspace|version'

@@ -1,6 +1,7 @@
 ---
 created: 2023-11-11T23:12:11
-updated: 2024-03-03T11:41
+date: 2024-03-03T11:41
+updated: 2024-03-31T22:43
 ---
 - 트랜잭션이나 안정성의 희생 없이, innodb를 memorydb처럼 활용할 수 있게함
 - 검색 관찰자 패턴(observe pattern of search)를 기반으로 인덱스 키의 접두사를 사용하여 인덱스를 구축

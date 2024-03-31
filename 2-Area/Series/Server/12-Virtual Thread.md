@@ -1,15 +1,16 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:18
+date: 2024-03-08T23:18
+updated: 2024-03-31T22:43
 ---
 ## Platform Thread
-![[Pasted image 20231223233300.png]]
+![Pasted image 20231223233300](real-resource-image/Pasted%20image%2020231223233300.png)
 - 기존 Java의 Thread 모델
 - 하나의 java쓰레드에 OS Thread를 할당해서 사용
 - 새로운 쓰레드가 필요하면 os에 요청해서 가져옴
 
 ## Virtual Thread
-![[Pasted image 20231223233244.png]]
+![Pasted image 20231223233244](real-resource-image/Pasted%20image%2020231223233244.png)
 - Virtual Thread의 쓰레드 모델
 - Virtual Thread 생성시 OS에 요청해서 생성하지 않고. java library에서 생성
 - 실제 OS쓰레드에는 Carrier Thread가 매핑이 되고, Carrier Thread를 가지고 있는  Virtual Thread가 현재 실행되고 있는 쓰레드임
@@ -24,7 +25,7 @@ updated: 2024-03-08T23:18
 다른 캐리어 쓰레드로 연결해줌
 
 ## 비교
-![[Pasted image 20231223233119.png]]
+![Pasted image 20231223233119](real-resource-image/Pasted%20image%2020231223233119.png)
 ### 유의사항
 - CPU bound한 상황에서는 Platform Thread가 더 나은 성능을 보여줌
 - 정말 스트리밍 데이터를 사용한다면 reactor를 고려하자

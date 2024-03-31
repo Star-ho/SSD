@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:18
+date: 2024-03-08T23:18
+updated: 2024-03-31T22:43
 ---
 - 새로운 coroutine에 대한 Scope를 정의함
 - launch와 async와 같은 coroutine builder는 CoroutineScope의 확장함수임

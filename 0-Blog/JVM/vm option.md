@@ -1,6 +1,7 @@
 ---
 created: 2024-02-06T22:47:55
-updated: 2024-03-08T23:20
+date: 2024-03-08T23:20
+updated: 2024-03-31T22:43
 ---
 ### visualVM startup profiler 옵션
 - startup profiler 설정시 필요한 옵션

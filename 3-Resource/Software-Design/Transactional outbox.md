@@ -1,6 +1,7 @@
 ---
 created: 2023-11-05T22:21:43
-updated: 2024-03-29T23:49
+date: 2024-03-29T23:49
+updated: 2024-03-31T22:43
 ---
 ## 문제 상황
 - msa 환경에서 도메인 서버스로 보낸 create, update, delete 이벤트는 반드시 수행되어야함
@@ -12,7 +13,7 @@ updated: 2024-03-29T23:49
 ## 개념
 - 메시지를 전송하는 서비스의 일부 비즈니스 엔티티를 저장한느 트랜잭션의 일부로 OUTBOX테이블에 데이터를 추가로 저장
 - 이후 별도의 프로세스가 해당 메시지를 메세지 브로커에 전송
-![[Pasted image 20231105224429.png]]
+![Pasted image 20231105224429](real-resource-image/Pasted%20image%2020231105224429.png)
 - Sender - 메시지를 전송하는 서비스
 - Database - business entity와 message outbox를 저장하는 데이터베이스
 - Message outbox - 관계형 데이터베이스에서는 하나의 테이블, NoSql 디비에서는 각각의 데이터베이스 레코드의 property(document or item)
@@ -21,7 +22,7 @@ updated: 2024-03-29T23:49
 ## Message relay의 두가지 방법
 ### Transaction log tailing
 
-![[Pasted image 20231105225014.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020231105225014.png)
 
 - 아래의 로그를 tailing하여 로그를 확인 하여 message broker에 전송
 	- MySQL binlog

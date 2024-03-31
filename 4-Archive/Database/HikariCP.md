@@ -1,6 +1,7 @@
 ---
 created: 2024-03-27T23:21
-updated: 2024-03-28T10:19
+date: 2024-03-28T10:19
+updated: 2024-03-31T22:43
 ---
 ## 속성 정리
 ### connectionTimeout

@@ -1,6 +1,7 @@
 ---
 created: 2023-11-13T22:36:38
-updated: 2024-03-08T23:19
+date: 2024-03-08T23:19
+updated: 2024-03-31T22:43
 ---
 - 접근했었던 테이블과 인덱스를 캐시하는 메인 메모리
 - 속도를 높이기 위해 빈번히 접근하는 데이터를 메모리에서 바로 접근하게함
@@ -8,7 +9,7 @@ updated: 2024-03-08T23:19
 
 - Buffer Pool은 LRU알고리즘을 기반으로 데이터를 관리함
 - 새로운 데이터를 읽을때, 가장 옛날에 읽은 데이터를 방출하고, 새로운 데이터를 Mid point에 넣음
-![[Pasted image 20231115224606.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020231115224606.png)
 - Innodb의 LRU알고리즘은 다음과 같음
 	- buffer pool의 3/8은 old sublist에 할당
 	- mid point는 new sublit의 tail과 old sublit의 head가 만나는 곳의 경계

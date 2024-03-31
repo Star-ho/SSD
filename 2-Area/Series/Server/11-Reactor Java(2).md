@@ -1,6 +1,7 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-08T23:18
+date: 2024-03-08T23:18
+updated: 2024-03-31T22:43
 ---
 # Threading and Scheduler
 - Flux나 Mono를 얻는다고 실행되지 않음
@@ -83,13 +84,13 @@ new Thread(() -> flux.subscribe(System.out::println)); - 2번쓰레드
 
 ## Hot vs Cold
 ### Cold
-![[Pasted image 20231218210001.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020231218210001.png)
 - 구독이 생성될때마다 새로운 데이터를 생성
 - 구독이 생성되지 않으면, 데이터를 생성하지 않음
 - HTTP 요청에 비유하면, 구독이 생성될때마다 HTTP 요청을 보냄
 
 ### Hot
-![[Pasted image 20231218210038.png|center|400]]
+![center|400](real-resource-image/Pasted%20image%2020231218210038.png)
 - 구독자의 수에 영향을 받지 않음
 - 즉시 데이터를 publishing 할 수 있음
 - 구독하기 전에 실제로 어떠한 일이 발생할 수 있음

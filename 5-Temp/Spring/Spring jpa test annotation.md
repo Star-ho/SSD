@@ -1,6 +1,7 @@
 ---
 created: 2023-09-26T22:09:45
-updated: 2024-03-03T11:41
+date: 2024-03-03T11:41
+updated: 2024-03-31T22:43
 ---
 package team.hlab.infrastructure.jpa
 

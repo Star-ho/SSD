@@ -1,10 +1,11 @@
 ---
 created: 2023-10-06T23:30:28
-updated: 2024-03-08T23:19
+date: 2024-03-08T23:19
+updated: 2024-03-31T22:43
 ---
 select * from information_schema.PROCESSLIST;
 
-![[Pasted image 20231007162016.png]]
+![Pasted image 20231007162016](real-resource-image/Pasted%20image%2020231007162016.png)
 
 ### ID
 - connection의 식별자
