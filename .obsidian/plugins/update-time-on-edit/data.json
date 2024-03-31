@@ -864,6 +864,7 @@
     "5-Temp/JVM/String pool.md": "95372f3b0345845d9d7107d4a337bc34b3d574a9e6f0ad6600312c57c64990df",
     "0-Blog/Async-messaging/Async-messaging.md": "d627ebcb803600f8f12f6b890d5d669b700880775319b9f6ffdf447e6960b81e",
     "4-Archive/Database/Mysql Connection.md": "063ee66abc2b44c3ef6b507a9e4bfc803720742900fec6a2993cfe6661a7f897",
-    "4-Archive/Database/HikariCP.md": "addee7f2beaaca36745c9dac568083f22e71f75e2181af1fbedcc54e2b617ed0"
+    "4-Archive/Database/HikariCP.md": "addee7f2beaaca36745c9dac568083f22e71f75e2181af1fbedcc54e2b617ed0",
+    "5-Temp/JVM/버츄얼쓰레드.md": "0f3666455a813c9fea0def448f058676acab51b2fda720f2bfdcdc139af02f25"
   }
 }

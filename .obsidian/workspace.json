@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Database/HikariCP.md",
+                "file": "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/JVM/String pool.md",
+                "file": "1-Project/InnoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/JVM/String pool.md",
+                "file": "1-Project/InnoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/JVM/String pool.md",
+                "file": "1-Project/InnoDB.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/JVM/String pool.md"
+                "file": "1-Project/InnoDB.md"
               }
             }
           }
@@ -206,9 +205,20 @@
   },
   "active": "d4d997875f4e65ee",
   "lastOpenFiles": [
-    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
-    "5-Temp/JVM/String pool.md",
+    "1-Project/개발 OFF/블로그 생성.md",
+    "2-Area/Series/coroutine/Coroutine.md",
+    "5-Temp/JVM/버츄얼쓰레드.md",
+    "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
+    "3-Resource/Infrastructure/Split brain.md",
+    "3-Resource/Infrastructure/Elastic Search Data Tier.md",
+    "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
+    "2-Area/Series/coroutine/1-CoroutineContext.md",
     "4-Archive/Database/HikariCP.md",
+    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
+    "real-resource-image/Pasted image 20240331211605.png",
+    "0-Blog/JVM/JLS, JSR, JEP.md",
+    "0-Blog/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+    "5-Temp/JVM/String pool.md",
     "4-Archive/Database/Mysql Connection.md",
     "0-Blog/Async-messaging/Async-messaging.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
@@ -223,15 +233,6 @@
     "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
     "5-Temp/Softeware Architecture/도메인 생명주기.md",
     "2-Area/생각정리/레거시.md",
-    "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md",
-    "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
-    "5-Temp/InfraStructure/messsge-queue/pub sub vs message queue vs message broker vs streaming platform.md",
-    "5-Temp/Concept/느슨한 정족수.md",
-    "5-Temp/JVM/JAVA lombok.md",
-    "5-Temp/마인드셋/기술내용 외의 글/스트레스.md",
-    "5-Temp/마인드셋/개발자란?/중급 이상의 자료.md",
-    "5-Temp/마인드셋/협업/팀원과의 합의.md",
-    "5-Temp/마인드셋/협업/팀원들과 합의가 되어야 하는것.md",
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",
     "real-resource-image/Pasted image 20240329231640.png",
@@ -250,7 +251,6 @@
     "0-Blog/Infrastructure/Query",
     "real-resource-image/Pasted image 20240304223056.png",
     "real-resource-image/Pasted image 20240303224907.png",
-    "real-resource-image/Pasted image 20240303224857.png",
     "Untitled.canvas"
   ]
 }
