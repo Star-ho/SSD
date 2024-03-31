@@ -685,7 +685,7 @@
     "0-Blog/JVM/Concurrent/4-Volitile.md": "36c19a60a5fc81226bf312ee2fe567ec12d255474d206dc0f8e812d6463229f4",
     "0-Blog/JVM/Concurrent/5-ExecutorService & CountDownLatch.md": "d602c20351abb1182ccd255a07ad075e35ba5645883fb565ad3d64dd911f29e9",
     "0-Blog/JVM/JVM memory structure.md": "06f1297b15f4904811ee63af389e9036bfb2d4cb75462ad60fe995b988cffe1a",
-    "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md": "3ff714900e575a842390848ed4491f315b1a2728459a9ac6c6a510009ee52558",
+    "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md": "2eda5ec9bfe94d58fc99c532eef3f686c97151e8057404a103005f88f897aa55",
     "0-Blog/JVM/Garbage Collection/1-Garbage Collection Process.md": "c5cbef02b96169cdf304ebd077fcd8bca51af2b191b8fae05f8e476a6a9c7943",
     "0-Blog/JVM/Garbage Collection/2-Garbage Collection Types.md": "83862ed1c4a2c679824cbb7427a685a887d6504c6402b87adade30c3f0820e59",
     "0-Blog/JVM/Java built in Annotation.md": "6c0dfa08f350450b2612c3ad557eef04c58d5682fccc2c500bed542757085429",

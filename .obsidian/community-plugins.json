@@ -4,5 +4,6 @@
   "code-styler",
   "templater-obsidian",
   "update-time-on-edit",
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "hugo-publish"
 ]
