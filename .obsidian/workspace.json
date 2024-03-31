@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"0-Blog/cache/\" ",
+                "query": "[\"created\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,7 +201,7 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "obsidian-importer:Open Importer": false
+      "hugo-publish:hugo sync": false
     }
   },
   "active": "eb1d575bd97691ba",
