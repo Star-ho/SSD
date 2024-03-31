@@ -1,6 +1,6 @@
 ---
 created: 2024-03-02T22:41:32
-updated: 2024-03-31T14:31
+updated: 2024-03-31T14:40
 ---
 # 비동기 메시징
 - 결합도를 낮춰줌
@@ -46,16 +46,12 @@ updated: 2024-03-31T14:31
 
 ## Message queue(메시지큐)
 
+![[Pasted image 20240331144001.png|center]]
 - pull 방식과 push 방식이 존재
 	- pull 방식은 컨슈머가 메시지큐에 요청을 보내 메시지를 가져와서 처리하는 방식
 	- push방식은 메시지큐가 요청이 생겼을 때 컨슈머에게 메시지를 보내는 방식
-- 오직 하나의 컨슈머에게 보내거나, 전부다 보내는 방식 2가지가 있음
-
-## Message Broker
-- 메시지 내용을 알 고 있음
-## Streaming System(Kafka, Pulsar)
-- 여러 컨슈머에게 보낼 수 있음
-- 메시지를 저장함
+- 메모리에 저장하는방식, 파일기반 저장방식, jdbc로 저장하는 방식이 있음
+- kafka, rabbitMQ, ZeroMQ, Pulsar, SQS 등이 존재
 
 https://blog.bytebytego.com/p/why-do-we-need-a-message-queue
 https://blog.iron.io/message-queue-vs-streaming/
@@ -65,7 +61,7 @@ https://www.linkedin.com/pulse/differences-between-message-queue-event-stream-fr
 https://risingwave.com/blog/differences-between-messaging-queues-and-streaming-a-deep-dive/
 https://www.cloudamqp.com/blog/why-is-a-database-not-the-right-tool-for-a-queue-based-system.html
 https://stackoverflow.com/questions/48099098/message-broker-vs-database-and-monitoring
-
+https://docs.oracle.com/cd/E19636-01/819-3567/mq_service.html
 https://oliveyoung.tech/blog/2023-08-07/async-process-of-coupon-issuance-using-redis/BC
 
 #argent 

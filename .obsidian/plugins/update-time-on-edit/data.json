@@ -602,11 +602,10 @@
     "5-Temp/Softeware Architecture/Anemic Domain Model.md": "05225f7fd5ff99e74e38a03885edaf2e8951986e60786bfa88374ca86cd08537",
     "5-Temp/0-이직자료/기술적으로 어려웠던 경험.md": "7378aadcfc22e2821d7a7653a0762e0cda71e243f4eba8626610355dc0ec469a",
     "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md": "d35cb5b839a724ec2e200f6e45341600ffbf7b3cb5e0ce9bed5cc9f2f7bf455c",
-    "0-Blog/Async-messaging/Async-messaging.md": "7e6393433619bcb0bac86d096ece964e250c4e9741cca44f0fe0e0576b077d98",
     "0-Blog/cache/Caching Strategy.md": "bbbe2fb0d5e3e47187a5f2929932df5647d63cee12469636fc2d97b881f351ce",
     "0-Blog/cache/Cache Passivation, Expiration, Eviction.md": "811154e5079ac9d6fc8974526d205950351b3c19e45c0cb7e72d8eb2f45c75db",
     "0-Blog/java-database-connect/jpa.md": "7586f90e819a31ea95ddd11f9755c2d4ac5cf73b7b3cff3f3b04c9498e8d8be6",
-    "2-Area/Series/Async-messaging/Async-messaging.md": "2ac50330194216a4d2284391c3fbe1188bd14dadf44469d87a0c24d89d96c42c",
+    "2-Area/Series/Async-messaging/Async-messaging.md": "d627ebcb803600f8f12f6b890d5d669b700880775319b9f6ffdf447e6960b81e",
     "2-Area/Series/cache/Caching Strategy.md": "8968931a1b884bbeeec24af2834d5fa80b972ea0676c510729846ae885fc43d8",
     "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md": "811154e5079ac9d6fc8974526d205950351b3c19e45c0cb7e72d8eb2f45c75db",
     "2-Area/Series/Concurrency/1-Mutex(Lock).md": "2fe4b7cb3f6b9c3d80cc20c6305a6b49011d127320e41a7f4433f7cb34ecb930",
@@ -835,8 +834,6 @@
     "5-Temp/Database/쿼리튜닝/쿼리 튜닝 관련 명령어.md": "19c238ae2c12d92cad5c23a43457b76c496a9adc2132b83afbff6040efa72a3b",
     "5-Temp/Database/쿼리튜닝/쿼리개선 관련글.md": "557610f3a0cb0036a31d9a7ec7acad450811a8734eed68218117989734149740",
     "5-Temp/Database/쿼리튜닝/trace 거는 거부터가 튜닝 시작.md": "294f2fd6949dd05bf7653edc2b42c4e169ebc3f7dfb84613b9690173499d5ea9",
-    "4-Archive/Database/Query/Mysql Connection.md": "063ee66abc2b44c3ef6b507a9e4bfc803720742900fec6a2993cfe6661a7f897",
-    "4-Archive/Database/Query/HikariCP.md": "addee7f2beaaca36745c9dac568083f22e71f75e2181af1fbedcc54e2b617ed0",
     "4-Archive/Computer-Science/Long polling, Streaming, Web Socket.md": "30de90175bdf49607c0b59d58f602714a957419c3959d6ee56405196ad39bdfa",
     "0-Blog/Computer-Science/Long polling, Streaming, Web Socket.md": "c4277e81ead12bf0bddbdee2a4fca7d84a7408922992776800192d191789cf2e",
     "5-Temp/Spring/interface는 필요한가?.md": "ac9b73886085ef9702c6a5725bfb602012fb446af2ad0b1e0ffe0bd7a88f6576",
@@ -864,6 +861,9 @@
     "5-Temp/마인드셋/협업/변경에 유연한구조.md": "628b378f864d032a50486ec06ace1bc3d190ee03b4e3b1f5bad7c17b1754938b",
     "5-Temp/마인드셋/개발자란?/중급 이상의 자료.md": "5117f1a0084a2bba0f2ae9aade5aef541f5f4755469ffe79f441563a48e66158",
     "5-Temp/마인드셋/기술내용 외의 글/스트레스.md": "6fad553aabf95cb4c8134fc81ac60cd220c8f8efe73d2b3bedc418282e395cf5",
-    "5-Temp/JVM/String pool.md": "880e7d95e5220c1f76c5b7af8a46f933969e119d78ee9351bf95e3cd61583800"
+    "5-Temp/JVM/String pool.md": "880e7d95e5220c1f76c5b7af8a46f933969e119d78ee9351bf95e3cd61583800",
+    "0-Blog/Async-messaging/Async-messaging.md": "d627ebcb803600f8f12f6b890d5d669b700880775319b9f6ffdf447e6960b81e",
+    "4-Archive/Database/Mysql Connection.md": "063ee66abc2b44c3ef6b507a9e4bfc803720742900fec6a2993cfe6661a7f897",
+    "4-Archive/Database/HikariCP.md": "addee7f2beaaca36745c9dac568083f22e71f75e2181af1fbedcc54e2b617ed0"
   }
 }
