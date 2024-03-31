@@ -1,6 +1,6 @@
 ---
 created: 2024-03-31T13:54
-updated: 2024-03-31T14:12
+updated: 2024-03-31T14:13
 ---
 ## String 생성 방법
 - new 연산자를 사용해서 생성하는 방법
@@ -17,6 +17,6 @@ updated: 2024-03-31T14:12
 	- new String("abcd")를 '\=='비교를 하면 "abcd"는 false임
 	- 하지만 "abcd"와 "abcd"는 같음
 	- 이유는 new String으로 생선된 String객체는 스트링 풀이 아닌, Heap에서 데이터를 가져오기 때문
-	- new String("abcd").intern() 을 사용하면 현재 스트링을 String pool에서 가져옴
-		- String pool에 없다면 새로 생성함
-		- 
+
+- new String("abcd").intern() 을 사용하면 현재 스트링을 String pool에서 가져옴
+	- String pool에 없다면 새로 생성함

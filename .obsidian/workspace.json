@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "71446b7c21616914",
+        "id": "48399395982f72b1",
         "type": "tabs",
         "children": [
           {
-            "id": "01f33a94044d9bac",
+            "id": "cf687a90cf812e2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/String pool.md",
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19572d54f6689608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Archive/Database/Query/HikariCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "519d8afb2c757119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/마인드셋/협업/변경에 유연한구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/String pool.md",
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/String pool.md",
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/String pool.md"
+                "file": "2-Area/Series/Async-messaging/Async-messaging.md"
               }
             }
           }
@@ -178,34 +203,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "01f33a94044d9bac",
+  "active": "cf687a90cf812e2c",
   "lastOpenFiles": [
+    "0-Blog/Async-messaging/Async-messaging.md",
+    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
+    "4-Archive/Database/Query/HikariCP.md",
+    "4-Archive/Database/Query/Mysql Connection.md",
+    "2-Area/Series/Async-messaging/Async-messaging.md",
+    "5-Temp/Spring/jpa mappedby, joincolumn.md",
+    "5-Temp/JVM/java object memory layout.md",
+    "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
+    "5-Temp/InfraStructure/저장소의 성능을 올리는 법.md",
+    "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
+    "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
+    "5-Temp/Concept/end to end exactly once processing.md",
+    "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
+    "5-Temp/Softeware Architecture/도메인 생명주기.md",
+    "2-Area/생각정리/레거시.md",
     "5-Temp/JVM/JAVA String a = \"a\"랑String a = new String의 차이.md",
-    "3-Resource/JVM/String pool.md",
+    "5-Temp/JVM/String pool.md",
     "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
     "5-Temp/InfraStructure/messsge-queue/pub sub vs message queue vs message broker vs streaming platform.md",
     "5-Temp/Concept/느슨한 정족수.md",
-    "4-Archive/Database/Query/HikariCP.md",
     "5-Temp/JVM/JAVA lombok.md",
-    "2-Area/생각정리/레거시.md",
-    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
-    "3-Resource/JVM/String pool.md",
     "5-Temp/마인드셋/기술내용 외의 글/스트레스.md",
     "5-Temp/마인드셋/개발자란?/중급 이상의 자료.md",
     "5-Temp/마인드셋/협업/팀원과의 합의.md",
     "5-Temp/마인드셋/협업/팀원들과 합의가 되어야 하는것.md",
     "5-Temp/마인드셋/협업/피드백.md",
-    "5-Temp/마인드셋/협업/협업시.md",
-    "5-Temp/마인드셋/협업/협업시 중요한거.md",
-    "5-Temp/마인드셋/협업/신뢰비용.md",
-    "5-Temp/마인드셋/협업/알려줄 영광.md",
-    "5-Temp/마인드셋/협업/정확한 시간산정.md",
-    "5-Temp/마인드셋/협업/중복 제거에대해.md",
-    "5-Temp/마인드셋/기분, 태도.md",
-    "5-Temp/마인드셋/협업/이직해서 협업.md",
-    "5-Temp/마인드셋/개발에서 정리.md",
-    "5-Temp/Concept/12factor.md",
-    "5-Temp/Concept/virtual thread, reactive.md",
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",
     "real-resource-image/Pasted image 20240329231640.png",
