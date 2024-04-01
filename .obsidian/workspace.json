@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"created\"]",
+                "query": "#argent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
