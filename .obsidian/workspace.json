@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+                "file": "4-Archive/Database/Mysql Connector j.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+                "file": "4-Archive/Database/Mysql Connector j.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+                "file": "4-Archive/Database/Mysql Connector j.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md"
+                "file": "4-Archive/Database/Mysql Connector j.md"
               }
             }
           }
@@ -204,8 +203,13 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "d4d997875f4e65ee",
   "lastOpenFiles": [
+    "4-Archive/Database/HikariCP.md",
+    "4-Archive/Database/Mysql Connector j.md",
+    "4-Archive/Database/Mysql Connection.md",
+    "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
+    "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "0-Blog/Tool/Brotli.md",
     "0-Blog/Tool/드로윙 툴.md",
     "1-Project/InnoDB.md",
@@ -217,13 +221,11 @@
     "3-Resource/Infrastructure/Elastic Search Data Tier.md",
     "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
     "2-Area/Series/coroutine/1-CoroutineContext.md",
-    "4-Archive/Database/HikariCP.md",
     "5-Temp/마인드셋/협업/변경에 유연한구조.md",
     "real-resource-image/Pasted image 20240331211605.png",
     "0-Blog/JVM/JLS, JSR, JEP.md",
     "0-Blog/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "5-Temp/JVM/String pool.md",
-    "4-Archive/Database/Mysql Connection.md",
     "0-Blog/Async-messaging/Async-messaging.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "real-resource-image/Pasted image 20240331144001.png",
@@ -231,9 +233,6 @@
     "5-Temp/JVM/java object memory layout.md",
     "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
     "5-Temp/InfraStructure/저장소의 성능을 올리는 법.md",
-    "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
-    "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
-    "5-Temp/Concept/end to end exactly once processing.md",
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",
     "real-resource-image/Pasted image 20240329231640.png",
