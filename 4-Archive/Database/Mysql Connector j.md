@@ -1,6 +1,6 @@
 ---
 created: 2024-04-01T23:04
-updated: 2024-04-02T23:11
+updated: 2024-04-02T23:15
 ---
 - Java를 사용하는 어플리케이션에 mysql의 연결을 쉽게 하기 위해 개발됨
 - JDBC type 4 driver이며, JDBC 4.2 specification을 구현함
@@ -17,3 +17,7 @@ DriverManager.getConnection("jdbc:mysql://localhost:3306/dreamStore","root","tjd
 }
 ```
 - Connection을 한번 생성하면 데이터베이스에서 메타데이터를 가져오기 위한, Statement객체와 PrepareStatement객체를 생성하는데 사용 가능함
+	- select쿼리는 executeQuery(String)메서드를 사용해서 호출가능
+	- insert, update, delete쿼리는 executeUpdate(String)메서드를 사용해서 호출가능
+	- 만약 쿼리가 조회 쿼리인지, 변경 쿼리인지 알 수 없다면, execute(String)을 사용하여 확인가능
+		- 데이터 조회 쿼리라면 true, 변경쿼리라면 false를 리턴함
