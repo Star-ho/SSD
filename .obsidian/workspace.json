@@ -47,9 +47,11 @@
             "id": "b1301e55dbf2f9a2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "4-Archive/Database/Mysql Connection.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#argent",
+                "query": "trouble",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Database/Mysql Connector j.md",
+                "file": "4-Archive/Database/Mysql Connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Database/Mysql Connector j.md",
+                "file": "4-Archive/Database/Mysql Connection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Database/Mysql Connector j.md"
+                "file": "4-Archive/Database/Mysql Connection.md"
               }
             }
           }
@@ -215,6 +218,8 @@
   },
   "active": "b1301e55dbf2f9a2",
   "lastOpenFiles": [
+    "3-Resource/Database/mysql 프로세스 리스트 보기.md",
+    "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
     "4-Archive/Database/HikariCP.md",
     "4-Archive/Database/Mysql Connector j.md",
     "4-Archive/Database/Mysql Connection.md",
@@ -241,8 +246,6 @@
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/Spring/jpa mappedby, joincolumn.md",
     "5-Temp/JVM/java object memory layout.md",
-    "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md",
-    "5-Temp/InfraStructure/저장소의 성능을 올리는 법.md",
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",
     "real-resource-image/Pasted image 20240329231640.png",
