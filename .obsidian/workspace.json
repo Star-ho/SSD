@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1301e55dbf2f9a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,7 +213,7 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "d4d997875f4e65ee",
+  "active": "b1301e55dbf2f9a2",
   "lastOpenFiles": [
     "4-Archive/Database/HikariCP.md",
     "4-Archive/Database/Mysql Connector j.md",
