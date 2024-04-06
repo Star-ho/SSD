@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Database/HikariCP.md",
+                "file": "4-Archive/Database/Mysql Connector j.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Database/HikariCP.md",
+                "file": "4-Archive/Database/Mysql Connector j.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Database/HikariCP.md"
+                "file": "4-Archive/Database/Mysql Connector j.md"
               }
             }
           }
@@ -216,8 +216,10 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "b1301e55dbf2f9a2",
+  "active": "d4d997875f4e65ee",
   "lastOpenFiles": [
+    "4-Archive/Database/HikariCP.md",
+    "5-Temp/JVM/JAVA lombok.md",
     "2-Area/생각정리/레거시.md",
     "0-Blog/Async-messaging/Async-messaging.md",
     "4-Archive/Database/PostgreSQL vs MariaDB.md",
@@ -225,7 +227,6 @@
     "4-Archive/Database/Mysql Connection.md",
     "3-Resource/Database/mysql 프로세스 리스트 보기.md",
     "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
-    "4-Archive/Database/HikariCP.md",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
     "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "0-Blog/Tool/Brotli.md",
@@ -244,7 +245,6 @@
     "0-Blog/JVM/JLS, JSR, JEP.md",
     "0-Blog/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "5-Temp/JVM/String pool.md",
-    "2-Area/Series/Async-messaging/Async-messaging.md",
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",
