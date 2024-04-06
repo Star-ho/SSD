@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Database/Mysql Connection.md",
+                "file": "4-Archive/Database/HikariCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trouble",
+                "query": "argent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Database/Mysql Connection.md",
+                "file": "4-Archive/Database/HikariCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Database/Mysql Connection.md",
+                "file": "4-Archive/Database/HikariCP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Database/Mysql Connection.md"
+                "file": "4-Archive/Database/HikariCP.md"
               }
             }
           }
@@ -218,11 +218,14 @@
   },
   "active": "b1301e55dbf2f9a2",
   "lastOpenFiles": [
+    "2-Area/생각정리/레거시.md",
+    "0-Blog/Async-messaging/Async-messaging.md",
+    "4-Archive/Database/PostgreSQL vs MariaDB.md",
+    "4-Archive/Database/Mysql Connector j.md",
+    "4-Archive/Database/Mysql Connection.md",
     "3-Resource/Database/mysql 프로세스 리스트 보기.md",
     "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
     "4-Archive/Database/HikariCP.md",
-    "4-Archive/Database/Mysql Connector j.md",
-    "4-Archive/Database/Mysql Connection.md",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
     "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "0-Blog/Tool/Brotli.md",
@@ -241,11 +244,8 @@
     "0-Blog/JVM/JLS, JSR, JEP.md",
     "0-Blog/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
     "5-Temp/JVM/String pool.md",
-    "0-Blog/Async-messaging/Async-messaging.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "real-resource-image/Pasted image 20240331144001.png",
-    "5-Temp/Spring/jpa mappedby, joincolumn.md",
-    "5-Temp/JVM/java object memory layout.md",
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",
     "real-resource-image/Pasted image 20240329231640.png",
