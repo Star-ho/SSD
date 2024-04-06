@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "argent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
