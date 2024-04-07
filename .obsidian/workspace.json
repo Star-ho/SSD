@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Database/HikariCP.md",
+                "file": "4-Archive/Spring/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Database/HikariCP.md",
+                "file": "4-Archive/Spring/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Database/HikariCP.md",
+                "file": "4-Archive/Spring/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Database/HikariCP.md"
+                "file": "4-Archive/Spring/Untitled.md"
               }
             }
           }
@@ -230,13 +229,23 @@
   },
   "active": "b1301e55dbf2f9a2",
   "lastOpenFiles": [
-    "5-Temp/JVM/JAVA lombok.md",
-    "4-Archive/Database/HikariCP.md",
     "4-Archive/Database/Mysql Connector j.md",
+    "4-Archive/Spring/Untitled.md",
+    "0-Blog/Database/HikariCP.md",
+    "0-Blog/Database/Mysql Connection check query.md",
+    "0-Blog/Database/Mysql Connector j.md",
+    "0-Blog/Database/Mysql Connector j 복사본.md",
+    "0-Blog/Database/Mysql Connection check query 복사본.md",
+    "0-Blog/Database/HikariCP 복사본.md",
+    "4-Archive/Database/Mysql Connection check query 복사본.md",
+    "4-Archive/Database/HikariCP 복사본.md",
+    "4-Archive/Database/Mysql Connector j 복사본.md",
+    "4-Archive/Database/Mysql Connection check query.md",
+    "4-Archive/Database/HikariCP.md",
+    "5-Temp/JVM/JAVA lombok.md",
     "2-Area/생각정리/레거시.md",
     "0-Blog/Async-messaging/Async-messaging.md",
     "4-Archive/Database/PostgreSQL vs MariaDB.md",
-    "4-Archive/Database/Mysql Connection.md",
     "3-Resource/Database/mysql 프로세스 리스트 보기.md",
     "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
@@ -246,17 +255,7 @@
     "1-Project/InnoDB.md",
     "1-Project/개발 OFF/블로그 생성.md",
     "2-Area/Series/coroutine/Coroutine.md",
-    "5-Temp/JVM/버츄얼쓰레드.md",
-    "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
-    "3-Resource/Infrastructure/Split brain.md",
-    "3-Resource/Infrastructure/Elastic Search Data Tier.md",
-    "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
-    "2-Area/Series/coroutine/1-CoroutineContext.md",
-    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
     "real-resource-image/Pasted image 20240331211605.png",
-    "0-Blog/JVM/JLS, JSR, JEP.md",
-    "0-Blog/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
-    "5-Temp/JVM/String pool.md",
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",

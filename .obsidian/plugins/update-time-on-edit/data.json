@@ -863,9 +863,12 @@
     "5-Temp/마인드셋/기술내용 외의 글/스트레스.md": "a6acbd0538692163b252dea3bd54c7d856e8eeaa006ad2624c2554d3c09e6e14",
     "5-Temp/JVM/String pool.md": "36a9dde3ce268c339b6e765bcb2299ab85bfc16e6bb2bd9792e0e14c718a169f",
     "0-Blog/Async-messaging/Async-messaging.md": "e0028ab2d2533879c96b6de04ff0d0ed40ba9c28adf89206c6018bd4ab49fe7a",
-    "4-Archive/Database/Mysql Connection.md": "9c53f01b056411c09f460ba87ee3cabda99ab2f52d28ee038e04d97e337c8e87",
-    "4-Archive/Database/HikariCP.md": "cf939a30dcf2d41225d598da9759da71b98bbd864ed1407b5137e73de33feddb",
+    "4-Archive/Database/HikariCP.md": "5007045345218dd9d011a8a8fa085a48e46a22683ccbe4f8b4cf61988bcba061",
     "5-Temp/JVM/버츄얼쓰레드.md": "0f3666455a813c9fea0def448f058676acab51b2fda720f2bfdcdc139af02f25",
-    "4-Archive/Database/Mysql Connector j.md": "2db7d7019651e50941492c2a99a41d8f67d1b46cb7d541022592df928808e255"
+    "4-Archive/Database/Mysql Connector j.md": "2db7d7019651e50941492c2a99a41d8f67d1b46cb7d541022592df928808e255",
+    "4-Archive/Database/Mysql Connection check query.md": "9c53f01b056411c09f460ba87ee3cabda99ab2f52d28ee038e04d97e337c8e87",
+    "0-Blog/Database/Mysql Connector j.md": "57cf69d861d94ed2eacacc8ec0081486f5228500dd87f25c2440254c0b27f1b9",
+    "0-Blog/Database/Mysql Connection check query.md": "caf6df3cccc7534639efc46c24ac98a0e401b1dd7d7071389b32740d18a5004c",
+    "0-Blog/Database/HikariCP.md": "18fb0d61f1cd084d8570dcdef345966202d0193f38e18e2dbced850abb05df36"
   }
 }
