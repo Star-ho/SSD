@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md",
+                "file": "5-Temp/Spring/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "규칙",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md",
+                "file": "5-Temp/Spring/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md",
+                "file": "5-Temp/Spring/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md"
+                "file": "5-Temp/Spring/Untitled.md"
               }
             }
           }
@@ -180,10 +180,14 @@
   },
   "active": "7fe8abe11fd98cb2",
   "lastOpenFiles": [
-    "5-Temp/Database/Date type 컬럼 date vs String.md",
+    "5-Temp/0-이직자료/과제 만들때.md",
+    "5-Temp/Spring/Untitled.md",
+    "5-Temp/0-이직자료/Untitled.md",
+    "5-Temp/Spring/spring entity manager 동시성 문제.md",
+    "5-Temp/Concept/슈퍼 디티오.md",
     "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md",
+    "5-Temp/Database/Date type 컬럼 date vs String.md",
     "5-Temp/Concept/Entity의 생성 로직은 어디에 두어야 하는가?.md",
-    "5-Temp/Concept/Untitled.md",
     "5-Temp/Operating-System/OS에서 file descriptor, thread를 제한하는 이유.md",
     "5-Temp/마인드셋/규칙을 정할때는 상한보다는 하한을 정하자.md",
     "5-Temp/Softeware Architecture/이유.md",
@@ -202,10 +206,6 @@
     "0-Blog/황성호 - Backend Engineer.md",
     "0-Blog/Spring/Querydsl transform connection leak.md",
     "0-Blog/Querydsl transform connection leak.md",
-    "0-Blog/Database/HikariCP.md",
-    "0-Blog/1-Server/0-Static Web Server.md",
-    "0-Blog/1-Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
-    "0-Blog/1-Server/6-spring mvc request 처리 과정.md",
     "real-resource-image/Pasted image 20240331211605.png",
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",

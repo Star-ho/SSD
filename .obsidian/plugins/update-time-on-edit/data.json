@@ -275,7 +275,7 @@
     "5-Temp/aws/aws sqs.md": "267626de70e88e00f48759fbc4ed3b2d56d349558f66949ddde9da9612e4f3f3",
     "5-Temp/aws/테라폼 설명.md": "cea4238a0f8a2a8fd1dd8db6246d6a35ba4d4737a41de5ad9fe1935839de5791",
     "5-Temp/0-이직자료/서드파티 서비스에 장애가 생길 경우.md": "cb35b1b61cbc41a38d926e1571d22a3095aceb27d2945d517a3a009cd1d84b82",
-    "5-Temp/0-이직자료/과제 만들때.md": "1ee08b6a911ef45ec04dd8cb9c434d808f64cde613f98e0696f911beddb754a4",
+    "5-Temp/0-이직자료/과제 만들때.md": "ee4b5a98df71d218bd2c7b6e56b4b575816f5596091a82edaeb20cc99fe01994",
     "5-Temp/0-이직자료/모든 회사에 어필 할 수 있는 지원 동기와 목표설정 방법.md": "d58b9a2695372e18d353f327b4dbfdbb2ccca4222a242117e44d13496c3269bb",
     "5-Temp/0-이직자료/신기한 회사.md": "db756df119b62f117118292cb989bb235c966e084e0b76dcd62327675f4c9e56",
     "5-Temp/0-이직자료/f-lab 이력서 모음.md": "82b6353822df2e4087538adb8e662ebe39122dca0371fe90ef3a4bdc9e19b7fa",
@@ -878,6 +878,7 @@
     "5-Temp/마인드셋/규칙을 정할때는 상한보다는 하한을 정하자.md": "338c41eadcaad898831418cef4a087ccdb9c1713902594223482224ca599e31d",
     "5-Temp/Concept/Entity의 생성 로직은 어디에 두어야 하는가?.md": "f23770d22e53c65e0354a72268a88f4381288e91ff21be7d05232b2ff6439828",
     "5-Temp/Database/Date type 컬럼 date vs String.md": "a027c761200716924bac54cde32440790116af6931c96948a10416ba0459eb4c",
-    "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md": "59c9e6227d8cec08f34343b961459a5572bf82149fffb6202d65c5fce041c858"
+    "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md": "59c9e6227d8cec08f34343b961459a5572bf82149fffb6202d65c5fce041c858",
+    "5-Temp/Concept/슈퍼 디티오.md": "64923dd89f5ba050674ea424fddb16c77a6b693ecf524f110ef6d916b0ecf877"
   }
 }
