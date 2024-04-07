@@ -8,67 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19572d54f6689608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "519d8afb2c757119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Temp/마인드셋/협업/변경에 유연한구조.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d4d997875f4e65ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Blog/Spring/Querydsl transform connection leak.md",
+                "file": "0-Blog/1-Server/1-Applet.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0c80ed08f16b0422",
+            "id": "117db3ef40d35717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Blog/Database/Mysql Connector j.md",
+                "file": "0-Blog/1-Server/2-Sevlet.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f2285f7b442bfd2",
+            "id": "edcf5692ada4fc00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/JVM/JAVA lombok.md",
+                "file": "0-Blog/1-Server/3-Servlet Container.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4efa706b4daafba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Blog/1-Server/4-Jakarta Servlet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "372353b0fa864c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Blog/1-Server/5-Apache Tomcat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9129f64c7572255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Blog/황성호 - Backend Engineer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Blog/Spring/Querydsl transform connection leak.md",
+                "file": "0-Blog/황성호 - Backend Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Blog/Spring/Querydsl transform connection leak.md",
+                "file": "0-Blog/황성호 - Backend Engineer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Blog/Spring/Querydsl transform connection leak.md"
+                "file": "0-Blog/황성호 - Backend Engineer.md"
               }
             }
           }
@@ -227,15 +239,26 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "d4d997875f4e65ee",
+  "active": "d9129f64c7572255",
   "lastOpenFiles": [
-    "0-Blog/황성호 - Backend Engineer.md",
     "0-Blog/Spring/Querydsl transform connection leak.md",
+    "0-Blog/황성호 - Backend Engineer.md",
     "0-Blog/Database/HikariCP.md",
-    "4-Archive/Spring/Querydsl transform connection leak.md",
+    "0-Blog/1-Server/0-Static Web Server.md",
+    "0-Blog/1-Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
+    "0-Blog/1-Server/6-spring mvc request 처리 과정.md",
+    "0-Blog/1-Server/5-Apache Tomcat.md",
+    "0-Blog/1-Server/4-Jakarta Servlet.md",
+    "0-Blog/1-Server/3-Servlet Container.md",
+    "0-Blog/1-Server/2-Sevlet.md",
+    "0-Blog/1-Server/1-Applet.md",
     "0-Blog/Database/Mysql Connector j.md",
-    "4-Archive/Database/Mysql Connector j.md",
+    "5-Temp/JVM/JAVA lombok.md",
+    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
+    "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
     "0-Blog/Database/Mysql.md",
+    "4-Archive/Spring/Querydsl transform connection leak.md",
+    "4-Archive/Database/Mysql Connector j.md",
     "4-Archive/Database/HikariCP.md",
     "4-Archive/Database/Mysql Connection check query.md",
     "0-Blog/Database/Mysql Connection check query.md",
@@ -244,17 +267,6 @@
     "0-Blog/Database/HikariCP 복사본.md",
     "4-Archive/Database/Mysql Connection check query 복사본.md",
     "4-Archive/Database/HikariCP 복사본.md",
-    "4-Archive/Database/Mysql Connector j 복사본.md",
-    "5-Temp/JVM/JAVA lombok.md",
-    "2-Area/생각정리/레거시.md",
-    "0-Blog/Async-messaging/Async-messaging.md",
-    "4-Archive/Database/PostgreSQL vs MariaDB.md",
-    "3-Resource/Database/mysql 프로세스 리스트 보기.md",
-    "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
-    "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
-    "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
-    "0-Blog/Tool/Brotli.md",
-    "0-Blog/Tool/드로윙 툴.md",
     "real-resource-image/Pasted image 20240331211605.png",
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",
