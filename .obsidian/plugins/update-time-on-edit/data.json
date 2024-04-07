@@ -870,6 +870,7 @@
     "0-Blog/Database/Mysql Connector j.md": "57cf69d861d94ed2eacacc8ec0081486f5228500dd87f25c2440254c0b27f1b9",
     "0-Blog/Database/Mysql Connection check query.md": "caf6df3cccc7534639efc46c24ac98a0e401b1dd7d7071389b32740d18a5004c",
     "0-Blog/Database/HikariCP.md": "18fb0d61f1cd084d8570dcdef345966202d0193f38e18e2dbced850abb05df36",
-    "4-Archive/Spring/Querydsl transform connection leak.md": "93205fa13850877a1303e4e304559d07f9a48d4582b60037f3799a4d28ea50ed"
+    "4-Archive/Spring/Querydsl transform connection leak.md": "93205fa13850877a1303e4e304559d07f9a48d4582b60037f3799a4d28ea50ed",
+    "0-Blog/Spring/Querydsl transform connection leak.md": "5f659c42be657dc35d2f8e4e980126fbaf1974a1069831d1c0eab4d79d196ace"
   }
 }
