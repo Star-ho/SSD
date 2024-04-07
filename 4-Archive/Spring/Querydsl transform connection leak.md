@@ -1,6 +1,6 @@
 ---
 created: 2024-04-07T12:24
-updated: 2024-04-07T14:05
+updated: 2024-04-07T14:15
 ---
 ## 상황
 - 현재 개발중인 기능에서 특정 api가 아래의 로그를 뱉으며 동작하지 않는 문제가 있다고 수정해달라는 요청을 받았다.
@@ -72,7 +72,9 @@ querydsl 5.0.0
 2. @Transactional이 없을때
 	- TransactionAspectSupport::createTransactionIfNecessary에서 txInfo가 없음
 	- 트랜잭션 종료시 TransactionAspectSupport::commitTransactionAfterReturning에 넘길 txInfo가 없으므로 쿼리를 실행 후 커넥션을 반납하는 로직이 필요함
+	- 아래의 로직으로 커넥션 반납함
 ```java 
+...
 
 static{
 	queryTerminatingMethods.add("execute");  
@@ -82,33 +84,51 @@ static{
 	queryTerminatingMethods.add("getResultList");  
 	queryTerminatingMethods.add("list");
 }
-if (SharedEntityManagerCreator.queryTerminatingMethods.contains(method.getName())) {  
-    if (this.outputParameters != null && this.target instanceof StoredProcedureQuery) {  
-        StoredProcedureQuery storedProc = (StoredProcedureQuery)this.target;  
-        Iterator var12 = this.outputParameters.entrySet().iterator();  
-  
-        while(var12.hasNext()) {  
-            Map.Entry<Object, Object> entry = (Map.Entry)var12.next();  
-  
-            try {  
-                Object key = entry.getKey();  
-                if (key instanceof Integer) {  
-                    entry.setValue(storedProc.getOutputParameterValue((Integer)key));  
-                } else {  
-                    entry.setValue(storedProc.getOutputParameterValue(key.toString()));  
-                }  
-            } catch (IllegalArgumentException var20) {  
-                IllegalArgumentException ex = var20;  
-                entry.setValue(ex);  
-            }  
-        }  
-    }  
-  
-    EntityManagerFactoryUtils.closeEntityManager(this.entityManager);  
-    this.entityManager = null;  
-}
+...
+public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+...
+	if (SharedEntityManagerCreator.queryTerminatingMethods.contains(method.getName())) {  
+	    if (this.outputParameters != null && this.target instanceof StoredProcedureQuery) {  
+	        StoredProcedureQuery storedProc = (StoredProcedureQuery)this.target;  
+	        Iterator var12 = this.outputParameters.entrySet().iterator();  
+	  
+	        while(var12.hasNext()) {  
+	            Map.Entry<Object, Object> entry = (Map.Entry)var12.next();  
+	  
+	            try {  
+	                Object key = entry.getKey();  
+	                if (key instanceof Integer) {  
+	                    entry.setValue(storedProc.getOutputParameterValue((Integer)key));  
+	                } else {  
+	                    entry.setValue(storedProc.getOutputParameterValue(key.toString()));  
+	                }  
+	            } catch (IllegalArgumentException var20) {  
+	                IllegalArgumentException ex = var20;  
+	                entry.setValue(ex);  
+	            }  
+	        }  
+	    }  
+	  
+	    EntityManagerFactoryUtils.closeEntityManager(this.entityManager);  
+	    this.entityManager = null;  
+	}
+...
 ```
+- 실행한 메서드 명이 queryTerminatingMethods 안에 있을때, closeEntityManager를 호출함
+
 ### querydsl의 transform에서 커넥션 왜 반납하지 않는지?
+- querydsl의 transform는 쿼리 조회시 scroll메서드를 사용함
+	- queryTerminatingMethods에 존재하지 않음
+
+## 정리
+- @Transactional을 사용한다면 @Transactional 내부에 connection을 종료하는 로직이 있음
+- @Transactional을 사용하지 않는다면, 커넥션이 끝날때, queryTerminatingMethods안에 존재하는 메서드를 사용해 커넥션을 종료해야함
+- querydsl의 transform는 쿼리 조회시 scroll메서드를 사용하여 커넥션이 종료되지 않음
+
+## Contribution
+- 해당 이슈는 2018년 4월부터 발생한 이슈이다.[github 이슈 링크](https://github.com/querydsl/querydsl/issues/2291)
+- 해당 이슈가 테스트 환경인 spring boot 2.7.8에서도 재현되었고 혹시 아직 고쳐지지 않았나 싶어, spring-orm코드를 보니, 23년 11월 26일에 scroll을 추가 되어 있었다.
+- 추가로 spring boot 3.0 버전부터는 
 
 
 #Trouble-Shooting 
