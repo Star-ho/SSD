@@ -1,6 +1,6 @@
 ---
 created: 2024-04-07T12:24
-updated: 2024-04-07T13:47
+updated: 2024-04-07T14:05
 ---
 ## 상황
 - 현재 개발중인 기능에서 특정 api가 아래의 로그를 뱉으며 동작하지 않는 문제가 있다고 수정해달라는 요청을 받았다.
@@ -72,7 +72,42 @@ querydsl 5.0.0
 2. @Transactional이 없을때
 	- TransactionAspectSupport::createTransactionIfNecessary에서 txInfo가 없음
 	- 트랜잭션 종료시 TransactionAspectSupport::commitTransactionAfterReturning에 넘길 txInfo가 없으므로 쿼리를 실행 후 커넥션을 반납하는 로직이 필요함
+```java 
 
+static{
+	queryTerminatingMethods.add("execute");  
+	queryTerminatingMethods.add("executeUpdate");  
+	queryTerminatingMethods.add("getSingleResult");  
+	queryTerminatingMethods.add("getResultStream");  
+	queryTerminatingMethods.add("getResultList");  
+	queryTerminatingMethods.add("list");
+}
+if (SharedEntityManagerCreator.queryTerminatingMethods.contains(method.getName())) {  
+    if (this.outputParameters != null && this.target instanceof StoredProcedureQuery) {  
+        StoredProcedureQuery storedProc = (StoredProcedureQuery)this.target;  
+        Iterator var12 = this.outputParameters.entrySet().iterator();  
+  
+        while(var12.hasNext()) {  
+            Map.Entry<Object, Object> entry = (Map.Entry)var12.next();  
+  
+            try {  
+                Object key = entry.getKey();  
+                if (key instanceof Integer) {  
+                    entry.setValue(storedProc.getOutputParameterValue((Integer)key));  
+                } else {  
+                    entry.setValue(storedProc.getOutputParameterValue(key.toString()));  
+                }  
+            } catch (IllegalArgumentException var20) {  
+                IllegalArgumentException ex = var20;  
+                entry.setValue(ex);  
+            }  
+        }  
+    }  
+  
+    EntityManagerFactoryUtils.closeEntityManager(this.entityManager);  
+    this.entityManager = null;  
+}
+```
 ### querydsl의 transform에서 커넥션 왜 반납하지 않는지?
 
 
