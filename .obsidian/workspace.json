@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jpa에서 말하는 엔티티란?",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,7 +240,7 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "d9129f64c7572255",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
     "0-Blog/Spring/Querydsl transform connection leak.md",
     "0-Blog/Querydsl transform connection leak.md",
