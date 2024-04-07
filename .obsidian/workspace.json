@@ -37,19 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Database/Mysql Connector j.md",
+                "file": "0-Blog/Spring/Querydsl transform connection leak.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b1301e55dbf2f9a2",
+            "id": "0c80ed08f16b0422",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Spring/Querydsl transform connection leak.md",
+                "file": "0-Blog/Database/Mysql Connector j.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Spring/Querydsl transform connection leak.md",
+                "file": "0-Blog/Spring/Querydsl transform connection leak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Spring/Querydsl transform connection leak.md",
+                "file": "0-Blog/Spring/Querydsl transform connection leak.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Spring/Querydsl transform connection leak.md"
+                "file": "0-Blog/Spring/Querydsl transform connection leak.md"
               }
             }
           }
@@ -227,15 +227,18 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "b1301e55dbf2f9a2",
+  "active": "d4d997875f4e65ee",
   "lastOpenFiles": [
-    "4-Archive/Database/HikariCP.md",
-    "4-Archive/Spring/Querydsl transform connection leak.md",
-    "4-Archive/Database/Mysql Connector j.md",
-    "4-Archive/Database/Mysql Connection check query.md",
+    "0-Blog/황성호 - Backend Engineer.md",
+    "0-Blog/Spring/Querydsl transform connection leak.md",
     "0-Blog/Database/HikariCP.md",
-    "0-Blog/Database/Mysql Connection check query.md",
+    "4-Archive/Spring/Querydsl transform connection leak.md",
     "0-Blog/Database/Mysql Connector j.md",
+    "4-Archive/Database/Mysql Connector j.md",
+    "0-Blog/Database/Mysql.md",
+    "4-Archive/Database/HikariCP.md",
+    "4-Archive/Database/Mysql Connection check query.md",
+    "0-Blog/Database/Mysql Connection check query.md",
     "0-Blog/Database/Mysql Connector j 복사본.md",
     "0-Blog/Database/Mysql Connection check query 복사본.md",
     "0-Blog/Database/HikariCP 복사본.md",
@@ -252,9 +255,6 @@
     "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "0-Blog/Tool/Brotli.md",
     "0-Blog/Tool/드로윙 툴.md",
-    "1-Project/InnoDB.md",
-    "1-Project/개발 OFF/블로그 생성.md",
-    "2-Area/Series/coroutine/Coroutine.md",
     "real-resource-image/Pasted image 20240331211605.png",
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",

@@ -1,7 +1,7 @@
 ---
 created: 2024-03-02T22:41
 date: 2024-03-29T23:53
-updated: 2024-03-31T22:43
+updated: 2024-04-07T14:24
 ---
 
 ## 경력
@@ -12,6 +12,9 @@ updated: 2024-03-31T22:43
 - [Spring Framework PR#31632](https://github.com/spring-projects/spring-framework/pull/31632)
 
 ## Recently Post
+### [Querydsl transform connection leak.md](0-Blog/Spring/Querydsl%20transform%20connection%20leak.md)
+### [HikariCP.md](0-Blog/Database/HikariCP.md)
+### [Mysql Connector j.md](0-Blog/Database/Mysql%20Connector%20j.md)
 ### [동기 & 비동기, 블로킹 & 논블로킹.md](0-Blog/Concept/동기%20&%20비동기,%20블로킹%20&%20논블로킹.md)
 ### [1-Garbage Collection Process.md](0-Blog/JVM/Garbage%20Collection/1-Garbage%20Collection%20Process.md)
 ### [0-Garbage Collection Concept.md](0-Blog/JVM/Garbage%20Collection/0-Garbage%20Collection%20Concept.md)
@@ -19,6 +22,3 @@ updated: 2024-03-31T22:43
 ### [쿼리 실행 순서.md](0-Blog/Database/쿼리%20실행%20순서.md)
 ### [Long polling, Streaming, Web Socket.md](0-Blog/Computer-Science/Long%20polling,%20Streaming,%20Web%20Socket.md)
 ### [정규화 역정규화.md](0-Blog/Database/정규화%20역정규화.md)
-### [dev handbook.md](0-Blog/Study%20Matirials/dev%20handbook.md)
-### [MSA 관련 유튜브.md](0-Blog/Study%20Matirials/MSA%20관련%20유튜브.md)
-### [JUnit.md](0-Blog/JVM/JUnit.md)

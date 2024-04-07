@@ -1,9 +1,9 @@
 ---
 created: 2024-04-07T12:24
-updated: 2024-04-07T14:17
+updated: 2024-04-07T14:25
 ---
 ## 상황
-- 현재 개발중인 기능에서 특정 api가 아래의 로그를 뱉으며 동작하지 않는 문제가 있다고 수정해달라는 요청을 받았다.
+- 현재 개발중인 기능에서 특정 api가 아래의 로그를 뱉으며 동작하지 않는 문제가 있다고 확인해달라는 요청을 받았다.
 ```
 org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction; nested exception is org.hibernate.exception.JDBCConnectionException: Unable to acquire JDBC Connection
 <생략>
@@ -48,6 +48,7 @@ java.lang.Exception: Apparent connection leak detected
 - 우선 queryDsl의 transform를 사용하지 않는 로직에 대해 @Transactional을 다 붙여서 이슈를 종료하였다
 
 ## Deep dive!
+
 ```
 테스트환경
 spring boot 2.7.8
