@@ -1,6 +1,6 @@
 ---
 created: 2024-04-07T12:24
-updated: 2024-04-07T13:22
+updated: 2024-04-07T13:32
 ---
 ## 상황
 - 현재 개발중인 기능에서 특정 api가 아래의 로그를 뱉으며 동작하지 않는 문제가 있다고 수정해달라는 요청을 받았다.
@@ -64,6 +64,7 @@ querydsl 5.0.0
 - 반납은 명시적으로 TransactionAspectSupport::commitTransactionAfterReturning메서드 내에서 이루어짐
 	- commitTransactionAfterReturning따라가다보면, requite를 호출하는것을 확인함
 -> @Transactional이 있으면 명시적으로 커넥션을 반환하는 로직이 있어서 @Transactional이 있다면 커넥션 반환이 정상적으로 이루어짐
+
 
 ### querydsl의 transform에서 커넥션 왜 반납하지 않는지?
 - 
