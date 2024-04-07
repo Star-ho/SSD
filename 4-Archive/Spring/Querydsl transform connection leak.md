@@ -1,6 +1,6 @@
 ---
 created: 2024-04-07T12:24
-updated: 2024-04-07T13:45
+updated: 2024-04-07T13:47
 ---
 ## 상황
 - 현재 개발중인 기능에서 특정 api가 아래의 로그를 뱉으며 동작하지 않는 문제가 있다고 수정해달라는 요청을 받았다.
@@ -67,12 +67,15 @@ querydsl 5.0.0
 	- 반납은 앞선 과정에서 받은 txInfo를  가지고, TransactionAspectSupport::commitTransactionAfterReturning의 인자로 넘겨 커넥션을 반납함
 		- commitTransactionAfterReturning따라가다보면, ConcurrentBag::requite를 호출하는것을 확인함
 		- txInfo내 entituManger에 connection에 대한 정보가 있음
-3. @Transactional이 없을때
-	- TransactionAspectSupport::createTransactionIfNecessary에서 txInfo가 없음
-	- TransactionAspectSupport::commitTransactionAfterReturning에 넘길 
-
 -> @Transactional이 있으면 명시적으로 커넥션을 반환하는 로직이 있어서 @Transactional이 있다면 커넥션 반환이 정상적으로 이루어짐
 
+2. @Transactional이 없을때
+	- TransactionAspectSupport::createTransactionIfNecessary에서 txInfo가 없음
+	- 트랜잭션 종료시 TransactionAspectSupport::commitTransactionAfterReturning에 넘길 txInfo가 없으므로 쿼리를 실행 후 커넥션을 반납하는 로직이 필요함
 
 ### querydsl의 transform에서 커넥션 왜 반납하지 않는지?
-- 
+
+
+#Trouble-Shooting 
+#Querydsl-transcform-bug
+#\@Transcational
