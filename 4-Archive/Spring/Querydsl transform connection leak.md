@@ -1,6 +1,6 @@
 ---
 created: 2024-04-07T12:24
-updated: 2024-04-07T12:45
+updated: 2024-04-07T12:53
 ---
 ## 상황
 - 현재 개발중인 기능에서 특정 api가 아래의 로그를 뱉으며 동작하지 않는 문제가 있다고 수정해달라는 요청을 받았다.
@@ -30,4 +30,26 @@ DEBUG 57394 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : wri
 DEBUG 57394 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : write-pool - Pool stats (total=20, active=1, idle=18, waiting=0)
 DEBUG 57394 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : write-pool - Pool stats (total=20, active=2, idle=17, waiting=0)
 ```
-- connection을 사용한 후  connection이 반환되지 않는 connection leak이 있는것을 확인하였고, hikariConnec
+- connection을 사용한 후  connection이 반환되지 않는 connection leak이 있는것을 확인하였고, hikariConnection leak을 확인 할 수 있는 설정을 추가하였다
+```kotlin
+dataSource.leakDetectionThreshold = 2000
+```
+
+> 커넥션이 누수를 판단하는 시간으로 디폴트로 0(disable)으로 설정됨
+
+- 위 설정을 하니 아래의 로그가 남았다
+```
+java.lang.Exception: Apparent connection leak detected
+```
+
+- 로그에는 디테일한 메소드 정보까지 남았고, queryDsl의 trasform을 사용하는 메서드였다
+	- @Transactional어노테이션 붙어있지 않았다!
+- 관련해서 검색을 해보니, queryDsl의 transform을 @Transactional없이 사용하면, connection leak이 발생한다는 내용이 있었다.
+- 우선 queryDsl의 transform를 사용하지 않는 로직에 대해 @Transactional을 다 붙여서 이슈를 종료하였다
+
+## Deep dive!
+- 왜 @Transcational이 붙지않는 querydsl의 transform에 connection leak이 발생했을까?
+- 위 이유를 알기 위해 아래 2가지를 알아보려 한다
+	- @Transcational이 붙을때 커넥션관리
+	- querydsl의 transform에서 커넥션 관리
+### @Transactional의 커넥션 관리
