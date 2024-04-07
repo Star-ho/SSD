@@ -1,6 +1,6 @@
 ---
 created: 2024-04-07T12:24
-updated: 2024-04-07T12:53
+updated: 2024-04-07T13:22
 ---
 ## 상황
 - 현재 개발중인 기능에서 특정 api가 아래의 로그를 뱉으며 동작하지 않는 문제가 있다고 수정해달라는 요청을 받았다.
@@ -48,8 +48,22 @@ java.lang.Exception: Apparent connection leak detected
 - 우선 queryDsl의 transform를 사용하지 않는 로직에 대해 @Transactional을 다 붙여서 이슈를 종료하였다
 
 ## Deep dive!
+```
+테스트환경
+spring boot 2.7.8
+querydsl 5.0.0
+```
 - 왜 @Transcational이 붙지않는 querydsl의 transform에 connection leak이 발생했을까?
 - 위 이유를 알기 위해 아래 2가지를 알아보려 한다
-	- @Transcational이 붙을때 커넥션관리
-	- querydsl의 transform에서 커넥션 관리
-### @Transactional의 커넥션 관리
+	- @Transcational이 붙을때 커넥션을 어떻게 반납하는지?
+	- querydsl의 transform에서 커넥션 왜 반납하지 않는지?
+### @Transcational이 붙을때 커넥션을 어떻게 반납하는지?
+- 커넥션은 쿼리를 실행할때 얻음
+	- Transactional을 실행할 때 얻지않음
+		-> 쿼리가 없는 메서드에 @Transactional을 붙여도 커넥션을 할당하지 않음
+- 반납은 명시적으로 TransactionAspectSupport::commitTransactionAfterReturning메서드 내에서 이루어짐
+	- commitTransactionAfterReturning따라가다보면, requite를 호출하는것을 확인함
+-> @Transactional이 있으면 명시적으로 커넥션을 반환하는 로직이 있어서 @Transactional이 있다면 커넥션 반환이 정상적으로 이루어짐
+
+### querydsl의 transform에서 커넥션 왜 반납하지 않는지?
+- 

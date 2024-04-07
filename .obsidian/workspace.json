@@ -230,6 +230,8 @@
   "active": "b1301e55dbf2f9a2",
   "lastOpenFiles": [
     "4-Archive/Database/Mysql Connector j.md",
+    "4-Archive/Database/Mysql Connection check query.md",
+    "4-Archive/Database/HikariCP.md",
     "4-Archive/Spring/Querydsl transform connection leak.md",
     "0-Blog/Database/HikariCP.md",
     "0-Blog/Database/Mysql Connection check query.md",
@@ -240,8 +242,6 @@
     "4-Archive/Database/Mysql Connection check query 복사본.md",
     "4-Archive/Database/HikariCP 복사본.md",
     "4-Archive/Database/Mysql Connector j 복사본.md",
-    "4-Archive/Database/Mysql Connection check query.md",
-    "4-Archive/Database/HikariCP.md",
     "5-Temp/JVM/JAVA lombok.md",
     "2-Area/생각정리/레거시.md",
     "0-Blog/Async-messaging/Async-messaging.md",
