@@ -11,8 +11,12 @@
             "id": "7fe8abe11fd98cb2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "규칙",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md"
+              }
             }
           }
         ],
@@ -173,6 +180,15 @@
   },
   "active": "7fe8abe11fd98cb2",
   "lastOpenFiles": [
+    "5-Temp/Database/Date type 컬럼 date vs String.md",
+    "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md",
+    "5-Temp/Concept/Entity의 생성 로직은 어디에 두어야 하는가?.md",
+    "5-Temp/Concept/Untitled.md",
+    "5-Temp/Operating-System/OS에서 file descriptor, thread를 제한하는 이유.md",
+    "5-Temp/마인드셋/규칙을 정할때는 상한보다는 하한을 정하자.md",
+    "5-Temp/Softeware Architecture/이유.md",
+    "0-Blog/Software-Design/Aggregate.md",
+    "5-Temp/Database/Postgresql random vs sequential io performance.md",
     "0-Blog/1-Server/1-Applet.md",
     "0-Blog/1-Server/2-Sevlet.md",
     "0-Blog/1-Server/3-Servlet Container.md",
@@ -190,15 +206,6 @@
     "0-Blog/1-Server/0-Static Web Server.md",
     "0-Blog/1-Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "0-Blog/1-Server/6-spring mvc request 처리 과정.md",
-    "0-Blog/Database/Mysql Connector j.md",
-    "5-Temp/JVM/JAVA lombok.md",
-    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
-    "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
-    "0-Blog/Database/Mysql.md",
-    "4-Archive/Spring/Querydsl transform connection leak.md",
-    "4-Archive/Database/Mysql Connector j.md",
-    "4-Archive/Database/HikariCP.md",
-    "4-Archive/Database/Mysql Connection check query.md",
     "real-resource-image/Pasted image 20240331211605.png",
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",

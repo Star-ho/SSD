@@ -873,6 +873,11 @@
     "4-Archive/Spring/Querydsl transform connection leak.md": "93205fa13850877a1303e4e304559d07f9a48d4582b60037f3799a4d28ea50ed",
     "0-Blog/Spring/Querydsl transform connection leak.md": "5f659c42be657dc35d2f8e4e980126fbaf1974a1069831d1c0eab4d79d196ace",
     "5-Temp/Spring/JPA에서 말하는 엔티티란?.md": "546d3dcc2e29d29b2460f3e1ad1e56b969ff3a28d71b4b1729a141b6429d0ec2",
-    "5-Temp/Computer Science/sequential file io vs memory performance.md": "82bd9881c6c18f5c4c17d0a00836fb76f9b38509fccba72f6719b57b0e2be9eb"
+    "5-Temp/Computer Science/sequential file io vs memory performance.md": "82bd9881c6c18f5c4c17d0a00836fb76f9b38509fccba72f6719b57b0e2be9eb",
+    "5-Temp/Database/Postgresql random vs sequential io performance.md": "8c8da3c7cfdfd2cc1cc3bc3e5e29cfbcdd04cf40a57d680d2fc922dc8bb0f7cf",
+    "5-Temp/마인드셋/규칙을 정할때는 상한보다는 하한을 정하자.md": "338c41eadcaad898831418cef4a087ccdb9c1713902594223482224ca599e31d",
+    "5-Temp/Concept/Entity의 생성 로직은 어디에 두어야 하는가?.md": "f23770d22e53c65e0354a72268a88f4381288e91ff21be7d05232b2ff6439828",
+    "5-Temp/Database/Date type 컬럼 date vs String.md": "a027c761200716924bac54cde32440790116af6931c96948a10416ba0459eb4c",
+    "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md": "59c9e6227d8cec08f34343b961459a5572bf82149fffb6202d65c5fce041c858"
   }
 }
