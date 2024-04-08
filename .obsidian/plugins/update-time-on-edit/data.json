@@ -880,6 +880,6 @@
     "5-Temp/Database/Date type 컬럼 date vs String.md": "a027c761200716924bac54cde32440790116af6931c96948a10416ba0459eb4c",
     "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md": "59c9e6227d8cec08f34343b961459a5572bf82149fffb6202d65c5fce041c858",
     "5-Temp/Concept/슈퍼 디티오.md": "64923dd89f5ba050674ea424fddb16c77a6b693ecf524f110ef6d916b0ecf877",
-    "5-Temp/InfraStructure/Docker/multi stage.md": "067009004cfe30562d3739291c7d0552b1a9dc687802e2e7fc3e406fb836098e"
+    "5-Temp/InfraStructure/Docker/docker multi stage.md": "067009004cfe30562d3739291c7d0552b1a9dc687802e2e7fc3e406fb836098e"
   }
 }
