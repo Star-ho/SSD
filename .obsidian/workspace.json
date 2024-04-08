@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
+                "file": "5-Temp/Concept/Test Double.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1ab6ce30c14305a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Area/Software-Design/협력, 책임, 역할.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#argent",
+                "query": "#Domain-Driven-Design",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
+                "file": "5-Temp/Concept/Test Double.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
+                "file": "5-Temp/Concept/Test Double.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md"
+                "file": "5-Temp/Concept/Test Double.md"
               }
             }
           }
@@ -181,6 +192,13 @@
   },
   "active": "7fe8abe11fd98cb2",
   "lastOpenFiles": [
+    "2-Area/Software-Design/협력, 책임, 역할.md",
+    "2-Area/Software-Design/Aggregate 생명주기(Factory, Repository).md",
+    "2-Area/Software-Design/Aggregate.md",
+    "2-Area/Software-Design/Entity, VO.md",
+    "2-Area/Software-Design/Service.md",
+    "0-Blog/Software-Design/Service.md",
+    "5-Temp/Concept/Test Double.md",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "0-Blog/Async-messaging/Async-messaging.md",
@@ -200,13 +218,6 @@
     "5-Temp/Database/Postgresql random vs sequential io performance.md",
     "0-Blog/1-Server/1-Applet.md",
     "0-Blog/1-Server/2-Sevlet.md",
-    "0-Blog/1-Server/3-Servlet Container.md",
-    "0-Blog/1-Server/4-Jakarta Servlet.md",
-    "0-Blog/1-Server/5-Apache Tomcat.md",
-    "5-Temp/자료구조/정적 클래스란?.md",
-    "5-Temp/마인드셋/협업/투명한 소통.md",
-    "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
-    "5-Temp/Computer Science/sequential file io vs memory performance.md",
     "real-resource-image/Pasted image 20240331211605.png",
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",

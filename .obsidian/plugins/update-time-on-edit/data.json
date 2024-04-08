@@ -218,7 +218,6 @@
     "5-Temp/Concept/Open API Specification3.md": "7d8f7bc8addb5a2077cce6d5faa141810187df9adcedb64c60b8cb06c8af1267",
     "5-Temp/Concept/ROP.md": "096d91635628a7a9d5b091c54091eb68575d78bc22929315186e5e0a40cfa872",
     "5-Temp/Concept/스파이크 트래픽 처리.md": "16a2238106d03fa0a3f16135cfbeabc848e46ee50fd3916f636939880cfefdd6",
-    "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md": "848bd16ac2e293a5528126362b4044f5a75167940ba5f5fc677dde9a19bf9fb5",
     "5-Temp/Concept/eventually consistency.md": "f45d8d7baa78ee5045745d1ede86bdf3d27ee56a3cc24bce5154c8e074c285d2",
     "5-Temp/Concept/분산 데이터베이스 조인.md": "139619c3b8ef81a234628ff08757b88c41cc828ecf4f7a3ff845e6d225c21c22",
     "5-Temp/Concept/동시성 문제.md": "ecb990eab9b02037d1d5c7a04a2bb555bdebb29969ac18bed331d75e1e5f14f3",
@@ -705,9 +704,9 @@
     "0-Blog/Software-Design/Aggregate.md": "f31b1999f2bf35cb78a4b1159b07521118c3478a6da70a79243bdccd63ccb0bf",
     "0-Blog/Software-Design/Entity, VO.md": "5637c9703a74cd0b5bb0b796a7359d22b671d83e1e6bca859f413de5319227be",
     "0-Blog/Software-Design/Service.md": "facc53afa82a65228c659f4616651470a928143bb9f00790337b92ee4676c538",
-    "2-Area/Software-Design/Aggregate 생명주기(Factory, Repository).md": "91dc9377b9410d3662796ed807a350e1f414111a39d2ef73eafa4379517a708a",
-    "2-Area/Software-Design/Aggregate.md": "e587ae1a690d2448f9fdf911a1f599547477eba8cb8a00df3a454db02de3c7d6",
-    "2-Area/Software-Design/Entity, VO.md": "3eb7db5c5623006f96465febf0267e793821d27d3985d270d22cd3a7eaabc600",
+    "2-Area/Software-Design/Aggregate 생명주기(Factory, Repository).md": "f5c7843d55652fa8b29d0e74e8c521c7f4ec196024863ad9e39a8e7983c108e0",
+    "2-Area/Software-Design/Aggregate.md": "b03adfb0dc9ea00d5644f507c23e7a915ed1b10dce378ec3118a042e6e9aaf7c",
+    "2-Area/Software-Design/Entity, VO.md": "2c4dccf85bb442b94114d018e792192a2ed9d63862c32023f8e9426b4c165b24",
     "2-Area/Software-Design/Service.md": "2f97564c984439044df1eb46f26a578455045dc29fd75d52d065cddd85f0abbc",
     "2-Area/Software-Design/협력, 책임, 역할.md": "5cb522dd52eecc1caa57dfb6e64560c7b158cc4f20276b5bfe90ee79e0f55791",
     "0-Blog/Computer-Science/0.0.0.0 ip address.md": "d0f198c7573e1f9d2384279379ea640b8b355860a79ea99e219e6cacc7bf4904",
@@ -880,6 +879,7 @@
     "5-Temp/Database/Date type 컬럼 date vs String.md": "a027c761200716924bac54cde32440790116af6931c96948a10416ba0459eb4c",
     "5-Temp/InfraStructure/레디스 클러스터 구성시 스프링 레디스 클라이언트 설정.md": "59c9e6227d8cec08f34343b961459a5572bf82149fffb6202d65c5fce041c858",
     "5-Temp/Concept/슈퍼 디티오.md": "64923dd89f5ba050674ea424fddb16c77a6b693ecf524f110ef6d916b0ecf877",
-    "5-Temp/InfraStructure/Docker/docker multi stage.md": "067009004cfe30562d3739291c7d0552b1a9dc687802e2e7fc3e406fb836098e"
+    "5-Temp/InfraStructure/Docker/docker multi stage.md": "067009004cfe30562d3739291c7d0552b1a9dc687802e2e7fc3e406fb836098e",
+    "5-Temp/Concept/Test Double.md": "e4ab48f322cee3626cdf8a0955712db7ab2bad6d3e4c923c4cd07858dcb9ccd6"
   }
 }

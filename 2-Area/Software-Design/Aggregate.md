@@ -1,6 +1,6 @@
 ---
 created: 2024-03-02T22:41:32
-date: 2024-03-03T11:41
+date: 2024-04-08T22:57
 updated: 2024-03-31T22:43
 ---
 - 데이터의 변경단위로 다루는 연관 객체의 묶음
@@ -29,3 +29,4 @@ updated: 2024-03-31T22:43
 #Software-design
 #Domain-Model
 #Aggregate
+#Domain-Driven-Design
