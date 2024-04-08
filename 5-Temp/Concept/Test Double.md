@@ -1,6 +1,6 @@
 ---
 created: 2023-10-04T22:56:42
-date: 2024-04-08T22:53
+date: 2024-04-08T23:07
 updated: 2024-03-31T22:43
 ---
 ## testdouble
@@ -11,9 +11,12 @@ updated: 2024-03-31T22:43
 ## Dummy
 - 
 
-spy
-mock
-, Fakes, Mocks, Spy and Stubs
+## spy
+## mock
+## Fakes
+## Stubs
+## Fixture
+
 
 https://martinfowler.com/articles/mocksArentStubs.html
 #argent
