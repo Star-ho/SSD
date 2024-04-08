@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/Docker/docker multi stage.md",
+                "file": "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#argent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/Docker/docker multi stage.md",
+                "file": "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/Docker/docker multi stage.md",
+                "file": "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/Docker/docker multi stage.md"
+                "file": "5-Temp/Concept/Dummy, Fakes, Mocks, Spy and Stubs.md"
               }
             }
           }
@@ -180,8 +181,11 @@
   },
   "active": "7fe8abe11fd98cb2",
   "lastOpenFiles": [
-    "5-Temp/Spring/Untitled.md",
+    "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
+    "2-Area/Series/Async-messaging/Async-messaging.md",
+    "0-Blog/Async-messaging/Async-messaging.md",
     "5-Temp/InfraStructure/Docker/docker multi stage.md",
+    "5-Temp/Spring/Untitled.md",
     "5-Temp/0-이직자료/과제 만들때.md",
     "5-Temp/0-이직자료/Untitled.md",
     "5-Temp/Spring/spring entity manager 동시성 문제.md",
@@ -203,9 +207,6 @@
     "5-Temp/마인드셋/협업/투명한 소통.md",
     "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
     "5-Temp/Computer Science/sequential file io vs memory performance.md",
-    "5-Temp/Spring/JPA에서 말하는 엔티티란?.md",
-    "0-Blog/황성호 - Backend Engineer.md",
-    "0-Blog/Spring/Querydsl transform connection leak.md",
     "real-resource-image/Pasted image 20240331211605.png",
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",

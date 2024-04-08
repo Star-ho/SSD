@@ -1,6 +1,6 @@
 ---
 created: 2024-03-02T22:41:32
-date: 2024-03-31T14:40
+date: 2024-04-08T22:17
 updated: 2024-03-31T22:43
 ---
 # 비동기 메시징
@@ -65,7 +65,6 @@ https://stackoverflow.com/questions/48099098/message-broker-vs-database-and-moni
 https://docs.oracle.com/cd/E19636-01/819-3567/mq_service.html
 https://oliveyoung.tech/blog/2023-08-07/async-process-of-coupon-issuance-using-redis/BC
 
-#argent 
 #Async-messaging
 #Transactional-outboxk
 #message-queue 
