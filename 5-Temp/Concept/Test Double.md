@@ -1,10 +1,11 @@
 ---
 created: 2023-10-04T22:56:42
-date: 2024-04-08T23:18
+date: 2024-04-09T23:15
 updated: 2024-03-31T22:43
 ---
 ## Fixture
 - 소프트웨어를 일관되게 테스트 할 수 있게 해주는 장치
+- 테스트를 실행하고, 특정결과를 예상하기 위해 필요한 모든것 [링크](http://xunitpatterns.com/test%20fixture%20-%20xUnit.html)
 - 
 
 ## Test Double

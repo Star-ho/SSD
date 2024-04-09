@@ -1,6 +1,6 @@
 ---
 created: 2024-04-09T22:31
-date: 2024-04-09T23:05
+date: 2024-04-09T23:07
 ---
 ![|center|600](Pasted%20image%2020240409223209.png)
 
@@ -9,7 +9,7 @@ date: 2024-04-09T23:05
 - 인터넷에 있는 자원을 나타내는 유일한 주소
 - URN과 URL을 포괄하는 개념
 - URL은 URI가 될 수 없지만, URI는 URL이 될 수 있음
-- 
+- *제한적인 URL과 URN보다는 URI라는 용어를 쓰자*
 - 예시
 	- data:text/plain;base64,SGVsbG8gV29ybGQh  
 	- data:image/jpeg;base64,/9j/4AAQSkZJRgAB…
