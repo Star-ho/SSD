@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/JVM/kotlin vs java.md",
+                "file": "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/JVM/kotlin vs java.md",
+                "file": "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/JVM/kotlin vs java.md",
+                "file": "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/JVM/kotlin vs java.md"
+                "file": "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md"
               }
             }
           }
@@ -192,6 +192,9 @@
   },
   "active": "7fe8abe11fd98cb2",
   "lastOpenFiles": [
+    "4-Archive/JVM/Bazel.md",
+    "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md",
+    "4-Archive/JVM/kotlin vs java.md",
     "5-Temp/Concept/Test Double.md",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
     "5-Temp/00사업아이템/한국에서 개발하는 개발자들의 용어 통일 사전 만들기.md",
@@ -215,9 +218,6 @@
     "5-Temp/InfraStructure/Docker/docker multi stage.md",
     "5-Temp/Spring/Untitled.md",
     "5-Temp/0-이직자료/과제 만들때.md",
-    "5-Temp/0-이직자료/Untitled.md",
-    "5-Temp/Spring/spring entity manager 동시성 문제.md",
-    "5-Temp/Concept/슈퍼 디티오.md",
     "real-resource-image/Pasted image 20240331211605.png",
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",

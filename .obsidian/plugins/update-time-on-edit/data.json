@@ -506,7 +506,7 @@
     "4-Archive/Book-Review/DDIA/기타.md": "34d5e87c3f519e8e7bde825fd5ad0eb9ad0eb1fe5d83984ece1e2d098b476bf5",
     "4-Archive/JVM/buck.md": "9ee6e2aa1fd02852a4cf3930183a3c5c26a2c99ee53ac5d0b4fe0b985434d8a6",
     "4-Archive/JVM/Bazel.md": "4e86f5d4d139305b5f1ab03504ecb5400f41b61b5692a760e7371ec723fdde7f",
-    "4-Archive/JVM/kotlin vs java.md": "62dd536d3f4885a8916552644cdb79af9cd8e1c0eec758d71826c5141f3b7de1",
+    "4-Archive/JVM/kotlin vs java.md": "053af49144769334378b1126dcb48cc9c4117c6b764885e5dd1966d60c56042b",
     "4-Archive/JVM/vm option.md": "b370569944613a80fb38bf0f82bce4cdfba95156e26f4e780ab689015305e8fe",
     "4-Archive/JVM/JLS, JSR, JEP.md": "114f19a493b5011334253b69fd54007c2f0023dd9fcc29bf475fdb01667162a9",
     "4-Archive/JVM/kotlin, coroutine, kotest 버전별 호환 목록.md": "39b11cc6a713903c632b3e770759ae27f49e18a2afd997ede506fa7633d1c0c1",
@@ -881,6 +881,7 @@
     "5-Temp/Concept/슈퍼 디티오.md": "64923dd89f5ba050674ea424fddb16c77a6b693ecf524f110ef6d916b0ecf877",
     "5-Temp/InfraStructure/Docker/docker multi stage.md": "067009004cfe30562d3739291c7d0552b1a9dc687802e2e7fc3e406fb836098e",
     "5-Temp/Concept/Test Double.md": "0c33f37b467e1f13e3629a29f13b16bcba010124ffc3260946daac565cec7780",
-    "5-Temp/00사업아이템/한국에서 개발하는 개발자들의 용어 통일 사전 만들기.md": "c444754079133aec2001f94ecf0f4b44143247163117a22b12b0d18b7abdb8ac"
+    "5-Temp/00사업아이템/한국에서 개발하는 개발자들의 용어 통일 사전 만들기.md": "c444754079133aec2001f94ecf0f4b44143247163117a22b12b0d18b7abdb8ac",
+    "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md": "49dc0630420b75e9c219989d4e766f49aa030f199e3faea8b8b09b39577b6cbe"
   }
 }
