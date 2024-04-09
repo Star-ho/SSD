@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md",
+                "file": "4-Archive/Concept/URL, URN, URI.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#Domain-Driven-Design",
+                "query": "center",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md",
+                "file": "4-Archive/Concept/URL, URN, URI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md",
+                "file": "4-Archive/Concept/URL, URN, URI.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md"
+                "file": "4-Archive/Concept/URL, URN, URI.md"
               }
             }
           }
@@ -190,10 +191,12 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "7fe8abe11fd98cb2",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
-    "4-Archive/JVM/Bazel.md",
+    "real-resource-image/Pasted image 20240409223209.png",
     "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md",
+    "4-Archive/Concept/URL, URN, URI.md",
+    "4-Archive/JVM/Bazel.md",
     "4-Archive/JVM/kotlin vs java.md",
     "5-Temp/Concept/Test Double.md",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
@@ -216,8 +219,6 @@
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "0-Blog/Async-messaging/Async-messaging.md",
     "5-Temp/InfraStructure/Docker/docker multi stage.md",
-    "5-Temp/Spring/Untitled.md",
-    "5-Temp/0-이직자료/과제 만들때.md",
     "real-resource-image/Pasted image 20240331211605.png",
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",
