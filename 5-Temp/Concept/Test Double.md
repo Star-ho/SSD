@@ -1,6 +1,6 @@
 ---
 created: 2023-10-04T22:56:42
-date: 2024-04-10T20:40
+date: 2024-04-10T20:49
 updated: 2024-03-31T22:43
 ---
 ## Fixture
@@ -31,14 +31,18 @@ updated: 2024-03-31T22:43
 - 실제 컴포넌트를 대체하여 간접적인 입력에 대해 제어할 수 있음
 
 ## Test Spy
-- 간접적인 입력읠 제어하는 면에서 Test Stub보다는 더 강력한 버전의 Test Double
-- Test Stub과 마찬가지로 간접적인 입력에 대해 제어가 가능하지만, SUT에 대한 간접적인 출력을 capture함
-	- capture한 간접적인 출력에 대해 검증도 가능함
+- Test Stub보다는 더 강력한 버전의 Test Double로써, SUT 간접적인 입력의 관찰지점(observation point)임
+- 간접적인 입력에 대해 관찰이 가능하며, SUT에 대한 간접적인 출력을 capture함
+	- capture한 간접적인 출력에 대해 검증 가능
 - Mock Object와 동일한 목적으로 사용하지만, Test Spy를 사용한다면, 테스트 스타일은 Test Stub과 더 유사함
-## Mock
-- SUT의 간접저긴 출력을 검증하기 위해 사용하는 관
+## Mock Object
+- SUT의 간접적인 출력을 검증할 수 있는 관찰지점
+- 테스트에 실패하지 않은 경우, SUT에 반드시 값을 리턴하는, Test Stub의 기능을 포함함
+- 간접 출력의 검증에 더 치우쳐져 있음
+- 단순히 Test Stub에 assertion이 추가된것이 아닌, 근본적인 차이가 있음
 
-## Fakes
+## Fake Object
+- 
 
 
 
