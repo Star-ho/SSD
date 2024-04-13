@@ -1,6 +1,6 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-13T23:14
+date: 2024-04-13T23:24
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
@@ -81,3 +81,34 @@ class BoundedElasticSchedulerSupplier implements Supplier<Scheduler> {
 ```
 newBoundedElastic메서드에 Schedulers의 BoundedElasticScheduler의 설정값이 들어가는 것을 볼 수 있다.
 
+## BoundedElasticScheduler
+
+이제 BoundedElasticScheduler에서 작업을 할당하는 schedule메서드를 알아보자
+```java
+@Override  
+public Disposable schedule(Runnable task, long delay, TimeUnit unit) {  
+    //tasks running once will call dispose on the BoundedState, decreasing its usage by one  
+    final BoundedState picked = state.currentResource.pick();  
+    try {  
+       return Schedulers.directSchedule(picked.executor, task, picked, delay, unit);  
+    } catch (RejectedExecutionException ex) {  
+       // ensure to free the BoundedState so it can be reused  
+       picked.dispose();  
+       throw ex;  
+    }
+```
+schedule메서드는 현재 리소스에 있는 BondedState를 가져오고, 스케줄러에 작업을 예약한다.
+
+
+
+
+BoundedElasticScheduler내부에 3개의 클래스가 있다. 해당 클래스에 대해 먼저 알아보자.
+### BoundedServices
+```java
+static final class BoundedServices extends AtomicInteger
+```
+선언부를 보면, BoundedServices는 AtomicInteger를 상속받은 클래스이다.
+BoundedServices의 값은, 현재 실행되고 있는 쓰레드의 갯수이다.
+
+- BoundedState
+- BoundedScheduledExecutorService
