@@ -1,6 +1,6 @@
 ---
 created: 2024-04-13T22:11
-date: 2024-04-13T22:44
+date: 2024-04-13T22:52
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
@@ -8,13 +8,12 @@ date: 2024-04-13T22:44
 ## Reactor Scheduler
 작업이 실행될 쓰레드를 결정하는 클래스
 java reactor에서는 제공하는 여러가지 스케줄러를 제공하는데 이중 ImmediateScheduler, BoundedElasticScheduler, ParallelScheduler에 대해 알아보려 한다
-- 이 중에서 현재 제일 많이 사용하고 있는 BoundedElasticScheduler에 대해 알아볼것이다.
+- 이 중에서 현재 제일 많이 사용하고 있는 BoundedElasticScheduler에 대해서는 자세히 알아볼것이다.
 
 ## Schedulers
-subscribeOn, publishOn에는 Schedulers의 정적 메서드를 사용하여 스케줄러를 지정하는데, 
-reactor-java에서 subcribeOn, publishOn메서드로 스케줄러를 할당한다
-스케줄러 할당은 S
-먼저 필드에 대한 설명이다
+subscribeOn, publishOn에는 Schedulers의 정적 메서드를 사용하여 스케줄러를 지정하기에 Schedulers클래스 부터 알아보자
+
+필드에 대한 설명이다
 ### DEFAULT_POOL_SIZE
 - 기본 풀 사이즈로, ParallelScheduler 사용 시쓰레드 갯수를 지정하는 필드이다.
 - ```reactor.schedulers.defaultPoolSize``` 설정으로 값을 지정할 수 있으며 디폴트 값은 시스템의 CPU갯수이다
@@ -31,13 +30,33 @@ reactor-java에서 subcribeOn, publishOn메서드로 스케줄러를 할당한�
 - BoundedElasticScheduler사용 시 가상쓰레드 여부를 결정하는 필드이다
 - reactor.schedulers.defaultBoundedElasticOnVirtualThreads로 설정할 수있으며, 디폴트로 false이다
 
-이제 메서드에 대한 설명이다
-- 메서드는
+이제 스케줄러를 생성하는 메서드에 대해 알아보자
+```java
+public static Scheduler boundedElastic() {  
+    return cache(CACHED_BOUNDED_ELASTIC, BOUNDED_ELASTIC, BOUNDED_ELASTIC_SUPPLIER);  
+}
+```
+스케줄러를 생성하는 메서드는 static메서드이고 내부에서 cache로 관리한다.
+- 한번 스케줄러를 생성하면 내부에서 캐싱된 스케줄러를 가져온다는것을 알 수있다.
+- ImmediateScheduler, BoundedElasticScheduler, ParallelScheduler는 다 아래와 같은 형태이다
+> prefix로 new가 붙은 메서드를 사용하거나 fromExecuter를 사용해서 새로운 스케줄러를 생성할 수 있다.
+
+```java
+static CachedScheduler cache(AtomicReference<CachedScheduler> reference, String key, Supplier<Scheduler> supplier) {  
+    CachedScheduler s = reference.get();  
+    if (s != null) {  
+       return s;  
+    }  
+    s = new CachedScheduler(key, supplier.get());  
+    if (reference.compareAndSet(null, s)) {  
+       return s;  
+    }  
+    //the reference was updated in the meantime with a cached scheduler  
+    //fallback to it and dispose the extraneous one    s._dispose();  
+    return reference.get();  
+}
+```
+cache메서드 간단하다. 
+캐싱된 스케줄러가 있는지 확인하고, 있으면 캐싱된 스케줄러를 반환하고, 없다면 인자로 받은 Scheduler Supplier로 스케줄러를 생성하고, 이를 캐싱한다.
 
 
-
-
-
-
-우선 지정하는 메서드부터 알아보자
-	- 
