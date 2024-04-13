@@ -1,6 +1,6 @@
 ---
 created: 2024-03-02T22:41:32
-date: 2024-03-08T23:18
+date: 2024-04-13T22:18
 updated: 2024-03-31T22:43
 ---
 # Threading and Scheduler
@@ -20,7 +20,7 @@ updated: 2024-03-31T22:43
 - Schedulers.elastic()과 달리 워커풀 생성에 제한이 있음(기본 cpu core*\10)
 - 한도에 도달한다면 최대 100,000 작업이 큐에 추가됨
 - 쓰레드가 다시 재사용 될때 큐에 추가됨
-	- 100,000이 넘게 추가되면 버려지는듯?
+	- 100,000이 넘게 추가되면 에러발생
 - 블로킹프로세스에 자체 쓰레드를 부여하여 다른 리소스 묶이지 않도록 할 수 있음
 	- [링크](https://projectreactor.io/docs/core/release/reference/#faq.wrap-blocking)참고
 ### Schedulers.parallel()
