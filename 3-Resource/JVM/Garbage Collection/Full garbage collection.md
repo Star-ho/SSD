@@ -1,7 +1,6 @@
 ---
-created: 2024-02-22T23:11:30
-date: 2024-03-31T13:54
-updated: 2024-03-31T22:43
+created: 2024-03-31T22:41:00
+date: 2024-04-13T22:56
 ---
 - Garbage Collection 파트에서 Full garbage collection에 대한 추가 설명
 - 직접 실험해보면서 체크필요

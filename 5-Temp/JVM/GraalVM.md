@@ -1,7 +1,6 @@
 ---
-created: 2023-09-24T23:16:17
-date: 2024-03-03T11:41
-updated: 2024-03-31T22:43
+created: 2024-03-31T22:41:00
+date: 2024-04-13T22:56
 ---
 https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d
 

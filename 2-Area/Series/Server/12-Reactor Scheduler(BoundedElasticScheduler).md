@@ -1,14 +1,13 @@
 ---
-created: 2024-04-13T22:11
-date: 2024-04-13T22:52
+created: 2024-04-13T22:11:25
+date: 2024-04-13T23:03
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
 
 ## Reactor Scheduler
 작업이 실행될 쓰레드를 결정하는 클래스
-java reactor에서는 제공하는 여러가지 스케줄러를 제공하는데 이중 ImmediateScheduler, BoundedElasticScheduler, ParallelScheduler에 대해 알아보려 한다
-- 이 중에서 현재 제일 많이 사용하고 있는 BoundedElasticScheduler에 대해서는 자세히 알아볼것이다.
+java reactor에서는 제공하는 여러가지 스케줄러를 제공하는데 이중 BoundedElasticScheduler에 대해 집중적으로 알아보자
 
 ## Schedulers
 subscribeOn, publishOn에는 Schedulers의 정적 메서드를 사용하여 스케줄러를 지정하기에 Schedulers클래스 부터 알아보자
@@ -59,4 +58,26 @@ static CachedScheduler cache(AtomicReference<CachedScheduler> reference, String 
 cache메서드 간단하다. 
 캐싱된 스케줄러가 있는지 확인하고, 있으면 캐싱된 스케줄러를 반환하고, 없다면 인자로 받은 Scheduler Supplier로 스케줄러를 생성하고, 이를 캐싱한다.
 
+그럼 이제 BoundedElasticScheduler를 생성하는 BoundedElasticSchedulerSupplier에 대해 알아보자
+```java
+class BoundedElasticSchedulerSupplier implements Supplier<Scheduler> {
+
+	static final Logger logger = Loggers.getLogger(BoundedElasticSchedulerSupplier.class);
+
+	@Override
+	public Scheduler get() {
+		if (DEFAULT_BOUNDED_ELASTIC_ON_VIRTUAL_THREADS) {
+			logger.warn(
+					"Virtual Threads support is not available on the given JVM. Falling back to default BoundedElastic setup");
+		}
+
+		return newBoundedElastic(DEFAULT_BOUNDED_ELASTIC_SIZE,
+				DEFAULT_BOUNDED_ELASTIC_QUEUESIZE,
+				BOUNDED_ELASTIC,
+				BoundedElasticScheduler.DEFAULT_TTL_SECONDS,
+				true);
+	}
+}
+```
+newBoundedElastic메서드에 Schedulers의 BoundedElasticScheduler의 설정값이 들어가는 것을 볼 수 있다.
 

@@ -1,7 +1,6 @@
 ---
-created: 2023-10-03T22:39:22
-date: 2024-03-08T23:21
-updated: 2024-03-31T22:43
+created: 2024-03-31T22:41:00
+date: 2024-04-13T22:56
 ---
 - [https://plugins.jetbrains.com/plugin/10119-mybatisx](https://plugins.jetbrains.com/plugin/10119-mybatisx)
 - mybatis mapper와 xml 간에 jump를 가능하게 해줍니다

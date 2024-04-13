@@ -1,7 +1,6 @@
 ---
-created: 2024-03-21T23:22
-date: 2024-03-21T23:23
-updated: 2024-03-31T22:43
+created: 2024-03-31T22:41:00
+date: 2024-04-13T22:56
 ---
 안녕하세요 Java Garbage Collection에서 질문있습니다!
 

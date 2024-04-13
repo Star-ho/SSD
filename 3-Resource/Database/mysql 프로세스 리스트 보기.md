@@ -1,7 +1,6 @@
 ---
-created: 2023-10-06T23:30:28
-date: 2024-03-03T11:41
-updated: 2024-03-31T22:43
+created: 2024-03-31T22:41:00
+date: 2024-04-13T22:56
 ---
 select * from information_schema.PROCESSLIST;
 

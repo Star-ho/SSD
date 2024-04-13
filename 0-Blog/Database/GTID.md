@@ -1,7 +1,6 @@
 ---
-created: 2024-01-29T22:28:41
-date: 2024-03-08T23:19
-updated: 2024-03-31T22:43
+created: 2024-03-31T22:41:00
+date: 2024-04-13T22:56
 ---
 https://dev.mysql.com/doc/refman/8.0/en/replication-gtids-concepts.html
 #wait-to-update 

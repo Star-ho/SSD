@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/12-Reactor Scheduler.md",
+                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/12-Reactor Scheduler.md",
+                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/12-Reactor Scheduler.md",
+                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/12-Reactor Scheduler.md"
+                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md"
               }
             }
           }
@@ -192,12 +192,12 @@
   },
   "active": "7fe8abe11fd98cb2",
   "lastOpenFiles": [
+    "2-Area/Series/Server/10-Reactor Java(1).md",
     "2-Area/Series/Server/11-Reactor Java(2).md",
-    "2-Area/Series/Server/12-Reactor Scheduler.md",
+    "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
     "2-Area/Series/Server/9-Reactive Streams.md",
     "2-Area/Series/Server/8-Stream Processing.md",
     "2-Area/Series/Server/7-Reactive Manifesto.md",
-    "2-Area/Series/Server/10-Reactor Java(1).md",
     "2-Area/Series/Server/13-Virtual Thread.md",
     "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "2-Area/Series/Server/999-webflux 관련.md",

@@ -1,7 +1,6 @@
 ---
-created: 2024-02-22T23:19
-date: 2024-03-29T23:51
-updated: 2024-03-31T22:43
+created: 2024-03-31T22:41:00
+date: 2024-04-13T22:56
 ---
 
 ## Serial GC
@@ -48,4 +47,3 @@ updated: 2024-03-31T22:43
 
 https://d2.naver.com/helloworld/1329
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
-

@@ -1,7 +1,6 @@
 ---
-created: 2024-03-23T20:35
-date: 2024-03-29T18:09
-updated: 2024-03-31T22:43
+created: 2024-03-31T22:41:00
+date: 2024-04-13T22:56
 ---
 netflix의 msa전환기
 https://open.substack.com/pub/bytebytego/p/a-brief-history-of-scaling-netflix?r=3ebbmm&utm_medium=ios

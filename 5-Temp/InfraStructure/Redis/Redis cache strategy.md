@@ -1,6 +1,5 @@
 ---
-created: 2023-10-19T23:04:40
-date: 2024-03-03T11:41
-updated: 2024-03-31T22:43
+created: 2024-03-31T22:41:00
+date: 2024-04-13T22:56
 ---
 https://velog.io/@hwaya2828/Redis-%EC%BA%90%EC%8B%9C-%EC%A0%84%EB%9E%B5

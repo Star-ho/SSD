@@ -1,7 +1,6 @@
 ---
-created: 2024-03-02T22:41:32
-date: 2024-03-08T23:19
-updated: 2024-03-31T22:43
+created: 2024-03-31T22:41:00
+date: 2024-04-13T22:56
 ---
 - 데이터의 변경단위로 다루는 연관 객체의 묶음
 - Root Entity와 Boundary Entity가 존재

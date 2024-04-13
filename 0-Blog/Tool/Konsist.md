@@ -1,7 +1,6 @@
 ---
-created: 2023-09-17T22:20:09
-date: 2024-03-08T23:21
-updated: 2024-03-31T22:43
+created: 2024-03-31T22:41:00
+date: 2024-04-13T22:56
 ---
 https://proandroiddev.com/refactoring-multi-module-kotlin-project-with-konsist-f0de0de59a3d
 
