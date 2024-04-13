@@ -1,13 +1,13 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-13T23:03
+date: 2024-04-13T23:14
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
 
 ## Reactor Scheduler
-작업이 실행될 쓰레드를 결정하는 클래스
-java reactor에서는 제공하는 여러가지 스케줄러를 제공하는데 이중 BoundedElasticScheduler에 대해 집중적으로 알아보자
+실제 작업이 실행될 쓰레드를 할당하는 클래스이다.
+java reactor에서는 제공하는 여러가지 스케줄러를 제공하는데, 이 중 reactor-netty에서 디폴트로 제공하는  BoundedElasticScheduler에 대해 집중적으로 알아볼 것이다
 
 ## Schedulers
 subscribeOn, publishOn에는 Schedulers의 정적 메서드를 사용하여 스케줄러를 지정하기에 Schedulers클래스 부터 알아보자
