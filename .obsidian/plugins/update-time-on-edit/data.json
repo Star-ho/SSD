@@ -645,7 +645,6 @@
     "2-Area/Series/Server/10-Reactor Java(1).md": "ad266d3bf5ddba2a27148b083bb2de6fd93650083462d63187c988dd8168ff15",
     "2-Area/Series/Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md": "1c8e954d4cefa6de4399dda51272cfad3984449f67c5730563aa9cb3f7df1ed4",
     "2-Area/Series/Server/9-Reactive Streams.md": "91adf7569039b9245cebf13ed58bd8093f1bc86268d3fb633ff57f26fe32f26c",
-    "2-Area/Series/Server/12-Virtual Thread.md": "ee4875c779a177f6d0c9b472ffc91c7ce0eb3ae3a434ae3851441af17c322480",
     "2-Area/Series/Server/8-Stream Processing.md": "9b54ac959ac9847ea6ef25c84aa56e0a0e697a9f3604c868c785c042f42989e6",
     "2-Area/Series/Server/1-Applet.md": "126678d7d4f90909c9e6179da06adb7cf28e75cee1ae14a5c67c689e257e7d19",
     "0-Blog/Concept/파티셔닝.md": "2cc238bf41590111b0be617f4fcbb54260403c20eee178ce88ceaa1a5b051f9e",
@@ -883,6 +882,8 @@
     "5-Temp/00사업아이템/한국에서 개발하는 개발자들의 용어 통일 사전 만들기.md": "c444754079133aec2001f94ecf0f4b44143247163117a22b12b0d18b7abdb8ac",
     "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md": "7bdd6f47a4b349eb6ca9834aff986a9b302bb2de30f08356c570c5b1ee5d2cd7",
     "4-Archive/Concept/URL, URN, URI.md": "f8a7eda3ca141f721f510245cbebd7450fb688905d42f0be09c7ed50829f5b5d",
-    "4-Archive/Testing/Test Double.md": "57cf021a08c6eda44d0595a5733027957c8bb093ec8c0bf73f0ced646afac58e"
+    "4-Archive/Testing/Test Double.md": "57cf021a08c6eda44d0595a5733027957c8bb093ec8c0bf73f0ced646afac58e",
+    "2-Area/Series/Server/13-Virtual Thread.md": "ee4875c779a177f6d0c9b472ffc91c7ce0eb3ae3a434ae3851441af17c322480",
+    "2-Area/Series/Server/12-Reactor Scheduler.md": "93f8d4e080ae39aae6edd6703a20b9bccb86a3c9b4019b8edc6a6b2ded1bfe52"
   }
 }
