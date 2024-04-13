@@ -1,6 +1,6 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-13T23:24
+date: 2024-04-13T23:29
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
@@ -97,9 +97,50 @@ public Disposable schedule(Runnable task, long delay, TimeUnit unit) {
        throw ex;  
     }
 ```
-schedule메서드는 현재 리소스에 있는 BondedState를 가져오고, 스케줄러에 작업을 예약한다.
+로직은 간단한데, schedule메서드는 currentResource의 pick메서드를 호출하여 BoundedState를 가져오고, 스케줄러에 작업을 예약한다.
 
+```java
+BoundedState pick() {  
+    for (; ; ) {  
+       if (busyStates == ALL_SHUTDOWN) {  
+          return CREATING;
+       }  
+  
+       int a = get();  
+       if (!idleQueue.isEmpty()) {  
+          BoundedState bs = idleQueue.pollLast();  
+          if (bs != null && bs.markPicked()) {  
+             boolean accepted = setBusy(bs);  
+             if (!accepted) { // shutdown in the meantime  
+                bs.shutdown(true);  
+                return CREATING;  
+             }  
+             return bs;  
+          }  
+       }  
+       else if (a < parent.maxThreads) {  
+          if (compareAndSet(a, a + 1)) {  
+             ScheduledExecutorService s = Schedulers.decorateExecutorService(parent,  
+                parent.createBoundedExecutorService());  
+             if (newState.markPicked()) {  
+                boolean accepted = setBusy(newState);  
+                if (!accepted) { // shutdown in the meantime  
+                   newState.shutdown(true);  
+                   return CREATING;  
+                }  
+                return newState;  
+             }  
+          }  
 
+       } else {  
+          BoundedState s = choseOneBusy();  
+          if (s != null && s.markPicked()) {  
+             return s;  
+          }  
+       }  
+    }  
+}
+```
 
 
 BoundedElasticScheduler내부에 3개의 클래스가 있다. 해당 클래스에 대해 먼저 알아보자.
