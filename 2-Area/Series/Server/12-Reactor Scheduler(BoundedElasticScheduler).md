@@ -1,6 +1,6 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-13T23:29
+date: 2024-04-14T10:48
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
@@ -141,7 +141,10 @@ BoundedState pick() {
     }  
 }
 ```
+pick메서드는 무한 루프를 돌며 사용 가능한 BoundedState를 가져온다
 
+먼저 busyState가 전부 종료되어 있다면 종료상태의 BoundedState를 리턴한다
+- CREATE enum으로 되어있지만, CREATE
 
 BoundedElasticScheduler내부에 3개의 클래스가 있다. 해당 클래스에 대해 먼저 알아보자.
 ### BoundedServices
