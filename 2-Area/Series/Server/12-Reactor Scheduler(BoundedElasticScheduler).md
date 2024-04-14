@@ -1,6 +1,6 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-14T11:28
+date: 2024-04-14T11:35
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
@@ -231,13 +231,43 @@ ensureQueueCapacity메서드에서는 호출하는 메서드가 syncronized 메�
 
 ## 추가 - BoundedElasticScheduler의 inner class
 BoundedElasticScheduler 내부에 4개의 클래스가 있다. 
-내부 클래스들을 알게 되면 BoundedElasticScheduler의 동작과정을 더 쉽게 알 수 있다.
+내부 클래스들을 알게 되면 BoundedElasticScheduler의 동작과정을 더 이해할 수 있다.
+
+먼저 BoundedElasticScheduler의 선언부를 보자
+```java
+final class BoundedElasticScheduler implements Scheduler,  
+    SchedulerState.DisposeAwaiter<BoundedElasticScheduler.BoundedServices>,  
+    Scannable {  
+...
+
+    volatile SchedulerState<BoundedServices> state;  
+    @SuppressWarnings("rawtypes")  
+    static final AtomicReferenceFieldUpdater<BoundedElasticScheduler, SchedulerState> STATE =  
+       AtomicReferenceFieldUpdater.newUpdater(BoundedElasticScheduler.class, SchedulerState.class, "state");
+```
+BoundedElasticScheduler는 final클래스로 상속이 불가능하고,  Scheduler, SchedulerState.DisposeAwaiter,  Scannable 을 구현하는것을 볼 수 있다.
+
+필드로 BoundedServices를 가지고 있는것을 볼 수 있다.
 
 내부 3개클래스는 BoundedServices, BusyStates, BoundedScheduledExecutorService, BoundedState이다.
 ### BoundedServices
 ```java
-static final class BoundedServices extends AtomicInteger
+static final class BoundedServices extends AtomicInteger{
+...
+	final BoundedElasticScheduler parent;
+	final Deque<BoundedState> idleQueue;
+...
+
+BoundedState pick() {  
+...
+
+private BoundedState choseOneBusy() {  
+...
+
+}
 ```
 선언부를 보면, BoundedServices는 AtomicInteger를 상속받은 클래스이다.
 BoundedServices의 값은, pick메서드에서 현재 실행되고 있는 쓰레드의 갯수임을 알 수 있다.
 
+
+확인해야하는 필드는 parent와 idleQueue이다 
