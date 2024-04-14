@@ -1,6 +1,6 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-14T11:08
+date: 2024-04-14T11:18
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
@@ -152,8 +152,79 @@ line 8에서는 idle한 BoundedState가 있는지 확인하고, 있다면 idleQu
 line 19에서는 현재 생성된 쓰레드 수가 최대 생성 가능한 쓰레드보다 작은지 확인 한다. 작다면 새로운 스케줄러 스레드를 생성해 BoundedState를 만들어  리턴함
 
 line 33에서는 busy상태에 있는 BoundedState 중 작업이 가장 적게 할당된 BoundedState를 가져와 리턴한다.
-pick으로 
 
+다시 schedule메서드를 보자
+```java
+@Override  
+public Disposable schedule(Runnable task, long delay, TimeUnit unit) {  
+    //tasks running once will call dispose on the BoundedState, decreasing its usage by one  
+    final BoundedState picked = state.currentResource.pick();  
+    try {  
+       return Schedulers.directSchedule(picked.executor, task, picked, delay, unit);  
+    } catch (RejectedExecutionException ex) {  
+       // ensure to free the BoundedState so it can be reused  
+       picked.dispose();  
+       throw ex;  
+    }
+}
+```
+pick으로 가져온 BoundedState의 executer를 directSchdule의 인자로 넘긴다
+
+```java
+static Disposable directSchedule(ScheduledExecutorService exec,  
+       Runnable task,  
+       @Nullable Disposable parent,  
+       long delay,  
+       TimeUnit unit) {  
+    task = onSchedule(task);  
+    SchedulerTask sr = new SchedulerTask(task, parent);  
+    Future<?> f;  
+    if (delay <= 0L) {  
+       f = exec.submit((Callable<?>) sr);  
+    }  
+    else {  
+       f = exec.schedule((Callable<?>) sr, delay, unit);  
+    }  
+    sr.setFuture(f);  
+  
+    return sr;  
+}
+```
+directSchedule메서드를 살펴보자
+10번, 13번 라인에서 executer에게 작업을 할당한다
+작업을 할당하는 메서드를 살펴보자
+
+```java
+@Override  
+public synchronized <T> Future<T> submit(Callable<T> task) {  
+    ensureQueueCapacity(1);  
+    return super.submit(task);  
+}
+```
+synchronized 메서드이다
+- synchronized 메서드이므로 객체마다 lock이 걸리고, 해당 메서드를 가지고있는 BoundedScheduledExecutorService는 static클래스이므로 해당 메서드는 하나의 프로세스에서 동시에 실행될 수 없다.
+
+ensureQueueCapacity를 살펴보자
+```java
+void ensureQueueCapacity(int taskCount) {  
+    if (queueCapacity == Integer.MAX_VALUE) {  
+       return;  
+    }  
+
+    int queueSize = super.getQueue().size();  
+
+    if ((queueSize + taskCount) > queueCapacity) {  
+       throw Exceptions.failWithRejected(  
+          "Task capacity of bounded elastic scheduler reached while scheduling " + taskCount + " tasks (" + (  
+             queueSize + taskCount) + "/" + queueCapacity + ")");  
+    }  
+}
+```
+위 메서드는 현재 큐의 크기와, 추가된 작업의 갯수의 합이 DEFAULT_BOUNDED_ELASTIC_QUEUESIZE를 넘기는지 확인하고, 넘으면 에러를 리턴하는 로직이다.
+
+
+---
+pick메서드에서 최대 스레드 생성 갯수, ensureQueueCapacity메서드에서 쓰레드 당 최대 작업ㄱ
 
 BoundedElasticScheduler내부에 3개의 클래스가 있다. 해당 클래스에 대해 먼저 알아보자.
 ### BoundedServices
