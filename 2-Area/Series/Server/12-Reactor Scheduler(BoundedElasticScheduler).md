@@ -1,6 +1,6 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-14T21:54
+date: 2024-04-14T22:11
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
@@ -245,10 +245,8 @@ final class BoundedElasticScheduler implements Scheduler,
     static final AtomicReferenceFieldUpdater<BoundedElasticScheduler, SchedulerState> STATE =  
        AtomicReferenceFieldUpdater.newUpdater(BoundedElasticScheduler.class, SchedulerState.class, "state");
 ```
-BoundedElasticScheduler는 final클래스로 상속이 불가능하고,  Scheduler, SchedulerState.DisposeAwaiter,  Scannable 을 구현하는것을 볼 수 있다.
-
-필드로 SchedulerState\<BoundedServices>타입의 변수를 하나 가지고 있다.
-SchedulerState는 스케줄러의 상태를 관리하는 클래스고 BoundedElasticScheduler에서는 BoundedServices로 상태를 관리한다.
+BoundedElasticScheduler는 Scheduler, SchedulerState.DisposeAwaiter, Scannable의 구현체이다.
+필드로 SchedulerState\<BoundedServices> 타입의 필드가 있는데, BoundedServices로 스케줄러의 상태를 관리한다.
 
 ### BoundedServices
 ```java
@@ -268,11 +266,11 @@ private BoundedState choseOneBusy() {
 }
 ```
 선언부를 보면, BoundedServices는 AtomicInteger를 상속받은 클래스이다.
-BoundedServices의 값은, 현재 실행되고 있는 쓰레드의 개수를 의미한다.
+BoundedServices의 Integer 값은, 현재 실행되고 있는 쓰레드의 개수를 의미한다.
 
 parent필드에서는 부모인 BoundedElasticScheduler을 가지고 있다
 idleQueue는 idle 상태인 BoundedState를 가지고 있다.
-busyStates는 BusyStates타입을 가지고 있는데, busy상태인 BoundedState을 가지고 있다.
+busyStates는 BusyStates타입인데, busy상태인 BoundedState을 가지고 있다.
 
 ```java
 static final class BusyStates {  
@@ -285,6 +283,25 @@ static final class BusyStates {
     }  
 }
 ```
-BusyStates에서는 array에 busy상태인 BoundedState을 가지고 있다.
+BusyStates에서는 array 필드에 busy상태인 BoundedState을 가지고 있다.
+
+```java
+static class BoundedState implements Disposable, Scannable { 
+  
+    final BoundedServices parent;  
+    final ScheduledExecutorService executor;  
+  
+    volatile int markCount;  
+  
+    BoundedState(BoundedServices parent, ScheduledExecutorService executor) {  
+       this.parent = parent;  
+       this.executor = executor;  
+    }
+}
+```
+parent필드는 부모인 BoundedService를 가지고 있다.
+executer는 ScheduledExecutorService을 가지고 있는데, 실제 생성자로 들어오는 클래스는 ScheduledExecutorService가 아닌, BoundedScheduledExecutorService을 가진다.
+markCount는 현재 실행하고 있는
+
 
 
