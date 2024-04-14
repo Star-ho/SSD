@@ -1,10 +1,10 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-14T11:18
+date: 2024-04-14T11:28
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
-- reactor-netty에서 디폴트로 제공하는  BoundedElasticScheduler이 어떻게 쓰레드와 작업이 할당되고 제어하는지 알아보려 한다.
+- reactor-netty에서 디폴트로 제공하는  BoundedElasticScheduler이 쓰레드와 작업이 어떻게 제한되는지 알아보려 한다.
 ## Reactor Scheduler
 실제 작업이 실행될 쓰레드를 할당하는 인터페이스이다.
 java reactor에서는 제공하는 여러가지 스케줄러를 제공하는데, BoundedElasticScheduler는 Scheduler의 구현체이다
@@ -224,15 +224,20 @@ void ensureQueueCapacity(int taskCount) {
 
 
 ---
-pick메서드에서 최대 스레드 생성 갯수, ensureQueueCapacity메서드에서 쓰레드 당 최대 작업ㄱ
+pick메서드에서 최대 스레드 생성 갯수, ensureQueueCapacity메서드에서 쓰레드 당 최대 작업갯수를 검증하는 것을 확인할 수 있었다.
+pick메서드에서는 compareAndSet으로 동시성을 제어한다.
+ensureQueueCapacity메서드에서는 호출하는 메서드가 syncronized 메서드로 동시성을 제어한다.
 
-BoundedElasticScheduler내부에 3개의 클래스가 있다. 해당 클래스에 대해 먼저 알아보자.
+
+## 추가 - BoundedElasticScheduler의 inner class
+BoundedElasticScheduler 내부에 4개의 클래스가 있다. 
+내부 클래스들을 알게 되면 BoundedElasticScheduler의 동작과정을 더 쉽게 알 수 있다.
+
+내부 3개클래스는 BoundedServices, BusyStates, BoundedScheduledExecutorService, BoundedState이다.
 ### BoundedServices
 ```java
 static final class BoundedServices extends AtomicInteger
 ```
 선언부를 보면, BoundedServices는 AtomicInteger를 상속받은 클래스이다.
-BoundedServices의 값은, 현재 실행되고 있는 쓰레드의 갯수이다.
+BoundedServices의 값은, pick메서드에서 현재 실행되고 있는 쓰레드의 갯수임을 알 수 있다.
 
-- BoundedState
-- BoundedScheduledExecutorService
