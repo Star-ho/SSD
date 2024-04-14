@@ -1,16 +1,15 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-14T22:11
+date: 2024-04-14T22:20
 ---
 ## 서론
-- Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
-- reactor-netty에서 디폴트로 제공하는  BoundedElasticScheduler이 쓰레드와 작업이 어떻게 제한되는지 알아보려 한다.
+Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하였다.
+reactor-netty에서 디폴트로 제공하는  BoundedElasticScheduler에서 어떻게 쓰레드에 작업이 할당되는지 알아보자
 ## Reactor Scheduler
 실제 작업이 실행될 쓰레드를 할당하는 인터페이스이다.
 java reactor에서는 제공하는 여러가지 스케줄러를 제공하는데, BoundedElasticScheduler는 Scheduler의 구현체이다
-
 ## Schedulers
-subscribeOn, publishOn에는 Schedulers의 정적 메서드를 사용하여 스케줄러를 지정하기에 Schedulers클래스 부터 알아보자
+subscribeOn, publishOn에는 Schedulers의 정적 메서드를 사용하여 스케줄러를 지정하기에 Schedulers클래스부터 알아보자
 
 필드에 대한 설명이다
 ### DEFAULT_POOL_SIZE
@@ -50,8 +49,6 @@ static CachedScheduler cache(AtomicReference<CachedScheduler> reference, String 
     if (reference.compareAndSet(null, s)) {  
        return s;  
     }  
-    //the reference was updated in the meantime with a cached scheduler  
-    //fallback to it and dispose the extraneous one    s._dispose();  
     return reference.get();  
 }
 ```
@@ -62,15 +59,9 @@ cache메서드 간단하다.
 ```java
 class BoundedElasticSchedulerSupplier implements Supplier<Scheduler> {
 
-	static final Logger logger = Loggers.getLogger(BoundedElasticSchedulerSupplier.class);
-
 	@Override
 	public Scheduler get() {
-		if (DEFAULT_BOUNDED_ELASTIC_ON_VIRTUAL_THREADS) {
-			logger.warn(
-					"Virtual Threads support is not available on the given JVM. Falling back to default BoundedElastic setup");
-		}
-
+		...
 		return newBoundedElastic(DEFAULT_BOUNDED_ELASTIC_SIZE,
 				DEFAULT_BOUNDED_ELASTIC_QUEUESIZE,
 				BOUNDED_ELASTIC,
@@ -248,7 +239,7 @@ final class BoundedElasticScheduler implements Scheduler,
 BoundedElasticScheduler는 Scheduler, SchedulerState.DisposeAwaiter, Scannable의 구현체이다.
 필드로 SchedulerState\<BoundedServices> 타입의 필드가 있는데, BoundedServices로 스케줄러의 상태를 관리한다.
 
-### BoundedServices
+
 ```java
 static final class BoundedServices extends AtomicInteger{
 ...
@@ -260,8 +251,6 @@ static final class BoundedServices extends AtomicInteger{
 BoundedState pick() {  
 ...
 
-private BoundedState choseOneBusy() {  
-...
 
 }
 ```
@@ -271,6 +260,7 @@ BoundedServices의 Integer 값은, 현재 실행되고 있는 쓰레드의 개�
 parent필드에서는 부모인 BoundedElasticScheduler을 가지고 있다
 idleQueue는 idle 상태인 BoundedState를 가지고 있다.
 busyStates는 BusyStates타입인데, busy상태인 BoundedState을 가지고 있다.
+pick메서드는 앞서 설명한 바와 같이, 작업을 실행할 BoundedState을 결정한다.
 
 ```java
 static final class BusyStates {  
@@ -301,7 +291,40 @@ static class BoundedState implements Disposable, Scannable {
 ```
 parent필드는 부모인 BoundedService를 가지고 있다.
 executer는 ScheduledExecutorService을 가지고 있는데, 실제 생성자로 들어오는 클래스는 ScheduledExecutorService가 아닌, BoundedScheduledExecutorService을 가진다.
-markCount는 현재 실행하고 있는
+markCount는 executer가 실행하고 있는 작업의 개수를 나타낸다.
 
 
+```java
+static final class BoundedScheduledExecutorService extends ScheduledThreadPoolExecutor  
+    implements Scannable{
+	
+	final int queueCapacity;
+
+	void ensureQueueCapacity(int taskCount) {  
+	    if (queueCapacity == Integer.MAX_VALUE) {  
+	       return;  
+	    }  
+
+	    int queueSize = super.getQueue().size();  
+
+	    if ((queueSize + taskCount) > queueCapacity) {  
+	       throw Exceptions.failWithRejected(  
+	          "Task capacity of bounded elastic scheduler reached while scheduling " + taskCount + " tasks (" + (  
+	             queueSize + taskCount) + "/" + queueCapacity + ")");  
+	    }  
+	}
+	
+	@Override  
+	public synchronized ScheduledFuture<?> schedule(  
+	    Runnable command,  
+	    long delay,  
+	    TimeUnit unit) {  
+	    ensureQueueCapacity(1);  
+	    return super.schedule(command, delay, unit);  
+	}
+}
+```
+BoundedScheduledExecutorServices는 ScheduledThreadPoolExecutor구현체이다
+ScheduledThreadPoolExecutor와 큰 차이라면 queueCapacity필드와 ensureQueueCapacity메서드를 가지고 있다는 것이다.
+schedule을 할때마다 현재 큐사이즈+새 태스크 개수를 확인해서 queueCapacity를 넘으면 에러를 발생시킨다.
 
