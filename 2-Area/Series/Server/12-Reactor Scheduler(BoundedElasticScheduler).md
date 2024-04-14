@@ -1,6 +1,6 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-14T10:48
+date: 2024-04-14T10:58
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
@@ -102,11 +102,11 @@ public Disposable schedule(Runnable task, long delay, TimeUnit unit) {
 ```java
 BoundedState pick() {  
     for (; ; ) {  
-       if (busyStates == ALL_SHUTDOWN) {  
+       if (busyStates == ALL_SHUTDOWN) {
           return CREATING;
        }  
   
-       int a = get();  
+       int a = get(); 
        if (!idleQueue.isEmpty()) {  
           BoundedState bs = idleQueue.pollLast();  
           if (bs != null && bs.markPicked()) {  
@@ -143,8 +143,13 @@ BoundedState pick() {
 ```
 pick메서드는 무한 루프를 돌며 사용 가능한 BoundedState를 가져온다
 
-먼저 busyState가 전부 종료되어 있다면 종료상태의 BoundedState를 리턴한다
-- CREATE enum으로 되어있지만, CREATE
+line 3에서 busyState가 전부 종료되어 있다면 종료상태의 BoundedState를 리턴한다
+- CREATE enum으로 되어있지만, CREATE는 기본 실행기로서 종료와 같은 상태이므로 종료된 BoundedState를 리턴함
+- 종료된 상태의 executer가 전달되기에 작업은 실행되지 않음
+
+line 8에서는 idle한 BoundedState가 있는지 확인하고, 있다면 idleQueue에서 BoundedState를 하나 꺼내 리턴함
+
+line 19에서는 현재 생성된 쓰레드 수가 최대 생성 가능한 쓰레드보다 작은지 확인 후 새로운 스케줄러 스
 
 BoundedElasticScheduler내부에 3개의 클래스가 있다. 해당 클래스에 대해 먼저 알아보자.
 ### BoundedServices
