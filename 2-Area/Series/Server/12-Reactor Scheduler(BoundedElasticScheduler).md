@@ -1,13 +1,13 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-14T10:58
+date: 2024-04-14T11:08
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
-
+- reactor-netty에서 디폴트로 제공하는  BoundedElasticScheduler이 어떻게 쓰레드와 작업이 할당되고 제어하는지 알아보려 한다.
 ## Reactor Scheduler
-실제 작업이 실행될 쓰레드를 할당하는 클래스이다.
-java reactor에서는 제공하는 여러가지 스케줄러를 제공하는데, 이 중 reactor-netty에서 디폴트로 제공하는  BoundedElasticScheduler에 대해 집중적으로 알아볼 것이다
+실제 작업이 실행될 쓰레드를 할당하는 인터페이스이다.
+java reactor에서는 제공하는 여러가지 스케줄러를 제공하는데, BoundedElasticScheduler는 Scheduler의 구현체이다
 
 ## Schedulers
 subscribeOn, publishOn에는 Schedulers의 정적 메서드를 사용하여 스케줄러를 지정하기에 Schedulers클래스 부터 알아보자
@@ -149,7 +149,11 @@ line 3에서 busyState가 전부 종료되어 있다면 종료상태의 BoundedS
 
 line 8에서는 idle한 BoundedState가 있는지 확인하고, 있다면 idleQueue에서 BoundedState를 하나 꺼내 리턴함
 
-line 19에서는 현재 생성된 쓰레드 수가 최대 생성 가능한 쓰레드보다 작은지 확인 후 새로운 스케줄러 스
+line 19에서는 현재 생성된 쓰레드 수가 최대 생성 가능한 쓰레드보다 작은지 확인 한다. 작다면 새로운 스케줄러 스레드를 생성해 BoundedState를 만들어  리턴함
+
+line 33에서는 busy상태에 있는 BoundedState 중 작업이 가장 적게 할당된 BoundedState를 가져와 리턴한다.
+pick으로 
+
 
 BoundedElasticScheduler내부에 3개의 클래스가 있다. 해당 클래스에 대해 먼저 알아보자.
 ### BoundedServices
