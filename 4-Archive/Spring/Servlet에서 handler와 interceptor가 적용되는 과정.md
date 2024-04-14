@@ -1,6 +1,6 @@
 ---
 created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-14T21:52
 ---
 Spring handler에 대해 공부하던 중, 실제로 어떻게 동작하는지 궁금하여 알아보았습니다.
 
@@ -111,7 +111,7 @@ protected HandlerMethod getHandlerInternal(HttpServletRequest request) throws Ex
 path와 request를 가지고 HandlerMethod를 확인합니다.
 - getMappingsByDirectPath메서드를 사용하여 path와 직접 되는 매핑을 확인하고 matches list에 넣습니다
 	- 없다면 mapping registry에서 모든 매핑정보를 가져와 확인합니다.
-- 매핑후 matches list의 갯수에 따라
+- 매핑후 matches list의 개수에 따라
 	- 1개를 초과한다면정렬을 하고, 첫번째와 두번째 mapping의 우선순위가 없다면 IllegalStateException를 리턴합니다
 	- 없다면 null을 리턴합니다
 - 1개만 존재한다면 매칭된 핸들러 메소드를 리턴합니다

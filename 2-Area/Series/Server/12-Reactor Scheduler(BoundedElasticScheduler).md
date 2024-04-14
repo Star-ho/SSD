@@ -1,6 +1,6 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-14T21:49
+date: 2024-04-14T21:54
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
@@ -15,11 +15,11 @@ subscribeOn, publishOn에는 Schedulers의 정적 메서드를 사용하여 스�
 필드에 대한 설명이다
 ### DEFAULT_POOL_SIZE
 - 기본 풀 사이즈로, ParallelScheduler 사용 시쓰레드 수를 지정하는 필드이다.
-- ```reactor.schedulers.defaultPoolSize``` 설정으로 값을 지정할 수 있으며 디폴트 값은 시스템의 CPU갯수이다
+- ```reactor.schedulers.defaultPoolSize``` 설정으로 값을 지정할 수 있으며 디폴트 값은 시스템의 CPU개수이다
 
 ### DEFAULT_BOUNDED_ELASTIC_SIZE
 - BoundedElasticScheduler에서 사용하는 쓰레드 풀 사이즈를 지정하는 필드이다.
-- `reactor.schedulers.defaultBoundedElasticSize`로 설정할 수 있으며 디폴트는 시스템의 CPU갯수 \* 10개이다
+- `reactor.schedulers.defaultBoundedElasticSize`로 설정할 수 있으며 디폴트는 시스템의 CPU개수 \* 10개이다
 
 ### DEFAULT_BOUNDED_ELASTIC_QUEUESIZE
 - BoundedElasticScheduler에서 쓰레드 별 큐사이즈를 지정하는 필드이다
@@ -220,11 +220,11 @@ void ensureQueueCapacity(int taskCount) {
     }  
 }
 ```
-위 메서드는 현재 큐의 크기와, 추가된 작업의 갯수의 합이 DEFAULT_BOUNDED_ELASTIC_QUEUESIZE를 넘기는지 확인하고, 넘으면 에러를 리턴하는 로직이다.
+위 메서드는 현재 큐의 크기와, 추가된 작업의 개수의 합이 DEFAULT_BOUNDED_ELASTIC_QUEUESIZE를 넘기는지 확인하고, 넘으면 에러를 리턴하는 로직이다.
 
 
 ---
-pick메서드에서 최대 스레드 생성 갯수, ensureQueueCapacity메서드에서 쓰레드 당 최대 작업갯수를 검증하는 것을 확인할 수 있었다.
+pick메서드에서 최대 스레드 생성 개수, ensureQueueCapacity메서드에서 쓰레드 당 최대 작업개수를 검증하는 것을 확인할 수 있었다.
 pick메서드에서는 compareAndSet으로 동시성을 제어한다.
 ensureQueueCapacity메서드에서는 호출하는 메서드가 syncronized 메서드로 동시성을 제어한다.
 
@@ -268,7 +268,7 @@ private BoundedState choseOneBusy() {
 }
 ```
 선언부를 보면, BoundedServices는 AtomicInteger를 상속받은 클래스이다.
-BoundedServices의 값은, 현재 실행되고 있는 쓰레드의 갯수를 의미한다.
+BoundedServices의 값은, 현재 실행되고 있는 쓰레드의 개수를 의미한다.
 
 parent필드에서는 부모인 BoundedElasticScheduler을 가지고 있다
 idleQueue는 idle 상태인 BoundedState를 가지고 있다.
@@ -285,4 +285,6 @@ static final class BusyStates {
     }  
 }
 ```
+BusyStates에서는 array에 busy상태인 BoundedState을 가지고 있다.
+
 

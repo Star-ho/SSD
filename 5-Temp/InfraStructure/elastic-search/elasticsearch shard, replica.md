@@ -1,6 +1,6 @@
 ---
 created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-14T21:52
 ---
 node 
 - elastic search 인스턴스
@@ -12,7 +12,7 @@ index
 shard 
 - 인덱스의 모든 데이터중 일부만 보관
 	- shard에 모든 데이터가 들어가지만, 하나의 shard에 다 들어가는게 아닌, 여러 shard에 나누어져 들어감
-- 갯수를 수정하려면 reindex해야함
+- 개수를 수정하려면 reindex해야함
 - shard는 Lucene의 싱글 인스턴스이며 그 자체로 완벽한 검색엔진임
 - 디폴트로 ??
 - primary shard와 replica shard가 존재함

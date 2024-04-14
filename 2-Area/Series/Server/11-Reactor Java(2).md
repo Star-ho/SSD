@@ -1,6 +1,6 @@
 ---
 created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-14T21:52
 ---
 # Threading and Scheduler
 - Flux나 Mono를 얻는다고 실행되지 않음
@@ -24,7 +24,7 @@ date: 2024-04-13T22:56
 	- [링크](https://projectreactor.io/docs/core/release/reference/#faq.wrap-blocking)참고
 ### Schedulers.parallel()
 - 병렬 작업에 맞게 고정된 워커풀을 생성
-- CPU Core갯수만큼 워커풀을 생성함
+- CPU Core개수만큼 워커풀을 생성함
 ### 추가
 - `Schedulers.fromExecutorService(ExecutorService)`를 사용하여 ExecutorService를 Scheduler로 사용할 수 있음
 - `newXXX`를 사용하여 다양한 스케줄러 타입의 인스턴스를 생성할 수 있음

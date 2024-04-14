@@ -1,6 +1,6 @@
 ---
 created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-14T21:52
 ---
 
 ## Serial GC
@@ -15,7 +15,7 @@ date: 2024-04-13T22:56
 - 사용하는 알고리즘은 Serial GC와 같으나, 여러 스레드를 사용함
 - CPU코어가 1개 이상일때 많을때 유용함
 - CPU코어가 N개일때 N개의 garbage Collector를 사용
-	- 옵션으로 garbage Collector갯수 설정 가능
+	- 옵션으로 garbage Collector개수 설정 가능
 - CPU코어가 1개인 환경에서는 Parallel GC를 사용하더라도 해당 Serial GC가 사용됨
 
 - ParallelGC는 2가지 가 있음

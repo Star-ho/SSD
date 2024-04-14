@@ -1,6 +1,6 @@
 ---
 created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-14T21:52
 ---
 - dispatcher의 사전적 정의
 	- 사람이나 차량, 특히 긴급 차량을 필요한 곳으로 보낼 책임이 있는 사람
@@ -14,8 +14,8 @@ date: 2024-04-13T22:56
 ## Default dispatcher
 - 코루틴에서 아무것도 설정하지 않는다면 기본으로 제공되는 dispatcher
 - CPU-intensive한 작업을 실행하기 위해 디자인됨
-- 기본 thread갯수는 최소 2개, 최대 cpu core수만큼 생성됨
-	- 이론상 cpu-intensive한 작업을 하고, blocking하지 않는다고 가정하면 최적의 갯수임
+- 기본 thread개수는 최소 2개, 최대 cpu core수만큼 생성됨
+	- 이론상 cpu-intensive한 작업을 하고, blocking하지 않는다고 가정하면 최적의 개수임
 
 > **_limitedParallelism_**
 > 하나의 무거운 코루틴에서 모든 DefaultDispatcher를 사용하면 다른 코루틴에서 사용할 DefaultDispatcher가 부족할 수 있음
@@ -24,7 +24,7 @@ date: 2024-04-13T22:56
 ## IO Dispatcher
 - 파일 읽기/쓰기, 네트워크 요청과 같은 I/O작업에 사용하기 위해 만들어짐
 - 코어의 수에 따라 다르지만, 최대 64개 thread를 생성
-	- thread 갯수가 무제한이라면 쓰레드를 계속 생산할것이고, 쓰레드를 생성/삭제하는 것도 비용이므로 적절한 thread 수를 관리해야함
+	- thread 개수가 무제한이라면 쓰레드를 계속 생산할것이고, 쓰레드를 생성/삭제하는 것도 비용이므로 적절한 thread 수를 관리해야함
 	- 또한 thread가 무한정 생성하면 Out-Of-Memory가 발생
 
 ### Default Dispatcher와 IO Dispatcher를 함께쓴다면?
@@ -41,7 +41,7 @@ suspend fun main(): Unit = coroutineScope {
 - 풀을 공유하기에 Default Dispather안에서 IO Dispatcher를 사용한다고 redispatching이 발생하지 않음
 - 하지만 서로의 limit은 공유하지않음
 	- Default Dispather안에서 IO Dispatcher로 바꼈을때, thread는 변경되지 않지만, 서로가 서로를 고갈시키지 않기 위해, IO Dispathcer의 thread로 count함
-- limit을 공유하지 않으므로, Default Dispather과 IO Dispatcher를 동시에 최대로 사용했을떄, 8코어 환경에서는 (Default Dispather의 갯수(8) + IO Dispatcher(64)) 쓰레드풀에 총 72개의 쓰레드가 관리됨
+- limit을 공유하지 않으므로, Default Dispather과 IO Dispatcher를 동시에 최대로 사용했을떄, 8코어 환경에서는 (Default Dispather의 개수(8) + IO Dispatcher(64)) 쓰레드풀에 총 72개의 쓰레드가 관리됨
 
 ### IO Dispatcher에서의 limitedParallelism
 - IO Dispatcher에서 limitedParallelism는 다른 Dispatcher와 다르게 동작함
@@ -87,7 +87,7 @@ suspend fun printCoroutinesTime(
 ![center|400](real-resource-image/Pasted%20image%2020240203163338.png)
 
 - IO Dispatcher에서 limitedParallelism을 사용하면 특정 작업을 위한 새로운 쓰레드 풀이 생성됨
-- Default Dispatcher에서는 limitedParallelism사용시 기존 쓰레드풀 내에서 특정작업을 위한 쓰레드갯수를 지정함
+- Default Dispatcher에서는 limitedParallelism사용시 기존 쓰레드풀 내에서 특정작업을 위한 쓰레드개수를 지정함
 
 - 쓰레드에 대한 더 세밀한 조정을 위해 asCoroutineDispatcher함수로 dispatcher를 지정할 수 있음
 ```kotlin
