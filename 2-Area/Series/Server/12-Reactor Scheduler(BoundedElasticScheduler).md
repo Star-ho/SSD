@@ -1,6 +1,6 @@
 ---
 created: 2024-04-13T22:11:25
-date: 2024-04-14T11:35
+date: 2024-04-14T21:30
 ---
 ## 서론
 - Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하려한다.
@@ -247,9 +247,9 @@ final class BoundedElasticScheduler implements Scheduler,
 ```
 BoundedElasticScheduler는 final클래스로 상속이 불가능하고,  Scheduler, SchedulerState.DisposeAwaiter,  Scannable 을 구현하는것을 볼 수 있다.
 
-필드로 BoundedServices를 가지고 있는것을 볼 수 있다.
+필드로 SchedulerState\<BoundedServices>타입의 변수를 하나 가지고 있다.
+SchedulerState는 스케줄러의 상태를 관리하는 클래스고 BoundedElasticScheduler에서는 BoundedServices로 상태를 관리한다.
 
-내부 3개클래스는 BoundedServices, BusyStates, BoundedScheduledExecutorService, BoundedState이다.
 ### BoundedServices
 ```java
 static final class BoundedServices extends AtomicInteger{
@@ -267,7 +267,8 @@ private BoundedState choseOneBusy() {
 }
 ```
 선언부를 보면, BoundedServices는 AtomicInteger를 상속받은 클래스이다.
-BoundedServices의 값은, pick메서드에서 현재 실행되고 있는 쓰레드의 갯수임을 알 수 있다.
+BoundedServices의 값은, 현재 실행되고 있는 쓰레드의 갯수를 의미한다.
 
-
+parent필드에서는 부모인 BoundedElasticScheduler을 관리하고, 
 확인해야하는 필드는 parent와 idleQueue이다 
+
