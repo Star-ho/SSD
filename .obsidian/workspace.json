@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/가상쓰레드 vs 리액터 vs 코루틴.md",
+                "file": "2-Area/Series/Server/가상스레드 vs 리액터 vs 코루틴.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/가상쓰레드 vs 리액터 vs 코루틴.md",
+                "file": "2-Area/Series/Server/가상스레드 vs 리액터 vs 코루틴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/가상쓰레드 vs 리액터 vs 코루틴.md",
+                "file": "2-Area/Series/Server/가상스레드 vs 리액터 vs 코루틴.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/가상쓰레드 vs 리액터 vs 코루틴.md"
+                "file": "2-Area/Series/Server/가상스레드 vs 리액터 vs 코루틴.md"
               }
             }
           }
@@ -184,7 +184,7 @@
     "2-Area/Series/Server/11-Reactor Java(2).md",
     "2-Area/Series/Server/10-Reactor Java(1).md",
     "2-Area/Series/Server/9-Reactive Streams.md",
-    "2-Area/Series/Server/가상쓰레드 vs 리액터 vs 코루틴.md",
+    "2-Area/Series/Server/가상스레드 vs 리액터 vs 코루틴.md",
     "2-Area/Series/Server/999-Reactor netty.md",
     "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
     "2-Area/Software-Design/Aggregate.md",

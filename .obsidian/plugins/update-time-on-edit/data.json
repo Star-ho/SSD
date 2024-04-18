@@ -885,6 +885,6 @@
     "2-Area/Series/Server/13-Virtual Thread.md": "659ff512a7aa4f55165244cc1da0c0b7b699ffaa8dcb13ee527cac8a5f980fa6",
     "5-Temp/Spring/spring entity manager 동시성 문제.md": "3a0834b84144c1057c857c1558d35af9945a3e34ecbdf7fe8a31a2ca8d2a2903",
     "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md": "d82b5c4505ffbcab6791521913ed4fb78ce3117aa13dafde3a25c29e97628b4c",
-    "2-Area/Series/Server/가상쓰레드 vs 리액터 vs 코루틴.md": "1c55944eeef29dfbb3490dd87ebef2569f3a22ff3074e7b6e21d1ba0d4831cd6"
+    "2-Area/Series/Server/가상스레드 vs 리액터 vs 코루틴.md": "5af44af219537c272ec4e13847afda7ee8e8d59b5d01673285417a1a9f3ff938"
   }
 }
