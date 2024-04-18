@@ -1,6 +1,6 @@
 ---
 created: 2024-03-31T22:41:00
-date: 2024-04-18T23:27
+date: 2024-04-18T23:36
 ---
 가상쓰레드, 리액터, 코루틴 이 세가지 프로젝트는 모두 Blocking I/O로 인한 병목을 줄이기 위해 nonBlocking I/O를 사용할 목적으로 쓰이고 있습니다.
 
@@ -32,4 +32,7 @@ date: 2024-04-18T23:27
 `Enable existing code that uses the java.lang.Thread API to adopt virtual threads with minimal change.`
 `Enable easy troubleshooting, debugging, and profiling of virtual threads with existing JDK tools.`
 
-위에 기술한 내용 뿐 아니라 jep-444의 내용을 보면, 가상스레드는 비동기 제공에 치우쳐진게 아닌, 현재 서버 애플리케이션에서 작성하는 요청당 쓰레드모
+가상스레드의 목표는 `최소한의 변경으로, 현재 서버 애플리케이션에서 작성하는 요청당 스레드 모델의 최적화된 하드웨어 사용`이라는 것을 알 수 있습니다.
+
+
+
