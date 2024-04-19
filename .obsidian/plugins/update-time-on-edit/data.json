@@ -277,7 +277,7 @@
     "5-Temp/0-이직자료/과제 만들때.md": "72d259cff7428d70078a3d954aeca7b25ba4f1c2b5f5f71da79ffb7a626e3584",
     "5-Temp/0-이직자료/모든 회사에 어필 할 수 있는 지원 동기와 목표설정 방법.md": "ae2e837cd60ce2d2d9f0af0eeba34b7a93fa79e64a4b7106d856d8cf89d0c619",
     "5-Temp/0-이직자료/신기한 회사.md": "6679bd2f21ec0ef8f89fbd9f90eedebb98c0e25dd70a3a985a5db281ebea132a",
-    "5-Temp/0-이직자료/f-lab 이력서 모음.md": "a9568f0941fc84aa6f2b9bd9c88e9ebe2d15a297320e282d20c3017404402408",
+    "5-Temp/0-이직자료/f-lab 이력서 모음.md": "db8900f112414bcaff03dab97004e1377c5a87e65ab30ff5fdf3fe12d09e1729",
     "5-Temp/0-이직자료/세션 vs 토큰.md": "6474e3429896a5ba5701205c290a3af3ab37b93a24648818c15c4e19f9072c39",
     "5-Temp/0-이직자료/지원동기 작성시 팁.md": "ec951813f191b362fd25197f53116d3269c9723ae43254f47b905440ad0708ec",
     "5-Temp/0-이직자료/글로벌 빅태크 면접경험.md": "5db9511e5afed558f1d159eaa568c3bcc6a4dc55ff96116f4568db08311087d4",
@@ -395,7 +395,7 @@
     "5-Temp/z-etc/요청이 처리되는 과정 latency계산.md": "9887ade8b627e987375888f5205c26dd22727c73cac0d20e493860299941b770",
     "5-Temp/z-etc/msa testing 전략.md": "157e736075ec028c44da14cb549840c32cb22255adbaefd2c9ce6de3f362c682",
     "5-Temp/z-etc/linux service 만들기 관련 글정리.md": "4d851afe2115d6e1d65b503eb2e8591b67c600ac9bd4d826f85832c8fcc096d5",
-    "5-Temp/z-etc/msa.md": "f37ccaaeec93a21248a5391abe4163eb3e9e1c0c963350c231321aef1084b119",
+    "5-Temp/z-etc/msa.md": "03da7fe91f635c22fd1c8c7920ff38ad54846dfa8f16755bc2fba6fb8bdd9204",
     "5-Temp/z-etc/커밋메시지.md": "c2e9cb640a85e801f9707a089bcb0d29f654883ab7bc702c9d1d2b088df1984c",
     "5-Temp/z-etc/카니코.md": "44c8652633478d0b1f1a9799ef3b21458b08f21ba0a4cced0605bedaa8007b87",
     "5-Temp/z-etc/톰캣 쓰레드.md": "ac3151a29150d83aea4ec268909fa49184636344fe66297c9c1973eadab0b07a",
@@ -883,6 +883,10 @@
     "5-Temp/Spring/spring entity manager 동시성 문제.md": "3a0834b84144c1057c857c1558d35af9945a3e34ecbdf7fe8a31a2ca8d2a2903",
     "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md": "d82b5c4505ffbcab6791521913ed4fb78ce3117aa13dafde3a25c29e97628b4c",
     "0-Blog/1-Server/가상스레드 vs 리액티브 스트림즈 vs 코루틴.md": "8a1a3c63a44aeb948378572fa476fe92d948e2a7dc204da6fb8bc57c74307993",
-    "2-Area/Series/Server/13 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md": "a0b6d64297de2f11555773073a9686d5281d4f9dfd10ec08f2afaf3a7487af27"
+    "2-Area/Series/Server/13 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md": "a0b6d64297de2f11555773073a9686d5281d4f9dfd10ec08f2afaf3a7487af27",
+    "5-Temp/Database/mysql 저장 글자수.md": "c50205e4b78ed7b52c714605e62119e51bcd1f352fc402fd136d071e8f9e5af1",
+    "5-Temp/Softeware Architecture/msa 인증 구현.md": "177b439de7fa8bc13a6cefd3cf6efa0cfcebefeded189d982e287a37e5284d9e",
+    "5-Temp/0-이직자료/내 장점.md": "8b678cb556efda340ba8307c760b12df1ff73b764e0ab2d8d60b3c27bf5b808c",
+    "5-Temp/Softeware Architecture/replication vs clustering.md": "f4470213a44fab9d9b4c703374e784aed6f02d847ff2c5a78272f16e74aab508"
   }
 }

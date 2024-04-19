@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "89444b679693f26d",
+        "id": "ca11a780487fce21",
         "type": "tabs",
         "children": [
           {
-            "id": "991160a0349e5071",
+            "id": "0e22a59c8cdbd4ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/Softeware Architecture/replication vs clustering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "논리적으로 문제없을거 같은데요오",
+                "query": "이력서",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5-Temp/Softeware Architecture/replication vs clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5-Temp/Softeware Architecture/replication vs clustering.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5-Temp/Softeware Architecture/replication vs clustering.md"
+              }
             }
           }
         ],
@@ -171,8 +178,20 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
+    "5-Temp/0-이직자료/f-lab 이력서 모음.md",
+    "5-Temp/Softeware Architecture/replication vs clustering.md",
+    "5-Temp/Database/로그.md",
+    "5-Temp/Database/메세지큐, 데이터베이스 초, 분당 최대 쓰기 갯수.md",
+    "5-Temp/Database/b tree b+ tree.md",
+    "5-Temp/0-이직자료/내 장점.md",
+    "5-Temp/Computer Science/Network/spdy.md",
+    "5-Temp/Softeware Architecture/msa 인증 구현.md",
+    "5-Temp/Database/mysql 저장 글자수.md",
+    "5-Temp/z-etc/msa.md",
+    "5-Temp/Softeware Architecture/msa 의 비용.md",
+    "5-Temp/Softeware Architecture/Msa read 문제.md",
     "0-Blog/1-Server/10-Reactor Java(1).md",
     "0-Blog/1-Server/9-Reactive Streams.md",
     "0-Blog/2-Concurrency/2-Semaphore.md",
@@ -187,20 +206,8 @@
     "0-Blog/1-Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "2-Area/Series/Server/999-webflux 관련.md",
     "2-Area/Series/Server/11-Reactor Java(2).md",
-    "2-Area/Series/Server/10-Reactor Java(1).md",
-    "2-Area/Series/Server/9-Reactive Streams.md",
-    "2-Area/Series/Server/999-Reactor netty.md",
-    "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
-    "2-Area/Software-Design/Aggregate.md",
-    "2-Area/Software-Design/Aggregate 생명주기(Factory, Repository).md",
-    "2-Area/Software-Design/협력, 책임, 역할.md",
-    "2-Area/Series/Server/8-Stream Processing.md",
-    "2-Area/Series/Server/7-Reactive Manifesto.md",
-    "4-Archive/Testing/Test Double.md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
-    "4-Archive/JVM/kotlin vs java.md",
-    "4-Archive/JVM/Bazel.md",
     "real-resource-image/Pasted image 20240409223209.png",
     "real-resource-image/Pasted image 20240331211605.png",
     "real-resource-image/Pasted image 20240331144001.png",
