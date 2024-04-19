@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
+                "file": "0-Blog/JVM/Concurrent/2-Semaphore.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
+                "file": "0-Blog/JVM/Concurrent/2-Semaphore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
+                "file": "0-Blog/JVM/Concurrent/2-Semaphore.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/가상스레드 vs 리액티브 스트림즈 vs 코루틴.md"
+                "file": "0-Blog/JVM/Concurrent/2-Semaphore.md"
               }
             }
           }
@@ -180,11 +180,17 @@
   },
   "active": "f1ab6ce30c14305a",
   "lastOpenFiles": [
+    "0-Blog/3-coroutine/Coroutine And Reactor Java.md",
+    "0-Blog/3-coroutine/vs thread.md",
+    "0-Blog/1-Server/가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
+    "0-Blog/1-Server/12-Virtual Thread.md",
+    "2-Area/Series/Server/가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
+    "0-Blog/1-Server/999-webflux 관련.md",
+    "0-Blog/1-Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
     "2-Area/Series/Server/999-webflux 관련.md",
     "2-Area/Series/Server/11-Reactor Java(2).md",
     "2-Area/Series/Server/10-Reactor Java(1).md",
     "2-Area/Series/Server/9-Reactive Streams.md",
-    "2-Area/Series/Server/가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
     "2-Area/Series/Server/999-Reactor netty.md",
     "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
     "2-Area/Software-Design/Aggregate.md",
@@ -203,12 +209,6 @@
     "real-resource-image/Pasted image 20240409223209.png",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
     "5-Temp/00사업아이템/한국에서 개발하는 개발자들의 용어 통일 사전 만들기.md",
-    "5-Temp/00사업아이템/방송하는 사람들 통계내주는거.md",
-    "5-Temp/00사업아이템/ktx조회 및 알림.md",
-    "5-Temp/00사업아이템/protobuf json change 페이지.md",
-    "5-Temp/00사업아이템/팩스보내는 어플.md",
-    "5-Temp/00사업아이템/창업시.md",
-    "5-Temp/00사업아이템/증권 관심목록.md",
     "real-resource-image/Pasted image 20240331211605.png",
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",
