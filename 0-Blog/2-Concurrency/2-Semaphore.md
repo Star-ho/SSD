@@ -1,6 +1,6 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-19T22:58
+created: 2024-03-31T22:41
+date: 2024-04-19T23:05
 ---
 - 임계영역을 보호하는 방법
 - 여러 스레드의 임계영역에 대한 엑세스를 제어
@@ -12,7 +12,6 @@ date: 2024-04-19T22:58
 - 키가 2개 있어도 화장실 이용가능
 - but, 어느 화장실 칸이 비었는지 모르기에 추가적인 정보가 더 필요함
 - [추가적인 정보가 궁금하다면 여기](https://barrgroup.com/embedded-systems/how-to/rtos-mutex-semaphore)
-
 
 [식사하는 철학자들 문제](https://ko.wikipedia.org/wiki/%EC%8B%9D%EC%82%AC%ED%95%98%EB%8A%94_%EC%B2%A0%ED%95%99%EC%9E%90%EB%93%A4_%EB%AC%B8%EC%A0%9C)
 https://stackoverflow.com/a/2332868/22483906

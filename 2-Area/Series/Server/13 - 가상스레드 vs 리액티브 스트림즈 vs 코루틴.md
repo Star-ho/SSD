@@ -1,6 +1,6 @@
 ---
 created: 2024-03-31T22:41:00
-date: 2024-04-19T22:54
+date: 2024-04-19T23:02
 ---
 가상쓰레드, 리액티브 스트림즈, 코루틴 이 세가지 프로젝트는 모두 Blocking I/O로 인한 병목을 줄이기 위해 nonBlocking I/O를 사용할 목적으로 쓰이고 있습니다.
 
@@ -57,5 +57,8 @@ coroutine에서도 가상스레드를 지원하지만, Coroutine 또한 코드�
 개인적으로 리액티브 스트림즈 구현체인 리액터를 사용하면서 어려운점이 많았기에 얼른 가상스레드를 사용하고 싶다.
 하지만 가상스레드가 나왔지만, 데이터베이스 드라이버 같은 외부 라이브러리의 수정이 완성되지 않아 업무 프로젝트에는 사용하기 어려운점이 아쉽다.
 
-
+https://www.reactive-streams.org/
+https://openjdk.org/jeps/444
+https://github.com/Kotlin/KEEP/blob/master/proposals/coroutines.md
+https://blog.honeybomb.kr/9
 https://perfectacle.github.io/2023/07/10/java-virtual-thread-vs-kotlin-coroutine/
