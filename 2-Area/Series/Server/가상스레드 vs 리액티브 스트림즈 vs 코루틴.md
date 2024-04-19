@@ -1,14 +1,13 @@
 ---
 created: 2024-03-31T22:41:00
-date: 2024-04-19T22:29
+date: 2024-04-19T22:40
 ---
-가상쓰레드, 리액터, 코루틴 이 세가지 프로젝트는 모두 Blocking I/O로 인한 병목을 줄이기 위해 nonBlocking I/O를 사용할 목적으로 쓰이고 있습니다.
+가상쓰레드, 리액티브 스트림즈, 코루틴 이 세가지 프로젝트는 모두 Blocking I/O로 인한 병목을 줄이기 위해 nonBlocking I/O를 사용할 목적으로 쓰이고 있습니다.
 
-기존에는 리액터, 코루틴으로 nonBlocking I/O를 사용했다면, 작년 가상쓰레드가 나온 이후, 과연 어떻게될 지에 대해 개인적인 의견 및 정보들을 작성하려 합니다.
+기존에는 리액티브 스트림즈, 코루틴으로 nonBlocking I/O를 사용했다면, 작년 가상쓰레드가 나온 이후, 과연 어떻게될 지에 대해 개인적인 의견 및 정보들을 작성하려 합니다.
 
 우선 세가지 프로젝트의 목표에 대해 이야기 하려합니다.
-## [리액터](https://www.reactive-streams.org/)
-> 리액터는 리액티브 스트림즈의 구현체이기 떄문에 리액티브 스트림즈의 목표를 가져왔습니다
+## [리액티브 스트림즈](https://www.reactive-streams.org/)
 
 `The main goal of Reactive Streams is to govern the exchange of stream data across an asynchronous boundary—think passing elements on to another thread or thread-pool—while ensuring that the receiving side is not forced to buffer arbitrary amounts of data. In other words, back pressure is an integral part of this model in order to allow the queues which mediate between threads to be bounded. The benefits of asynchronous processing would be negated if the communication of back pressure were synchronous (see also the [Reactive Manifesto](http://reactivemanifesto.org/)), therefore care has to be taken to mandate fully non-blocking and asynchronous behavior of all aspects of a Reactive Streams implementation.`
 
@@ -16,7 +15,7 @@ date: 2024-04-19T22:29
 `비동기 뿐만이 아닌, 쓰레드간 element들을 교환하여 백프레셔를 지원하여 수신측에서 리소스를 지원한다`
 입니다
 
-리액터는 비동기 뿐만이 아닌, 배압까지 신경쓰고 있는 것을 알 수 있습니다
+리액티브 스트림즈트는 비동기 뿐만이 아닌, 배압까지 신경쓰고 있는 것을 알 수 있습니다
 
 ## [코루틴](https://github.com/Kotlin/KEEP/blob/master/proposals/coroutines.md)
 
@@ -36,6 +35,17 @@ date: 2024-04-19T22:29
 
 추가로 Improving scalability with the asynchronous style을 살펴보면 reactive에 대한 내용이 더 나온다.
 ```
+Some developers wishing to utilize hardware to its fullest have given up the thread-per-request style in favor of a thread-sharing style. Instead of handling a request on one thread from start to finish, request-handling code returns its thread to a pool when it waits for another I/O operation to complete so that the thread can service other requests. This fine-grained sharing of threads — in which code holds on to a thread only while it performs calculations, not while it waits for I/O — allows a high number of concurrent operations without consuming a high number of threads. While it removes the limitation on throughput imposed by the scarcity of OS threads, it comes at a high price: It requires what is known as an _asynchronous_ programming style, employing a separate set of I/O methods that do not wait for I/O operations to complete but rather, later on, signal their completion to a callback. Without a dedicated thread, developers must break down their request-handling logic into small stages, typically written as lambda expressions, and then compose them into a sequential pipeline with an API (see [CompletableFuture](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/concurrent/CompletableFuture.html), for example, or so-called "reactive" frameworks). They thus forsake the language's basic sequential composition operators, such as loops and `try/catch` blocks.
+
 In the asynchronous style, each stage of a request might execute on a different thread, and every thread runs stages belonging to different requests in an interleaved fashion. This has deep implications for understanding program behavior: Stack traces provide no usable context, debuggers cannot step through request-handling logic, and profilers cannot associate an operation's cost with its caller. Composing lambda expressions is manageable when using Java's [stream API](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/stream/package-summary.html) to process data in a short pipeline but problematic when all of the request-handling code in an application must be written in this way. This programming style is at odds with the Java Platform because the application's unit of concurrency — the asynchronous pipeline — is no longer the platform's unit of concurrency.
 ```
+
+
+리액티브 스타일의 어려운점(코드 스타일, 스택 트레이스, 디버깅 등)을 언급하는 부분이 있다.
+
+## 결론
+이를보면 가상 스레드가 리액티브 스트림즈가 사용하기 어려운점을 어필하기에 대체할 것이라는 것을 알 수있다.
+
+개인적으로 리액티브 스트림즈 구현체인 리액터를 사용하면서 어려운점이 많았기에 얼른 가상스레드를 사용하고 싶다.
+하지만 가상스레드가 나왔지만, 데이터베이스 커넥터와 같은 외부 라이브러리의 지원쪽이 완성되지 않아 업무 프로젝트에는 사용하기 어려운점이 아쉽다.
 
