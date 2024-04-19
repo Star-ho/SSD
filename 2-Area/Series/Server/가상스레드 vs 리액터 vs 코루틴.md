@@ -1,6 +1,6 @@
 ---
 created: 2024-03-31T22:41:00
-date: 2024-04-19T17:24
+date: 2024-04-19T22:29
 ---
 가상쓰레드, 리액터, 코루틴 이 세가지 프로젝트는 모두 Blocking I/O로 인한 병목을 줄이기 위해 nonBlocking I/O를 사용할 목적으로 쓰이고 있습니다.
 
@@ -13,7 +13,7 @@ date: 2024-04-19T17:24
 `The main goal of Reactive Streams is to govern the exchange of stream data across an asynchronous boundary—think passing elements on to another thread or thread-pool—while ensuring that the receiving side is not forced to buffer arbitrary amounts of data. In other words, back pressure is an integral part of this model in order to allow the queues which mediate between threads to be bounded. The benefits of asynchronous processing would be negated if the communication of back pressure were synchronous (see also the [Reactive Manifesto](http://reactivemanifesto.org/)), therefore care has to be taken to mandate fully non-blocking and asynchronous behavior of all aspects of a Reactive Streams implementation.`
 
 간단히 요약해보자면
-`비동기 뿐만이 아닌, 쓰레드간 element들을 교환하며 백프레셔를 지원하여 수신측에서 리소스를 지원한다`
+`비동기 뿐만이 아닌, 쓰레드간 element들을 교환하여 백프레셔를 지원하여 수신측에서 리소스를 지원한다`
 입니다
 
 리액터는 비동기 뿐만이 아닌, 배압까지 신경쓰고 있는 것을 알 수 있습니다
@@ -34,9 +34,8 @@ date: 2024-04-19T17:24
 
 가상스레드의 목표는 `최소한의 변경으로, 현재 서버 애플리케이션이 작성된 요청당 스레드 모델의 최적화된 하드웨어 사용`이라는 것을 알 수 있습니다.
 
+추가로 Improving scalability with the asynchronous style을 살펴보면 reactive에 대한 내용이 더 나온다.
 ```
-Some developers wishing to utilize hardware to its fullest have given up the thread-per-request style in favor of a thread-sharing style. Instead of handling a request on one thread from start to finish, request-handling code returns its thread to a pool when it waits for another I/O operation to complete so that the thread can service other requests. This fine-grained sharing of threads — in which code holds on to a thread only while it performs calculations, not while it waits for I/O — allows a high number of concurrent operations without consuming a high number of threads. While it removes the limitation on throughput imposed by the scarcity of OS threads, it comes at a high price: It requires what is known as an _asynchronous_ programming style, employing a separate set of I/O methods that do not wait for I/O operations to complete but rather, later on, signal their completion to a callback. Without a dedicated thread, developers must break down their request-handling logic into small stages, typically written as lambda expressions, and then compose them into a sequential pipeline with an API (see [CompletableFuture](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/concurrent/CompletableFuture.html), for example, or so-called "reactive" frameworks). They thus forsake the language's basic sequential composition operators, such as loops and `try/catch` blocks.
-
 In the asynchronous style, each stage of a request might execute on a different thread, and every thread runs stages belonging to different requests in an interleaved fashion. This has deep implications for understanding program behavior: Stack traces provide no usable context, debuggers cannot step through request-handling logic, and profilers cannot associate an operation's cost with its caller. Composing lambda expressions is manageable when using Java's [stream API](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/stream/package-summary.html) to process data in a short pipeline but problematic when all of the request-handling code in an application must be written in this way. This programming style is at odds with the Java Platform because the application's unit of concurrency — the asynchronous pipeline — is no longer the platform's unit of concurrency.
 ```
 
