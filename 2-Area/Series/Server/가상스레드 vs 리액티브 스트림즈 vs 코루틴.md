@@ -1,6 +1,6 @@
 ---
 created: 2024-03-31T22:41:00
-date: 2024-04-19T22:40
+date: 2024-04-19T22:50
 ---
 가상쓰레드, 리액티브 스트림즈, 코루틴 이 세가지 프로젝트는 모두 Blocking I/O로 인한 병목을 줄이기 위해 nonBlocking I/O를 사용할 목적으로 쓰이고 있습니다.
 
@@ -39,13 +39,23 @@ Some developers wishing to utilize hardware to its fullest have given up the thr
 
 In the asynchronous style, each stage of a request might execute on a different thread, and every thread runs stages belonging to different requests in an interleaved fashion. This has deep implications for understanding program behavior: Stack traces provide no usable context, debuggers cannot step through request-handling logic, and profilers cannot associate an operation's cost with its caller. Composing lambda expressions is manageable when using Java's [stream API](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/stream/package-summary.html) to process data in a short pipeline but problematic when all of the request-handling code in an application must be written in this way. This programming style is at odds with the Java Platform because the application's unit of concurrency — the asynchronous pipeline — is no longer the platform's unit of concurrency.
 ```
-
-
 리액티브 스타일의 어려운점(코드 스타일, 스택 트레이스, 디버깅 등)을 언급하는 부분이 있다.
 
+```
+Typically, a virtual thread will unmount when it blocks on I/O or some other blocking operation in the JDK, such as `BlockingQueue.take()`. When the blocking operation is ready to complete (e.g., bytes have been received on a socket), it submits the virtual thread back to the scheduler, which will mount the virtual thread on a carrier to resume execution.
+```
+추가로 virtual Thread는 Blocking작업을 해당 스레드 unmount를 통해 Blocking을 회피할 수 있는것도 알 수 있다.
+
 ## 결론
-이를보면 가상 스레드가 리액티브 스트림즈가 사용하기 어려운점을 어필하기에 대체할 것이라는 것을 알 수있다.
+이를보면 가상 스레드가 리액티브 스트림즈를 대체하는 Blocking I/O로 인한 병목을 줄이는 기능을 하지않을까 싶다.
 
+java reactor에서 virtual thread를 사용하는 scheduler를 추가하며 vitual thread를 지원한다.
+reactive streams의 배압을 활용하는 
+
+java reactor
 개인적으로 리액티브 스트림즈 구현체인 리액터를 사용하면서 어려운점이 많았기에 얼른 가상스레드를 사용하고 싶다.
-하지만 가상스레드가 나왔지만, 데이터베이스 커넥터와 같은 외부 라이브러리의 지원쪽이 완성되지 않아 업무 프로젝트에는 사용하기 어려운점이 아쉽다.
+하지만 가상스레드가 나왔지만, 데이터베이스 드라이버 같은 외부 라이브러리의 수정이 완성되지 않아 업무 프로젝트에는 사용하기 어려운점이 아쉽다.
 
+
+
+https://perfectacle.github.io/2023/07/10/java-virtual-thread-vs-kotlin-coroutine/
