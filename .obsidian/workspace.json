@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+                "file": "0-Blog/1-Server/2-Sevlet.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+                "file": "0-Blog/1-Server/2-Sevlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+                "file": "0-Blog/1-Server/2-Sevlet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md"
+                "file": "0-Blog/1-Server/2-Sevlet.md"
               }
             }
           }
@@ -181,8 +180,8 @@
   },
   "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
-    "0-Blog/1-Server/0-Static Web Server.md",
     "0-Blog/1-Server/1-Applet.md",
+    "0-Blog/1-Server/0-Static Web Server.md",
     "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "5-Temp/Softeware Architecture/replication vs clustering.md",
     "5-Temp/0-이직자료/f-lab 이력서 모음.md",
