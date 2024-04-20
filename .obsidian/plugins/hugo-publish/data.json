@@ -1,6 +1,6 @@
 {
   "blog_tag": "hugo_blog",
   "blog_dir": "content/menu",
-  "static_dir": "static",
+  "static_dir": "image",
   "site_dir": "/Users/sungho/develop/star-ho.github.io"
 }
