@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Blog/1-Server/2-Sevlet.md",
+                "file": "0-Blog/1-Server/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Blog/1-Server/2-Sevlet.md",
+                "file": "0-Blog/1-Server/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Blog/1-Server/2-Sevlet.md",
+                "file": "0-Blog/1-Server/_index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Blog/1-Server/2-Sevlet.md"
+                "file": "0-Blog/1-Server/_index.md"
               }
             }
           }
@@ -180,6 +180,8 @@
   },
   "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
+    "0-Blog/1-Server/2-Sevlet.md",
+    "0-Blog/1-Server/_index.md",
     "0-Blog/1-Server/1-Applet.md",
     "0-Blog/1-Server/0-Static Web Server.md",
     "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
@@ -204,8 +206,6 @@
     "0-Blog/1-Server/12-Virtual Thread.md",
     "0-Blog/JVM/Concurrent/2-Semaphore.md",
     "0-Blog/3-coroutine/Coroutine And Reactor Java.md",
-    "0-Blog/3-coroutine/vs thread.md",
-    "0-Blog/1-Server/999-webflux 관련.md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",
