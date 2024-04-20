@@ -1,6 +1,6 @@
 {
-  "blog_tag": "#blog",
+  "blog_tag": "blog_tags",
   "blog_dir": "content/docs",
   "static_dir": "real-resource-image",
-  "site_dir": "/Users/sungho/develop/star-ho.github.io/"
+  "site_dir": "/Users/sungho/develop/star-ho.github.io"
 }

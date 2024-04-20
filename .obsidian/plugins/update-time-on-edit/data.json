@@ -796,7 +796,7 @@
     "0-Blog/2-Concurrency/7-Shared Lock(S-lock).md": "63e1390285a8df0d10553983f6fd482a3173afd82b4b4d8aa4875c4b034a7f62",
     "0-Blog/2-Concurrency/8-Intention shared lock, exclusive lock.md": "4f063cafb9e5c797908676569a5d7fda41730443b635d0417fcefb082b308f1a",
     "0-Blog/2-Concurrency/9-Record Locks.md": "7e32cbcd9c9090a8024301c1446eefb2c94df4df933cff3cbe05a09457e138a5",
-    "0-Blog/1-Server/1-Applet.md": "96378db88e5313125b9e533dfc9dc2a8d4da0d8c09dd33f7dce30844a175e126",
+    "0-Blog/1-Server/1-Applet.md": "595047e10fff3e06b484bbe5e7fa0d6d9c4f741ad9707cb930c41f9baa9bc6a4",
     "0-Blog/1-Server/0-Static Web Server.md": "87409366f969e820947050de286f2b4db76e10c9482708e58c35504abec6124b",
     "0-Blog/1-Server/10-Reactor Java(1).md": "4b1b5108971f36623c68fabc0daa218c4dbdfd20b138ecbc4160574fc9490623",
     "0-Blog/1-Server/11-Reactor Java(2).md": "e7a2daa7830043ca3298d65653fe42c63423872dc2bd08ab69776ee8ca3ef7d5",
@@ -887,6 +887,6 @@
     "5-Temp/Database/mysql 저장 글자수.md": "c50205e4b78ed7b52c714605e62119e51bcd1f352fc402fd136d071e8f9e5af1",
     "5-Temp/Softeware Architecture/msa 인증 구현.md": "177b439de7fa8bc13a6cefd3cf6efa0cfcebefeded189d982e287a37e5284d9e",
     "5-Temp/0-이직자료/내 장점.md": "8b678cb556efda340ba8307c760b12df1ff73b764e0ab2d8d60b3c27bf5b808c",
-    "5-Temp/Softeware Architecture/replication vs clustering.md": "09a0a2928b1017749c18ab36d1c839970ab5e6c28632ae284d74cdb5cf131d92"
+    "5-Temp/Softeware Architecture/replication vs clustering.md": "b1223c5368d1bc7bca460faad2880773577656d2e2ed3c799a4bbb029959c0b5"
   }
 }
