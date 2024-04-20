@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Blog/1-Server/1-Applet.md",
+                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "tag:hugo_blog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Blog/1-Server/1-Applet.md",
+                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Blog/1-Server/1-Applet.md",
+                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Blog/1-Server/1-Applet.md"
+                "file": "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md"
               }
             }
           }
@@ -179,8 +179,11 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
+    "0-Blog/1-Server/0-Static Web Server.md",
+    "0-Blog/1-Server/1-Applet.md",
+    "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "5-Temp/Softeware Architecture/replication vs clustering.md",
     "5-Temp/0-이직자료/f-lab 이력서 모음.md",
     "5-Temp/Database/로그.md",
@@ -204,9 +207,6 @@
     "0-Blog/3-coroutine/Coroutine And Reactor Java.md",
     "0-Blog/3-coroutine/vs thread.md",
     "0-Blog/1-Server/999-webflux 관련.md",
-    "0-Blog/1-Server/가상쓰레드와 코루틴과 웹플럭스의 차이점을 설명하세요.md",
-    "2-Area/Series/Server/999-webflux 관련.md",
-    "2-Area/Series/Server/11-Reactor Java(2).md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",
