@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
+                "file": "0-Blog/1-Server/11-Reactor Java(2).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
+                "file": "0-Blog/1-Server/11-Reactor Java(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
+                "file": "0-Blog/1-Server/11-Reactor Java(2).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md"
+                "file": "0-Blog/1-Server/11-Reactor Java(2).md"
               }
             }
           }
@@ -180,12 +180,16 @@
   },
   "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
+    "0-Blog/1-Server/9-Reactive Streams.md",
+    "0-Blog/1-Server/7-Reactive Manifesto.md",
+    "0-Blog/1-Server/4-Jakarta Servlet.md",
+    "0-Blog/1-Server/2-Sevlet.md",
+    "0-Blog/1-Server/0-Static Web Server.md",
     "2-Area/Series/Async-messaging/Async-messaging.md",
     "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
     "2-Area/1-Weekly-Reading/인생...md",
     "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "0-Blog/1-Server/1-Applet.md",
-    "0-Blog/1-Server/0-Static Web Server.md",
     "0-Blog/2-Concurrency/8-Intention shared lock, exclusive lock.md",
     "0-Blog/2-Concurrency/7-Shared Lock(S-lock).md",
     "0-Blog/2-Concurrency/6-Exclusive Lock(X-Lock).md",
@@ -196,16 +200,12 @@
     "0-Blog/2-Concurrency/1-Mutex(Lock).md",
     "0-Blog/2-Concurrency/0-동시성(Concurrency).md",
     "0-Blog/1-Server/가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
-    "0-Blog/1-Server/2-Sevlet.md",
     "0-Blog/1-Server/_index.md",
     "5-Temp/Softeware Architecture/replication vs clustering.md",
     "5-Temp/0-이직자료/f-lab 이력서 모음.md",
     "5-Temp/Database/로그.md",
     "5-Temp/Database/메세지큐, 데이터베이스 초, 분당 최대 쓰기 갯수.md",
     "5-Temp/Database/b tree b+ tree.md",
-    "5-Temp/0-이직자료/내 장점.md",
-    "5-Temp/Computer Science/Network/spdy.md",
-    "5-Temp/Softeware Architecture/msa 인증 구현.md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",
