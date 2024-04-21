@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7700
-tags: 
+updatedAt: 2024-04-21 15:57:52+4060
+tags:
+  - Server-History
+  - hugo_blog
+category: Server-History
 ---
 - 이전의 이름음 java servlet임
 	- eclipse재단과 oracle과의 상표권 분쟁으로 jakarta로 변경됨 [링크](https://www.samsungsds.com/kr/insights/java_jakarta.html)

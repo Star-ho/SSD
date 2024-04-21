@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7680
-tags: 
+updatedAt: 2024-04-21 15:57:40+2060
+tags:
+  - Server-History
+  - hugo_blog
+category: Server-History
 ---
 - Server + applet의 합성어
 - 서버에서 특정기능을 수행하는 작은 어플리케이션

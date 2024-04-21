@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7740
+updatedAt: 2024-04-21 16:05:18+6340
 tags: 
 ---
 
@@ -27,3 +27,5 @@ https://jongmin92.github.io/categories/Programming/Java/
 https://i5on9i.blogspot.com/2013/11/reactor-pattern.html#google_vignette
 
 https://motti.tistory.com/entry/%EB%84%A4%ED%8B%B0Netty-%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%A6%AC
+
+#eventually-update

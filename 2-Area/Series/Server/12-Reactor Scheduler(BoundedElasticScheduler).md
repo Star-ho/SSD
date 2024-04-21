@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7680
-tags: 
+updatedAt: 2024-04-21 15:57:40+2460
+tags:
+  - Server-History
+  - hugo_blog
+  - Reactive
+category: Server-History
 ---
 ## 서론
 Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하였다.

@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7620
+updatedAt: 2024-04-21 16:05:33+5530
 tags: 
 ---
 - Coroutine은 thread를 나눠쓰는것
@@ -37,3 +37,6 @@ tags:
 > reactor Java의 경우 default로 eleasticBounded 스케줄러를 사용하면
 > A와 B와 C의 요청이 동시에 보내겠지만, 모두 다른 Thread에서 처리되므로 context switching이 발생
 >  coroutine이라고 다를까? 어차피 DispatcherIO thread를 사용할텐데?
+
+
+#eventually-update

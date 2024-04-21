@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7640
+updatedAt: 2024-04-21 16:05:25+2440
 tags: 
 ---
 쓰레드와의 차이가 뭔지
@@ -40,4 +40,4 @@ coroutine start
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sthwin&logNo=221956619428
 
 
-#wait-to-update 
+#eventually-update

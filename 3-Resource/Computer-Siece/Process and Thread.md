@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2670
+updatedAt: 2024-04-21 16:06:01+1290
 tags: 
 ---
 PCB
@@ -28,4 +28,4 @@ https://www.geeksforgeeks.org/multi-threading-models-in-process-management/
 https://www.geeksforgeeks.org/thread-scheduling/
 https://medium.com/aosd-reading-assignment/thread-management-and-thread-scheduling-6ce1ad4fc325
 
-#wait-to-update 
+#eventually-update

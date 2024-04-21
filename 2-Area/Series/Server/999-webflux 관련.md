@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7690
+updatedAt: 2024-04-21 16:05:15+2510
 tags: 
 ---
 upstream, downstream?
@@ -25,4 +25,4 @@ https://medium.com/@akhaku/netty-data-model-threading-and-gotchas-cab820e4815a
 https://www.google.com/amp/s/piotrminkowski.com/2020/03/30/a-deep-dive-into-spring-webflux-threading-model/amp
 
 
-#wait-to-update 
+#eventually-update

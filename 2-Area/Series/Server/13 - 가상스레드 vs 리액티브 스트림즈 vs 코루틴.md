@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7720
-tags: 
+updatedAt: 2024-04-21 15:57:40+1970
+tags:
+  - Server-History
+  - hugo_blog
+  - virtual-thread
+  - Reactive
+category: Server-History
 ---
 가상쓰레드, 리액티브 스트림즈, 코루틴 이 세가지 프로젝트는 모두 Blocking I/O로 인한 병목을 줄이기 위해 nonBlocking I/O를 사용할 목적으로 쓰이고 있습니다.
 

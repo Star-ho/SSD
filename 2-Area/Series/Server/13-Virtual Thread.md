@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7760
-tags: 
+updatedAt: 2024-04-21 15:58:39+9220
+tags:
+  - Server-History
+  - hugo_blog
+  - virtual-thread
+category: Server-History
 ---
 ## Platform Thread
 ![Pasted image 20231223233300](real-resource-image/Pasted%20image%2020231223233300.png)

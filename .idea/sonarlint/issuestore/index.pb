@@ -104,3 +104,13 @@ Z
 *2-Area/Series/Server/999-webflux 관련.md,2/5/25f69010c7133f21f38b10cb28357572e4207c82
 S
 #2-Area/Software-Design/Aggregate.md,1/3/136ec1c48f9c85ad9e9c54090a7dc2c2b9fc9f72
+t
+D2-Area/Software-Design/필드를 노출시키면 안되는 이유.md,2/c/2c02e334c5a922fd135df5188c4083955a016853
+u
+E2-Area/Software-Design/Aggregate 생명주기(Factory, Repository).md,f/7/f7a2bdd90e152bf30cd2670245bf466ee5543963
+T
+$2-Area/Software-Design/Entity, VO.md,e/0/e0187dedd3f86942aca0d5d1e78ee7ef7882608a
+Q
+!2-Area/Software-Design/Service.md,a/5/a5ead83c3fe50e21727c9d70e868ad3e5819d118
+`
+02-Area/Software-Design/협력, 책임, 역할.md,3/9/399284701cbc15dda0f1dd4101724bed573a7825

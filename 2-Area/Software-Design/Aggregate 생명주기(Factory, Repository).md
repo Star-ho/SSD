@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7820
-tags: 
+updatedAt: 2024-04-21 16:00:07+2900
+tags:
+  - Software-design
+  - hugo_blog
+  - DDD
+category: Software-Design
 ---
 ## Factory
 
