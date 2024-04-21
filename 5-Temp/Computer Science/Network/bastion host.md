@@ -1,6 +1,7 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:23:53+5650
+updatedAt: 2024-04-21 15:44:52+8610
+tags: 
 ---
 질문있어요..!
 Private subnet 안의 ec2와 jenkins간 ssh 통신을 하려고 합니다

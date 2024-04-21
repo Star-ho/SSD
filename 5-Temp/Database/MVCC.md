@@ -1,6 +1,7 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:23:53+5100
+updatedAt: 2024-04-21 15:44:52+8160
+tags: 
 ---
 저 InnoDB의 MVCC라는 개념을 lock을 피하기 위해 레코드를 버저닝하는 전략이라고 이해했는데요, 그러면 MVCC는 COMMITED_READ / REPEATABLE_READ 이렇게 2가지 격리 수준에서만 적용된다고 생각할 수 있을까요?
 

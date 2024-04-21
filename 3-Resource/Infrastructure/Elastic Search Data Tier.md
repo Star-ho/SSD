@@ -1,6 +1,7 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:23:54+0830
+updatedAt: 2024-04-21 15:44:53+2750
+tags: 
 ---
 - Data Tier는 Content, Hot, Warm, Cold, Frozen 5개의 티어로 나눔
 

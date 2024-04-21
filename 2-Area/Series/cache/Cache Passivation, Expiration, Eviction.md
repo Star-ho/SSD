@@ -1,6 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:23:53+4450
+updatedAt: 2024-04-21 15:45:56+0280
+tags:
+  - Cache
+  - Terms
+  - hugo_blog
+category: Cache
 ---
 ## Eviction
 

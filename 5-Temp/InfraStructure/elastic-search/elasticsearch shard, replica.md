@@ -1,6 +1,7 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:23:53+7220
+updatedAt: 2024-04-21 15:44:52+9700
+tags: 
 ---
 node 
 - elastic search 인스턴스

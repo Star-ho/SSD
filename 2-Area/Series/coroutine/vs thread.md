@@ -1,6 +1,7 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:23:53+4480
+updatedAt: 2024-04-21 15:44:52+7620
+tags: 
 ---
 - Coroutine은 thread를 나눠쓰는것
 - thread에서 비동기는 blocking call을 만났을때 다른 쓰레드를 실행함으로써 cpu core의 낭비를 막음

@@ -1,6 +1,7 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:23:53+9270
+updatedAt: 2024-04-21 15:44:53+1250
+tags: 
 ---
 - windows에서는 기본의로 제공하는 클립보드에 매우 만족하고 있었는데 mac으로 넘어오니 유료에다가 만족하는게 잘 없었다.  
 - [https://github.com/Clipy/Clipy](https://github.com/Clipy/Clipy)  

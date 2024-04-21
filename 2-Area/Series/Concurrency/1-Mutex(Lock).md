@@ -1,6 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:23:53+4640
+updatedAt: 2024-04-21 15:46:41+1420
+tags:
+  - Concurrency
+  - hugo_blog
+  - lock
+category: Concurrency
 ---
 - **Mut**ual **ex**clusion의 약자
 - 프로세스 간 동기화에 사용할 수도 있는 동기화 기본 형식입니다.

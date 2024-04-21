@@ -1,6 +1,7 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:23:53+4670
+updatedAt: 2024-04-21 15:44:52+7790
+tags: 
 ---
 - named lock
 - mysql, redis 등 named lock을 지원하는 저장소에서 사용가능

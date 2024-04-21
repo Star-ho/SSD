@@ -1,6 +1,7 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:23:54+0810
+updatedAt: 2024-04-21 15:44:53+2670
+tags: 
 ---
 ### 현재 옵션 확인
 - java -XX:+PrintFlagsFinal -version 2>&1 | grep -i -E 'heapsize|metaspace|version'
