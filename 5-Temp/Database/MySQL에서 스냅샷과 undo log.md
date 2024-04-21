@@ -1,6 +1,6 @@
 ---
-date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 17:27:35+3790
+date: 2024-03-31T22:41:00
+updatedAt: 2024-04-21 18:32:05+2610
 tags: 
 ---
 https://www.alibabacloud.com/blog/an-in-depth-analysis-of-undo-logs-in-InnoDB_598966
