@@ -1,11 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:58:15+5190
+updatedAt: 2024-04-21 17:23:23+0440
 tags:
   - Server-History
   - hugo_blog
   - Reactive
-category: Server-History
+categories: Server-History
 ---
 - callback보다 나은점
 	- callback hell이 발생하지 않음

@@ -1,11 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:48:42+1490
+updatedAt: 2024-04-21 17:23:22+8320
 tags:
   - Concurrency
   - hugo_blog
   - Concept
-category: Concurrency
+categories: Concurrency
 ---
 - 임계영역을 보호하는 방법
 - 여러 스레드의 임계영역에 대한 엑세스를 제어

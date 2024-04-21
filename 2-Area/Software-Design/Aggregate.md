@@ -1,11 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 16:00:07+3010
+updatedAt: 2024-04-21 17:23:23+4550
 tags:
   - Software-design
   - hugo_blog
   - DDD
-category: Software-Design
+categories: Software-Design
 ---
 - 데이터의 변경단위로 다루는 연관 객체의 묶음
 - Root Entity와 Boundary Entity가 존재

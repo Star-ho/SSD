@@ -1,10 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:57:40+2000
+updatedAt: 2024-04-21 17:23:23+1960
 tags:
   - Server-History
   - hugo_blog
-category: Server-History
+categories: Server-History
 ---
 - Jakarta Servlet, Jakarta Server Page, Jakarta Expression Language, Jakarta WebSocket, Jakarta Annotations, Jakarta Authentication 의 세부사항을 구현한 오픈소스 소프트웨어
 

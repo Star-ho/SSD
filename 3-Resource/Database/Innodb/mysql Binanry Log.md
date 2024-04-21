@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2380
-tags: 
+updatedAt: 2024-04-21 17:28:37+6680
+tags:
+  - InnoDB-Architecture
+  - "#Database"
+  - "#hugo_blog"
+categories: InnoDB
 ---
 - table 생성이나, table 데이터의 변경과 같은 데이터베이스의 변경 이벤트를 기록하는 로그
 - 변경을 야기할 수 있는 구문도 기록
@@ -54,7 +58,7 @@ where id = 1 or id = 2;
 
 - 로깅 주체
 	- Binary log는 mysql서버에서 로깅
-	- redo로그는 innodb 엔진에서 로깅
+	- redo로그는 InnoDB 엔진에서 로깅
 - 로그 레벨
 	- Binary log는 sql문에 대한 논리적인 로깅
 	- redo로그는 데이터 페이지에 대한 물리적인 로깅
@@ -70,4 +74,4 @@ https://dev.mysql.com/doc/refman/8.0/en/binary-log.html
 https://www.alibabacloud.com/blog/what-are-the-differences-and-functions-of-the-redo-log-undo-log-and-binlog-in-mysql_598035
 
 #Database 
-#Innodb 
+#InnoDB 

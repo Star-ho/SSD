@@ -1,11 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 16:00:07+2970
+updatedAt: 2024-04-21 17:23:23+4880
 tags:
   - Software-design
   - hugo_blog
   - DDD
-category: Software-Design
+categories: Software-Design
 ---
 ## Service
 

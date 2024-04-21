@@ -1,11 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:46:20+7860
+updatedAt: 2024-04-21 17:23:23+2970
 tags:
   - Cache
   - hugo_blog
   - Caching-Strategy
-category: Cache
+categories: Cache
 ---
 ## 어디에 저장할 것인가?
 ### In-memory caching

@@ -1,11 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:57:40+2250
+updatedAt: 2024-04-21 17:23:23+2250
 tags:
   - Server-History
   - hugo_blog
   - Reactive
-category: Server-History
+categories: Server-History
 ---
 - 2013년 어플리케이션의 요구사항(짧은 응답시간, 100%가용성)의 변화로 리액티브 시스템을 정의한 리액티브 선언문(reactive manifesto)가 작성됨 (현재 최신 버전 2014년 v2.0)
 - 리액티브 선언문에서는 리액티브 시스템이란 Responsive, Resilient, Elastic, Message Driven을 가진 시스템이라고 정의

@@ -1,12 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:50:34+7060
+updatedAt: 2024-04-21 17:27:35+4210
 tags:
   - Concurrency
   - hugo_blog
   - Concept
   - Database
-category: Concurrency
+categories: Concurrency
 ---
 - record의 index에 거는 lock
 
@@ -19,4 +19,4 @@ category: Concurrency
 > https://stackoverflow.com/questions/74967004/row-level-locks-vs-index-record-locks
 
 
-https://dev.mysql.com/doc/refman/8.0/en/innodb-locking.html
+https://dev.mysql.com/doc/refman/8.0/en/InnoDB-locking.html

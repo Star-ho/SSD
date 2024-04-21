@@ -1,10 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:55:01+3550
+updatedAt: 2024-04-21 17:23:23+0250
 tags:
   - Server-History
   - hugo_blog
-category: Server-History
+categories: Server-History
 ---
 - 1990 년 PC 매거진에서 처음 사용된 단어
 - 하나의 프로그램에서 특정 기능을 수행하는 작은 어플리케이션

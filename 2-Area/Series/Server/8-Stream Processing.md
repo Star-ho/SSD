@@ -1,10 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:58:07+6240
+updatedAt: 2024-04-21 17:23:23+2400
 tags:
   - Server-History
   - hugo_blog
-category: Server-History
+categories: Server-History
 ---
 - 데이터가 도착하거나 생성되는 즉시실시간으로 데이터를 처리하는 패러다임
 - 데이터가 쌓일때까지 기다리지 않고, 데이터가 흐르는 대로 즉각적으로 처리하여 통찰와 조치가 가능하도록 함

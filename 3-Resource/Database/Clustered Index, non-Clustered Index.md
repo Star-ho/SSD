@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2370
+updatedAt: 2024-04-21 17:27:35+3980
 tags: 
 ---
 테이블에 대한 색인을 만들때, 
@@ -30,6 +30,6 @@ clustered Index의 값이 길면, non-clutered-index는 각 인덱스마다 긴 
 [https://learn.microsoft.com/ko-kr/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-ver16](https://learn.microsoft.com/ko-kr/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-ver16)
 [https://gwang920.github.io/database/clusterednonclustered/](https://gwang920.github.io/database/clusterednonclustered/)
 https://mozi.tistory.com/320
-https://dev.mysql.com/doc/refman/8.0/en/innodb-index-types.html
+https://dev.mysql.com/doc/refman/8.0/en/InnoDB-index-types.html
 
-#Innodb 
+#InnoDB 

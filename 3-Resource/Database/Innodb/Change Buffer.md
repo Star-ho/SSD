@@ -1,12 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 17:19:20+8300
+updatedAt: 2024-04-21 17:28:49+4000
 tags:
-  - Innodb
-  - "#Architecture"
+  - InnoDB-Architecture
   - "#Database"
   - "#hugo_blog"
-category: Innodb
+categories: InnoDB
 ---
 - buffer pool 내부에 존재하며, secondary index의 변경을 캐싱하기 위한 공간
 - DML(INSERT, UPDATE, DELETE)로 인한 변경되는 페이지가 buffer pool에 없을떄, secondary index의 변경을 캐시하는 buffer
@@ -19,7 +18,7 @@ category: Innodb
 
 - 인덱스에 내림차순 인덱스열이 포함되어 있거나, 기본키에 내림차순 인덱스열이 포함되어있는경우 change buffer는 사용되지 않음
 
-#Innodb-In-Memory-Structure 
+#InnoDB-In-Memory-Structure 
 
 
-https://dev.mysql.com/doc/refman/8.0/en/innodb-change-buffer.html
+https://dev.mysql.com/doc/refman/8.0/en/InnoDB-change-buffer.html

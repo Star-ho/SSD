@@ -1,11 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:58:11+2860
+updatedAt: 2024-04-21 17:23:23+2600
 tags:
   - Server-History
   - hugo_blog
   - Reactive
-category: Server-History
+categories: Server-History
 ---
 ## 개념
 - 논블로킹 배압(back pressuer)을 사용한 비동기 스트리밍 처리를 위한 표준

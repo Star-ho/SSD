@@ -1,10 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:51:56+6640
+updatedAt: 2024-04-21 17:23:23+3630
 tags:
   - Coroutine
   - hugo_blog
-category: Coroutine
+categories: Coroutine
 ---
 - coroutine의 suspend는 게임을 일시 중단하는 것과 유사함
 	- 게임을 잠깐 중단했다가 resume하면 게임이 다시 시작됨

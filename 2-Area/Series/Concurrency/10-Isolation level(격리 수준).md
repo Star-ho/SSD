@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:50:43+7650
+updatedAt: 2024-04-21 17:27:35+4060
 tags:
   - Concurrency
   - Database
@@ -23,7 +23,7 @@ tags:
 - 한 트랜잭션 내에서 같은 쿼리를 여러 번 실행했을 때, 항상 동일한 결과를 얻을 수 있음
 - 첫번째 읽기 작업이 이루어진 때를 기준으로 스냅샷을 생성함
 
-- Innodb의 default isolation level임
+- InnoDB의 default isolation level임
 
 ## [Serializable](https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_serializable)
 - 어떤 한 트랜잭션이 데이터를 읽었다면, lock을 걸어 이 트랜잭션이 끝날때까지 다른트랜잭션이 읽기, 쓰기가 불가능하도록 하는 level

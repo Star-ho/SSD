@@ -1,10 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:57:57+3060
+updatedAt: 2024-04-21 17:23:23+2090
 tags:
   - Server-History
   - hugo_blog
-category: Server-History
+categories: Server-History
 ---
 ![center|600](real-resource-image/Pasted%20image%2020231125233607.png)
 

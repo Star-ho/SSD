@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2350
+updatedAt: 2024-04-21 17:27:35+3860
 tags: 
 ---
 - Log Sequence Number의 약자
@@ -14,4 +14,4 @@ https://dba.stackexchange.com/questions/45716/what-is-log-sequence-number-how-it
 https://dev.mysql.com/doc/refman/8.0/en/glossary.html
 
 
-#Innodb 
+#InnoDB 

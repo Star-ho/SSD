@@ -1,12 +1,11 @@
 ---
 date: 2024-04-20 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2370
+updatedAt: 2024-04-21 17:28:54+2320
 tags:
-	- Innodb
-	- "#Architecture"
-	- "#Database"
-	- "#hugo_blog"
-category: Innodb
+  - InnoDB-Architecture
+  - "#Database"
+  - "#hugo_blog"
+categories: InnoDB
 ---
 - Disk에 데이터를 쓰기 전 데이터가 저장되는 메모리 영역
 - 기본 크기는 16MB
@@ -14,5 +13,5 @@ category: Innodb
 	- log buffer의 크기가 작으면 한 트랜잭션에서 redo log를 disk에 써야하는 작업을 중간에 실행해야 하기에 속도가 느려짐
 
 #Database 
-#Innodb 
-#Innodb-In-Memory-Structure 
+#InnoDB 
+#InnoDB-In-Memory-Structure 

@@ -1,11 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:58:20+5720
+updatedAt: 2024-04-21 17:23:23+0640
 tags:
   - Server-History
   - hugo_blog
   - Reactive
-category: Server-History
+categories: Server-History
 ---
 # Threading and Scheduler
 - Flux나 Mono를 얻는다고 실행되지 않음

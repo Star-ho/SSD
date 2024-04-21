@@ -124,3 +124,15 @@ a
 13-Resource/Database/Innodb/Double Write Buffer.md,6/3/632a200980bce7ce4872eff166354902bae31389
 X
 (3-Resource/Database/Innodb/Log Buffer.md,5/4/5422466cb8e3958f22891e2b4a8882c45ed16fdd
+_
+/3-Resource/Database/Innodb/mysql Binanry Log.md,e/8/e8dbeded98b4eb713668125eedf13c604c651687
+V
+&3-Resource/Database/Innodb/Undo log.md,d/7/d7e8fdf3e376f96e65f103489fa1145593c80c34
+V
+&3-Resource/Database/Innodb/Redo log.md,c/3/c30bff53864d2abcb39e0a259df06aeb49342d8f
+K
+3-Resource/Database/ACID.md,4/8/48b5ed72ef4932abc32b193f25f0c3af26f743f7
+U
+%3-Resource/Database/Sargable query.md,1/7/176b3c92c4dcbe1fdab97040ae092df7bf0d6537
+]
+-3-Resource/Database/정규화 역정규화.md,9/d/9d2d7f84624e47410690c266ec1416d0518b6417

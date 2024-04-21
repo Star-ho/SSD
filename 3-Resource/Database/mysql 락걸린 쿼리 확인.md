@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2430
+updatedAt: 2024-04-21 17:27:35+4320
 tags: 
 ---
 mysql 8.0
@@ -11,11 +11,11 @@ https://dev.mysql.com/doc/refman/8.0/en/performance-schema-data-locks-table.html
 
 
 mysql 5.7
-select * from information_schema.INNODB_LOCKS;  
+select * from information_schema.InnoDB_LOCKS;  
 
 
 #Database 
 #Query 
 #lock 
 #Trouble-Shooting 
-#Innodb 
+#InnoDB 

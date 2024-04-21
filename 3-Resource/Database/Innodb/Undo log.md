@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2370
-tags: 
+updatedAt: 2024-04-21 17:29:02+4960
+tags:
+  - InnoDB-Architecture
+  - "#Database"
+  - "#hugo_blog"
+categories: InnoDB
 ---
 - 하나의 트랜잭션에 들어있는 undo log 레코드의 집합임
 - clustered index 레코드에 대한 트랜잭션을 취소하는 방법에 대한 정보가 포함되어있음
@@ -15,7 +19,7 @@ tags:
 	- 이전 버전의 데이터베이스 row를 만드는데 update undo log가 요구되는 일관적 읽기스냅샷이 필요하지 않을떄 삭제 가능
 		- 업데이트 트랜잭션이 끝나기전 생성된 트랜잭션들이 모두 끝나야 삭제 가능
 		- 읽기 일관성을 유지하기 위해
-	- [참고](https://dev.mysql.com/doc/refman/8.0/en/innodb-multi-versioning.html)
+	- [참고](https://dev.mysql.com/doc/refman/8.0/en/InnoDB-multi-versioning.html)
 - 아래 4가지 경우에 undo log가 생성됨
 	- 사용자가 정의한 테이블의 insert문
 	- 사용자가 정의한 테이블의 update, delete문
@@ -23,6 +27,6 @@ tags:
 	- 사용자가 정의함 임시 테이블의 update, delete문
     
 
-https://dev.mysql.com/doc/refman/8.0/en/innodb-undo-logs.html
+https://dev.mysql.com/doc/refman/8.0/en/InnoDB-undo-logs.html
 
-#Innodb 
+#InnoDB 

@@ -1,11 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:46:30+0580
+updatedAt: 2024-04-21 17:23:22+7910
 tags:
   - Concurrency
   - hugo_blog
   - Concept
-category: Concurrency
+categories: Concurrency
 ---
 ## 개념
 - 프로그램, 알고리즘, 또는 문제의 부분이나 단위 등이, 결과에 영향을 주지 않고 특정한 순서없이 실행되거나 부분적인 순서만을 가지고 실행될 수 있는 성질 [링크](https://en.wikipedia.org/wiki/Concurrency_(computer_science))

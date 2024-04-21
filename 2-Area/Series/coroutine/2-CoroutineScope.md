@@ -1,10 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:51:32+1590
+updatedAt: 2024-04-21 17:23:23+3260
 tags:
   - Coroutine
   - hugo_blog
-category: Coroutine
+categories: Coroutine
 ---
 - 새로운 coroutine에 대한 Scope를 정의함
 - launch와 async와 같은 coroutine builder는 CoroutineScope의 확장함수임

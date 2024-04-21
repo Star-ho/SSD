@@ -1,11 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 16:00:07+2990
+updatedAt: 2024-04-21 17:23:23+4770
 tags:
   - Software-design
   - hugo_blog
   - DDD
-category: Software-Design
+categories: Software-Design
 ---
 ## domain model
 현실세계의 해결하고싶은 문제를 프로그래밍 언어로 특정 측면을 구현한것  

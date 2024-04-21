@@ -1,10 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:57:48+4420
+updatedAt: 2024-04-21 17:23:23+1560
 tags:
   - Server-History
   - hugo_blog
-category: Server-History
+categories: Server-History
 ---
 - Servlet Engine이라고도 불림
 - 서블릿을 실행하고 관리함

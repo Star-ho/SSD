@@ -225,53 +225,53 @@
                     {
                       "type": "file",
                       "ctime": 1709388865469,
-                      "path": "0-Blog/1-Database/Innodb/Undo log.md",
+                      "path": "0-Blog/1-Database/InnoDB/Undo log.md",
                       "subpath": "#^-"
                     },
                     {
                       "type": "file",
                       "ctime": 1709388865469,
-                      "path": "0-Blog/1-Database/Innodb/Redo log.md",
+                      "path": "0-Blog/1-Database/InnoDB/Redo log.md",
                       "subpath": "#^-"
                     },
                     {
                       "type": "file",
                       "ctime": 1709388865469,
-                      "path": "0-Blog/1-Database/Innodb/mysql Binanry Log.md",
+                      "path": "0-Blog/1-Database/InnoDB/mysql Binanry Log.md",
                       "subpath": "#^-"
                     },
                     {
                       "type": "file",
                       "ctime": 1709388865469,
-                      "path": "0-Blog/1-Database/Innodb/Log Buffer.md",
+                      "path": "0-Blog/1-Database/InnoDB/Log Buffer.md",
                       "subpath": "#^-"
                     },
                     {
                       "type": "file",
                       "ctime": 1709388865469,
-                      "path": "0-Blog/1-Database/Innodb/Double Write Buffer.md",
+                      "path": "0-Blog/1-Database/InnoDB/Double Write Buffer.md",
                       "subpath": "#^-"
                     },
                     {
                       "type": "file",
                       "ctime": 1709388865469,
-                      "path": "0-Blog/1-Database/Innodb/Change Buffer.md",
+                      "path": "0-Blog/1-Database/InnoDB/Change Buffer.md",
                       "subpath": "#^-"
                     },
                     {
                       "type": "file",
                       "ctime": 1709388865469,
-                      "path": "0-Blog/1-Database/Innodb/Buffer Pool.md",
+                      "path": "0-Blog/1-Database/InnoDB/Buffer Pool.md",
                       "subpath": "#^-"
                     },
                     {
                       "type": "file",
                       "ctime": 1709388865469,
-                      "path": "0-Blog/1-Database/Innodb/adaptive hash index.md",
+                      "path": "0-Blog/1-Database/InnoDB/adaptive hash index.md",
                       "subpath": "#^-"
                     }
                   ],
-                  "title": "Innodb"
+                  "title": "InnoDB"
                 }
               ],
               "title": "1-Database"
