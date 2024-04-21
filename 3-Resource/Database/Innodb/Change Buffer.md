@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2380
-tags: 
+updatedAt: 2024-04-21 17:19:20+8300
+tags:
+  - Innodb
+  - "#Architecture"
+  - "#Database"
+  - "#hugo_blog"
+category: Innodb
 ---
 - buffer pool 내부에 존재하며, secondary index의 변경을 캐싱하기 위한 공간
 - DML(INSERT, UPDATE, DELETE)로 인한 변경되는 페이지가 buffer pool에 없을떄, secondary index의 변경을 캐시하는 buffer

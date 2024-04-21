@@ -1,7 +1,12 @@
 ---
-date: 2024-04-21 15:02:55+0000
+date: 2024-04-20 15:02:55+0000
 updatedAt: 2024-04-21 15:44:53+2370
-tags: 
+tags:
+	- Innodb
+	- "#Architecture"
+	- "#Database"
+	- "#hugo_blog"
+category: Innodb
 ---
 - Disk에 데이터를 쓰기 전 데이터가 저장되는 메모리 영역
 - 기본 크기는 16MB

@@ -114,3 +114,13 @@ Q
 !2-Area/Software-Design/Service.md,a/5/a5ead83c3fe50e21727c9d70e868ad3e5819d118
 `
 02-Area/Software-Design/협력, 책임, 역할.md,3/9/399284701cbc15dda0f1dd4101724bed573a7825
+a
+13-Resource/Database/Innodb/adaptive hash index.md,1/f/1f4c32aa2d85be295465a962ce104fa1697e2bfa
+Y
+)3-Resource/Database/Innodb/Buffer Pool.md,a/0/a0207bb59b6675ff2cf8517040b387385a82f944
+[
++3-Resource/Database/Innodb/Change Buffer.md,0/0/004ed66b8662a42816f5bb4e10663ebf276a1e43
+a
+13-Resource/Database/Innodb/Double Write Buffer.md,6/3/632a200980bce7ce4872eff166354902bae31389
+X
+(3-Resource/Database/Innodb/Log Buffer.md,5/4/5422466cb8e3958f22891e2b4a8882c45ed16fdd

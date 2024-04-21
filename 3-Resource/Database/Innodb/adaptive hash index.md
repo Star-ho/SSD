@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2380
-tags: 
+updatedAt: 2024-04-21 17:17:50+9150
+tags:
+  - Innodb
+  - "#Architecture"
+  - "#Database"
+  - "#hugo_blog"
+category: Innodb
 ---
 - 트랜잭션이나 안정성의 희생 없이, innodb를 memorydb처럼 활용할 수 있게함
 - 검색 관찰자 패턴(observe pattern of search)를 기반으로 인덱스 키의 접두사를 사용하여 인덱스를 구축

@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2370
-tags: 
+updatedAt: 2024-04-21 17:19:16+1550
+tags:
+  - Innodb
+  - "#Architecture"
+  - "#Database"
+  - "#hugo_blog"
+category: Innodb
 ---
 - 접근했었던 테이블과 인덱스를 캐시하는 메인 메모리
 - 속도를 높이기 위해 빈번히 접근하는 데이터를 메모리에서 바로 접근하게함

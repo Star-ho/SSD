@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
+                "file": "3-Resource/Database/Innodb/Double Write Buffer.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
+                "file": "3-Resource/Database/Innodb/Double Write Buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
+                "file": "3-Resource/Database/Innodb/Double Write Buffer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md"
+                "file": "3-Resource/Database/Innodb/Double Write Buffer.md"
               }
             }
           }
@@ -180,11 +180,16 @@
   },
   "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
-    "3-Resource/Architechure/OOD.md",
-    "3-Resource/Computer-Siece/Process and Thread.md",
-    "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+    "3-Resource/Database/Innodb/Log Buffer.md",
+    "3-Resource/Database/Innodb/Change Buffer.md",
+    "3-Resource/Database/Innodb/Buffer Pool.md",
+    "3-Resource/Database/Innodb/adaptive hash index.md",
     "3-Resource/Concept/HTTP Method PUT vs PATCH.md",
     "3-Resource/Concept/파티셔닝.md",
+    "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+    "3-Resource/Computer-Siece/Process and Thread.md",
+    "3-Resource/Architechure/OOD.md",
+    "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
     "2-Area/Software-Design/Service.md",
     "2-Area/Software-Design/Entity, VO.md",
     "2-Area/Software-Design/Aggregate 생명주기(Factory, Repository).md",
@@ -201,11 +206,6 @@
     "2-Area/Series/java-database-connect/jpa.md",
     "2-Area/Concept/Test.md",
     "2-Area/내 생각/복잡한 코드란?.md",
-    "3-Resource/0-Think/개발업무 중 생성형 ai에 대해.md",
-    "2-Area/Series/Server/13 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
-    "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
-    "2-Area/Series/Server/11-Reactor Java(2).md",
-    "2-Area/Series/Server/10-Reactor Java(1).md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",
