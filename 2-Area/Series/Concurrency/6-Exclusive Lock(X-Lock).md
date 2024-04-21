@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7780
-tags: 
+updatedAt: 2024-04-21 15:50:55+4160
+tags:
+  - hugo_blog
+  - Concurrency
+  - Concept
+  - Database
+category: Concurrency
 ---
 - X-Lock이 걸린 객체에 대해 다른 트랜잭션에서 읽기, 쓰기 불가능
 - X-Lock이 걸린 객체에 대해 다른 객체에서 S-Lock, X-Lock 걸수 없음

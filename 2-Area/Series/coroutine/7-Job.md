@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7560
-tags: 
+updatedAt: 2024-04-21 15:54:17+5520
+tags:
+  - Coroutine
+  - hugo_blog
+category: Coroutine
 ---
 ### JOB은 코루틴이 상속하지 않는 유일한 코루틴 컨텍스트임
 

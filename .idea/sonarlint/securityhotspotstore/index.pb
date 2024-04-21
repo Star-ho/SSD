@@ -68,3 +68,39 @@ H
 .obsidian/workspace.json,3/2/32be0c671001fbc70ffdb0b9311947c2c56cc934
 P
  2-Area/생각정리/개발자.md,f/a/fabacf8b15eb4f5c3828e2095b74ad41c8eee95f
+P
+ 2-Area/Series/Server/2-Sevlet.md,6/7/6737d450fa76dd684cf71e899653bb35f2626723
+P
+ 2-Area/Series/Server/1-Applet.md,9/3/933db825e17d3aaa044e1e93615a847ea194ce71
+Z
+*2-Area/Series/java-database-connect/jpa.md,8/8/889c95d96cf3a29805913de7d54d467e6246ec9e
+[
++2-Area/Series/Server/3-Servlet Container.md,f/c/fc5cc15546c82ad8011d17c386b7aac97118b656
+Y
+)2-Area/Series/Server/4-Jakarta Servlet.md,c/6/c63aea83c4be4208a27439813d7feef06a4fe89e
+W
+'2-Area/Series/Server/5-Apache Tomcat.md,c/9/c96f6a82a84fd370949f181e2d4d4239a37c3ba3
+j
+:2-Area/Series/Server/6-spring mvc request 처리 과정.md,3/4/34a3d5b046c994fa69ece08f4a2f6efdcb35343c
+\
+,2-Area/Series/Server/7-Reactive Manifesto.md,7/1/71e49e664a77c56a7e5177aecad41ba888ad1d89
+[
++2-Area/Series/Server/8-Stream Processing.md,4/4/44da5b4581a8ff2f24b2734d60f5a9c5ba621a92
+Z
+*2-Area/Series/Server/9-Reactive Streams.md,e/c/ecc9cecbe21a2c148956dae02f480eb6fb8ea899
+Z
+*2-Area/Series/Server/10-Reactor Java(1).md,8/a/8adf84c120be5f21b6ee02b66f29c9348aa08250
+Z
+*2-Area/Series/Server/11-Reactor Java(2).md,2/d/2d6ff940fd4f7b2bdf4fb9875faaa3f9f901734e
+u
+E2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md,3/2/325ff01c3e463959bd0940f430d035dd451000fb
+�
+V2-Area/Series/Server/13 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md,6/9/693270fa382249461aa21fb3dafebab9bbb170e6
+Y
+)2-Area/Series/Server/13-Virtual Thread.md,b/8/b871d7b95bc710ff6f8305da0c54700264c06903
+Y
+)2-Area/Series/Server/999-Reactor netty.md,b/0/b0733394367ed53c170227831bcfbb23629fd7cb
+Z
+*2-Area/Series/Server/999-webflux 관련.md,2/5/25f69010c7133f21f38b10cb28357572e4207c82
+S
+#2-Area/Software-Design/Aggregate.md,1/3/136ec1c48f9c85ad9e9c54090a7dc2c2b9fc9f72

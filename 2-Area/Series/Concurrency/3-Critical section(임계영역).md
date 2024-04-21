@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:47:33+6310
-tags: 
+updatedAt: 2024-04-21 15:48:45+1650
+tags:
+  - Concurrency
+  - hugo_blog
+  - Concept
 category: Concurrency
 ---
 - 동시성을 가지는 작업들이 공유하는 자원

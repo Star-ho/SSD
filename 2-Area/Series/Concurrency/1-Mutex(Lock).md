@@ -1,10 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:46:41+1420
+updatedAt: 2024-04-21 15:48:38+1510
 tags:
   - Concurrency
   - hugo_blog
   - lock
+  - Concept
 category: Concurrency
 ---
 - **Mut**ual **ex**clusion의 약자

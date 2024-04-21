@@ -1,10 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:43:43+5200
+updatedAt: 2024-04-21 15:51:14+0630
 tags:
   - hugo_blog
   - Coroutine
   - Concept
+category: Coroutine
 ---
 - 작은 쓰레드, 하나의 쓰레드를 어떻게 효율적으로 처리할것인가에 대한 방안 중 하나
 - block작업(io요청)이 발생했을때, thread를 block하지않고 해당 작업을 suspend시키고 다른작업을 처리함

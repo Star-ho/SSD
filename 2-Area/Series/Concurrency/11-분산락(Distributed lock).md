@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7790
-tags: 
+updatedAt: 2024-04-21 15:51:08+1490
+tags:
+  - Concurrency
+  - Concept
+  - hugo_blog
+category: Concurrency
 ---
 - named lock
 - mysql, redis 등 named lock을 지원하는 저장소에서 사용가능

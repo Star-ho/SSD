@@ -1,9 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:47:24+1260
+updatedAt: 2024-04-21 15:48:42+1490
 tags:
   - Concurrency
   - hugo_blog
+  - Concept
 category: Concurrency
 ---
 - 임계영역을 보호하는 방법

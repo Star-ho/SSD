@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7610
-tags: 
+updatedAt: 2024-04-21 15:51:45+9980
+tags:
+  - hugo_blog
+  - Coroutine
+category: Coroutine
 ---
 - dispatcher의 사전적 정의
 	- 사람이나 차량, 특히 긴급 차량을 필요한 곳으로 보낼 책임이 있는 사람

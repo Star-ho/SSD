@@ -1,7 +1,9 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7640
-tags: 
+updatedAt: 2024-04-21 15:51:25+1270
+tags:
+  - Coroutine
+  - hugo_blog
 ---
 ## 정의
 *Persistent context for the coroutine. It is an indexed set of Element instances. An indexed set is a mix between a set and a map. Every element in this set has a unique Key**

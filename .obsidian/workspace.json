@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Concurrency/3-Critical section(임계영역).md",
+                "file": "2-Area/Series/Server/2-Sevlet.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "[\"cssclasses\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Concurrency/3-Critical section(임계영역).md",
+                "file": "2-Area/Series/Server/2-Sevlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Concurrency/3-Critical section(임계영역).md",
+                "file": "2-Area/Series/Server/2-Sevlet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Concurrency/3-Critical section(임계영역).md"
+                "file": "2-Area/Series/Server/2-Sevlet.md"
               }
             }
           }
@@ -180,32 +180,32 @@
   },
   "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
-    "2-Area/Series/Concurrency/2-Semaphore.md",
-    "2-Area/Series/Concurrency/1-Mutex(Lock).md",
-    "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
-    "2-Area/Series/cache/Caching Strategy.md",
-    "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
-    "2-Area/Series/Async-messaging/Async-messaging.md",
-    "2-Area/Concept/Test.md",
-    "2-Area/생각정리/일정.md",
-    "2-Area/생각정리/수정시 코드의 영향도.md",
-    "2-Area/생각정리/레거시.md",
-    "2-Area/생각정리/계속해서 기술공부를 하는 이유.md",
-    "2-Area/1-Weekly-Reading/개발.md",
+    "2-Area/Series/Server/1-Applet.md",
+    "2-Area/Series/Server/0-Static Web Server.md",
+    "2-Area/Series/java-database-connect/jpa.md",
+    "2-Area/Series/coroutine/vs thread.md",
+    "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
+    "2-Area/Series/coroutine/Coroutine.md",
+    "2-Area/Series/coroutine/코루틴.md",
+    "2-Area/Series/coroutine/7-Job.md",
+    "2-Area/Series/coroutine/6-Coroutine builder.md",
+    "2-Area/Series/coroutine/5-Coroutine  CPS.md",
+    "2-Area/Series/coroutine/4-Coroutine suspend.md",
+    "2-Area/Series/coroutine/3-CoroutinDispatcher.md",
+    "2-Area/Series/coroutine/2-CoroutineScope.md",
+    "2-Area/Series/coroutine/1-CoroutineContext.md",
     "2-Area/Series/coroutine/0-Coroutine.md",
     "2-Area/Series/Concurrency/11-분산락(Distributed lock).md",
     "2-Area/Series/Concurrency/10-Isolation level(격리 수준).md",
-    "2-Area/Series/Concurrency/9-Record Locks.md",
-    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
-    "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
     "2-Area/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
+    "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
+    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
+    "2-Area/Series/Concurrency/9-Record Locks.md",
     "2-Area/Series/Concurrency/5-Optimistic Lock.md",
     "2-Area/Series/Concurrency/4-Consistent Read(일관된 읽기).md",
     "2-Area/Series/Concurrency/3-Critical section(임계영역).md",
-    "2-Area/생각정리/read, write, jpa?.md",
-    "2-Area/생각정리/황성호 공부법.md",
-    "2-Area/생각정리/혁펜하임 공부법.md",
-    "2-Area/생각정리/팀원으로서 마인드셋.md",
+    "2-Area/Series/Concurrency/2-Semaphore.md",
+    "2-Area/Series/Concurrency/1-Mutex(Lock).md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",

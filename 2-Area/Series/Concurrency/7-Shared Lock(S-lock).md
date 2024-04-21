@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7780
-tags: 
+updatedAt: 2024-04-21 15:50:52+5250
+tags:
+  - Concurrency
+  - Concept
+  - hugo_blog
+  - Database
+category: Concurrency
 ---
 - 특정 행을 읽기위해 거는 락
 - 어떤 object에 S-lock이 걸려있다면 다른 트랜잭션에서 읽기는 가능하지만 변경은 불가능함

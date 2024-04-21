@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7540
-tags: 
+updatedAt: 2024-04-21 15:52:05+3840
+tags:
+  - hugo_blog
+  - Coroutine
+category: Coroutine
 ---
 - Kotlin Coroutine은 일시중단을 구현하기 위해 ContinuosPassing style을 적용하였음
 

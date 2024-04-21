@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7800
-tags: 
+updatedAt: 2024-04-21 15:50:23+8280
+tags:
+  - Concurrency
+  - Concept
+  - hugo_blog
+  - Database
+category: Concurrency
 ---
 - IS, IX lock과 S,X Lock과의 차이는 테이블까지 락이 걸림
 - IS, IX lock을 걸면 해당 테이블에도 락이 걸림

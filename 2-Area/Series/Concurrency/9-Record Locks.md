@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7770
-tags: 
+updatedAt: 2024-04-21 15:50:34+7060
+tags:
+  - Concurrency
+  - hugo_blog
+  - Concept
+  - Database
+category: Concurrency
 ---
 - record의 index에 거는 lock
 

@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:52+7790
-tags: 
+updatedAt: 2024-04-21 15:48:24+2790
+tags:
+  - Concurrency
+  - hugo_blog
+  - Concept
+category: Concurrency
 ---
 - 첫번째 읽을때 스냅샷을 생성함으로써, 다른 트랜잭션에서 발생한 변경과는 무관하게, 스냅샷을 생성했을 때의 데이터를 읽을수 있는 것을 말함
 
