@@ -1,7 +1,9 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1790
-tags: 
+updatedAt: 2024-04-21 17:41:40+9830
+tags:
+  - Concept
+  - hugo_blog
 ---
 ### Concurrency(동시성)
 

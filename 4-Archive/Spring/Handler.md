@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1840
-tags: 
+updatedAt: 2024-04-21 17:49:15+9450
+tags:
+  - Spring
+  - Concept
+categories:
+  - Spring
 ---
 먼저 Handler란, 특정 유형의 데이터에 특화되어 있거나, 특정한 작업에 초점에 맞춘 루틴/함수/메서드입니다.
 

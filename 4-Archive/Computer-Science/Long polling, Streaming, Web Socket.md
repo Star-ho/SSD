@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1370
-tags: 
+updatedAt: 2024-04-21 17:40:46+5470
+tags:
+  - Network
+  - hugo_blog
+categories:
+  - Network
 ---
 ## Why?
 - 클라이언트가 서버에게 http요청을 보내는 상황이 아닌, 서버에서 클라이언트에게 요청을 보내는 상황이 발생시 유용함

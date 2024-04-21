@@ -1,6 +1,8 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1340
-tags: 
+updatedAt: 2024-04-21 17:46:50+0310
+tags:
+  - front-end
+  - hugo_blog
 ---
 https://velocity.builder.io/

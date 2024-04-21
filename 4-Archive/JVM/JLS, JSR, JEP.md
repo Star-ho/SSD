@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1760
-tags: 
+updatedAt: 2024-04-21 17:48:09+8630
+tags:
+  - Terms
+  - JVM
+categories:
+  - Terms
 ---
 ## JEP - [JDK Enhancement Proposal](https://openjdk.org/jeps/0)
 

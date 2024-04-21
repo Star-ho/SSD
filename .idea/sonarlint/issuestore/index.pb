@@ -204,3 +204,19 @@ N
 3-Resource/Tool/kotlin-jdsl.md,4/8/48468cd5d1ec8dd5d89f6c9cdb2cfaa96011c979
 e
 53-Resource/Cache Passivation, Expiration, Eviction.md,2/9/2915e1b2640cd3cea8024155a9daf56f5418ea6c
+`
+04-Archive/Computer-Science/0.0.0.0 ip address.md,8/0/80ddbb1a6a02807957a878794bc806e00fc74eed
+q
+A4-Archive/Computer-Science/Long polling, Streaming, Web Socket.md,f/d/fdd1dbc4885b6ec38548479131d178a62a0e67cd
+i
+94-Archive/Computer-Science/webserver, was 발전과정.md,a/e/aecb875819968d91dc00251fc396698bf6f9219f
+�
+s4-Archive/Computer-Science/네트워크에서 들어온 데이터가 어플리케이션에서 사용되기까지.md,3/5/359fb8dbdfffb997c58d7bddd340d24d41a1c508
+_
+/4-Archive/Concept/Concurrency vs Parallelism.md,6/0/60194eed351eb01ecdc224f7c02a053d2624090e
+X
+(4-Archive/Concept/CPU bound, IO bound.md,1/3/138291f552717c11c37eb7a5d8ff8d05230f9fd0
+[
++4-Archive/Concept/DLQ(Dead Letter Queue).md,4/f/4ff6f863656c673c86c60b5197d56fd8ee67767a
+a
+14-Archive/Concept/Forward Proxy, Reverse Proxy.md,6/a/6a9f0e18a8fbf7ebf10daed65b0044ef781e8cd3

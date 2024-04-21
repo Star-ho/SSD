@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1010
-tags: 
+updatedAt: 2024-04-21 17:46:37+1210
+tags:
+  - Trouble-Shooting
+  - Database
+  - hugo_blog
+categories:
+  - Database
 ---
 
 - 커넥션 관련 쿼리

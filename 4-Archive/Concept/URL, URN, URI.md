@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1790
-tags: 
+updatedAt: 2024-04-21 17:47:10+1080
+tags:
+  - Network
+  - Concept
+  - hugo_blog
+categories:
+  - Network
 ---
 ![|center|600](Pasted%20image%2020240409223209.png)
 

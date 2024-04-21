@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1790
-tags: 
+updatedAt: 2024-04-21 17:43:13+4980
+tags:
+  - Programming-Language
+  - Concept
+  - hugo_blog
 ---
 ### 정적타입
 - 자료형을 컴파일시에 확인

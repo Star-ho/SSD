@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1800
+updatedAt: 2024-04-21 17:42:32+2870
 tags: 
 ---
 - Open(열려있는) + Telemetry(원격측정)의 합성어
@@ -10,3 +10,5 @@ tags:
 과연 어떻게될지....
 
 https://opentelemetry.io/docs/concepts/
+
+#argent 

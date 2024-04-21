@@ -1,7 +1,9 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1780
-tags: 
+updatedAt: 2024-04-21 17:41:46+2850
+tags:
+  - Concept
+  - hugo_blog
 ---
 ## Cpu Bound
 - CPU가 빨라지면 작업이 빨라지는 작업  
