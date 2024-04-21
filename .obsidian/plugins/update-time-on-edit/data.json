@@ -606,7 +606,7 @@
     "0-Blog/java-database-connect/jpa.md": "04708f93a86cf38dcc6d29bd1838e21544cddb33ee1baa9dfd89f0d044530dd8",
     "2-Area/Series/Async-messaging/Async-messaging.md": "6ad93f87266bdeaa90d58621dc249e6bb10c333029a3fa734be5c978344ce203",
     "2-Area/Series/cache/Caching Strategy.md": "9f6aed1a0c5f52ae362eb7750f6d577d1310cfcd40b25066d8e824246a285e80",
-    "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md": "6ad554d5f02fcb0128db932b7128177ce0e0e0d3f781d87232a026529fe59c35",
+    "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md": "8df938d72affed241303241981f877495c3664117526f1f95917aa0ecbeb7593",
     "2-Area/Series/Concurrency/1-Mutex(Lock).md": "c31eadbba410b401bb05a6f36b9571a1bf48cc77e6c1db99f2c2ab82bde0e02e",
     "2-Area/Series/Concurrency/9-Record Locks.md": "7e32cbcd9c9090a8024301c1446eefb2c94df4df933cff3cbe05a09457e138a5",
     "2-Area/Series/Concurrency/2-Semaphore.md": "f801c5dce942850ac89147ea7f0c0ace8856e1ae2b5406dee4e91d8899a101be",

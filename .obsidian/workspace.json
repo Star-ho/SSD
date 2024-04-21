@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
+                "file": "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:hugo_blog",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
+                "file": "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Async-messaging/Async-messaging.md",
+                "file": "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Async-messaging/Async-messaging.md"
+                "file": "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md"
               }
             }
           }
@@ -180,6 +180,8 @@
   },
   "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
+    "2-Area/Series/Async-messaging/Async-messaging.md",
+    "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
     "2-Area/1-Weekly-Reading/인생...md",
     "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md",
     "0-Blog/1-Server/1-Applet.md",
@@ -204,8 +206,6 @@
     "5-Temp/0-이직자료/내 장점.md",
     "5-Temp/Computer Science/Network/spdy.md",
     "5-Temp/Softeware Architecture/msa 인증 구현.md",
-    "5-Temp/Database/mysql 저장 글자수.md",
-    "5-Temp/z-etc/msa.md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",
