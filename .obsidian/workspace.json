@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "5-Temp/0-이직자료/f-lab 이력서 모음.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "5-Temp/0-이직자료/f-lab 이력서 모음.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "5-Temp/0-이직자료/f-lab 이력서 모음.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md"
+                "file": "5-Temp/0-이직자료/f-lab 이력서 모음.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
+    "3-Resource/Database/Innodb/Buffer Pool.md",
     "3-Resource/Database/GTID.md",
     "3-Resource/Database/Database LSN.md",
     "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
@@ -205,7 +206,6 @@
     "4-Archive/Tools/Eclips memory Analyzer.md",
     "4-Archive/Tools/DeepL.md",
     "4-Archive/Tools/Cucumber.md",
-    "4-Archive/Tools/ctop.md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",
