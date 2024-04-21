@@ -604,7 +604,7 @@
     "0-Blog/cache/Caching Strategy.md": "7809c96065f93f3d731f87eadbc84043a260849c597a1d67f0cd35ef6b79c7be",
     "0-Blog/cache/Cache Passivation, Expiration, Eviction.md": "6ad554d5f02fcb0128db932b7128177ce0e0e0d3f781d87232a026529fe59c35",
     "0-Blog/java-database-connect/jpa.md": "04708f93a86cf38dcc6d29bd1838e21544cddb33ee1baa9dfd89f0d044530dd8",
-    "2-Area/Series/Async-messaging/Async-messaging.md": "595cc3473506d7f1ebd9314c45c09ca21ab62fb8575e56259cb76525bb7c89cc",
+    "2-Area/Series/Async-messaging/Async-messaging.md": "6ad93f87266bdeaa90d58621dc249e6bb10c333029a3fa734be5c978344ce203",
     "2-Area/Series/cache/Caching Strategy.md": "9f6aed1a0c5f52ae362eb7750f6d577d1310cfcd40b25066d8e824246a285e80",
     "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md": "6ad554d5f02fcb0128db932b7128177ce0e0e0d3f781d87232a026529fe59c35",
     "2-Area/Series/Concurrency/1-Mutex(Lock).md": "c31eadbba410b401bb05a6f36b9571a1bf48cc77e6c1db99f2c2ab82bde0e02e",
@@ -682,7 +682,7 @@
     "0-Blog/JVM/Concurrent/4-Volitile.md": "19122949037d25228b8772a2725d95cfc5e2b63af075f09fb5faa12f3ac199f2",
     "0-Blog/JVM/Concurrent/5-ExecutorService & CountDownLatch.md": "2d78f7f10b6825a49d5c41ba822be48ac3313bae5c534c8ec485f51988b9498e",
     "0-Blog/JVM/JVM memory structure.md": "79fc7b856cadaa7d31c97adc00f303ec9b7f24dc9b6df050aae650c86cd4288c",
-    "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md": "c2ba511eb080a96b6322def954b9b124641f6fa09f141c46834538283119feab",
+    "0-Blog/JVM/Garbage Collection/0-Garbage Collection Concept.md": "f5bed8442db0d79abf62990f93b3a63e0ad581da973502f0bf46ea1309ba6bc2",
     "0-Blog/JVM/Garbage Collection/1-Garbage Collection Process.md": "a05895f66cbdb7bd7ccdfbd670f5cafd0c7024f58223cc5f4ea370930e3537af",
     "0-Blog/JVM/Garbage Collection/2-Garbage Collection Types.md": "87df21fa89f3dba2285a245a5cb20a725a7f95ef8fcb66d020e708d1a85bd1d3",
     "0-Blog/JVM/Java built in Annotation.md": "9dc27e641d581e9b41d1df42197e54e6ec1ccb635098080417f0ce6e3389d9ae",
@@ -796,8 +796,8 @@
     "0-Blog/2-Concurrency/7-Shared Lock(S-lock).md": "63e1390285a8df0d10553983f6fd482a3173afd82b4b4d8aa4875c4b034a7f62",
     "0-Blog/2-Concurrency/8-Intention shared lock, exclusive lock.md": "4f063cafb9e5c797908676569a5d7fda41730443b635d0417fcefb082b308f1a",
     "0-Blog/2-Concurrency/9-Record Locks.md": "7e32cbcd9c9090a8024301c1446eefb2c94df4df933cff3cbe05a09457e138a5",
-    "0-Blog/1-Server/1-Applet.md": "4e28ce0ecbc13db3e1924bb3d6ff010be8f25b8778ef0451a50191e813578524",
-    "0-Blog/1-Server/0-Static Web Server.md": "9eff6e502820d8ab7f383c15bb63c52fa16f8610437c7e4f643e6fbcaad75630",
+    "0-Blog/1-Server/1-Applet.md": "7c72da2ecde4fcc0a8c0ca331e7bfa2641f99543df713d435e5dbad6cb24afd4",
+    "0-Blog/1-Server/0-Static Web Server.md": "a50c0a4d9c6b56935c745ea4eed9f4afa83c9b456a3d0cd315db3e9f38b442db",
     "0-Blog/1-Server/10-Reactor Java(1).md": "4b1b5108971f36623c68fabc0daa218c4dbdfd20b138ecbc4160574fc9490623",
     "0-Blog/1-Server/11-Reactor Java(2).md": "e7a2daa7830043ca3298d65653fe42c63423872dc2bd08ab69776ee8ca3ef7d5",
     "0-Blog/1-Server/12-Virtual Thread.md": "659ff512a7aa4f55165244cc1da0c0b7b699ffaa8dcb13ee527cac8a5f980fa6",
@@ -887,7 +887,6 @@
     "5-Temp/Database/mysql 저장 글자수.md": "c50205e4b78ed7b52c714605e62119e51bcd1f352fc402fd136d071e8f9e5af1",
     "5-Temp/Softeware Architecture/msa 인증 구현.md": "177b439de7fa8bc13a6cefd3cf6efa0cfcebefeded189d982e287a37e5284d9e",
     "5-Temp/0-이직자료/내 장점.md": "8b678cb556efda340ba8307c760b12df1ff73b764e0ab2d8d60b3c27bf5b808c",
-    "5-Temp/Softeware Architecture/replication vs clustering.md": "fe4ec89f42dba1b14544d0b69988c05c9b934dca43e1d08b6d92375f104d3865",
-    "0-Blog/1-Server/_index.md": "c00aafd94f2900defb4999c740143a9de35b29c9648988a1f6a17ce2daad979e"
+    "5-Temp/Softeware Architecture/replication vs clustering.md": "fe4ec89f42dba1b14544d0b69988c05c9b934dca43e1d08b6d92375f104d3865"
   }
 }

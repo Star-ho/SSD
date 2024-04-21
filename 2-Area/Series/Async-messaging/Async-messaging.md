@@ -1,6 +1,8 @@
 ---
 created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T11:29
+tags:
+  - hugo_blog
 ---
 # 비동기 메시징
 - 결합도를 낮춰줌
@@ -63,12 +65,3 @@ https://www.cloudamqp.com/blog/why-is-a-database-not-the-right-tool-for-a-queue-
 https://stackoverflow.com/questions/48099098/message-broker-vs-database-and-monitoring
 https://docs.oracle.com/cd/E19636-01/819-3567/mq_service.html
 https://oliveyoung.tech/blog/2023-08-07/async-process-of-coupon-issuance-using-redis/BC
-
-#Async-messaging
-#Transactional-outboxk
-#message-queue 
-#redis
-#pub-sub
-#message-broker
-#Kafka 
-#event-streaming
