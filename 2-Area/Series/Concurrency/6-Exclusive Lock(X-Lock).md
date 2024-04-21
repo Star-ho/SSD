@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags: 
+updatedAt: 2024-04-21T15:11
+tags:
+  - Concurrency
+  - lock
+  - hugo_blog
 ---
 - X-Lock이 걸린 객체에 대해 다른 트랜잭션에서 읽기, 쓰기 불가능
 - X-Lock이 걸린 객체에 대해 다른 객체에서 S-Lock, X-Lock 걸수 없음

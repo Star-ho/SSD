@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags: 
+updatedAt: 2024-04-21T15:11
+tags:
+  - Concurrency
+  - hugo_blog
+  - lock
 ---
 - record의 index에 거는 lock
 

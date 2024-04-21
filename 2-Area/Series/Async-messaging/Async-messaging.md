@@ -1,7 +1,9 @@
 ---
 date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags: 
+updatedAt: 2024-04-21T15:10
+tags:
+  - "#hugo_blog"
+  - Async-Messaging
 ---
 # 비동기 메시징
 - 결합도를 낮춰줌
@@ -54,6 +56,7 @@ tags:
 - 메모리에 저장하는방식, 파일기반 저장방식, jdbc로 저장하는 방식이 있음
 - kafka, rabbitMQ, ZeroMQ, Pulsar, SQS 등이 존재
 
+### 참고자료
 https://blog.bytebytego.com/p/why-do-we-need-a-message-queue
 https://blog.iron.io/message-queue-vs-streaming/
 https://dreamix.eu/insights/message-queue-vs-message-broker-whats-the-difference/

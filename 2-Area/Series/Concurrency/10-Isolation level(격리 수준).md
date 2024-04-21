@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags: 
+updatedAt: 2024-04-21T15:12
+tags:
+  - Concurrency
+  - Isolation-Level
+  - hugo_blog
 ---
 - 여러 트랜잭션이 동시에 변경을 수행하고 쿼리를 수행할 때 성능과 안정성, 일관성 및 결과 재현성 간의 균형을 미세 조정하는 설정
 

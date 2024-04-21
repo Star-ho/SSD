@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Blog/1-Server/0-Static Web Server.md",
+                "file": "2-Area/Series/coroutine/0-Coroutine.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Blog/1-Server/0-Static Web Server.md",
+                "file": "2-Area/Series/coroutine/0-Coroutine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Blog/1-Server/0-Static Web Server.md",
+                "file": "2-Area/Series/coroutine/0-Coroutine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Blog/1-Server/0-Static Web Server.md"
+                "file": "2-Area/Series/coroutine/0-Coroutine.md"
               }
             }
           }
@@ -180,32 +180,32 @@
   },
   "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
-    "0-Blog/Async-messaging/Async-messaging.md",
-    "0-Blog/Tip/code convention.md",
-    "0-Blog/Tip/인텔리제이 java 버전 변경 시.md",
-    "0-Blog/Tip/디버깅.md",
-    "1-Project/Temp에 있는것들 정리.md",
-    "1-Project/Micro Sevice Pattern.md",
-    "1-Project/intellij 단축키 외우기.md",
-    "1-Project/InnoDB.md",
-    "0-Blog/Tool/jooq.md",
-    "0-Blog/Tool/Java Development Kit Version 20 Tool Specifications.md",
-    "0-Blog/Tool/DeepL.md",
-    "0-Blog/Tool/ctop.md",
-    "0-Blog/Tool/Brotli.md",
-    "0-Blog/Tool/Clippy.md",
-    "0-Blog/Tool/Byte Buddy.md",
-    "0-Blog/Tool/화면분할 in mac.md",
-    "0-Blog/Tool/테스트 픽스처 도구.md",
-    "0-Blog/황성호 - Backend Engineer.md",
-    "2-Area/0-Sung-ho/명상.md",
-    "2-Area/0-Sung-ho/광교 맛집.md",
-    "2-Area/0-Sung-ho/공부법.md",
-    "2-Area/0-Sung-ho/분업.md",
-    "2-Area/0-Sung-ho/인생 팁/집구할떄.md",
-    "2-Area/0-Sung-ho/인생 팁/어떤걸 살때 할인하는걸 찾고싶다면?.md",
-    "0-Blog/JVM/Bazel.md",
-    "0-Blog/JVM/Garbage Collection/2-Garbage Collection Types.md",
+    "2-Area/Series/Concurrency/11-분산락(Distributed lock).md",
+    "2-Area/Series/Concurrency/10-Isolation level(격리 수준).md",
+    "2-Area/Series/Concurrency/9-Record Locks.md",
+    "2-Area/Series/Concurrency/8-Intention shared lock, exclusive lock.md",
+    "2-Area/Series/Concurrency/7-Shared Lock(S-lock).md",
+    "2-Area/Series/Concurrency/6-Exclusive Lock(X-Lock).md",
+    "2-Area/Series/Concurrency/5-Optimistic Lock.md",
+    "2-Area/Series/Concurrency/4-Consistent Read(일관된 읽기).md",
+    "2-Area/Series/Concurrency/3-Critical section(임계영역).md",
+    "2-Area/Series/Concurrency/2-Semaphore.md",
+    "2-Area/Series/Concurrency/1-Mutex(Lock).md",
+    "2-Area/Series/Concurrency/0-동시성(Concurrency).md",
+    "2-Area/Series/cache/Caching Strategy.md",
+    "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md",
+    "2-Area/Series/Async-messaging/Async-messaging.md",
+    "2-Area/Concept/Test.md",
+    "2-Area/생각정리/read, write, jpa?.md",
+    "2-Area/생각정리/황성호 공부법.md",
+    "2-Area/생각정리/혁펜하임 공부법.md",
+    "2-Area/생각정리/팀원으로서 마인드셋.md",
+    "2-Area/생각정리/테스트코드.md",
+    "2-Area/생각정리/클래스, 메서드,.md",
+    "2-Area/생각정리/일정.md",
+    "2-Area/생각정리/신경론.md",
+    "2-Area/생각정리/수정시 코드의 영향도.md",
+    "2-Area/생각정리/레거시.md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",

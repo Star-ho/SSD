@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags: 
+updatedAt: 2024-04-21T15:11
+tags:
+  - lock
+  - Concurrency
+  - hugo_blog
 ---
 - CAS(compare and Set)이라고도 함
 - 데이터베이스 수준이 아닌 어플리케이션 수준에서 자원을 관리
@@ -12,5 +15,5 @@ tags:
 - 장점
 	- 데이터베이스에서 lock을 걸지 않기 때문에 pessimistic lock보다 데이터 베이스 부하가 적음
 
-
+### 참고자료
 https://en.wikipedia.org/wiki/Optimistic_concurrency_control

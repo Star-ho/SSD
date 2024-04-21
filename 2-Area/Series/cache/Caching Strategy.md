@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags: 
+updatedAt: 2024-04-21T15:10
+tags:
+  - "#Cache"
+  - "#Cache-Strategy"
+  - hugo_blog
 ---
 ## 어디에 저장할 것인가?
 ### In-memory caching
@@ -69,6 +72,7 @@ tags:
 	- 데이터가 얼마나 일관되게 읽혀졌는지
 	- 실데이터와 불일치가 얼마나 적게 발생했는지
 
+### 참고자료
 https://medium.com/@mmoshikoo/cache-strategies-996e91c80303
 https://yoongrammer.tistory.com/101
 

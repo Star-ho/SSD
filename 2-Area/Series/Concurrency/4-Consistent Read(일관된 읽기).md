@@ -1,7 +1,9 @@
 ---
 date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags: 
+updatedAt: 2024-04-21T15:10
+tags:
+  - "#hugo_blog"
+  - Concurrency
 ---
 - 첫번째 읽을때 스냅샷을 생성함으로써, 다른 트랜잭션에서 발생한 변경과는 무관하게, 스냅샷을 생성했을 때의 데이터를 읽을수 있는 것을 말함
 
@@ -15,5 +17,6 @@ tags:
 
 -  ALTER TABLE문과 DROP TABLE문에서는 작동하지 않음 
 
+### 참고자료
 https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_consistent_read
 https://dev.mysql.com/doc/refman/8.0/en/innodb-consistent-read.html

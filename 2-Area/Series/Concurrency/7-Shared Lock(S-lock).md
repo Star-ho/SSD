@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags: 
+updatedAt: 2024-04-21T15:11
+tags:
+  - "#Concurrency"
+  - lock
+  - hugo_blog
 ---
 - 특정 행을 읽기위해 거는 락
 - 어떤 object에 S-lock이 걸려있다면 다른 트랜잭션에서 읽기는 가능하지만 변경은 불가능함

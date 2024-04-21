@@ -1,8 +1,9 @@
 ---
 date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
+updatedAt: 2024-04-21T15:10
 tags:
   - Semaphore
+  - hugo_blog
   - need-to-deep-dive
 ---
 - 임계영역을 보호하는 방법
@@ -16,7 +17,7 @@ tags:
 - but, 어느 화장실 칸이 비었는지 모르기에 추가적인 정보가 더 필요함
 - [추가적인 정보가 궁금하다면 여기](https://barrgroup.com/embedded-systems/how-to/rtos-mutex-semaphore)
 
-
+### 참고자료
 [식사하는 철학자들 문제](https://ko.wikipedia.org/wiki/%EC%8B%9D%EC%82%AC%ED%95%98%EB%8A%94_%EC%B2%A0%ED%95%99%EC%9E%90%EB%93%A4_%EB%AC%B8%EC%A0%9C)
 https://stackoverflow.com/a/2332868/22483906
 https://stackoverflow.com/questions/2350544/in-what-situation-do-you-use-a-semaphore-over-a-mutex-in-c/2350628#2350628
