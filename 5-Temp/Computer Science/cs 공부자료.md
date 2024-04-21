@@ -1,6 +1,7 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags: 
 ---
 공룡책
 https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf

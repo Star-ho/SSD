@@ -1,6 +1,11 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Hibernate
+  - Spring
+  - Jpa
+  - Persistence
 ---
 ### Hibernate
 - Java로 작성된 프로그램에서 관계형 데이터를 자연스럽고, typesafe한 형태로 사용할 수 있게함
@@ -40,9 +45,5 @@ date: 2024-04-13T22:56
 	- 세션과 연결된 영속객체의 변경을 확인하고, insert, update문을 통해 데이터베이스와 세션의 상태를 동기화함
 
 
-#Hibernate
-#Spring
-#Jpa
-#Persistence
 https://docs.jboss.org/hibernate/orm/6.4/introduction/html_single/Hibernate_Introduction.html
 https://docs.jboss.org/hibernate/orm/6.4/userguide/html_single/Hibernate_User_Guide.html

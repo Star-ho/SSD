@@ -1,6 +1,11 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Database
+  - Undo-log
+  - Dirty-read
+  - Innodb-On-Disk-Structure
 ---
 - 하나의 트랜잭션에 들어있는 undo log 레코드의 집합임
 - clustered index 레코드에 대한 트랜잭션을 취소하는 방법에 대한 정보가 포함되어있음
@@ -24,8 +29,4 @@ date: 2024-04-13T22:56
 
 https://dev.mysql.com/doc/refman/8.0/en/innodb-undo-logs.html
 
-#Database
-#Undo-log
-#Dirty-read
 #Innodb 
-#Innodb-On-Disk-Structure

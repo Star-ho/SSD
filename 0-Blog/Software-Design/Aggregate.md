@@ -1,6 +1,10 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Software-design
+  - Domain-Model
+  - Aggregate
 ---
 - 데이터의 변경단위로 다루는 연관 객체의 묶음
 - Root Entity와 Boundary Entity가 존재
@@ -24,7 +28,3 @@ date: 2024-04-13T22:56
 4. Aggregate안의 객체는 다른 Aggregate의 루트만 참조할 수 있다.
 5. 삭제연산은 Aggregate안의 모든 요소를 제거해야 한다.
 6. Aggregate경계 안의 어떤 객체를 변경하더라도 전체 Aggregate의 불변식은 지켜져야 한다.
-
-#Software-design
-#Domain-Model
-#Aggregate

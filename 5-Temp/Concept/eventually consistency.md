@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Eventually-consistency
 ---
 nosql eventual consistency
 
@@ -9,5 +11,3 @@ nosql eventual consistency
 그래서 적당한 수만하고 응답후
 나머지에 대해 변경함
 일관성이 즉시 보장되진 않지만, 결과적으로 일관성이 보장되기에 최종적일관성이라는 용어사용
-
-#Eventually-consistency

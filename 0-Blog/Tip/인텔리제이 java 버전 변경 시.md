@@ -1,6 +1,7 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags: 
 ---
 - File > Project Structure 에서 버전 변경  
 - Edit configuration > Build and run에서 버전 변경

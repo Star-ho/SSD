@@ -1,6 +1,7 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags: 
 ---
 - Jakarta Servlet, Jakarta Server Page, Jakarta Expression Language, Jakarta WebSocket, Jakarta Annotations, Jakarta Authentication 의 세부사항을 구현한 오픈소스 소프트웨어
 

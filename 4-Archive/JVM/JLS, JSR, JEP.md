@@ -1,6 +1,11 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Java
+  - JLS
+  - JSR
+  - JEP
 ---
 ## JEP - [JDK Enhancement Proposal](https://openjdk.org/jeps/0)
 
@@ -18,8 +23,3 @@ date: 2024-04-13T22:56
 
 [https://stackoverflow.com/questions/51282326/what-is-the-difference-or-relation-between-jls-jsr-and-jep](https://stackoverflow.com/questions/51282326/what-is-the-difference-or-relation-between-jls-jsr-and-jep)  
 [https://itecnote.com/tecnote/java-the-difference-or-relation-between-jls-jsr-and-jep/](https://itecnote.com/tecnote/java-the-difference-or-relation-between-jls-jsr-and-jep/)
-
-#Java
-#JLS
-#JSR
-#JEP

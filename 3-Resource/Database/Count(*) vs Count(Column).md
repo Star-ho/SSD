@@ -1,6 +1,7 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-14T21:52
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags: 
 ---
 - 테이블의 전체 개수를 얻기 위해 Count()과 Count(Column)를 사용할때는 Count(_)가 성능적으로 더 좋음  
 - Count를 할때는 null값을 확인한 후 null이 아닌 개수만 리턴하는데, Count(Column)을 하게되면 Column의 null체크를 하기때문에 성능 저하가 발생함,  

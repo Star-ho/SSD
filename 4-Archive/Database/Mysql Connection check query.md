@@ -1,6 +1,10 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-14T21:52
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Database
+  - Mysql-connection
+  - Trouble-Shooting
 ---
 
 - 커넥션 관련 쿼리
@@ -17,7 +21,4 @@ SHOW STATUS WHERE `variable_name` = 'Threads_connected';
 
 
 
-#Database
 #MySQL 
-#Mysql-connection
-#Trouble-Shooting

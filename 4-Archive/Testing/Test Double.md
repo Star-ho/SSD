@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Test-Double
 ---
 ## Fixture
 - 소프트웨어를 일관되게 테스트 할 수 있게 해주는 장치
@@ -52,4 +54,3 @@ date: 2024-04-13T22:56
 
 https://martinfowler.com/articles/mocksArentStubs.html
 http://xunitpatterns.com/Test%20Double.html
-#Test-Double

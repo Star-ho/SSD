@@ -1,8 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-21T11:32
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
 tags:
-  - hugo_blog
+  - Concept
+  - Definition
 ---
 ## Eviction
 
@@ -20,5 +21,3 @@ tags:
 [https://access.redhat.com/documentation/es-es/jboss_enterprise_application_platform_common_criteria_certification/5/html/jboss_cache_user_guide/cl.pass](https://access.redhat.com/documentation/es-es/jboss_enterprise_application_platform_common_criteria_certification/5/html/jboss_cache_user_guide/cl.pass)
 
 #Cache 
-#Concept
-#Definition

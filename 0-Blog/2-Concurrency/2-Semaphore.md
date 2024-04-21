@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41
-date: 2024-04-19T23:05
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Semaphore
+  - need-to-deep-dive
 ---
 - 임계영역을 보호하는 방법
 - 여러 스레드의 임계영역에 대한 엑세스를 제어
@@ -19,5 +22,3 @@ https://stackoverflow.com/questions/2350544/in-what-situation-do-you-use-a-semap
 https://stackoverflow.com/questions/34519/what-is-a-semaphore/40238#40238
 
 #Concurrency 
-#Semaphore
-#need-to-deep-dive

@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Kafka
 ---
 kafka ui
 
@@ -10,4 +12,3 @@ https://medium.com/@greg.shiny82/%EC%8B%A4%EB%AC%B4-%EA%B4%80%EC%A0%90%EC%97%90%
 
 
 #Infrastructure 
-#Kafka

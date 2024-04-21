@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - LSN
 ---
 - Log Sequence Number의 약자
 - 임의로 계속 증분하여 redo log에 저장됨
@@ -14,4 +16,3 @@ https://dev.mysql.com/doc/refman/8.0/en/glossary.html
 
 
 #Innodb 
-#LSN

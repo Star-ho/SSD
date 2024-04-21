@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Database
 ---
 - 'Search Argument-able'의 약자
 - DBMS 엔진이 인덱스를 활용해서 실행 속도를 높일 수 있는 쿼리를 말함
@@ -31,5 +33,4 @@ Fixed: Select ... WHERE OrderDate < DateAdd(mm,-30,GetDate())
 [https://en.wikipedia.org/wiki/Sargable](https://en.wikipedia.org/wiki/Sargable)  
 [https://stackoverflow.com/questions/799584/what-makes-a-sql-statement-sargable](https://stackoverflow.com/questions/799584/what-makes-a-sql-statement-sargable)
 
-#Database
 #Query-turning 

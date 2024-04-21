@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Java-Memory_structure
 ---
 ![Pasted image 20231117232133](real-resource-image/Pasted%20image%2020231117232133.png)
 ### PC Register
@@ -49,4 +51,3 @@ https://docs.oracle.com/javase/specs/jvms/se21/html/jvms-2.html
 https://www.devkuma.com/docs/jvm/memory-structure/
 
 #Java 
-#Java-Memory_structure

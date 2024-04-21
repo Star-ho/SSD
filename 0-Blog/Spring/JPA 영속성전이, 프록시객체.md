@@ -1,6 +1,11 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - transitive-persistence
+  - Proxy-Object
+  - 영속성전이
+  - 프록시객체
 ---
 ## 영속성전이
 
@@ -20,7 +25,3 @@ date: 2024-04-13T22:56
 [https://vladmihalcea.com/how-does-a-jpa-proxy-work-and-how-to-unproxy-it-with-hibernate/](https://vladmihalcea.com/how-does-a-jpa-proxy-work-and-how-to-unproxy-it-with-hibernate/)
 
 #JPA 
-#transitive-persistence
-#Proxy-Object
-#영속성전이
-#프록시객체

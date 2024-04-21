@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Domain-Driven-Design
+  - Service
 ---
 ## Service
 
@@ -26,6 +29,4 @@ date: 2024-04-13T22:56
 > 도메인은 우리가 해결해야 하는 문제로 비즈니스에서 가장 중요한 영역이다.  
 > 응용과 인프라가 변경된다고 도메인계층이 변경되서는 안되기 때문이다.
 
-#Domain-Driven-Design
 #Software-design 
-#Service

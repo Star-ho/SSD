@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Trouble-Shooting
 ---
 mac에서 Eclips memory Analyzer 사용시
 
@@ -15,4 +17,3 @@ mat.app파일을 ./Application으로 이동할것!
 #Java 
 #Tool 
 #Heap-dump 
-#Trouble-Shooting

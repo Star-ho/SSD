@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Document
 ---
 - 엘라스틱 서치의 단일 데이터 단위
 	- Database row와 비슷한 개념
@@ -18,5 +20,4 @@ https://esbook.kimjmin.net/03-cluster/3.2-index-and-shards
 
 
 #Elastic-Search 
-#Document
 #wait-to-update 

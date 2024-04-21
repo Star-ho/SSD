@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - wait-to-update
 ---
 읽어보기
 - https://junghyungil.tistory.com/m/178
@@ -17,5 +19,3 @@ mysql foreign key, join lock
 외래키가 걸려잇으면 외래키 친구들에게도 s락이 걸리면서  
 [https://stackoverflow.com/questions/83147/whats-wrong-with-foreign-keys](https://stackoverflow.com/questions/83147/whats-wrong-with-foreign-keys)|
 
-
-#wait-to-update

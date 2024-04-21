@@ -1,6 +1,11 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - container
+  - cloud
+  - gc-turning
+  - garbage-collector
 ---
 ### 현재 옵션 확인
 - java -XX:+PrintFlagsFinal -version 2>&1 | grep -i -E 'heapsize|metaspace|version'
@@ -45,10 +50,6 @@ date: 2024-04-13T22:56
 > 
 
 #JVM-option 
-#container
-#cloud
-#gc-turning
-#garbage-collector
 
 https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html
 https://www.merikan.com/2019/04/jvm-in-a-container/

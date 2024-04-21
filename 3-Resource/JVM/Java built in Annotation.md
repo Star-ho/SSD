@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Annotation
 ---
 java의 built in Annotation은
 **@Deprecated**
@@ -53,5 +55,4 @@ Indicates how long annotations with the annotated interface are to be retained
 https://docs.oracle.com/javase/tutorial/java/annotations/predefined.html
 https://minkukjo.github.io/language/2020/09/30/Java-02/
 
-#Annotation
 #Java 

@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - "\bDatabase"
+  - ACID
 ---
  - atomicity, consistency, isolation, durability의 앞글자를 따온 것
  - mysql의 트랜잭션과 밀접한 연관관계를 가짐
@@ -21,8 +24,6 @@ date: 2024-04-13T22:56
 - commit동작이 성공적으로 끝나면, 전원공급, 시스템 오류등 어떤 장애가 나더라도 변경사항은 저장되어야함
 - innodb는 double write buffer, redo 등 여러기능을 사용하여 내구성을 가짐
 
-#Database
-#ACID
 
 
 https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_acid

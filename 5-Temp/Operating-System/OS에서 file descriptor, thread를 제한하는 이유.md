@@ -1,6 +1,7 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags: 
 ---
 - file descriptor는 OS에서 관리하는 자원 중 하나임
 - file descriptor가 너무 많으면 메모리를 많이 잡아먹음

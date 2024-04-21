@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - "\bdistributed-lock"
 ---
 - named lock
 - mysql, redis 등 named lock을 지원하는 저장소에서 사용가능
@@ -15,5 +17,3 @@ date: 2024-04-13T22:56
 - 실제로 사용하기 위해 멱등성 보장이 필요할 수 있음
 	- https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
 
-
-#distributed-lock

@@ -1,6 +1,7 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags: 
 ---
 - suspend함수는 Continuation을 다른 suspend함수에 전달해야 함
 - 일반함수에서 suspend를 호출 할 수 없음

@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - CQRS
 ---
 - 소프트웨어의 복잡성을 해결하는 방법중 하나
 - 객체의 메서드를 Query와 Command로 분리하는것
@@ -43,4 +45,3 @@ https://martinfowler.com/bliki/CommandQuerySeparation.html
 https://blog.ploeh.dk/2014/08/11/cqs-versus-server-generated-ids/
 
 #Software-design 
-#CQRS

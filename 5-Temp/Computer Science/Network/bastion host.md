@@ -1,6 +1,7 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags: 
 ---
 질문있어요..!
 Private subnet 안의 ec2와 jenkins간 ssh 통신을 하려고 합니다

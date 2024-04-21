@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Interceptor
 ---
 handlerMapping의 구현으로 특정요청에 대해 특정 기능을 적용할때 사용합니다
 아래 3가지 메소드가 존재합니다
@@ -31,4 +33,3 @@ https://docs.spring.io/spring-framework/reference/web/webflux/reactive-spring.ht
 https://stackoverflow.com/questions/35856454/difference-between-interceptor-and-filter-in-spring-mvc
 
 #Spring 
-#Interceptor

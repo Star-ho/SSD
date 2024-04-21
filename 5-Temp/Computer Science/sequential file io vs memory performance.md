@@ -1,6 +1,7 @@
 ---
-created: 2024-04-07T22:55:22
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags: 
 ---
 https://www.baeldung.com/linux/memory-mapped-vs-system-call
 

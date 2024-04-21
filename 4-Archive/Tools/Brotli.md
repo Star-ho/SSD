@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Compression
 ---
 - google에서 개발한 압축방식
 - gzip 더 나은 압축성능을 보여줌
@@ -15,4 +17,3 @@ https://github.com/google/brotli
 https://www.siteground.com/blog/brotli-vs-gzip-compression/
 
 #Library 
-#Compression

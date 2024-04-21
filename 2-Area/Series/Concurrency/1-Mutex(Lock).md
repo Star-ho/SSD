@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Mutex
+  - Concurrency
 ---
 - **Mut**ual **ex**clusion의 약자
 - 프로세스 간 동기화에 사용할 수도 있는 동기화 기본 형식입니다.
@@ -20,6 +23,3 @@ date: 2024-04-13T22:56
 https://learn.microsoft.com/ko-kr/dotnet/api/system.threading.mutex?view=net-7.0#remarks
 https://en.wikipedia.org/wiki/Lock_(computer_science)
 https://stackoverflow.com/questions/2332765/what-is-the-difference-between-lock-mutex-and-semaphore
-
-#Mutex
-#Concurrency

@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - CheckPoint
 ---
 - 데이터베이스는 성능상의 이유로 매 변경마다 데이터를 디스크에 쓰는게 아닌 메모리에 기록함
 - 이후 주기적으로 메모리에 있는 데이터를 디스크에 저장하는데, 성공적으로 디스크에 저장된 최신의 레코드가 체크포인트임
@@ -19,5 +21,4 @@ https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_checkpoint
 https://learn.microsoft.com/en-us/sql/relational-databases/logs/database-checkpoints-sql-server?view=sql-server-ver16
 
 #Database 
-#CheckPoint
 #Innodb 

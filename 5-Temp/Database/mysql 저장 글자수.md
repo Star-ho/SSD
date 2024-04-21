@@ -1,6 +1,7 @@
 ---
-created: 2024-04-19T23:12
-date: 2024-04-19T23:12
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags: 
 ---
 mysql의 col length는 charset과 무관하게 실제 저장 가능한 글자 수를 의미하고
 실제 저장되는 사이즈는 charset의 바이트를 곱해야 합니다.

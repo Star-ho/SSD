@@ -1,6 +1,11 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - 가상쓰레드
+  - java
+  - virtual-thread
+  - lock
 ---
 ## Platform Thread
 ![Pasted image 20231223233300](real-resource-image/Pasted%20image%2020231223233300.png)
@@ -47,8 +52,4 @@ https://softwaremill.com/what-is-blocking-in-loom/
 https://wiki.openjdk.org/display/loom/Main
 https://stackoverflow.com/questions/74581601/how-does-a-java-virtual-thread-know-when-the-thread-is-waiting
 https://stackoverflow.com/questions/70174468/project-loom-what-happens-when-virtual-thread-makes-a-blocking-system-call
-#가상쓰레드
-#java
-#virtual-thread
-#lock
 #need-to-deep-dive 

@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - hikari
+  - conection-pool
 ---
 > hikari가 일본어로 빛이라는 의미
 ## ConcurrentBag
@@ -37,6 +40,4 @@ date: 2024-04-13T22:56
 https://github.com/brettwooldridge/HikariCP
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#data.sql.datasource.connection-pool
 
-#hikari
 #Database 
-#conection-pool

@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Software-design
+  - Domain-Model
 ---
 ## Factory
 
@@ -29,6 +32,4 @@ date: 2024-04-13T22:56
 
 > 팩토리는 객체의 생성을, 레포지토리는 객체의 재구성, 제거를 담당
 
-#Software-design
-#Domain-Model
 #Aggregate 

@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - adaptive-hash-index
+  - Innodb-In-Memory-Structure
 ---
 - 트랜잭션이나 안정성의 희생 없이, innodb를 memorydb처럼 활용할 수 있게함
 - 검색 관찰자 패턴(observe pattern of search)를 기반으로 인덱스 키의 접두사를 사용하여 인덱스를 구축
@@ -12,5 +15,3 @@ date: 2024-04-13T22:56
 https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_adaptive_hash_index
 
 #Innodb 
-#adaptive-hash-index
-#Innodb-In-Memory-Structure

@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Database
+  - Definition
 ---
 테이블에 대한 색인을 만들때, 
 해당하는 색인에 데이터를 같이 놓는다면, 색인을 찾은 후 바로 데이터를 가져올 수 있습니다
@@ -31,6 +34,4 @@ clustered Index의 값이 길면, non-clutered-index는 각 인덱스마다 긴 
 https://mozi.tistory.com/320
 https://dev.mysql.com/doc/refman/8.0/en/innodb-index-types.html
 
-#Database
-#Definition
 #Innodb 

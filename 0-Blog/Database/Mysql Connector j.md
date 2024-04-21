@@ -1,6 +1,7 @@
 ---
-created: 2024-04-01T23:04:47
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags: 
 ---
 - Java를 사용하는 어플리케이션에 mysql의 연결을 쉽게 하기 위해 개발됨
 - JDBC type 4 driver이며, JDBC 4.2 specification을 구현함

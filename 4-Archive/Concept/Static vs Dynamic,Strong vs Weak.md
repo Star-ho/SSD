@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - programming-language
 ---
 ### 정적타입
 - 자료형을 컴파일시에 확인
@@ -26,5 +28,3 @@ date: 2024-04-13T22:56
 
 [https://www.educative.io/answers/statically-v-dynamically-v-strongly-v-weakly-typed-languages](https://www.educative.io/answers/statically-v-dynamically-v-strongly-v-weakly-typed-languages)  
 [https://stackoverflow.com/questions/11889602/difference-between-strong-vs-static-typing-and-weak-vs-dynamic-typing](https://stackoverflow.com/questions/11889602/difference-between-strong-vs-static-typing-and-weak-vs-dynamic-typing)
-
-#programming-language

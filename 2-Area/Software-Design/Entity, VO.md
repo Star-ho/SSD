@@ -1,6 +1,12 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Software-design
+  - Domain-Model
+  - Entity
+  - Vo
+  - Domain-Driven-Design
 ---
 ## domain model
 현실세계의 해결하고싶은 문제를 프로그래밍 언어로 특정 측면을 구현한것  
@@ -31,9 +37,3 @@ ex) 자주 변경되는경우, 객체 생성이나 삭제에 비용이 많이드
 
 > dto는?  
 > data transform object로 계층간, 혹은 메서드간 데이터 이동시, 변수가 너무 많아지는 것 보다는 묶어서 변수들을 조금 더 잘 표현하는 역할
-
-#Software-design
-#Domain-Model
-#Entity
-#Vo
-#Domain-Driven-Design

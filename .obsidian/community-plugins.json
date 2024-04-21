@@ -3,7 +3,7 @@
   "obsidian-style-settings",
   "code-styler",
   "templater-obsidian",
-  "update-time-on-edit",
   "obsidian-link-converter",
-  "hugo-publish"
+  "hugo-publish",
+  "update-time-on-edit"
 ]

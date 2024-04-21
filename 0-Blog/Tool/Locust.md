@@ -1,8 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - load-testing-tool
 ---
 부하테스트 도구
 https://locust.io/
 #부하테스트 
-#load-testing-tool

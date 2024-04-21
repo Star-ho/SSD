@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Http
+  - Http-Method
 ---
 PUT메소드는 현재 서버에 있는 대체하여 새로운 엔티티를 생성  
 PATCH메소드는 현재 서버에 있는 엔티티를 수정하여 새버전을 생성하는것  
@@ -22,5 +25,3 @@ PATCH메소드는 현재 서버에 있는 엔티티를 수정하여 새버전을
 [https://datatracker.ietf.org/doc/rfc5789/?include_text=1](https://datatracker.ietf.org/doc/rfc5789/?include_text=1)
 
 #Concept 
-#Http
-#Http-Method

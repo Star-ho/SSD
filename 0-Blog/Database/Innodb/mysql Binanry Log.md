@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Binary-log
 ---
 - table 생성이나, table 데이터의 변경과 같은 데이터베이스의 변경 이벤트를 기록하는 로그
 - 변경을 야기할 수 있는 구문도 기록
@@ -70,4 +72,3 @@ https://www.alibabacloud.com/blog/what-are-the-differences-and-functions-of-the-
 
 #Database 
 #Innodb 
-#Binary-log

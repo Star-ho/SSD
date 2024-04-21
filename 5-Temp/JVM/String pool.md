@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - String-pool
 ---
 ## String 생성 방법
 - new 연산자를 사용해서 생성하는 방법
@@ -24,4 +26,3 @@ date: 2024-04-13T22:56
 https://deveric.tistory.com/123
 
 #Java 
-#String-pool

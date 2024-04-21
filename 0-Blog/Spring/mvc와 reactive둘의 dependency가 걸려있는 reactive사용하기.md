@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Reactive
+  - Tip
 ---
 ```
 @AutoConfiguration(after = { ReactiveWebServerFactoryAutoConfiguration.class, CodecsAutoConfiguration.class,
@@ -32,5 +35,3 @@ but 둘다 의존한다면 mvc가 우선됨
 [https://stackoverflow.com/questions/54069614/springwebflux-error-with-enablewebflux-annotation](https://stackoverflow.com/questions/54069614/springwebflux-error-with-enablewebflux-annotation)
 
 #Spring 
-#Reactive
-#Tip

@@ -1,6 +1,8 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Byte-Buddy
 ---
 컴파일러의 도움 없이 Java 애플리케이션의 런타임 동안 Java 클래스를 생성 및 수정하기 위한 코드 생성 및 조작 라이브러리
 
@@ -23,6 +25,5 @@ assertThat(dynamicType.newInstance().toString(), is("Hello World!"));
 
 [https://bytebuddy.net/#/](https://bytebuddy.net/#/)
 
-#Byte-Buddy
 #Java 
 #Tool 

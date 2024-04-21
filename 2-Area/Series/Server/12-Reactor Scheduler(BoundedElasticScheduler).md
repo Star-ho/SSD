@@ -1,6 +1,7 @@
 ---
-created: 2024-04-13T22:11:25
-date: 2024-04-14T22:20
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags: 
 ---
 ## 서론
 Reactor에 대해 여러가지 공부해 보았는데, reactor Scheduler에 대한 글이 없어 소스코드를 보며 분석하였다.
@@ -327,4 +328,3 @@ static final class BoundedScheduledExecutorService extends ScheduledThreadPoolEx
 BoundedScheduledExecutorServices는 ScheduledThreadPoolExecutor구현체이다
 ScheduledThreadPoolExecutor와 큰 차이라면 queueCapacity필드와 ensureQueueCapacity메서드를 가지고 있다는 것이다.
 schedule을 할때마다 현재 큐사이즈+새 태스크 개수를 확인해서 queueCapacity를 넘으면 에러를 발생시킨다.
-

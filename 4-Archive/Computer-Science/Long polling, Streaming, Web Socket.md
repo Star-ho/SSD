@@ -1,6 +1,10 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - long-polling
+  - Streaming
+  - Web-socket
 ---
 ## Why?
 - 클라이언트가 서버에게 http요청을 보내는 상황이 아닌, 서버에서 클라이언트에게 요청을 보내는 상황이 발생시 유용함
@@ -56,7 +60,3 @@ https://sendbird.com/ko/developer/tutorials/websocket-vs-http-communication-prot
 https://datatracker.ietf.org/doc/html/rfc6202
 https://datatracker.ietf.org/doc/html/rfc6455
 
-
-#long-polling
-#Streaming
-#Web-socket

@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Webserver
+  - WAS
 ---
 초기에 웹은 정말 다양한 문서를 다른사람들에게 보여주기 위한 용도로 정적 파일만 서빙했음  
 이후 사용자에 따라 다른 페이지를 보여주기 원했고 이를 해결하기 위해 was가 등장함  
@@ -17,6 +20,3 @@ date: 2024-04-13T22:56
 > 가상쓰레드가 정말 성공적인 대안일까?
 
 [https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part1](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part1)
-
-#Webserver
-#WAS

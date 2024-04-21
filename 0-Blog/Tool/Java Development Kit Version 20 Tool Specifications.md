@@ -1,6 +1,13 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - JDK-tool
+  - Jmap
+  - JSTACK
+  - JSTAT
+  - JCONSOLE
+  - Trouble-Shooting
 ---
 ## 전체 tool 정보
 
@@ -35,11 +42,5 @@ date: 2024-04-13T22:56
 
 [https://tangoblog.tistory.com/16](https://tangoblog.tistory.com/16)
 
-#JDK-tool
 #Java 
-#Jmap
 #Jps 
-#JSTACK
-#JSTAT
-#JCONSOLE
-#Trouble-Shooting

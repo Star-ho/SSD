@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - yml
+  - yaml
 ---
 - spring boot는 yml, properties를 통해 여러 환경에서 나의 코드가 실행되도록 외부에서 설정을 주입할 수 있게 만들어졌다.
 - yml팁  
@@ -11,5 +14,3 @@ date: 2024-04-13T22:56
 
 #Spring-boot 
 #Tip 
-#yml
-#yaml

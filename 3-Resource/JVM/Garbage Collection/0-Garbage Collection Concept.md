@@ -1,6 +1,10 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - ComputerScience
+  - java
+  - jvm
 ---
 - 메모리 관리 기법중 하나로 프로그램이 동적으로 할당했던 메모리 영역 중에서 필요없게된 영역을 해제하는 기능
 
@@ -65,7 +69,3 @@ date: 2024-04-13T22:56
 
 https://d2.naver.com/helloworld/1329
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
-
-#ComputerScience
-#java
-#jvm

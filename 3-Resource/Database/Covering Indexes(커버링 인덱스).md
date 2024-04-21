@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Definition
+  - Query-turning
 ---
 - 하나의 쿼리의 전체 요구사항이 인덱스인 상황
 - 커버링 인덱스를 활용하므로서 실제 테이블에 접근하지 않고, Index tree만 검색 후 결과를 리턴
@@ -11,5 +14,3 @@ date: 2024-04-13T22:56
 [https://www.sqler.com/board_SQLQA/707203](https://www.sqler.com/board_SQLQA/707203)
 
 #Database 
-#Definition
-#Query-turning

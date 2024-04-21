@@ -1,6 +1,9 @@
 ---
-created: 2024-03-31T22:41:00
-date: 2024-04-13T22:56
+date: 2024-04-21T15:02:55
+updatedAt: 2024-04-21T15:07
+tags:
+  - Spring
+  - HandlerMethodArgumentResolver
 ---
 - 주어진 요청의 컨텍스트 내에서 메서드 매개 변수를 인수 값으로 해석하는 전략을 제공하는 Spring의 인터페이스
 - 아래의 두 메서드가 있음
@@ -13,6 +16,3 @@ date: 2024-04-13T22:56
 	- handler의 파라미터를 변경함
 
 https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/support/HandlerMethodArgumentResolver.html
-
-#Spring
-#HandlerMethodArgumentResolver
