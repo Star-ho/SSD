@@ -1,6 +1,6 @@
 ---
 date: 2023-11-13T22:36:38
-updatedAt: 2024-04-21 18:34:36+3220
+updatedAt: 2024-04-21 23:03:42+9550
 tags:
   - InnoDB-Architecture
   - "#Database"
@@ -24,6 +24,7 @@ categories: InnoDB
 		- InnoDB의 read-ahead로 인한 읽기면 youn영역으로 이동하지 않음
 	- InnoDB에서 노화는 young영역에서 old영역으로 이동하다 결국 evicted되는 것임
 
+- Buffer Pool에는 데이터 블록이 저장됨
 
 - [`SHOW ENGINE InnoDB STATUS`](https://dev.mysql.com/doc/refman/8.0/en/InnoDB-standard-monitor.html "15.17.3 InnoDB Standard Monitor and Lock Monitor Output"),명령어로 buffer pool의 상태를 확인할 수 있음
 

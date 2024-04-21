@@ -545,7 +545,7 @@
     "3-Resource/Database/Clustered Index, non-Clustered Index.md": "6e546c09897e85cac5fc6684aa91f2f817be3ec08209ac0ee0cad7dc6fc3bbe4",
     "3-Resource/Database/Innodb/Redo log.md": "264a68ab618abe483474a9b0762b1d08a3b2d8c31d77dce4d024525d1ce68c86",
     "3-Resource/Database/Innodb/Log Buffer.md": "59755b2849abb545011abd61a7c9f7f3ce5335bdeb9f163bf92d619ba2be27ef",
-    "3-Resource/Database/Innodb/Buffer Pool.md": "7d230f88ce93da5f5cf0c421c5dab22f6d44cdd5c04597311e1ff7115644851f",
+    "3-Resource/Database/Innodb/Buffer Pool.md": "068812e773f95adf4924a91163d47d00e795c4b6266f64b01fca9532293bf1fc",
     "3-Resource/Database/Innodb/Undo log.md": "a287c66a10e3fc73baa93b558a361ac8714796a5af1ffc4e85a0ac0085404a34",
     "3-Resource/Database/Innodb/adaptive hash index.md": "dcb1f45aa3c01e289ebb68e0bfb5f1593407ae7ef5680ed374d1a0a7a6f71cf9",
     "3-Resource/Database/Innodb/Change Buffer.md": "abe95e848e52da414556e2d8746b5522c0d3ac45a7c9249561320a61c0da9afe",
