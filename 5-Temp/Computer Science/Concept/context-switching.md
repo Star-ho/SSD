@@ -1,6 +1,6 @@
 ---
-date: 2024-03-31T22:41:00
-updatedAt: 2024-04-21 18:32:05+2490
+date: 2024-01-07T22:24:59
+updatedAt: 2024-04-21 18:34:36+1810
 tags: 
 ---
 context switchg은 time slice를 다썻거나, interrupt 발생시 발생됨

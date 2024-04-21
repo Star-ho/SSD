@@ -1,6 +1,6 @@
 ---
-date: 2024-03-31T22:41:00
-updatedAt: 2024-04-21 18:32:05+2500
+date: 2023-12-19T22:15:24
+updatedAt: 2024-04-21 18:34:36+1750
 tags: 
 ---
 https://academic-accelerator.com/encyclopedia/kr/berkeley-sockets#google_vignette

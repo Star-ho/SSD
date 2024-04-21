@@ -1,6 +1,6 @@
 ---
-date: 2024-03-31T22:41:00
-updatedAt: 2024-04-21 18:32:05+2370
+date: 2023-09-24T23:12:36
+updatedAt: 2024-04-21 18:34:36+2490
 tags: 
 ---
 https://rastalion.me/postgresql%EA%B3%BC-mariadb%EC%9D%98-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C%EC%9D%98-%EC%84%A0%ED%83%9D/

@@ -1,6 +1,6 @@
 ---
-date: 2024-03-31T22:41:00
-updatedAt: 2024-04-21 18:32:05+2780
+date: 2023-12-11T22:45:03
+updatedAt: 2024-04-21 18:34:36+1360
 tags: 
 ---
 https://www.linkedin.com/pulse/how-java-streams-make-your-code-more-efficient-nikhil-gargatte/

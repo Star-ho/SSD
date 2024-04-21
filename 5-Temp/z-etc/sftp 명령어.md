@@ -1,6 +1,6 @@
 ---
-date: 2024-03-31T22:41:00
-updatedAt: 2024-04-21 18:32:05+3050
+date: 2023-10-11T11:11:01
+updatedAt: 2024-04-21 18:34:36+2120
 tags: 
 ---
 scp -i aa.pem ec2-user@43.:/home/ec2-user/efs/es-log/prod .    

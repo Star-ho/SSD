@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md",
+                "file": "3-Resource/Database/GTID.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md",
+                "file": "3-Resource/Database/GTID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md",
+                "file": "3-Resource/Database/GTID.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Computer-Siece/Process and Thread.md"
+                "file": "3-Resource/Database/GTID.md"
               }
             }
           }
@@ -180,6 +180,16 @@
   },
   "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
+    "3-Resource/Database/Database LSN.md",
+    "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
+    "3-Resource/Database/Cardinality.md",
+    "3-Resource/Database/쿼리 튜닝시.md",
+    "3-Resource/Database/정규화 역정규화.md",
+    "5-Temp/0-이직자료/글로벌 빅태크 면접경험.md",
+    "5-Temp/0-이직자료/내 장점.md",
+    "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
+    "5-Temp/0-이직자료/서드파티 서비스에 장애가 생길 경우.md",
+    "3-Resource/Computer-Siece/Process and Thread.md",
     "5-Temp/자료구조/hashmap vs hashtable vs ConcurrentHashMap.md",
     "5-Temp/자료구조/정적 클래스란?.md",
     "5-Temp/자료구조/트라이로 검색어 자동완성.md",
@@ -196,16 +206,6 @@
     "4-Archive/Tools/Cucumber.md",
     "4-Archive/Tools/ctop.md",
     "4-Archive/Tools/Clippy.md",
-    "4-Archive/Tools/Byte Buddy.md",
-    "4-Archive/Tools/Brotli.md",
-    "4-Archive/Tools/화면분할 in mac.md",
-    "4-Archive/Tools/테스트 픽스처 도구.md",
-    "4-Archive/Tools/드로윙 툴.md",
-    "4-Archive/Tip/인텔리제이 java 버전 변경 시.md",
-    "4-Archive/Tip/Time zone 관련 팁.md",
-    "4-Archive/Tip/code convention.md",
-    "4-Archive/Tip/디버깅.md",
-    "4-Archive/Testing/Test Double.md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",

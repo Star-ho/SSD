@@ -1,6 +1,6 @@
 ---
-date: 2024-03-31T22:41:00
-updatedAt: 2024-04-21 18:32:05+2610
+date: 2023-10-02T22:25:52
+updatedAt: 2024-04-21 18:34:36+0890
 tags: 
 ---
 https://tecoble.techcourse.co.kr/post/2022-11-07-mysql-isolation/

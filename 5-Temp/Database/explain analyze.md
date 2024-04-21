@@ -1,6 +1,6 @@
 ---
-date: 2024-03-31T22:41:00
-updatedAt: 2024-04-21 18:32:05+2640
+date: 2023-11-08T22:31:15
+updatedAt: 2024-04-21 18:34:36+0780
 tags: 
 ---
 explain analyze 구문을 이용해 actual time을 획득했습니다.

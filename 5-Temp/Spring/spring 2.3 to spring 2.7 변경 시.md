@@ -1,6 +1,6 @@
 ---
-date: 2024-03-31T22:41:00
-updatedAt: 2024-04-21 18:32:05+2980
+date: 2023-12-04T22:50:33
+updatedAt: 2024-04-21 18:34:36+2210
 tags: 
 ---
 spring version up시 httpconverter 문제가 있음
