@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2360
-tags: 
+updatedAt: 2024-04-21 17:30:09+3650
+tags:
+  - Database
+  - hugo_blog
+  - Mysql-Trouble-shooting
+categories:
+  - Database
 ---
 select * from information_schema.PROCESSLIST;
 

@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2360
-tags: 
+updatedAt: 2024-04-21 17:30:09+3600
+tags:
+  - Database
+  - hugo_blog
+categories:
+  - Database
 ---
 - 각각의 컬럼들은 요구사항에 따라 카디널리티가 다름
 - 카디널리티가 높다

@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 17:27:35+3860
-tags: 
+updatedAt: 2024-04-21 17:30:09+3460
+tags:
+  - Database
+  - hugo_blog
+categories:
+  - Database
 ---
 - Log Sequence Number의 약자
 - 임의로 계속 증분하여 redo log에 저장됨

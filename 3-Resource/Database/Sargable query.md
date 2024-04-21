@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2420
-tags: 
+updatedAt: 2024-04-21 17:31:02+8980
+tags:
+  - Database
+  - hugo_blog
+categories:
+  - Database
 ---
 - 'Search Argument-able'의 약자
 - DBMS 엔진이 인덱스를 활용해서 실행 속도를 높일 수 있는 쿼리를 말함

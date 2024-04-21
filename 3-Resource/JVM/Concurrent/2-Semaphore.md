@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2540
-tags: 
+updatedAt: 2024-04-21 17:36:12+8290
+tags:
+  - JVM
+  - Concurrency
+  - hugo_blog
+categories:
+  - JVM
 ---
 - 허가증을 유지함으로서 동시성을 제어
 - acquire()메서드는 허가증이 사용가능할때까지 block하고 사용가능할때 허가증을 가짐

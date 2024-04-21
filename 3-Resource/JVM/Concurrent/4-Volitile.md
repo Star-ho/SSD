@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2530
-tags: 
+updatedAt: 2024-04-21 17:36:15+2360
+tags:
+  - JVM
+  - Concurrency
+  - hugo_blog
+categories:
+  - JVM
 ---
 ```kotlin
 fun main(){  

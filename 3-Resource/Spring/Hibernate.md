@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2800
-tags: 
+updatedAt: 2024-04-21 17:36:51+7230
+tags:
+  - Spring
+  - ORM
+  - hugo_blog
+categories:
+  - Spring
 ---
 ### Hibernate
 - Java로 작성된 프로그램에서 관계형 데이터를 자연스럽고, typesafe한 형태로 사용할 수 있게함

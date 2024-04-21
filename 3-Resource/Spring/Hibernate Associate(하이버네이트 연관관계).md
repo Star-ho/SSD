@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2800
-tags: 
+updatedAt: 2024-04-21 17:37:20+8290
+tags:
+  - Spring
+  - ORM
+  - hugo_blog
+categories:
+  - Spring
 ---
 ## 연관관계의 소유
 - 소유라는 개념은, 외래키를 관리하는 주체를 의미함

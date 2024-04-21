@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2540
-tags: 
+updatedAt: 2024-04-21 17:36:17+4430
+tags:
+  - JVM
+  - Concurrency
+  - hugo_blog
+categories:
+  - JVM
 ---
 # ExecutorService
 - 비동기 작업을 할때 쓰레드관리가 복잡한 과정임

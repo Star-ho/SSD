@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2520
+updatedAt: 2024-04-21 17:34:20+8770
 tags: 
 ---
 - JVM에서 개발하는 개발자들의 최신 테스트 기반을 만드는게 목표
@@ -9,3 +9,5 @@ tags:
 > The goal is to create an up-to-date foundation for developer-side testing on the JVM.
 
 - [https://junit.org/junit5/](https://junit.org/junit5/)
+
+#eventually-update 

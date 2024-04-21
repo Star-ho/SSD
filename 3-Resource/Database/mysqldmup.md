@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2350
-tags: 
+updatedAt: 2024-04-21 17:31:24+7510
+tags:
+  - Database
+  - hugo_blog
+categories:
+  - Database
 ---
 - dms로 운영->스테이지 디비 마이그레이션 하는데 인덱스가 사라져서 인덱스 추가를 위해 정보를 찾아보았다.
 - 직접 index를 넣어주는 방법과 AWS Schema Conversion Tool(AWS SCT)를 사용하는게 있었음

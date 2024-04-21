@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2360
-tags: 
+updatedAt: 2024-04-21 17:30:09+3560
+tags:
+  - Database
+  - hugo_blog
+categories:
+  - Database
 ---
 - 하나의 쿼리의 전체 요구사항이 인덱스인 상황
 - 커버링 인덱스를 활용하므로서 실제 테이블에 접근하지 않고, Index tree만 검색 후 결과를 리턴

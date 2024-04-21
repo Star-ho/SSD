@@ -136,3 +136,71 @@ U
 %3-Resource/Database/Sargable query.md,1/7/176b3c92c4dcbe1fdab97040ae092df7bf0d6537
 ]
 -3-Resource/Database/정규화 역정규화.md,9/d/9d2d7f84624e47410690c266ec1416d0518b6417
+R
+"3-Resource/Database/Cardinality.md,9/7/97c141f08b0df0c3519fa19da49529329f90a163
+k
+;3-Resource/Database/Clustered Index, non-Clustered Index.md,a/8/a84fc50d76c5cfd9030a6b1d48726e385009df43
+`
+03-Resource/Database/Count(*) vs Count(Column).md,1/9/199c10b6205785c147292cbd96a479dcf6193bdd
+l
+<3-Resource/Database/Covering Indexes(커버링 인덱스).md,5/8/5849da9eee3a418353c10a0fd4fb474c6952795a
+[
++3-Resource/Database/Database Check point.md,d/5/d5cf3b2c9939a261d18361ba9fda7f2a4088719b
+S
+#3-Resource/Database/Database LSN.md,8/5/85224df05ea4fbaac532f0b6f58ac630594281c5
+c
+33-Resource/Database/DB PK 자연키 vs 대체키.md,c/1/c1c5ff536269a2ba8fdbf35a6bb7d8dc8c73a302
+K
+3-Resource/Database/GTID.md,c/5/c58359b5563a5dced1e887ee6a2e90b1a4e15421
+d
+43-Resource/Database/mysql 락걸린 쿼리 확인.md,2/b/2bc36b12cc1b348169d31a56cec76b9f1578a15b
+j
+:3-Resource/Database/mysql 프로세스 리스트 보기.md,2/5/25abf8655188fb10a0d5af63e98440b72cc2ded1
+P
+ 3-Resource/Database/mysqldmup.md,e/f/efa358145ad97cd5523fcd1bc7a122d06ffb1cde
+[
++3-Resource/Database/쿼리 실행 순서.md,8/d/8de090c218bf895ed200cd059900cba9cd813f08
+W
+'3-Resource/Database/쿼리 튜닝시.md,0/6/06a1c0429d633668fb28187fc2b38998f642b622
+i
+93-Resource/JVM/Concurrent/0-Lock 정의 & synchronized.md,f/f/ffa6ec8e7bc3eb2d01bb28e5af6dd48726222ea2
+h
+83-Resource/JVM/Concurrent/1-ReentrantLock & Condition.md,f/b/fb7f4bd4b8ac08f9dce2e41551dd297124dd6260
+X
+(3-Resource/JVM/Concurrent/2-Semaphore.md,c/f/cfe3ac337ee0c6449e768e8d199f9ae4b4529f2e
+o
+?3-Resource/JVM/Concurrent/5-ExecutorService & CountDownLatch.md,4/d/4d570ad068b40fb1d8dbc3ff4341dc630a63f21b
+W
+'3-Resource/JVM/Concurrent/4-Volitile.md,c/d/cdb52ab2c9b7a8132ec6ed9b47d802a029d26401
+q
+A3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md,7/7/777781fdd194a3b284f1c5225934177aea2d17bf
+q
+A3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md,f/2/f2853036042171e51dc03669d114ac75a125df2f
+o
+?3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md,b/1/b13f9c9aee25146a1ec6c17be372801d595ee2f7
+l
+<3-Resource/JVM/Garbage Collection/Full garbage collection.md,6/8/680389b585fecd2b93c3902372ddc4036e7f057c
+N
+3-Resource/Spring/Hibernate.md,5/7/5700e296674d87e802e243f21ae2dcba5543219a
+Z
+*3-Resource/JVM/Java built in Annotation.md,b/3/b382f8b45380519f68a39cef5bf507f76bcfa430
+G
+3-Resource/JVM/JUnit.md,d/0/d03eacb8f1a7b03660e44e4e03aec155f652b5c6
+V
+&3-Resource/JVM/JVM memory structure.md,7/2/721f7570675b29661a2e1c9c313b50c7f75e95de
+Z
+*3-Resource/JVM/jvm option for Container.md,b/c/bc89b71f5804a80b2c7d3db75892b814c78a0295
+y
+I3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md,7/9/79e1c57809355de03d38c5163d06bc66c48ac287
+W
+'3-Resource/Spring/JPA entity manager.md,2/7/27f0ed32a9f63d066015d87f55c6630935eaf426
+i
+93-Resource/Spring/JPA 영속성전이, 프록시객체.md,f/4/f421be2b9a73a9d1a89f93d0a53d4a54f1fe1323
+K
+3-Resource/Tool/Codecove.md,4/d/4db19bafca011939565db9ea22d86a70716d0a3e
+G
+3-Resource/Tool/jooq.md,b/f/bfb0786b2b486f8b32ae0ac0b77c5fa5a6b7a8b6
+N
+3-Resource/Tool/kotlin-jdsl.md,4/8/48468cd5d1ec8dd5d89f6c9cdb2cfaa96011c979
+e
+53-Resource/Cache Passivation, Expiration, Eviction.md,2/9/2915e1b2640cd3cea8024155a9daf56f5418ea6c

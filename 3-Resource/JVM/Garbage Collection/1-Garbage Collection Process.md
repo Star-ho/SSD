@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2620
-tags: 
+updatedAt: 2024-04-21 17:36:22+3830
+tags:
+  - JVM
+  - Garbage-Collection
+  - hugo_blog
+categories:
+  - JVM
 ---
 - 앞의 Garbage Collection Concept에서는 heap이 나누어져 저장되는 것을 이해함
 - 여기서는 나누어져 저장되는 것들의 상호작용에 대해 알아봄

@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2670
-tags: 
+updatedAt: 2024-04-21 17:36:36+4640
+tags:
+  - JVM
+  - JVM-option
+  - hugo_blog
+categories:
+  - JVM
 ---
 ### 현재 옵션 확인
 - java -XX:+PrintFlagsFinal -version 2>&1 | grep -i -E 'heapsize|metaspace|version'

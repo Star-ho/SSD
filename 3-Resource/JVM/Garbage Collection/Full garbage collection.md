@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2640
-tags: 
+updatedAt: 2024-04-21 17:36:26+8250
+tags:
+  - JVM
+  - Garbage-Collection
+  - hugo_blog
+categories:
+  - JVM
 ---
 - Garbage Collection 파트에서 Full garbage collection에 대한 추가 설명
 - 직접 실험해보면서 체크필요

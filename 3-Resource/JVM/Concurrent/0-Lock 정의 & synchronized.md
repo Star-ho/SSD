@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2570
-tags: 
+updatedAt: 2024-04-21 17:36:00+8870
+tags:
+  - JVM
+  - Concurrency
+  - hugo_blog
+categories:
+  - JVM
 ---
 # 사용하는 이유
 ### 쓰레드 동기화

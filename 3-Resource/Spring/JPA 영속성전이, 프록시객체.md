@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2800
-tags: 
+updatedAt: 2024-04-21 17:37:13+6700
+tags:
+  - Spring
+  - ORM
+  - hugo_blog
+categories:
+  - Spring
 ---
 ## 영속성전이
 

@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2430
-tags: 
+updatedAt: 2024-04-21 17:30:09+3500
+tags:
+  - Database
+  - hugo_blog
+categories:
+  - Database
 ---
 ### PK
 - 테이블에서 하나의 로우를 식별할 수 있는 최소 집합

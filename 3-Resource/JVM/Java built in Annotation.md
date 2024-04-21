@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2660
-tags: 
+updatedAt: 2024-04-21 17:36:29+3900
+tags:
+  - JVM
+  - Annotation
+  - hugo_blog
+categories:
+  - JVM
 ---
 java의 built in Annotation은
 **@Deprecated**

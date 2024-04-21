@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2540
-tags: 
+updatedAt: 2024-04-21 17:36:10+4490
+tags:
+  - JVM
+  - Concurrency
+  - hugo_blog
+categories:
+  - JVM
 ---
 # ReentrantLock
 - Lock 인터페이스의 구현체

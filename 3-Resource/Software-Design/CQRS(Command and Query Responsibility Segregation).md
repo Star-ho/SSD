@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2480
-tags: 
+updatedAt: 2024-04-21 17:36:42+5340
+tags:
+  - Software-design
+  - hugo_blog
+categories:
+  - Software-Design
 ---
 - 소프트웨어의 복잡성을 해결하는 방법중 하나
 - 객체의 메서드를 Query와 Command로 분리하는것

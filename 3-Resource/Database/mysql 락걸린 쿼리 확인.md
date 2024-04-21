@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 17:27:35+4320
-tags: 
+updatedAt: 2024-04-21 17:30:09+3670
+tags:
+  - Database
+  - hugo_blog
+  - Mysql-Trouble-shooting
+categories:
+  - Database
 ---
 mysql 8.0
 select * from performance_schema.data_locks;

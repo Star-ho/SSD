@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2470
-tags: 
+updatedAt: 2024-04-21 17:36:45+4670
+tags:
+  - Software-design
+  - hugo_blog
+categories:
+  - Software-Design
 ---
 - 이전의 이름은 LLT(Long Lived Transaction)
 - 이전의 이름에서 알수 있듯이 오래 살아있는 트랜잭션을 어떻게 처리할까는 문제의 해결책임

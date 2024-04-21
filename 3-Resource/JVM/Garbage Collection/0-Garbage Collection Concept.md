@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2630
-tags: 
+updatedAt: 2024-04-21 17:36:19+7660
+tags:
+  - JVM
+  - Garbage-Collection
+  - hugo_blog
+categories:
+  - JVM
 ---
 - 메모리 관리 기법중 하나로 프로그램이 동적으로 할당했던 메모리 영역 중에서 필요없게된 영역을 해제하는 기능
 

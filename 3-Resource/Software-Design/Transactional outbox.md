@@ -1,7 +1,9 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+2480
-tags: 
+updatedAt: 2024-04-21 17:36:47+6200
+tags:
+  - Async-message
+  - hugo_blog
 ---
 ## 문제 상황
 - msa 환경에서 도메인 서버스로 보낸 create, update, delete 이벤트는 반드시 수행되어야함
