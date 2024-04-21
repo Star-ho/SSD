@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1100
-tags: 
+updatedAt: 2024-04-21 17:55:48+1960
+tags:
+  - Tool
+  - Network
+  - hugo_blog
 ---
 - google에서 개발한 압축방식
 - gzip 더 나은 압축성능을 보여줌

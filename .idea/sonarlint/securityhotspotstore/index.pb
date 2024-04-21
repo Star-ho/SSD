@@ -220,3 +220,87 @@ X
 +4-Archive/Concept/DLQ(Dead Letter Queue).md,4/f/4ff6f863656c673c86c60b5197d56fd8ee67767a
 a
 14-Archive/Concept/Forward Proxy, Reverse Proxy.md,6/a/6a9f0e18a8fbf7ebf10daed65b0044ef781e8cd3
+e
+54-Archive/Concept/Static vs Dynamic,Strong vs Weak.md,f/0/f0a9deb38f8a083c5a74fb424279ef4135fe6d9d
+H
+4-Archive/Tools/Jfrog.md,5/2/5271fd81bc64a6ac83e0207e3ebb2d365973bd79
+c
+34-Archive/Study Matirials/개발관련 유튜브.md,a/4/a46c0766957cb53fb4a9695244ccccb768346f44
+Y
+)4-Archive/Study Matirials/dev handbook.md,c/d/cd837c0e6d27baf5bc7989db514ab85158457caa
+]
+-4-Archive/Study Matirials/java튜토리얼.md,e/0/e04defadf0623d6d2ee3d0e7125cc505ef7e2eea
+g
+74-Archive/Study Matirials/System Design Case Studies.md,0/9/0977965602ad73f7b7a3561e7e07b0e185300e1c
+\
+,4-Archive/Study Matirials/공부할자료.md,3/4/34e22dd5ecb3da78fada3255d616dea0c0a27b7f
+a
+14-Archive/Study Matirials/MSA 관련 유튜브.md,3/2/323c22c93e39ded9e99851d2173633689de54beb
+a
+14-Archive/Study Matirials/리눅스 커널 doc.md,2/4/240c81410602ba419e6b4ce1efef87043828068d
+g
+74-Archive/Study Matirials/우형 프리코스 github.md,5/c/5c107287a64f1be81d2d565c488c3e81742586d2
+s
+C4-Archive/Study Matirials/컴퓨터과학 스스로 학습하기.md,e/a/eaa26b5c054aa02d165a505d250a1a56ae13012c
+g
+74-Archive/Tip/인텔리제이 java 버전 변경 시.md,0/6/0662e76000241c61143a2569eeb482c7429c9014
+J
+4-Archive/Tip/디버깅.md,e/e/ee91a6ba27565b79eca356f2459509be732b74bd
+V
+&4-Archive/Tools/화면분할 in mac.md,0/b/0b55142763553d40dc4efb73adf48b944cfec01a
+J
+4-Archive/Tools/Konsist.md,f/7/f78109f9b9b66a2ed5a4bfb18ab9051a6623556f
+K
+4-Archive/Tools/MybatisX.md,f/5/f5faa189e7339fa6af8e0ab66073341dbdb5a01d
+P
+ 4-Archive/Tools/드로윙 툴.md,1/4/14b8c3f8f53cf0393ca7d7cf36665fa5b245c696
+Y
+)4-Archive/Tools/Eclips memory Analyzer.md,b/4/b4671f1aecafadcf832e137875e85f2af86814a3
+U
+%4-Archive/Tip/Time zone 관련 팁.md,c/1/c18d2003b6db8be8d2a1259efdbcc80377c746b1
+P
+ 4-Archive/Tip/code convention.md,6/7/67fe69682af422088014d0733e4e1dde1c7afb06
+K
+4-Archive/Tools/Cucumber.md,3/b/3bcb4026bcdc9fda96f3bff51b4b14ac07819aac
+M
+4-Archive/Tools/Byte Buddy.md,f/5/f5032114c464efe3026c9f2c9351ba0b27542a8d
+G
+4-Archive/Tools/ctop.md,0/1/01f0e013813da24a86d5e9e66093cbe3836e2bd8
+I
+4-Archive/Tools/JRebel.md,9/e/9e22de30fdedad91061826f9a3f0699e88ba3b08
+m
+=4-Archive/Study Matirials/유쾌한 스프링방 콘서트.md,8/a/8a025a74fe742b5b24ef1ca330fc058d66980fef
+]
+-4-Archive/Tools/테스트 픽스처 도구.md,8/f/8fd3e3d2c9535851e150fae327d474653814c9b2
+v
+F4-Archive/Tools/Java Development Kit Version 20 Tool Specifications.md,6/e/6e847ff38ad0770a54bcf5771822fef198d4fcbc
+S
+#4-Archive/Tools/Kotlin Auto fill.md,5/9/5988fde722a277ce1684a7d8c8e709768defa72c
+R
+"4-Archive/Tools/memory-measurer.md,2/f/2f1f69d7c4bfd2f84673ca780776a5325f1846b9
+T
+$4-Archive/Spring/spring boot yaml.md,c/6/c61849213f82ae69a971be937536310aa62dc5ca
+K
+4-Archive/Spring/Handler.md,4/a/4aa941c9ffa71f17fd8ea33fa9a5955296d79c03
+
+O4-Archive/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md,1/8/189235f98fbddd299553da19b3044f7edc5d509b
+I
+4-Archive/Tools/Clippy.md,8/4/8430c71ee96e3d843fee5027e8ea8bb857baff93
+H
+4-Archive/Tools/DeepL.md,8/d/8d2353b6565fe4c6b93019cbec3998aba6ec9ac8
+I
+4-Archive/Tools/Locust.md,7/e/7e597c3c421bf66f475a5e74417bbe9b2a286db2
+I
+4-Archive/Tools/Brotli.md,d/7/d7c76de97c35ff819238a95b4f9618d2578c74be
+O
+4-Archive/Spring/Interceptor.md,7/0/70abe19ef89e5c2365d93f9e444e64a954ef80a3
+f
+64-Archive/Spring/Querydsl transform connection leak.md,5/2/52f27f623fb595de0071da4cb1a5a18c06466f3f
+�
+Y4-Archive/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md,0/1/0195e50035571fcdbe7ef51371875115d1c3987b
+a
+14-Archive/Spring/HandlerMethodArgumentResolver.md,c/2/c2d2cb25d6195c517cf35d91a6a081a1c3833f0e
+P
+ 4-Archive/Testing/Test Double.md,e/5/e5fca60de1caa577dffec41c94e077f6950d09dd
+B
+4-Archive/kafka.md,9/8/986883b60a24603287295549c730a6b4b1226c3e

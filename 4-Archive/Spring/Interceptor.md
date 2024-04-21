@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1810
-tags: 
+updatedAt: 2024-04-21 17:51:34+5030
+tags:
+  - Spring
+  - Concept
+  - hugo_blog
+categories:
+  - Spring
 ---
 handlerMapping의 구현으로 특정요청에 대해 특정 기능을 적용할때 사용합니다
 아래 3가지 메소드가 존재합니다

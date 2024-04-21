@@ -1,7 +1,9 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1160
-tags: 
+updatedAt: 2024-04-21 17:57:16+2730
+tags:
+  - JVM
+  - Tool
 ---
 java object memory size check
 

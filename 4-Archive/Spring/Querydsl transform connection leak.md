@@ -1,7 +1,13 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1840
-tags: 
+updatedAt: 2024-04-21 17:51:57+2410
+tags:
+  - Trouble-Shooting
+  - JVM
+  - ORM
+  - hugo_blog
+categories:
+  - Trouble-Shooting
 ---
 ## 상황
 - 현재 개발중인 기능에서 특정 api가 아래의 로그를 뱉으며 동작하지 않는 문제가 있다고 수정해달라는 요청을 받았다.

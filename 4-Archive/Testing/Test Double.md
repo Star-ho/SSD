@@ -1,7 +1,11 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1760
-tags: 
+updatedAt: 2024-04-21 17:53:33+6440
+tags:
+  - Testing
+  - hugo_blog
+categories:
+  - Test
 ---
 ## Fixture
 - 소프트웨어를 일관되게 테스트 할 수 있게 해주는 장치

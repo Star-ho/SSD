@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1850
-tags: 
+updatedAt: 2024-04-21 17:51:52+7360
+tags:
+  - Spring
+categories:
+  - Spring
 ---
 ```
 @AutoConfiguration(after = { ReactiveWebServerFactoryAutoConfiguration.class, CodecsAutoConfiguration.class,

@@ -1,7 +1,10 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1280
-tags: 
+updatedAt: 2024-04-21 17:56:30+4010
+tags:
+  - hugo_blog
+  - JVM
+  - Tool
 ---
 mac에서 Eclips memory Analyzer 사용시
 

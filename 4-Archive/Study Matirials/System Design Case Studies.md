@@ -1,7 +1,9 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1540
-tags: 
+updatedAt: 2024-04-21 17:53:14+7630
+tags:
+  - Study-Material
+  - hugo_blog
 ---
 
 Design Instagram : https://bit.ly/3BFeHlh

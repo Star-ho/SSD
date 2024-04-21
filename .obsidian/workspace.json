@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Spring/HandlerMethodArgumentResolver.md",
+                "file": "4-Archive/Tools/JRebel.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Spring/HandlerMethodArgumentResolver.md",
+                "file": "4-Archive/Tools/JRebel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Spring/HandlerMethodArgumentResolver.md",
+                "file": "4-Archive/Tools/JRebel.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Spring/HandlerMethodArgumentResolver.md"
+                "file": "4-Archive/Tools/JRebel.md"
               }
             }
           }
@@ -180,32 +180,32 @@
   },
   "active": "0e22a59c8cdbd4ab",
   "lastOpenFiles": [
-    "4-Archive/Spring/Handler.md",
-    "4-Archive/Spring/Dynamic update.md",
+    "4-Archive/Tools/Jfrog.md",
+    "4-Archive/Tools/Konsist.md",
+    "4-Archive/Tools/Kotlin Auto fill.md",
+    "4-Archive/Tools/Locust.md",
+    "4-Archive/Tools/memory-measurer.md",
+    "4-Archive/Tools/MybatisX.md",
+    "4-Archive/Tools/JRebel.md",
+    "4-Archive/Tools/Java Development Kit Version 20 Tool Specifications.md",
+    "4-Archive/Tools/Eclips memory Analyzer.md",
+    "4-Archive/Tools/DeepL.md",
+    "4-Archive/Tools/Cucumber.md",
+    "4-Archive/Tools/ctop.md",
+    "4-Archive/Tools/Clippy.md",
+    "4-Archive/Tools/Byte Buddy.md",
+    "4-Archive/Tools/Brotli.md",
+    "4-Archive/Tools/화면분할 in mac.md",
+    "4-Archive/Tools/테스트 픽스처 도구.md",
+    "4-Archive/Tools/드로윙 툴.md",
+    "4-Archive/Tip/인텔리제이 java 버전 변경 시.md",
+    "4-Archive/Tip/Time zone 관련 팁.md",
+    "4-Archive/Tip/code convention.md",
+    "4-Archive/Tip/디버깅.md",
+    "4-Archive/Testing/Test Double.md",
+    "4-Archive/Study Matirials/System Design Case Studies.md",
+    "4-Archive/kafka.md",
     "4-Archive/Study Matirials/개발관련 유튜브.md",
-    "4-Archive/Security/BGP hijacking.md",
-    "4-Archive/JVM/vm option.md",
-    "4-Archive/JVM/kotlin, coroutine, kotest 버전별 호환 목록.md",
-    "4-Archive/JVM/kotlin vs java.md",
-    "4-Archive/JVM/JLS, JSR, JEP.md",
-    "4-Archive/JVM/Bazel.md",
-    "4-Archive/JVM/buck.md",
-    "4-Archive/Frontend/Velocity.md",
-    "4-Archive/Frontend/shadcn.md",
-    "4-Archive/Frontend/빌드시간 단축.md",
-    "4-Archive/Frontend/브라우저 공부자료.md",
-    "4-Archive/Database/PostgreSQL vs MariaDB.md",
-    "4-Archive/Database/Mysql Connector j.md",
-    "4-Archive/Database/Mysql Connection check query.md",
-    "4-Archive/Database/HikariCP.md",
-    "4-Archive/Database/DB 날려먹었을때 복구방법.md",
-    "4-Archive/Database/오픈스택.md",
-    "4-Archive/Database/맵리듀스.md",
-    "4-Archive/Database/데비지움, CDC.md",
-    "4-Archive/Database/그룹별 순위 가져오기.md",
-    "4-Archive/Database/Query/테이블 크기 확인할 쿼리.md",
-    "4-Archive/Database/Query/버퍼풀 크기 확인 쿼리.md",
-    "4-Archive/Concept/URL, URN, URI.md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",

@@ -1,6 +1,6 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+0930
+updatedAt: 2024-04-21 17:49:52+1170
 tags: 
 ---
 kafka ui
@@ -11,3 +11,4 @@ https://medium.com/@greg.shiny82/%EC%8B%A4%EB%AC%B4-%EA%B4%80%EC%A0%90%EC%97%90%
 
 
 #Infrastructure 
+#argent 

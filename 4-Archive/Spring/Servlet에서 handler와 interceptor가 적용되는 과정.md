@@ -1,7 +1,12 @@
 ---
 date: 2024-04-21 15:02:55+0000
-updatedAt: 2024-04-21 15:44:53+1850
-tags: 
+updatedAt: 2024-04-21 17:51:58+7340
+tags:
+  - JVM
+  - Spring
+  - hugo_blog
+categories:
+  - Spring
 ---
 Spring handler에 대해 공부하던 중, 실제로 어떻게 동작하는지 궁금하여 알아보았습니다.
 
