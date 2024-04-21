@@ -1,11 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags:
-  - Hibernate
-  - Spring
-  - Jpa
-  - Persistence
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:54+0840
 ---
 ### Hibernate
 - Java로 작성된 프로그램에서 관계형 데이터를 자연스럽고, typesafe한 형태로 사용할 수 있게함

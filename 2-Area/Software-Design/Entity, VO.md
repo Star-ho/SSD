@@ -1,12 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags:
-  - Software-design
-  - Domain-Model
-  - Entity
-  - Vo
-  - Domain-Driven-Design
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:53+4690
 ---
 ## domain model
 현실세계의 해결하고싶은 문제를 프로그래밍 언어로 특정 측면을 구현한것  

@@ -1,11 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags:
-  - Database
-  - Undo-log
-  - Dirty-read
-  - Innodb-On-Disk-Structure
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:54+0440
 ---
 - 하나의 트랜잭션에 들어있는 undo log 레코드의 집합임
 - clustered index 레코드에 대한 트랜잭션을 취소하는 방법에 대한 정보가 포함되어있음

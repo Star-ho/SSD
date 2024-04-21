@@ -1,7 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags: 
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:53+5620
 ---
 * Entity 생성로직을 Entity에 두는 것(XxxEntity.of(~)) vs. RequestDTO에 두는 것(requestDto.toEntity())
 

@@ -1,10 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:12
-tags:
-  - "\bdistributed-lock"
-  - Concurrency
-  - hugo_blog
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:53+4670
 ---
 - named lock
 - mysql, redis 등 named lock을 지원하는 저장소에서 사용가능
@@ -18,4 +14,3 @@ tags:
 	- but, 실제로 작업하는 row가 db lock이 걸려있을시 처리
 - 실제로 사용하기 위해 멱등성 보장이 필요할 수 있음
 	- https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
-

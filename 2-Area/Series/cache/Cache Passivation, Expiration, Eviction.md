@@ -1,11 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:10
-tags:
-  - Concept
-  - Definition
-  - Cache
-  - "#hugo_blog"
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:53+4450
 ---
 ## Eviction
 

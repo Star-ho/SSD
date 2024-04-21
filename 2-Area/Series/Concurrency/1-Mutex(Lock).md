@@ -1,10 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:10
-tags:
-  - Mutex
-  - Concurrency
-  - hugo_blog
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:53+4640
 ---
 - **Mut**ual **ex**clusion의 약자
 - 프로세스 간 동기화에 사용할 수도 있는 동기화 기본 형식입니다.

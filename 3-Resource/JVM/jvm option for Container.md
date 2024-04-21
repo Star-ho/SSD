@@ -1,11 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags:
-  - container
-  - cloud
-  - gc-turning
-  - garbage-collector
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:54+0810
 ---
 ### 현재 옵션 확인
 - java -XX:+PrintFlagsFinal -version 2>&1 | grep -i -E 'heapsize|metaspace|version'

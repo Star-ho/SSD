@@ -1,8 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags:
-  - wait-to-update
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:53+4910
 ---
 읽어보기
 - https://junghyungil.tistory.com/m/178
@@ -18,4 +16,3 @@ mysql foreign key, join lock
 데이터 변경할때 기본적으로 x락이 걸리는데  
 외래키가 걸려잇으면 외래키 친구들에게도 s락이 걸리면서  
 [https://stackoverflow.com/questions/83147/whats-wrong-with-foreign-keys](https://stackoverflow.com/questions/83147/whats-wrong-with-foreign-keys)|
-

@@ -1,7 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags: 
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:53+4990
 ---
 - FULLTEXT type의 인덱스
 - ngram파서와 MeCab파서가 있는데 ngram파서가 한국어를 지원

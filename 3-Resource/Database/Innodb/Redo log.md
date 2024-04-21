@@ -1,9 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags:
-  - Redo-log
-  - Innodb-On-Disk-Structure
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:54+0400
 ---
 - 장애가 났을때, 종료되지 않았던 트랜잭션으로 부정확한 데이터의 정합성을 맞추기 위한 로그
 - redo log는 SQL문이나 low level api call로 인한 변경요청을 인코딩해서 저장함

@@ -1,7 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags: 
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:54+0800
 ---
 - Garbage Collection 파트에서 Full garbage collection에 대한 추가 설명
 - 직접 실험해보면서 체크필요

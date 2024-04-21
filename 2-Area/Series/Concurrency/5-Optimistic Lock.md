@@ -1,10 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:11
-tags:
-  - lock
-  - Concurrency
-  - hugo_blog
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:53+4670
 ---
 - CAS(compare and Set)이라고도 함
 - 데이터베이스 수준이 아닌 어플리케이션 수준에서 자원을 관리

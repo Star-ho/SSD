@@ -1,11 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags:
-  - Software-design
-  - Domain-Model
-  - Aggregate
-  - Domain-Driven-Design
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:53+4700
 ---
 - 데이터의 변경단위로 다루는 연관 객체의 묶음
 - Root Entity와 Boundary Entity가 존재

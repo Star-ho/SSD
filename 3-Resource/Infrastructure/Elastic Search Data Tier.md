@@ -1,9 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags:
-  - Elastic-Search
-  - Data-Tier
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:54+0830
 ---
 - Data Tier는 Content, Hot, Warm, Cold, Frozen 5개의 티어로 나눔
 
@@ -24,4 +21,3 @@ tags:
   
 https://www.elastic.co/guide/en/elasticsearch/reference/current/data-tiers.html
 https://www.elastic.co/kr/blog/implementing-hot-warm-cold-in-elasticsearch-with-index-lifecycle-management
-

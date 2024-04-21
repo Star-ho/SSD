@@ -1,9 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags:
-  - hikari
-  - conection-pool
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:53+9090
 ---
 > hikari가 일본어로 빛이라는 의미
 ## ConcurrentBag

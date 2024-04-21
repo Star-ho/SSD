@@ -1,10 +1,6 @@
 ---
-date: 2024-04-21T15:02:55
-updatedAt: 2024-04-21T15:07
-tags:
-  - Plugin
-  - Intellij
-  - Kotlin
+date: 2024-04-21 15:02:55+0000
+updatedAt: 2024-04-21 15:23:53+9270
 ---
 - kotlin aurgument를 자동으로 만들어줍니다
 - value 없이 생성
