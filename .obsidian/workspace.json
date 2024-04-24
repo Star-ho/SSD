@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "3-Resource/Database/Mysql Engine/Query cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "3-Resource/Database/Mysql Engine/Query cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "3-Resource/Database/Mysql Engine/Query cache.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md"
+                "file": "3-Resource/Database/Mysql Engine/Query cache.md"
               }
             }
           }
@@ -192,11 +192,21 @@
   },
   "active": "c45cba8b64d87c22",
   "lastOpenFiles": [
+    "3-Resource/Database/Mysql Engine/Query execution engine(실행 엔진).md",
+    "3-Resource/Database/Mysql Engine/Query cache.md",
+    "3-Resource/Database/Mysql Engine/Storage engine(핸들러).md",
+    "3-Resource/Database/Mysql Engine/쿼리 실행기.md",
+    "3-Resource/Database/Mysql Engine/Optimizer(옵티마이저).md",
+    "3-Resource/Database/Mysql Engine/쿼리 실행 구조.md",
+    "3-Resource/Database/Mysql Engine/PreProcessor(전처리기).md",
+    "3-Resource/Database/Mysql Engine/Parser.md",
+    "real-resource-image/Pasted image 20240424232132.png",
+    "3-Resource/Database/Mysql Engine",
+    "3-Resource/Database/Innodb/Buffer Pool.md",
     "2-Area/Series/Server/11-Reactor Java(2).md",
     "2-Area/Series/Server/9-Reactive Streams.md",
     "5-Temp/0-이직자료/과제 만들때.md",
     "5-Temp/0-이직자료/f-lab 이력서 모음.md",
-    "3-Resource/Database/Innodb/Buffer Pool.md",
     "3-Resource/Database/GTID.md",
     "3-Resource/Database/Database LSN.md",
     "3-Resource/Database/Covering Indexes(커버링 인덱스).md",
@@ -210,14 +220,6 @@
     "3-Resource/Computer-Siece/Process and Thread.md",
     "5-Temp/자료구조/hashmap vs hashtable vs ConcurrentHashMap.md",
     "5-Temp/자료구조/정적 클래스란?.md",
-    "5-Temp/자료구조/트라이로 검색어 자동완성.md",
-    "4-Archive/Tools/JRebel.md",
-    "4-Archive/Tools/Jfrog.md",
-    "4-Archive/Tools/Konsist.md",
-    "4-Archive/Tools/Kotlin Auto fill.md",
-    "4-Archive/Tools/Locust.md",
-    "4-Archive/Tools/memory-measurer.md",
-    "4-Archive/Tools/MybatisX.md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",
@@ -230,14 +232,12 @@
     "real-resource-image/Pasted image 20240303224850.png",
     "real-resource-image/Pasted image 20240329231610.png",
     "real-resource-image/Pasted image 20240329230355.png",
-    "real-resource-image/Pasted image 20240329225407.png",
     "5-Temp/Database/쿼리튜닝",
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "5-Temp/Operating-System",
     "0-Blog/1-Server",
     "0-Blog/Tip",
     "0-Blog/Study Matirials",
-    "0-Blog/Database/Query",
     "Untitled.canvas"
   ]
 }
