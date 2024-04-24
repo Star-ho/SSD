@@ -1,15 +1,25 @@
 ---
 date: 2023-11-13T22:36:38
-updatedAt: 2024-04-21 23:03:42+9550
+updatedAt: 2024-04-24 23:36:48+5050
 tags:
   - InnoDB-Architecture
   - "#Database"
   - "#hugo_blog"
 categories: InnoDB
 ---
-- 접근했었던 테이블과 인덱스를 캐시하는 메인 메모리
+- 디스크의 데이터 파일이나 인덱스 정보를 메모리에 캐시해 두는 공간
+	- 데이터 블록을 저장
 - 속도를 높이기 위해 빈번히 접근하는 데이터를 메모리에서 바로 접근하게함
 - 전용서버에서는 80%정도의 데이터를 메모리에 올려서 사용함
+
+- 쓰기 작업을 지연시켜 일괄 작업으로 처리할수 있는 버퍼역할도 제공
+
+- InnoDB 엔진은 페이지 크기 조각을 관리하기위해 LRU리스트, 플러시 리스트, 프리 리스트 3개의 자료구조로 버퍼풀을 관리
+
+- 프리 리스트는 실제 사용자 데이터로 채워지지않은 비어있는 페이지의 목록
+
+- 플러시 리스트는 동기화되지 않은 데이터를 가진 데이터페이지(더티페이지)의 변경 시점 기준의 페이지 목록을 관리
+	- 
 
 - Buffer Pool은 LRU알고리즘을 기반으로 데이터를 관리함
 - 새로운 데이터를 읽을때, 가장 옛날에 읽은 데이터를 방출하고, 새로운 데이터를 Mid point에 넣음
@@ -24,13 +34,12 @@ categories: InnoDB
 		- InnoDB의 read-ahead로 인한 읽기면 youn영역으로 이동하지 않음
 	- InnoDB에서 노화는 young영역에서 old영역으로 이동하다 결국 evicted되는 것임
 
-- Buffer Pool에는 데이터 블록이 저장됨
 
 - [`SHOW ENGINE InnoDB STATUS`](https://dev.mysql.com/doc/refman/8.0/en/InnoDB-standard-monitor.html "15.17.3 InnoDB Standard Monitor and Lock Monitor Output"),명령어로 buffer pool의 상태를 확인할 수 있음
 
 
 - buffer pool의 자세한 설정은 아래 링크를 추가로 읽어볼것
 https://dev.mysql.com/doc/refman/8.0/en/InnoDB-buffer-pool.html
-
+Real Mysql 8.0
 
 #InnoDB-In-Memory-Structure 

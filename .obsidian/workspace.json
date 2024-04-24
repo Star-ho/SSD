@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Mysql Engine/Query cache.md",
+                "file": "3-Resource/Database/Innodb/Change Buffer.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Mysql Engine/Query cache.md",
+                "file": "3-Resource/Database/Innodb/Change Buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Mysql Engine/Query cache.md",
+                "file": "3-Resource/Database/Innodb/Change Buffer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Mysql Engine/Query cache.md"
+                "file": "3-Resource/Database/Innodb/Change Buffer.md"
               }
             }
           }
@@ -192,17 +192,24 @@
   },
   "active": "c45cba8b64d87c22",
   "lastOpenFiles": [
+    "3-Resource/Database/Innodb/Buffer Pool.md",
+    "3-Resource/Database/Mysql Engine/Storage engine(핸들러).md",
     "3-Resource/Database/Mysql Engine/Query execution engine(실행 엔진).md",
     "3-Resource/Database/Mysql Engine/Query cache.md",
-    "3-Resource/Database/Mysql Engine/Storage engine(핸들러).md",
-    "3-Resource/Database/Mysql Engine/쿼리 실행기.md",
-    "3-Resource/Database/Mysql Engine/Optimizer(옵티마이저).md",
-    "3-Resource/Database/Mysql Engine/쿼리 실행 구조.md",
     "3-Resource/Database/Mysql Engine/PreProcessor(전처리기).md",
     "3-Resource/Database/Mysql Engine/Parser.md",
+    "3-Resource/Database/Mysql Engine/Optimizer(옵티마이저).md",
+    "3-Resource/Database/Mysql Engine/쿼리 실행 구조.md",
+    "3-Resource/Database/Innodb/Redo log.md",
+    "3-Resource/Database/Innodb/Undo log.md",
+    "3-Resource/Database/Innodb/mysql Binanry Log.md",
+    "3-Resource/Database/Innodb/Log Buffer.md",
+    "3-Resource/Database/Innodb/Double Write Buffer.md",
+    "3-Resource/Database/Innodb/Change Buffer.md",
+    "3-Resource/Database/Innodb/adaptive hash index.md",
+    "3-Resource/Database/Mysql Engine/쿼리 실행기.md",
     "real-resource-image/Pasted image 20240424232132.png",
     "3-Resource/Database/Mysql Engine",
-    "3-Resource/Database/Innodb/Buffer Pool.md",
     "2-Area/Series/Server/11-Reactor Java(2).md",
     "2-Area/Series/Server/9-Reactive Streams.md",
     "5-Temp/0-이직자료/과제 만들때.md",
@@ -213,13 +220,6 @@
     "3-Resource/Database/Cardinality.md",
     "3-Resource/Database/쿼리 튜닝시.md",
     "3-Resource/Database/정규화 역정규화.md",
-    "5-Temp/0-이직자료/글로벌 빅태크 면접경험.md",
-    "5-Temp/0-이직자료/내 장점.md",
-    "5-Temp/0-이직자료/링크드인 추가해야 하는 사람.md",
-    "5-Temp/0-이직자료/서드파티 서비스에 장애가 생길 경우.md",
-    "3-Resource/Computer-Siece/Process and Thread.md",
-    "5-Temp/자료구조/hashmap vs hashtable vs ConcurrentHashMap.md",
-    "5-Temp/자료구조/정적 클래스란?.md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",

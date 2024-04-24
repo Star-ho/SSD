@@ -1,6 +1,6 @@
 ---
 date: 2023-10-11T23:18:58
-updatedAt: 2024-04-21 18:34:36+3220
+updatedAt: 2024-04-24 23:34:04+7490
 tags:
   - InnoDB-Architecture
   - "#Database"
@@ -15,5 +15,6 @@ categories: InnoDB
 
 https://velog.io/@pk3669/Mysql-Redo-Undo-Log
 https://dev.mysql.com/doc/refman/8.0/en/InnoDB-redo-log.html
+Real Mysql 8.0
 #Database 
 #InnoDB 
