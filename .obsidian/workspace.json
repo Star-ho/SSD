@@ -60,8 +60,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Programming-Langueg",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "c45cba8b64d87c22",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
     "3-Resource/Database/Innodb/Buffer Pool.md",
     "3-Resource/Database/Innodb/Change Buffer.md",
