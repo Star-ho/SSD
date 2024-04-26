@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Mysql Engine/Query execution engine(실행 엔진).md",
+                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "service ktx",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Mysql Engine/Query execution engine(실행 엔진).md",
+                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Mysql Engine/Query execution engine(실행 엔진).md",
+                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Mysql Engine/Query execution engine(실행 엔진).md"
+                "file": "5-Temp/z-etc/linux service 만들기 관련 글정리.md"
               }
             }
           }
@@ -192,11 +193,11 @@
   },
   "active": "c45cba8b64d87c22",
   "lastOpenFiles": [
+    "3-Resource/Database/Mysql Engine/Query execution engine(실행 엔진).md",
     "3-Resource/Database/Innodb/adaptive hash index.md",
     "3-Resource/Database/Innodb/Buffer Pool.md",
     "3-Resource/Database/Innodb/Change Buffer.md",
     "3-Resource/Database/Mysql Engine/Storage engine(핸들러).md",
-    "3-Resource/Database/Mysql Engine/Query execution engine(실행 엔진).md",
     "3-Resource/Database/Mysql Engine/Query cache.md",
     "3-Resource/Database/Mysql Engine/PreProcessor(전처리기).md",
     "3-Resource/Database/Mysql Engine/Parser.md",
