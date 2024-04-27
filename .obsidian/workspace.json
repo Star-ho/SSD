@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/NoSQL.md",
+                "file": "3-Resource/Database/Innodb/InnoDB Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/NoSQL.md",
+                "file": "3-Resource/Database/Innodb/InnoDB Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/NoSQL.md",
+                "file": "3-Resource/Database/Innodb/InnoDB Method.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/NoSQL.md"
+                "file": "3-Resource/Database/Innodb/InnoDB Method.md"
               }
             }
           }
@@ -192,6 +192,8 @@
   },
   "active": "c45cba8b64d87c22",
   "lastOpenFiles": [
+    "3-Resource/Database/NoSQL.md",
+    "3-Resource/Database/Innodb/InnoDB Method.md",
     "3-Resource/Database/Mysql Engine/Parser.md",
     "3-Resource/Database/Mysql Engine/Storage engine(핸들러).md",
     "3-Resource/Database/Mysql Engine/Query execution engine(실행 엔진).md",
@@ -210,7 +212,6 @@
     "3-Resource/Concept/HTTP Method PUT vs PATCH.md",
     "3-Resource/Concept/파티셔닝.md",
     "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
-    "3-Resource/Database/NoSQL.md",
     "5-Temp/Concept/쓰기충돌 rdb vs nosql(mongo).md",
     "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
     "3-Resource/Database/Mysql Engine/쿼리 실행기.md",
@@ -219,7 +220,6 @@
     "2-Area/Series/Server/11-Reactor Java(2).md",
     "2-Area/Series/Server/9-Reactive Streams.md",
     "5-Temp/0-이직자료/과제 만들때.md",
-    "5-Temp/0-이직자료/f-lab 이력서 모음.md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",
