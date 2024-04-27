@@ -1,6 +1,8 @@
 ---
 date: 2024-04-27 22:38:10+0980
-updatedAt: 2024-04-27 22:54:25+4960
+updatedAt: 2024-04-27 22:55:56+3400
+tags:
+  - NoSQL
 ---
 ## 정의
 - 기존의 RDBMS에서 데이터는 테이블이라는 데이터베이스 객체에 저장됨
@@ -21,6 +23,8 @@ updatedAt: 2024-04-27 22:54:25+4960
 
 ## 단점
 - 데이터가 정규화 되어 있지않아, 고도로 정규화되고 정확한 데이터가 필요한 금융, 회계시스템에는 맞지 않음
+
+#wait-to-update 
 
 https://www.oracle.com/kr/database/nosql/what-is-nosql/
 https://blogs.oracle.com/mysql/post/qa-with-the-mysql-community-team
