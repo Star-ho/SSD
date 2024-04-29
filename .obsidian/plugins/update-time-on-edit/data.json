@@ -724,6 +724,7 @@
     "3-Resource/Database/Mysql Engine/Storage engine(핸들러).md": "3de268a5d66b2467ff5861d45ccc88a478667461a25780f9275e185c137a969b",
     "3-Resource/Database/Mysql Engine/Query cache.md": "5bae4a9d3e8b67608a2195aba98915351cd4faab6627e194b4acb99963fdb052",
     "3-Resource/Database/NoSQL.md": "2a7a01aeaaecf4d3c073ec2374ff5705af6d6d4cc90846a0cf27a47205ca3441",
-    "3-Resource/Database/Innodb/InnoDB Method.md": "3fb047dcb293dea5b9fa3e44033a0b1ed2b99d750427fd2604ebea7d03894d47"
+    "3-Resource/Database/Innodb/InnoDB Method.md": "3fb047dcb293dea5b9fa3e44033a0b1ed2b99d750427fd2604ebea7d03894d47",
+    "2-Area/Android as linux server.md": "d3c58cc2aac7ee68c8bbacbdb97d82472538185329308c0dae5812a8f231b6a6"
   }
 }
