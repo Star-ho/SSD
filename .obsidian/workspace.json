@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "service",
+                "query": "클러스터",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "c45cba8b64d87c22",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
     "2-Area/Android as linux server.md",
     "3-Resource/Database/Mysql Explain Plan(실행계획).md",

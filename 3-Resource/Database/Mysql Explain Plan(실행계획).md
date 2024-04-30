@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-04-30 23:08:10+5120
+updatedAt: 2024-04-30 23:10:07+9140
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -38,10 +38,10 @@ updatedAt: 2024-04-30 23:08:10+5120
 | PRIMARY              | None                       | 가장 바깥쪽의 SELECT                                                                                            |
 | UNION                | None                       | UNION으로 결합하는 첫번째를 제외한 두번째 이후의 쿼리                                                                          |
 | DEPENDENT UNION      | dependent (true)           | UNION으로 결합하는 첫번째를 제외한 두번째 이후의 쿼리이지만 외부 쿼리의 영향을 받는 Select                                                  |
-| UNION RESULT         | union_result               | UNION의 결과를 담아두는 테이블                                                                                       |
-| SUBQUERY             | None                       | Subquery의 첫번째 결과                                                                                          |
-| DEPENDENT SUBQUERY   | dependent (true)           | 외부 쿼리에 의존하는 Subquery의 첫번째 결과                                                                              |
-| DERIVED              | None                       | Derived table                                                                                             |
+| UNION RESULT         | union_result               | UNION의 결과                                                                                                 |
+| SUBQUERY             | None                       | Subquery의 첫번째 결과, From절 이외에서 사용되는 서브쿼리                                                                    |
+| DEPENDENT SUBQUERY   | dependent (true)           | 외부 쿼리에 의존하는 Subquery의 첫번째 결과,<br>From절 이외에서 사용되는 서브쿼리                                                     |
+| DERIVED              | None                       | Select쿼리의 실행결과로 메모리나 디스크에 임시 저장되는 정보                                                                      |
 | DEPENDENT DERIVED    | dependent (true)           | Derived table dependent on another table                                                                  |
 | MATERIALIZED         | materialized_from_subquery | Materialized subquery                                                                                     |
 | UNCACHEABLE SUBQUERY | cacheable (false)          | A subquery for which the result cannot be cached and must be re-evaluated for each row of the outer query |
