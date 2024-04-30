@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e2f40c35056690ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Archive/Book-Review/DDIA/1부/03-저장소와 검색.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e22a59c8cdbd4ab",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan(실행계획).md",
+                "file": "4-Archive/Book-Review/DDIA/1부/03-저장소와 검색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan(실행계획).md",
+                "file": "4-Archive/Book-Review/DDIA/1부/03-저장소와 검색.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan(실행계획).md"
+                "file": "4-Archive/Book-Review/DDIA/1부/03-저장소와 검색.md"
               }
             }
           }
@@ -191,10 +204,11 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "e2f40c35056690ee",
   "lastOpenFiles": [
-    "2-Area/Android as linux server.md",
+    "5-Temp/InfraStructure/클러스터링, 샤딩, 레플리케이션.md",
     "3-Resource/Database/Mysql Explain Plan(실행계획).md",
+    "2-Area/Android as linux server.md",
     "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
     "3-Resource/Database/Innodb/InnoDB Method.md",
     "3-Resource/Database/NoSQL.md",
@@ -220,7 +234,6 @@
     "3-Resource/Database/Mysql Engine/쿼리 실행기.md",
     "real-resource-image/Pasted image 20240424232132.png",
     "3-Resource/Database/Mysql Engine",
-    "2-Area/Series/Server/11-Reactor Java(2).md",
     "4-Archive/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",
