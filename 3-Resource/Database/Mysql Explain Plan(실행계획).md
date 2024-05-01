@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-04-30 23:10:07+9140
+updatedAt: 2024-05-01 23:14:24+0240
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -42,8 +42,8 @@ updatedAt: 2024-04-30 23:10:07+9140
 | SUBQUERY             | None                       | Subquery의 첫번째 결과, From절 이외에서 사용되는 서브쿼리                                                                    |
 | DEPENDENT SUBQUERY   | dependent (true)           | 외부 쿼리에 의존하는 Subquery의 첫번째 결과,<br>From절 이외에서 사용되는 서브쿼리                                                     |
 | DERIVED              | None                       | Select쿼리의 실행결과로 메모리나 디스크에 임시 저장되는 정보                                                                      |
-| DEPENDENT DERIVED    | dependent (true)           | Derived table dependent on another table                                                                  |
-| MATERIALIZED         | materialized_from_subquery | Materialized subquery                                                                                     |
+| DEPENDENT DERIVED    | dependent (true)           | 다른 테이블에 의존하고 있는 DERIVED 테이블                                                                               |
+| MATERIALIZED         | materialized_from_subquery | 서브쿼리의 내용을 임시테이블로 궃                                                                                        |
 | UNCACHEABLE SUBQUERY | cacheable (false)          | A subquery for which the result cannot be cached and must be re-evaluated for each row of the outer query |
 | UNCACHEABLE UNION    | cacheable (false)          | The second or later select in a UNION that belongs to an uncacheable subquery (see UNCACHEABLE SUBQUERY)  |
 
