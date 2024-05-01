@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-01 23:14:24+0240
+updatedAt: 2024-05-01 23:24:25+0170
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -32,20 +32,33 @@ updatedAt: 2024-05-01 23:14:24+0240
 ## select_type
 - Select의 유형으로 다음 표에 나타나는 것중 하나가 들어감
 
-| select_type          | JSON Name                  | Meaning                                                                                                   |
-| -------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------- |
-| SIMPLE               | None                       | 서브쿼리나 Union을 사용하지 않은 간단한 Select                                                                           |
-| PRIMARY              | None                       | 가장 바깥쪽의 SELECT                                                                                            |
-| UNION                | None                       | UNION으로 결합하는 첫번째를 제외한 두번째 이후의 쿼리                                                                          |
-| DEPENDENT UNION      | dependent (true)           | UNION으로 결합하는 첫번째를 제외한 두번째 이후의 쿼리이지만 외부 쿼리의 영향을 받는 Select                                                  |
-| UNION RESULT         | union_result               | UNION의 결과                                                                                                 |
-| SUBQUERY             | None                       | Subquery의 첫번째 결과, From절 이외에서 사용되는 서브쿼리                                                                    |
-| DEPENDENT SUBQUERY   | dependent (true)           | 외부 쿼리에 의존하는 Subquery의 첫번째 결과,<br>From절 이외에서 사용되는 서브쿼리                                                     |
-| DERIVED              | None                       | Select쿼리의 실행결과로 메모리나 디스크에 임시 저장되는 정보                                                                      |
-| DEPENDENT DERIVED    | dependent (true)           | 다른 테이블에 의존하고 있는 DERIVED 테이블                                                                               |
-| MATERIALIZED         | materialized_from_subquery | 서브쿼리의 내용을 임시테이블로 궃                                                                                        |
-| UNCACHEABLE SUBQUERY | cacheable (false)          | A subquery for which the result cannot be cached and must be re-evaluated for each row of the outer query |
-| UNCACHEABLE UNION    | cacheable (false)          | The second or later select in a UNION that belongs to an uncacheable subquery (see UNCACHEABLE SUBQUERY)  |
+| select_type          | JSON Name                  | Meaning                                                      |
+| -------------------- | -------------------------- | ------------------------------------------------------------ |
+| SIMPLE               | None                       | 서브쿼리나 Union을 사용하지 않은 간단한 Select                              |
+| PRIMARY              | None                       | 가장 바깥쪽의 SELECT                                               |
+| UNION                | None                       | UNION으로 결합하는 첫번째를 제외한 두번째 이후의 쿼리                             |
+| DEPENDENT UNION      | dependent (true)           | UNION으로 결합하는 첫번째를 제외한 두번째 이후의 쿼리이지만 외부 쿼리의 영향을 받는 Select     |
+| UNION RESULT         | union_result               | UNION의 결과일때                                                  |
+| SUBQUERY             | None                       | Subquery의 첫번째 결과, From절 이외에서 사용되는 서브쿼리                       |
+| DEPENDENT SUBQUERY   | dependent (true)           | 외부 쿼리에 의존하는 Subquery의 첫번째 결과,<br>From절 이외에서 사용되는 서브쿼리        |
+| DERIVED              | None                       | Select쿼리의 실행결과로 메모리나 디스크에 임시 저장되는 정보                         |
+| DEPENDENT DERIVED    | dependent (true)           | 다른 테이블에 의존하고 있는 DERIVED 테이블                                  |
+| MATERIALIZED         | materialized_from_subquery | 서브쿼리의 내용을 임시테이블로 구체화 할때 사용                                   |
+| UNCACHEABLE SUBQUERY | cacheable (false)          | 결과를 캐시할 수 없고, 외부 쿼리의 각 row에 대해 재평가가 필요한 데이터에 일때 표시됨          |
+| UNCACHEABLE UNION    | cacheable (false)          | 캐시를 할 수 없는 서브쿼리를 포함하는, 첫번째를 제외한 두번째 이후의 UNION select일 경우 표시됨 |
+- select쿼리가 아닌 CUD쿼리는 해당 statements의 종류가 표시됨
+	- DELETE일 경우, select_type에는 DELETE를 표시
+
+### 서브쿼리의 종류가 뭘까?
+### DERIVED되는 테이블은 어떤테이블일까?
+### MATERIALIZED이 나타나는 쿼리는 어떤쿼리일까?
+## table
+- 각 행의 결과를 가져오는 테이블의 이름
+- \<union`M`,`N`>
+	- id(Explain의 id 컬럼)가 M과 N의 행의 UNION결과를 나타냄
+- \
+
+
 
 Real Mysql 8.0
 https://dev.mysql.com/doc/refman/8.0/en/explain-output.html
