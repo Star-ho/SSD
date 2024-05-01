@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-01 23:24:25+0170
+updatedAt: 2024-05-01 23:34:22+8390
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -55,8 +55,26 @@ updatedAt: 2024-05-01 23:24:25+0170
 ## table
 - 각 행의 결과를 가져오는 테이블의 이름
 - \<union`M`,`N`>
-	- id(Explain의 id 컬럼)가 M과 N의 행의 UNION결과를 나타냄
-- \
+	- id(Explain의 id 컬럼)가 M과 N인 행의 UNION결과를 나타냄
+- \<derived`N`>
+	- id(Explain의 id 컬럼)가 N인 쿼리의 결과로 파생된  행
+	- derived테이블은 FROM에 있는 서브쿼리의 결과임
+- \<subquery`N`>
+	- id(Explain의 id 컬럼)가 N인 행에 대한 구체화된 subquery의 결과를 나타냄
+
+### subquery mareirialzied 최적화 [링크](https://dev.mysql.com/doc/refman/8.0/en/subquery-materialization.html)
+## partitions
+- 쿼리에 의해 매치된 파티션을 나타냄
+- 파티션이 없는 테이블은 NULL로 표시됨
+
+## type
+- join type을 나타냄
+- system
+	- 테이블이 하나의 row만 가지고 있을때 나타남
+	- const join타입의 특별한 케이스임
+- const
+	- 테이블에서 쿼
+
 
 
 
