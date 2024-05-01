@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-01 23:34:22+8390
+updatedAt: 2024-05-01 23:39:28+8930
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -70,11 +70,22 @@ updatedAt: 2024-05-01 23:34:22+8390
 ## type
 - join type을 나타냄
 - system
-	- 테이블이 하나의 row만 가지고 있을때 나타남
+	- 테이블이 하나의 row만 가지고 있을때 표시됨
 	- const join타입의 특별한 케이스임
-- const
-	- 테이블에서 쿼
 
+- const
+	- 쿼리시작시 결과가 오직 하나일때 표시됨
+	- 결과가 하나의 row일 경우, 컬럼의 값은 옵티마이저에 의해 상수로 처리됨
+	- const 테이블은 오직 한번만 읽기에 매우 빠름
+	- 기본키 또는 UNIQUE 인덱스의 모든 부분을 상수값과 비교될때 사용됨
+	- 예제 쿼리
+```sql
+SELECT * FROM _tbl_name_ WHERE _primary_key_=1; 
+SELECT * FROM _tbl_name_ WHERE _primary_key_part1_=1 AND _primary_key_part2_=2;
+```
+
+- eq_ref
+	- 이전 테이블
 
 
 
