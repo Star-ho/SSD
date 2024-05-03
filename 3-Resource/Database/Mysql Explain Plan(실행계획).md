@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-03 22:40:39+0830
+updatedAt: 2024-05-03 22:45:23+4210
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -176,6 +176,8 @@ value IN (SELECT key_column FROM single_table WHERE some_expr)
 	- 거의 모든 경우 좋지않음
 	- index를 추가하여 피할 수 있음
 
+## possible_keys
+- 
 
 
 Real Mysql 8.0
