@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-03 15:39:53+7180
+updatedAt: 2024-05-03 18:27:55+7600
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -142,7 +142,25 @@ value IN (SELECT primary_key FROM single_table WHERE some_expr)
 value IN (SELECT key_column FROM single_table WHERE some_expr)
 ```
 
-- 
+- range
+	- 인덱스로 범위질의를 사용시 나타남
+	-  =, <>, >, >=, <, <=, IS NULL, <=>, BETWEEN, LIKE, IN() 연산자를 사용하여 상수 값과 비교할때 나타남
+	- key_len에는 사용된 키 중 가장 긴키의 길이를 표시함
+	- 예제쿼리
+```sql
+    SELECT * FROM tbl_name
+      WHERE key_column = 10;
+    
+    SELECT * FROM tbl_name
+      WHERE key_column BETWEEN 10 and 20;
+    
+    SELECT * FROM tbl_name
+      WHERE key_column IN (10,20,30);
+    
+    SELECT * FROM tbl_name
+      WHERE key_part1 = 10 AND key_part2 IN (10,20,30);
+    ```
+
 
 Real Mysql 8.0
 https://dev.mysql.com/doc/refman/8.0/en/explain-output.html
