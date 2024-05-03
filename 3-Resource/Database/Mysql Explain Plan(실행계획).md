@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-03 18:27:55+7600
+updatedAt: 2024-05-03 22:33:00+6840
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -160,6 +160,13 @@ value IN (SELECT key_column FROM single_table WHERE some_expr)
     SELECT * FROM tbl_name
       WHERE key_part1 = 10 AND key_part2 IN (10,20,30);
     ```
+
+- index
+	- 인덱스 트리가 스캔되는 것을 제외하면, ALL과 동일함
+	- 아래 두가지 경우에 나타남
+		- 인덱스 쿼리가 커버링 인덱스이고, 테이블에서 필요한 모든 데이터를 인덱스에서 가져올 수 있는 경우, 인덱스 트리만 스캔함
+			- Extra column에 Using Index라고 나타남
+			- index-
 
 
 Real Mysql 8.0
