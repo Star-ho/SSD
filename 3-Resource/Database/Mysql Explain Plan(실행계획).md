@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-03 15:25:17+5820
+updatedAt: 2024-05-03 15:35:23+8540
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -122,7 +122,18 @@ SELECT * FROM _ref_table_,_other_table_
 SELECT * FROM _ref_table_ WHERE _key_column_=_expr_ OR _key_column_ IS NULL;
 ```
 
+- index_merge
+	- 인덱스 병합 최적화가 사용되었다는 것을 나타냄
+	- 이 경우 Explain의 key column에는 사용된 인덱스 목록이 포함되며, key_len에는 가장 긴 인덱스의 키 목록이 표함됨
+	- [링크](https://dev.mysql.com/doc/refman/8.0/en/index-merge-optimization.html)참고
 
+- unique_subquery
+	- 
+	- 예제쿼리
+
+```sql
+value IN (SELECT primary_key FROM single_table WHERE some_expr)
+```
 
 Real Mysql 8.0
 https://dev.mysql.com/doc/refman/8.0/en/explain-output.html
