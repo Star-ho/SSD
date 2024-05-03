@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-01 23:39:28+8930
+updatedAt: 2024-05-03 14:50:15+5190
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -85,8 +85,7 @@ SELECT * FROM _tbl_name_ WHERE _primary_key_part1_=1 AND _primary_key_part2_=2;
 ```
 
 - eq_ref
-	- 이전 테이블
-
+	- const와 system을 제외하고는 가장 
 
 
 Real Mysql 8.0
