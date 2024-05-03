@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-03 22:45:23+4210
+updatedAt: 2024-05-03 23:03:03+9450
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -177,7 +177,10 @@ value IN (SELECT key_column FROM single_table WHERE some_expr)
 	- index를 추가하여 피할 수 있음
 
 ## possible_keys
-- 
+- MySQL이 해당 테이블에서 데이터를 찾기위해 선택할 수 있는 인덱스를 나타냄
+- EXPLAIN문과는 독립적이어서, possible_keys에 나타난 인덱스를 실제로 사용할 수 없을 수 있음
+- 해당 행이 NULL일경우 관련 인덱스가 없다는걸 난타냄
+	- 이 경우 WHERE절을 참고해 인
 
 
 Real Mysql 8.0
