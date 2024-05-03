@@ -726,7 +726,8 @@
     "3-Resource/Database/NoSQL.md": "2a7a01aeaaecf4d3c073ec2374ff5705af6d6d4cc90846a0cf27a47205ca3441",
     "3-Resource/Database/Innodb/InnoDB Method.md": "3fb047dcb293dea5b9fa3e44033a0b1ed2b99d750427fd2604ebea7d03894d47",
     "2-Area/Android as linux server.md": "d3c58cc2aac7ee68c8bbacbdb97d82472538185329308c0dae5812a8f231b6a6",
-    "3-Resource/Database/Mysql Explain Plan(실행계획).md": "8d5d8e17dbd43b89739f94c2fce22bc0d0aa40a57276268bb7f09ae5b63f47d7",
-    "3-Resource/Database/쿼리 최적화.md": "dbba903ba87e616285a675265cf570be622cf52a6666ab0a877f9f1833f7e34e"
+    "3-Resource/Database/쿼리 최적화.md": "dbba903ba87e616285a675265cf570be622cf52a6666ab0a877f9f1833f7e34e",
+    "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md": "a4fe2a913ea99d9458d802aeaada9f68d82bf0e6752449a6d8df1a2506a4c448",
+    "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md": "3a1fdc39b3135bf9e740445723655942df782b6800b5acc00334951151981b83"
   }
 }
