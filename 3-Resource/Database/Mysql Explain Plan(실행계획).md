@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-03 23:04:55+3220
+updatedAt: 2024-05-03 23:14:09+0780
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -184,8 +184,11 @@ value IN (SELECT key_column FROM single_table WHERE some_expr)
 
 ## key
 - 실제로 사용을 결정한 인덱스를 보여줌
-- possible_keys에 나타난 인덱스를 보여줌
-- possible_keys에서 나타지 않은 인덱스를 보여줄 수 있는데, 
+
+## key_len
+- 사용하기로 결정된 key의 길이를 나타냄
+
+
 
 
 Real Mysql 8.0
