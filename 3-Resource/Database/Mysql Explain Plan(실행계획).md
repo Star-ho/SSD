@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-03 23:14:09+0780
+updatedAt: 2024-05-03 23:30:23+2080
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -188,8 +188,17 @@ value IN (SELECT key_column FROM single_table WHERE some_expr)
 ## key_len
 - 사용하기로 결정된 key의 길이를 나타냄
 
+## ref
+- key에서 선택된 인덱스와 비교되는 컬럼 또는 상수값을 나타냄
 
+## rows
+- MySQL이 해당 쿼리를 실행하기 위해 검사해야 한다고 생각되는 행의 수를 나타냄
+- innodb의 경우 항상 추정치이며 정확하지 않을 수 있음
 
+## filtered
+- 테이블의 조건에 따라 필터링 되는 행의 수를 퍼센트로 나타낸것
+- 최대값은 100이며 필터링 되지 않은 것을 의미함
+- 
 
 Real Mysql 8.0
 https://dev.mysql.com/doc/refman/8.0/en/explain-output.html
