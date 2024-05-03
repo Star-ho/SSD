@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-03 15:15:36+5120
+updatedAt: 2024-05-03 15:25:17+5820
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -96,6 +96,33 @@ SELECT * FROM _ref_table_,_other_table_ WHERE _ref_table_._key_column_=_other_ta
 SELECT * FROM _ref_table_,_other_table_ 
 	WHERE _ref_table_._key_column_part1_=_other_table_._column_ AND _ref_table_._key_column_part2_=1;
 ```
+
+- ref
+	- 이전 테이블에 가져온 행 조합마다일치하는 모든 인덱스를 읽음
+	- 키의 접두사만 읽거나, 키가 기본키나 유니크키가 아닐 경우 나타남
+		- 정확히 하나의 row를 반환하지 않는 경유를 의미
+	- 키에 해당하는 행이 적은경우, 충분히 좋은 join 방법임
+	- `=`이거나 `<=>`일때 사용됨
+	- 예제쿼리
+```SQL
+SELECT * FROM _ref_table_ WHERE _key_column_=_expr_; 
+SELECT * FROM _ref_table_,_other_table_ WHERE _ref_table_._key_column_=_other_table_._column_; 
+SELECT * FROM _ref_table_,_other_table_ 
+	WHERE _ref_table_._key_column_part1_=_other_table_._column_ AND _ref_table_._key_column_part2_=1;
+```
+
+- fulltext
+	- FULLTEXT인덱스를 사용할때 나타남
+
+- ref_or_null
+	- ref와 유사하지만, null을 포함하는 행의 질의를 할때 표시됨
+	- subquery를 처리할때 자주 표시됨
+	- 예제쿼리
+```SQL
+SELECT * FROM _ref_table_ WHERE _key_column_=_expr_ OR _key_column_ IS NULL;
+```
+
+
 
 Real Mysql 8.0
 https://dev.mysql.com/doc/refman/8.0/en/explain-output.html
