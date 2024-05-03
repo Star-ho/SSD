@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-03 15:02:31+5640
+updatedAt: 2024-05-03 15:15:36+5120
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -87,9 +87,15 @@ SELECT * FROM _tbl_name_ WHERE _primary_key_part1_=1 AND _primary_key_part2_=2;
 
 - eq_ref
 	- const와 system을 제외하고는 가장 최상의 join
-	- 인덱스의 모든 부분이 join에 사용되며, 인덱스가 기본키 이거나 유니크키+not null조합일때 표시됨
-	- 비교하는 값은 상수이거나, 이전에 읽은 테이블의 열을 사용
-
+	- 이전 테이블에서 가져온 행 조합마다 해당 테이블에서 정확히 한 행을 읽음
+	- 인덱스의 모든 부분이 join에 사용되며, 인덱스가 기본키 또는 유니크키+not null조합이면서 `=`를 사용하여 비교될때 사용됨
+	- 비교하는 값은 상수이거나, 이전에 읽은 테이블의 컬럼 사용
+	- 예제쿼리
+```SQL
+SELECT * FROM _ref_table_,_other_table_ WHERE _ref_table_._key_column_=_other_table_._column_; 
+SELECT * FROM _ref_table_,_other_table_ 
+	WHERE _ref_table_._key_column_part1_=_other_table_._column_ AND _ref_table_._key_column_part2_=1;
+```
 
 Real Mysql 8.0
 https://dev.mysql.com/doc/refman/8.0/en/explain-output.html
