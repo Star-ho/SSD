@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-03 15:35:23+8540
+updatedAt: 2024-05-03 15:39:53+7180
 ---
 ## 개요
 - Explain 문은 Mysql이 어떻게 statements를 실행할것인가에 대한 정보를 제공
@@ -67,7 +67,7 @@ updatedAt: 2024-05-03 15:35:23+8540
 - 쿼리에 의해 매치된 파티션을 나타냄
 - 파티션이 없는 테이블은 NULL로 표시됨
 
-## type
+## type(join 유형)
 - join type을 나타냄
 - 앞에 나올수록 성능이 좋음
 - system
@@ -128,12 +128,21 @@ SELECT * FROM _ref_table_ WHERE _key_column_=_expr_ OR _key_column_ IS NULL;
 	- [링크](https://dev.mysql.com/doc/refman/8.0/en/index-merge-optimization.html)참고
 
 - unique_subquery
-	- 
+	- IN절 내의 eq_ref 서브쿼리의를 대체함
+	- 효율성을 높이기 위해 서브쿼리를 대체하여 인덱스만 조회함
 	- 예제쿼리
-
 ```sql
 value IN (SELECT primary_key FROM single_table WHERE some_expr)
 ```
+
+- index_subquery
+	- unique_subquery와 유사하지만, non-unique 서브쿼리일때 나타남
+	- 예제쿼리
+```sql
+value IN (SELECT key_column FROM single_table WHERE some_expr)
+```
+
+- 
 
 Real Mysql 8.0
 https://dev.mysql.com/doc/refman/8.0/en/explain-output.html
