@@ -1,10 +1,10 @@
 ---
-date: 2024-05-03 23:35:47+8830
-updatedAt: 2024-05-04 22:33:53
+date: 2024-05-03 23:35:47
+updatedAt: 2024-05-04 22:51:26
 tags:
+  - hugo_blog
   - Explain-Plan
   - MySQL
-  - hugo_blog
 categories:
   - Database
 ---
