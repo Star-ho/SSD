@@ -1,6 +1,12 @@
 ---
 date: 2024-05-03 23:34:03+0740
-updatedAt: 2024-05-03 23:34:28+4390
+updatedAt: 2024-05-04 20:47:57+3040
+tags:
+  - MySQL
+  - Explain-Plan
+  - hugo_blog
+categories:
+  - Database
 ---
 ## 조인타입
 먼저에 나올수록 성능이 좋음

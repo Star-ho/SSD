@@ -1,6 +1,6 @@
 ---
 date: 2024-04-30 22:35:11+3940
-updatedAt: 2024-05-03 23:35:16+3060
+updatedAt: 2024-05-04 20:48:46+4790
 tags:
   - MySQL
   - Explain-Plan
@@ -55,9 +55,6 @@ categories:
 - select쿼리가 아닌 CUD쿼리는 해당 statements의 종류가 표시됨
 	- DELETE일 경우, select_type에는 DELETE를 표시
 
-### 서브쿼리의 종류가 뭘까?
-### DERIVED되는 테이블은 어떤테이블일까?
-### MATERIALIZED이 나타나는 쿼리는 어떤쿼리일까?
 ## table
 - 각 행의 결과를 가져오는 테이블의 이름
 - \<union`M`,`N`>
