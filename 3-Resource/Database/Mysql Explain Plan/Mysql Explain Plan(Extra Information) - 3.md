@@ -1,6 +1,12 @@
 ---
 date: 2024-05-03 23:35:47+8830
-updatedAt: 2024-05-04 22:29:18
+updatedAt: 2024-05-04 22:33:53
+tags:
+  - Explain-Plan
+  - MySQL
+  - hugo_blog
+categories:
+  - Database
 ---
 - Extra 열에는 Mysql에서 쿼리를 resolve하기 위한 추가적인 정보가 들어감
 - 여기서는 추가적인 정보 중 유용하다고 생각되는 정보를 정리할 예정
