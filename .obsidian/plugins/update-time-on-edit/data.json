@@ -1,12 +1,12 @@
 {
-  "dateFormat": "yyyy-MM-dd HH:mm:ss+SSSS",
+  "dateFormat": "yyyy-MM-dd HH:mm:ss",
   "enableCreateTime": true,
   "headerUpdated": "updatedAt",
   "headerCreated": "date",
-  "minMinutesBetweenSaves": 1,
+  "minMinutesBetweenSaves": 17,
   "ignoreGlobalFolder": [],
   "ignoreCreatedFolder": [],
-  "enableExperimentalHash": true,
+  "enableExperimentalHash": false,
   "fileHashMap": {
     "7-Zettlecasten.md": "ce4d740b2dfc013c9229c82dd61cf8694e7f04d43462f4449954133099e758f6",
     "5-성호의 Second Brain.md": "4c5a2df244933088e80c768459ad9420646bdab390408bfd6eaa452d39a00194",
