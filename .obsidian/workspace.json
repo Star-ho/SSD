@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md",
+                "file": "2-Area/Series/Server/13-Virtual Thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md",
+                "file": "2-Area/Series/Server/13-Virtual Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md",
+                "file": "2-Area/Series/Server/13-Virtual Thread.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md"
+                "file": "2-Area/Series/Server/13-Virtual Thread.md"
               }
             }
           }
@@ -204,8 +204,8 @@
   },
   "active": "c45cba8b64d87c22",
   "lastOpenFiles": [
-    "3-Resource/Database/Mysql Explain Plan/123.md",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md",
+    "3-Resource/Database/Mysql Explain Plan/123.md",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
     "3-Resource/Database/서브쿼리 종류.md",
