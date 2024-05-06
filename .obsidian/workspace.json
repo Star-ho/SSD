@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c45cba8b64d87c22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/0-Sung-ho/피부.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e2f40c35056690ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Book-Review/DDIA/1부/03-저장소와 검색.md",
+                "file": "2-Area/0-Sung-ho/피부.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,10 +190,11 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "c45cba8b64d87c22",
+  "active": "e2f40c35056690ee",
   "lastOpenFiles": [
-    "2-Area/Software-Design/Service.md",
+    "4-Archive/Book-Review/DDIA/1부/03-저장소와 검색.md",
     "2-Area/0-Sung-ho/피부.md",
+    "2-Area/Software-Design/Service.md",
     "2-Area/Software-Design/Entity, VO.md",
     "2-Area/Software-Design/Aggregate 생명주기(Factory, Repository).md",
     "2-Area/Software-Design/Aggregate.md",
@@ -225,7 +214,6 @@
     "3-Resource/Database/쿼리 실행 순서.md",
     "3-Resource/Database/정규화 역정규화.md",
     "3-Resource/Database/쿼리 최적화.md",
-    "4-Archive/Book-Review/DDIA/1부/03-저장소와 검색.md",
     "5-Temp/InfraStructure/클러스터링, 샤딩, 레플리케이션.md",
     "2-Area/Android as linux server.md",
     "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
