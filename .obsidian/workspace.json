@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Software-Design/Service.md",
+                "file": "2-Area/0-Sung-ho/피부.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Software-Design/Service.md",
+                "file": "2-Area/0-Sung-ho/피부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Software-Design/Service.md",
+                "file": "2-Area/0-Sung-ho/피부.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Software-Design/Service.md"
+                "file": "2-Area/0-Sung-ho/피부.md"
               }
             }
           }
@@ -204,6 +204,8 @@
   },
   "active": "c45cba8b64d87c22",
   "lastOpenFiles": [
+    "2-Area/Software-Design/Service.md",
+    "2-Area/0-Sung-ho/피부.md",
     "2-Area/Software-Design/Entity, VO.md",
     "2-Area/Software-Design/Aggregate 생명주기(Factory, Repository).md",
     "2-Area/Software-Design/Aggregate.md",
@@ -229,8 +231,6 @@
     "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
     "3-Resource/Database/Innodb/InnoDB Method.md",
     "3-Resource/Database/NoSQL.md",
-    "3-Resource/Database/Mysql Engine/Parser.md",
-    "3-Resource/Database/Mysql Engine/Storage engine(핸들러).md",
     "real-resource-image/Pasted image 20240424232132.png",
     "3-Resource/Database/Mysql Engine",
     "4-Archive/Testing",
