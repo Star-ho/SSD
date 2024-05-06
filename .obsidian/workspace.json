@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/0-Sung-ho/피부.md",
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "controller",
+                "query": "mysql virtual",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/0-Sung-ho/피부.md",
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/0-Sung-ho/피부.md",
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/0-Sung-ho/피부.md"
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md"
               }
             }
           }
@@ -192,8 +192,12 @@
   },
   "active": "e2f40c35056690ee",
   "lastOpenFiles": [
-    "4-Archive/Book-Review/DDIA/1부/03-저장소와 검색.md",
+    "2-Area/Series/Server/13-Virtual Thread 1.md",
+    "2-Area/Series/Server/14-Virtual Thread 2.md",
+    "2-Area/Series/Server/15 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
+    "4-Archive/Tools/MybatisX.md",
     "2-Area/0-Sung-ho/피부.md",
+    "4-Archive/Book-Review/DDIA/1부/03-저장소와 검색.md",
     "2-Area/Software-Design/Service.md",
     "2-Area/Software-Design/Entity, VO.md",
     "2-Area/Software-Design/Aggregate 생명주기(Factory, Repository).md",
@@ -203,7 +207,6 @@
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "2-Area/Series/Server/5-Apache Tomcat.md",
     "2-Area/Series/Server/4-Jakarta Servlet.md",
-    "2-Area/Series/Server/13-Virtual Thread.md",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md",
     "3-Resource/Database/Mysql Explain Plan/123.md",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
@@ -216,9 +219,6 @@
     "3-Resource/Database/쿼리 최적화.md",
     "5-Temp/InfraStructure/클러스터링, 샤딩, 레플리케이션.md",
     "2-Area/Android as linux server.md",
-    "5-Temp/z-etc/linux service 만들기 관련 글정리.md",
-    "3-Resource/Database/Innodb/InnoDB Method.md",
-    "3-Resource/Database/NoSQL.md",
     "real-resource-image/Pasted image 20240424232132.png",
     "3-Resource/Database/Mysql Engine",
     "4-Archive/Testing",

@@ -708,10 +708,8 @@
     "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md": "2d10a7e24616c375d3581b5a0732afbad9e53038731b5914b0674e59fd34f9ad",
     "4-Archive/Concept/URL, URN, URI.md": "79765c608173ed3cbc105c24fc8b415a2b374b137114b6e114e23d8157e3ff02",
     "4-Archive/Testing/Test Double.md": "ed568c8cd4a4a7077de8ac91f34017803331737c60adf8218a8bed50f43e42d7",
-    "2-Area/Series/Server/13-Virtual Thread.md": "d887e95c94e8a86067c2a1ac338bee76417bfa2d69c7ffb9d04dfc11baab00e6",
     "5-Temp/Spring/spring entity manager 동시성 문제.md": "97018877acbee6fa143229b71c98cba032d34f41eb2f50d29a212b03fd886d73",
     "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md": "81607dfe942031fcbba3c55413e9302d104eddb8b8e0f09d3e2aafe73c8be2ad",
-    "2-Area/Series/Server/13 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md": "9a7272fba69e4c2a98af1fef0014d8f82773248aa49ccc045f68d1ac36a3d47b",
     "5-Temp/Database/mysql 저장 글자수.md": "07fbdb9e525f8cb9a51d20c6ebeecdc043daa94812e123af21d6921d9b742342",
     "5-Temp/Softeware Architecture/msa 인증 구현.md": "89031bf31624755af9b3bd57532f5e08e448f38ac99fdb51d195a22417eb7e01",
     "5-Temp/0-이직자료/내 장점.md": "e1c0d3e9986c5387d1943b750b46249f731aaff9a4b960d9b84baa86ffe55836",
@@ -731,6 +729,9 @@
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md": "968d885caa4494be4fb948a11bdaee9b9aba131e77d2df8a8d24c50340fa80b4",
     "3-Resource/Database/서브쿼리 종류.md": "f722b1a2345cb745b09a6cfcdd83a5dbf606de8102aa444063d7406611c6d3d4",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md": "0d0cb8397acf6bc8fbc9fc7515bfb24029d5bee8ec80f0640119424e750a57f4",
-    "2-Area/0-Sung-ho/피부.md": "1623dbd7d9efc48b276318c0cb4b048e2d2ed79b7d4d9778f3693fbc6ca94461"
+    "2-Area/0-Sung-ho/피부.md": "1623dbd7d9efc48b276318c0cb4b048e2d2ed79b7d4d9778f3693fbc6ca94461",
+    "2-Area/Series/Server/15 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md": "9a7272fba69e4c2a98af1fef0014d8f82773248aa49ccc045f68d1ac36a3d47b",
+    "2-Area/Series/Server/14-Virtual Thread 2.md": "570625f914af5e04c21f9929f2cdd43a6b6b9b2b7158d37816bb61d15bf08f54",
+    "2-Area/Series/Server/13-Virtual Thread 1.md": "d887e95c94e8a86067c2a1ac338bee76417bfa2d69c7ffb9d04dfc11baab00e6"
   }
 }
