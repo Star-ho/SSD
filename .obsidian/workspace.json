@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
+                "file": "2-Area/0-Sung-ho/피부.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
+                "file": "2-Area/0-Sung-ho/피부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
+                "file": "2-Area/0-Sung-ho/피부.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/14-Virtual Thread 2.md"
+                "file": "2-Area/0-Sung-ho/피부.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "99acf0274ccd07cb",
   "lastOpenFiles": [
+    "2-Area/Series/Server/14-Virtual Thread 2.md",
     "5-Temp/Database/index에 대한 고찰.md",
     "real-resource-image/Pasted image 20240507224723.png",
     "real-resource-image/Pasted image 20240507224703.png",
@@ -192,7 +193,6 @@
     "5-Temp/테스트/실용적인 테스트 피라미드(번역).md",
     "5-Temp/Operating-System/OS Atomic operation.md",
     "5-Temp/Softeware Architecture/DDD 트랜잭션.md",
-    "2-Area/Series/Server/14-Virtual Thread 2.md",
     "2-Area/0-Sung-ho/피부.md",
     "4-Archive/JVM/tool, plugin/buck.md",
     "4-Archive/JVM/tool, plugin/jmh.md",
