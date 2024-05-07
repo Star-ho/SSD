@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a807496a1b9d5dad",
+        "id": "33dd158a2e0c5c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "9b3e893ccbfad4b6",
+            "id": "99acf0274ccd07cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "5-Temp/Softeware Architecture/DDD 시.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "5-Temp/Softeware Architecture/DDD 시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md",
+                "file": "5-Temp/Softeware Architecture/DDD 시.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/Buffer Pool.md"
+                "file": "5-Temp/Softeware Architecture/DDD 시.md"
               }
             }
           }
@@ -178,8 +178,11 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "9b3e893ccbfad4b6",
+  "active": "99acf0274ccd07cb",
   "lastOpenFiles": [
+    "5-Temp/Softeware Architecture/클래스를 분리하는 기준.md",
+    "5-Temp/Softeware Architecture/DDD 시.md",
+    "3-Resource/Database/Innodb/Buffer Pool.md",
     "5-Temp/Database/임시 테이블 생성 관련.md",
     "5-Temp/Softeware Architecture/멀티모듈.md",
     "5-Temp/Softeware Architecture/Untitled.md",
@@ -204,9 +207,6 @@
     "5-Temp/JVM/java lock관련 정리.md",
     "5-Temp/Database/b tree b+ tree.md",
     "2-Area/Series/Server/14-Virtual Thread 2.md",
-    "2-Area/Series/Server/5-Apache Tomcat.md",
-    "2-Area/Software-Design/Aggregate.md",
-    "2-Area/Series/Server/13-Virtual Thread 1.md",
     "3-Resource/Database/Mysql Explain Plan",
     "real-resource-image/Pasted image 20240424232132.png",
     "3-Resource/Database/Mysql Engine",
