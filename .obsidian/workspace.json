@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Operating-System/OS Atomic operation.md",
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Operating-System/OS Atomic operation.md",
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Operating-System/OS Atomic operation.md",
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Operating-System/OS Atomic operation.md"
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md"
               }
             }
           }
@@ -180,9 +180,9 @@
   },
   "active": "99acf0274ccd07cb",
   "lastOpenFiles": [
+    "5-Temp/Operating-System/OS Atomic operation.md",
     "real-resource-image/Pasted image 20240507181902.png",
     "5-Temp/Softeware Architecture/DDD 트랜잭션.md",
-    "5-Temp/Operating-System/OS Atomic operation.md",
     "5-Temp/블룸 필터알고리즘.md",
     "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md",
     "5-Temp/Softeware Architecture/클래스를 분리하는 기준.md",
@@ -221,7 +221,6 @@
     "real-resource-image/Pasted image 20240329225214.png",
     "real-resource-image/Pasted image 20240303224850.png",
     "real-resource-image/Pasted image 20240329231610.png",
-    "real-resource-image/Pasted image 20240329230355.png",
     "5-Temp/Database/쿼리튜닝",
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "5-Temp/Operating-System",
