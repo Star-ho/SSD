@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/0-Sung-ho/피부.md",
+                "file": "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "외래키",
+                "query": "tag:#argent",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/0-Sung-ho/피부.md",
+                "file": "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/0-Sung-ho/피부.md",
+                "file": "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/0-Sung-ho/피부.md"
+                "file": "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md"
               }
             }
           }
@@ -180,43 +181,45 @@
   },
   "active": "99acf0274ccd07cb",
   "lastOpenFiles": [
+    "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
+    "5-Temp/Concept/end to end exactly once processing.md",
+    "5-Temp/Concept/느슨한 정족수.md",
+    "5-Temp/Softeware Architecture/도메인 생명주기.md",
+    "5-Temp/Softeware Architecture/SOA vs msa.md",
+    "5-Temp/JVM/java object memory layout.md",
+    "5-Temp/JVM/JAVA lombok.md",
+    "5-Temp/마인드셋/협업/변경에 유연한구조.md",
+    "2-Area/생각정리/레거시.md",
+    "5-Temp/dataJpaTest.md",
+    "5-Temp/Untitled.md",
+    "5-Temp/blind 자바 버전업, nosql은 언제쓰면 좋을까 정리하기.md",
+    "3-Resource/Untitled.md",
+    "3-Resource/Algorithm",
+    "3-Resource/Spring/Dynamic update.md",
+    "3-Resource/JVM/vm option.md",
+    "3-Resource/Tip/디버깅.md",
+    "3-Resource/Tool/드로윙 툴.md",
+    "3-Resource/JVM/JLS, JSR, JEP.md",
+    "3-Resource/Concept/영속성.md",
+    "2-Area/0-Sung-ho/피부.md",
+    "5-Temp/마인드셋/변화.md",
+    "5-Temp/코드짤떄/어떤 소프트웨어, 코드를 작성할 것인가.md",
+    "5-Temp/Spring/spring 2.3 to spring 2.7 변경 시.md",
+    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
+    "2-Area/생각정리/팀원으로서 마인드셋.md",
     "2-Area/Series/Server/14-Virtual Thread 2.md",
-    "5-Temp/Database/index에 대한 고찰.md",
     "real-resource-image/Pasted image 20240507224723.png",
     "real-resource-image/Pasted image 20240507224703.png",
     "real-resource-image/Pasted image 20240507224650.png",
     "real-resource-image/Pasted image 20240507224632.png",
-    "5-Temp/monitering, observility/cloudwatch vs grafana, prometheus.md",
-    "5-Temp/JVM/java wrapper type vs primitive type performance.md",
     "5-Temp/monitering, observility",
-    "5-Temp/Untitled.md",
-    "5-Temp/테스트/실용적인 테스트 피라미드(번역).md",
-    "5-Temp/Operating-System/OS Atomic operation.md",
-    "5-Temp/Softeware Architecture/DDD 트랜잭션.md",
-    "2-Area/0-Sung-ho/피부.md",
-    "4-Archive/JVM/tool, plugin/buck.md",
-    "4-Archive/JVM/tool, plugin/jmh.md",
-    "5-Temp/Spring/jpa연관관계 cascade all일때, jpql로 delete한다면?.md",
-    "5-Temp/TIP/책추천.md",
-    "4-Archive/JVM/tool, plugin",
+    "3-Resource/JVM/tool, plugin",
     "real-resource-image/Pasted image 20240507181902.png",
-    "5-Temp/블룸 필터알고리즘.md",
-    "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md",
-    "5-Temp/Softeware Architecture/클래스를 분리하는 기준.md",
-    "5-Temp/Softeware Architecture/DDD 패키지구조.md",
-    "3-Resource/Database/Innodb/Change Buffer.md",
-    "3-Resource/Database/Innodb/Buffer Pool.md",
-    "5-Temp/Database/임시 테이블 생성 관련.md",
-    "5-Temp/Softeware Architecture/멀티모듈.md",
-    "5-Temp/Softeware Architecture/Untitled.md",
-    "2-Area/Series/Server/3-Servlet Container.md",
-    "5-Temp/Database/order by, group by.md",
-    "5-Temp/Spring/spring 다중 데이터 소스 연결.md",
     "5-Temp/TIP/Untitled",
     "3-Resource/Database/Mysql Explain Plan",
     "real-resource-image/Pasted image 20240424232132.png",
     "3-Resource/Database/Mysql Engine",
-    "4-Archive/Testing",
+    "3-Resource/Testing",
     "real-resource-image/Pasted image 20240409231740.png",
     "real-resource-image/Pasted image 20240409223209.png",
     "real-resource-image/Pasted image 20240331211605.png",
@@ -224,7 +227,6 @@
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",
     "5-Temp/Database/쿼리튜닝",
-    "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "Untitled.canvas"
   ]
 }
