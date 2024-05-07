@@ -1,6 +1,6 @@
 ---
 date: 2024-05-07 18:18:39
-updatedAt: 2024-05-07 18:18:57
+updatedAt: 2024-05-07 22:31:13
 ---
 https://docs.kernel.org/core-api/local_ops.html
 
@@ -13,5 +13,12 @@ https://docs.kernel.org/core-api/local_ops.html
 뭐 그런거 .. 알기에는 RTOS 같은거 한번 만들어 보시면  참 좋긴 한데 ㅎㅎ
 
 os 의 구조나 그런거에 .. 관심 있으실땐
-
+
 https://www.freertos.org/index.html
+
+
+핀토스 프로젝트
+https://maxlevsnail.com/pintos-projectreul-sijaghamyeo/
+
+
+#wait-to-update 

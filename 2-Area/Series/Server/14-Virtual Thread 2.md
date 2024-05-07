@@ -1,6 +1,6 @@
 ---
 date: 2024-03-31T22:41:00
-updatedAt: 2024-05-07 22:26:17
+updatedAt: 2024-05-07 22:26:42
 tags:
   - Server-History
   - hugo_blog
@@ -14,8 +14,12 @@ categories: Server-History
 - unpark메서드에서 submitRunContinuation을 호출하여 작업큐에 해당 작업을 추가함
  - cpu 
 
-- fork join 
+- fork join pool
+	- work stealing
 - 스케줄링 원리
-- 작업단위 continiation
+- 작업단위 continuation
+
+- vt의 park내에 yield가 존재
+- vt 워킹큐
 https://techblog.woowahan.com/15398/
 https://www.youtube.com/watch?v=BZMZIM-n4C0
