@@ -746,6 +746,9 @@
     "5-Temp/Softeware Architecture/멀티모듈.md": "02f162872f732daaf5926082347aa77821f4a4902783c21e5995a306e2cb1e3b",
     "5-Temp/Database/임시 테이블 생성 관련.md": "566818fb07689252231f089d5981ed7db9634082da4405901848bb051fa6e91d",
     "5-Temp/Softeware Architecture/클래스를 분리하는 기준.md": "3827146df3badffc81201d23e38d60e6b2bc7829201b5cf7cdc5d5e55df73061",
-    "5-Temp/Softeware Architecture/DDD 시.md": "8defda3c77a67d53055e0c0e80f60832bde3c2c22afc79bd7b6c601d406a8340"
+    "5-Temp/Softeware Architecture/DDD 패키지구조.md": "b4194085564198bc9082650d06da35e57a42856d83e5c780912491a2eb17ea5b",
+    "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md": "68436bc00e8c6e2cae969a17a3709e5807b219c23dafc93f929367180208d687",
+    "5-Temp/Softeware Architecture/DDD 트랜잭션.md": "ee957672c21e276af0248ccc128522b0df457ddb0057fe611dda82ef551bf783",
+    "5-Temp/Operating-System/OS Atomic operation.md": "cb5201c80562bbd57be3a42154fd78d0c4966b20ce303d6f798d879e0ebe6711"
   }
 }
