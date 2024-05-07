@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca11a780487fce21",
+        "id": "7b720290ee0d4617",
         "type": "tabs",
         "children": [
           {
-            "id": "e2f40c35056690ee",
+            "id": "83077b27befc1800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e22a59c8cdbd4ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Temp/0-이직자료/f-lab 이력서 모음.md",
+                "file": "5-Temp/테스트/쿼리 테스트시.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysql virtual",
+                "query": "b tree b+ tree",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
+                "file": "5-Temp/테스트/쿼리 테스트시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
+                "file": "5-Temp/테스트/쿼리 테스트시.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/14-Virtual Thread 2.md"
+                "file": "5-Temp/테스트/쿼리 테스트시.md"
               }
             }
           }
@@ -190,10 +178,18 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "e2f40c35056690ee",
+  "active": "83077b27befc1800",
   "lastOpenFiles": [
-    "2-Area/Series/Server/13-Virtual Thread 1.md",
+    "5-Temp/TIP/open source 볼때 클래스 다이어그램보기.md",
+    "5-Temp/테스트/쿼리 테스트시.md",
+    "5-Temp/TIP/Untitled",
+    "5-Temp/0-이직자료/f-lab 이력서 모음.md",
+    "5-Temp/JVM/java lock관련 정리.md",
+    "5-Temp/Database/b tree b+ tree.md",
     "2-Area/Series/Server/14-Virtual Thread 2.md",
+    "2-Area/Series/Server/5-Apache Tomcat.md",
+    "2-Area/Software-Design/Aggregate.md",
+    "2-Area/Series/Server/13-Virtual Thread 1.md",
     "2-Area/Series/Server/15 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
     "4-Archive/Tools/MybatisX.md",
     "2-Area/0-Sung-ho/피부.md",
@@ -201,11 +197,9 @@
     "2-Area/Software-Design/Service.md",
     "2-Area/Software-Design/Entity, VO.md",
     "2-Area/Software-Design/Aggregate 생명주기(Factory, Repository).md",
-    "2-Area/Software-Design/Aggregate.md",
     "2-Area/Software-Design/협력, 책임, 역할.md",
     "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md",
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
-    "2-Area/Series/Server/5-Apache Tomcat.md",
     "2-Area/Series/Server/4-Jakarta Servlet.md",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md",
     "3-Resource/Database/Mysql Explain Plan/123.md",
@@ -214,11 +208,6 @@
     "3-Resource/Database/서브쿼리 종류.md",
     "3-Resource/Database/Mysql Explain Plan",
     "3-Resource/Database/쿼리 튜닝시.md",
-    "3-Resource/Database/쿼리 실행 순서.md",
-    "3-Resource/Database/정규화 역정규화.md",
-    "3-Resource/Database/쿼리 최적화.md",
-    "5-Temp/InfraStructure/클러스터링, 샤딩, 레플리케이션.md",
-    "2-Area/Android as linux server.md",
     "real-resource-image/Pasted image 20240424232132.png",
     "3-Resource/Database/Mysql Engine",
     "4-Archive/Testing",
@@ -237,7 +226,6 @@
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "5-Temp/Operating-System",
     "0-Blog/1-Server",
-    "0-Blog/Tip",
     "Untitled.canvas"
   ]
 }
