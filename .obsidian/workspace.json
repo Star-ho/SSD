@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Database/index에 대한 고찰.md",
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Database/index에 대한 고찰.md",
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Database/index에 대한 고찰.md",
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Database/index에 대한 고찰.md"
+                "file": "2-Area/Series/Server/14-Virtual Thread 2.md"
               }
             }
           }
@@ -180,8 +180,12 @@
   },
   "active": "99acf0274ccd07cb",
   "lastOpenFiles": [
-    "5-Temp/monitering, observility/cloudwatch vs grafana, prometheus.md",
     "5-Temp/Database/index에 대한 고찰.md",
+    "real-resource-image/Pasted image 20240507224723.png",
+    "real-resource-image/Pasted image 20240507224703.png",
+    "real-resource-image/Pasted image 20240507224650.png",
+    "real-resource-image/Pasted image 20240507224632.png",
+    "5-Temp/monitering, observility/cloudwatch vs grafana, prometheus.md",
     "5-Temp/JVM/java wrapper type vs primitive type performance.md",
     "5-Temp/monitering, observility",
     "5-Temp/Untitled.md",
@@ -208,7 +212,6 @@
     "2-Area/Series/Server/3-Servlet Container.md",
     "5-Temp/Database/order by, group by.md",
     "5-Temp/Spring/spring 다중 데이터 소스 연결.md",
-    "5-Temp/JVM/Java의 assert vs Spring의 Assertions.md",
     "5-Temp/TIP/Untitled",
     "3-Resource/Database/Mysql Explain Plan",
     "real-resource-image/Pasted image 20240424232132.png",
@@ -220,10 +223,6 @@
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",
-    "real-resource-image/Pasted image 20240329231640.png",
-    "real-resource-image/Pasted image 20240329225214.png",
-    "real-resource-image/Pasted image 20240303224850.png",
-    "real-resource-image/Pasted image 20240329231610.png",
     "5-Temp/Database/쿼리튜닝",
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
     "Untitled.canvas"
