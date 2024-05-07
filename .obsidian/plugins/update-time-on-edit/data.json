@@ -753,6 +753,8 @@
     "4-Archive/JVM/tool, plugin/jmh.md": "c53adbb84fb900fc45019ff26f2741a253080b2f8d251e16ad3048bd2de33f73",
     "5-Temp/Spring/jpa연관관계 cascade all일때, jpql로 delete한다면?.md": "908569e6b763ac734a96ba6c9d0f59b7aacdb557c92640f908a2a3d899338f49",
     "5-Temp/TIP/책추천.md": "638a4fef8cb2e7a3cbd580813521d0c3986524fff7d0edfe86a2f722cc77e3ce",
-    "5-Temp/테스트/실용적인 테스트 피라미드(번역).md": "26240692c2106bb6c100ea8aed76e6ae309756caf63bb13764fdf231d8db91c0"
+    "5-Temp/테스트/실용적인 테스트 피라미드(번역).md": "26240692c2106bb6c100ea8aed76e6ae309756caf63bb13764fdf231d8db91c0",
+    "5-Temp/monitering, observility/cloudwatch vs grafana, prometheus.md": "49ace498c210e4dc57a33c6de7f8c6b828c8d32b581fa6fd9c8a73a0304c3b66",
+    "5-Temp/Database/index에 대한 고찰.md": "00a5e9d9339c0470be69c3995da11b57bcf6bc04e958e7138dd0e4b4ea82d10d"
   }
 }

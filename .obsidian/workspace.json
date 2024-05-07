@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/테스트/실용적인 테스트 피라미드(번역).md",
+                "file": "5-Temp/Database/index에 대한 고찰.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/테스트/실용적인 테스트 피라미드(번역).md",
+                "file": "5-Temp/Database/index에 대한 고찰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/테스트/실용적인 테스트 피라미드(번역).md",
+                "file": "5-Temp/Database/index에 대한 고찰.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/테스트/실용적인 테스트 피라미드(번역).md"
+                "file": "5-Temp/Database/index에 대한 고찰.md"
               }
             }
           }
@@ -180,8 +180,13 @@
   },
   "active": "99acf0274ccd07cb",
   "lastOpenFiles": [
-    "5-Temp/Operating-System/OS Atomic operation.md",
+    "5-Temp/monitering, observility/cloudwatch vs grafana, prometheus.md",
+    "5-Temp/Database/index에 대한 고찰.md",
+    "5-Temp/JVM/java wrapper type vs primitive type performance.md",
+    "5-Temp/monitering, observility",
+    "5-Temp/Untitled.md",
     "5-Temp/테스트/실용적인 테스트 피라미드(번역).md",
+    "5-Temp/Operating-System/OS Atomic operation.md",
     "5-Temp/Softeware Architecture/DDD 트랜잭션.md",
     "2-Area/Series/Server/14-Virtual Thread 2.md",
     "2-Area/0-Sung-ho/피부.md",
@@ -204,10 +209,6 @@
     "5-Temp/Database/order by, group by.md",
     "5-Temp/Spring/spring 다중 데이터 소스 연결.md",
     "5-Temp/JVM/Java의 assert vs Spring의 Assertions.md",
-    "5-Temp/Operating-System/Beej의 네트워크 프로그래밍 안내서.md",
-    "5-Temp/Database/database foreign key.md",
-    "5-Temp/Database/elastic search 한글 초성.md",
-    "5-Temp/자바, 스프링 버전업.md",
     "5-Temp/TIP/Untitled",
     "3-Resource/Database/Mysql Explain Plan",
     "real-resource-image/Pasted image 20240424232132.png",
@@ -225,7 +226,6 @@
     "real-resource-image/Pasted image 20240329231610.png",
     "5-Temp/Database/쿼리튜닝",
     "naver2044ab766e22ddf3ab3f131a44f835f2.html",
-    "5-Temp/Operating-System",
     "Untitled.canvas"
   ]
 }
