@@ -735,6 +735,7 @@
     "2-Area/Series/Server/13-Virtual Thread 1.md": "52850b7ae74d8fbbd1c3784e7c35142dfcb3f0f43fec166d1b9632bb7a3ddce6",
     "5-Temp/Database/b tree b+ tree.md": "386db46f6fc2ca449f05a94cf91a6dde579912b08d4c59fdbbb9a72a45b0771b",
     "5-Temp/JVM/java lock관련 정리.md": "0d4bcee67beb0010a6c7954a82dfc2bad6eeb4d14a3aef6d10c8e5819b10c895",
-    "5-Temp/테스트/쿼리 테스트시.md": "021cc6f291fde00af0bd2072c7b9ca705b98ca2a4d79f9e100ee9602c381e865"
+    "5-Temp/테스트/쿼리 테스트시.md": "021cc6f291fde00af0bd2072c7b9ca705b98ca2a4d79f9e100ee9602c381e865",
+    "5-Temp/Spring/OSIV(Open Session In View).md": "1fdade9c745906ab110c2245155469e5ab2a2d2ba9a4e0f77cf74efca5f79a1e"
   }
 }

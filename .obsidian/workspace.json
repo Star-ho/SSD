@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b720290ee0d4617",
+        "id": "09ea7dc2ab2c15e1",
         "type": "tabs",
         "children": [
           {
-            "id": "83077b27befc1800",
+            "id": "00e37265b1ec3445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/테스트/쿼리 테스트시.md",
+                "file": "5-Temp/Spring/OSIV(Open Session In View).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/테스트/쿼리 테스트시.md",
+                "file": "5-Temp/Spring/OSIV(Open Session In View).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/테스트/쿼리 테스트시.md",
+                "file": "5-Temp/Spring/OSIV(Open Session In View).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/테스트/쿼리 테스트시.md"
+                "file": "5-Temp/Spring/OSIV(Open Session In View).md"
               }
             }
           }
@@ -178,10 +178,11 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "83077b27befc1800",
+  "active": "00e37265b1ec3445",
   "lastOpenFiles": [
-    "5-Temp/TIP/open source 볼때 클래스 다이어그램보기.md",
+    "5-Temp/Spring/OSIV(Open Session In View).md",
     "5-Temp/테스트/쿼리 테스트시.md",
+    "5-Temp/TIP/open source 볼때 클래스 다이어그램보기.md",
     "5-Temp/TIP/Untitled",
     "5-Temp/0-이직자료/f-lab 이력서 모음.md",
     "5-Temp/JVM/java lock관련 정리.md",
@@ -207,7 +208,6 @@
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
     "3-Resource/Database/서브쿼리 종류.md",
     "3-Resource/Database/Mysql Explain Plan",
-    "3-Resource/Database/쿼리 튜닝시.md",
     "real-resource-image/Pasted image 20240424232132.png",
     "3-Resource/Database/Mysql Engine",
     "4-Archive/Testing",
