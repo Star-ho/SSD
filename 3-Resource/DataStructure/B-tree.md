@@ -1,6 +1,6 @@
 ---
 date: 2024-05-08 22:34:01
-updatedAt: 2024-05-08 23:06:28
+updatedAt: 2024-05-08 23:20:09
 tags:
   - hugo_blog
   - B-tree
@@ -20,8 +20,18 @@ categories:
 - 루트노드가 leaf노드가 아닌경우, 적어도 2개의 자식을 가지고 있음
 
 
-![center](Pasted%20image%2020240508225722.png)
+## 예제
+- 아래 예제는 branch factor가 5인 B-tree임
+	- branching factor가 5이기에, 리프가 아닌 노드들은 5개의 addr값을 가지고 있음
+![center|700](Pasted%20image%2020240508231341.png)
 
+### 29라는 값을 찾는 경로
+1. 먼저 루트노드에서 10과 50사이의 주소를 찾음
+2. 1에서 얻은 주소를 따라가, 25와 37사이의 주소를 얻음
+3. 2에서 얻은 주소를 따라가 28과 31사이의 주소를 얻고, 해당 주소에서 값을 찾음
+## 삽입과정
+위의 트리에서 13,14,24 데이터를 넣는 과정임
 
+![center](Pasted%20image%2020240508232003.png)
 https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html
 https://www.linkedin.com/pulse/data-structures-powering-our-database-part-3-b-trees-saurav-prateek/
