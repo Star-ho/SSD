@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33dd158a2e0c5c5c",
+        "id": "97fdd041fae9f292",
         "type": "tabs",
         "children": [
           {
-            "id": "99acf0274ccd07cb",
+            "id": "c5c2080b453e20d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
+                "file": "3-Resource/DataStructure/B-tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "webflux",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
+                "file": "3-Resource/DataStructure/B-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
+                "file": "3-Resource/DataStructure/B-tree.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md"
+                "file": "3-Resource/DataStructure/B-tree.md"
               }
             }
           }
@@ -179,8 +178,11 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
+    "3-Resource/DataStructure/B-tree.md",
+    "3-Resource/DataStructure",
+    "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
     "5-Temp/Concept/end to end exactly once processing.md",
     "5-Temp/Concept/느슨한 정족수.md",
@@ -206,8 +208,6 @@
     "5-Temp/코드짤떄/어떤 소프트웨어, 코드를 작성할 것인가.md",
     "5-Temp/Spring/spring 2.3 to spring 2.7 변경 시.md",
     "5-Temp/Spring/특히 jackson 라이브러같은건.md",
-    "2-Area/생각정리/팀원으로서 마인드셋.md",
-    "2-Area/Series/Server/14-Virtual Thread 2.md",
     "real-resource-image/Pasted image 20240507224723.png",
     "real-resource-image/Pasted image 20240507224703.png",
     "real-resource-image/Pasted image 20240507224650.png",
@@ -226,7 +226,6 @@
     "real-resource-image/Pasted image 20240331144001.png",
     "5-Temp/마인드셋/개발자란?",
     "5-Temp/마인드셋/협업",
-    "5-Temp/Database/쿼리튜닝",
     "Untitled.canvas"
   ]
 }
