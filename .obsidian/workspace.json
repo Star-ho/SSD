@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/DataStructure/B-tree.md",
+                "file": "3-Resource/Computer-Siece/제일급함.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/DataStructure/B-tree.md",
+                "file": "3-Resource/Computer-Siece/제일급함.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/DataStructure/B-tree.md",
+                "file": "3-Resource/Computer-Siece/제일급함.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/DataStructure/B-tree.md"
+                "file": "3-Resource/Computer-Siece/제일급함.md"
               }
             }
           }
@@ -180,13 +180,15 @@
   },
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
+    "3-Resource/Database/Innodb/adaptive hash index.md",
+    "3-Resource/Computer-Siece/제일급함.md",
+    "3-Resource/DataStructure/B-tree.md",
     "real-resource-image/Pasted image 20240508232205.png",
     "real-resource-image/Pasted image 20240508232003.png",
     "real-resource-image/Pasted image 20240508231341.png",
     "real-resource-image/Pasted image 20240508231331.png",
     "real-resource-image/Pasted image 20240508231106.png",
     "real-resource-image/Pasted image 20240508225722.png",
-    "3-Resource/DataStructure/B-tree.md",
     "3-Resource/DataStructure",
     "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
@@ -212,14 +214,12 @@
     "2-Area/0-Sung-ho/피부.md",
     "5-Temp/마인드셋/변화.md",
     "5-Temp/코드짤떄/어떤 소프트웨어, 코드를 작성할 것인가.md",
-    "5-Temp/Spring/spring 2.3 to spring 2.7 변경 시.md",
     "real-resource-image/Pasted image 20240507224723.png",
     "real-resource-image/Pasted image 20240507224703.png",
     "real-resource-image/Pasted image 20240507224650.png",
     "real-resource-image/Pasted image 20240507224632.png",
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",
-    "real-resource-image/Pasted image 20240507181902.png",
     "5-Temp/TIP/Untitled",
     "3-Resource/Database/Mysql Explain Plan",
     "3-Resource/Database/Mysql Engine",
