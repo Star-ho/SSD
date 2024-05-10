@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Computer-Siece/제일급함.md",
+                "file": "3-Resource/Database/Innodb/내부구조/내부구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Computer-Siece/제일급함.md",
+                "file": "3-Resource/Database/Innodb/내부구조/내부구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Computer-Siece/제일급함.md",
+                "file": "3-Resource/Database/Innodb/내부구조/내부구조.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Computer-Siece/제일급함.md"
+                "file": "3-Resource/Database/Innodb/내부구조/내부구조.md"
               }
             }
           }
@@ -180,8 +180,10 @@
   },
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
-    "3-Resource/Database/Innodb/adaptive hash index.md",
     "3-Resource/Computer-Siece/제일급함.md",
+    "3-Resource/Database/Innodb/내부구조/내부구조.md",
+    "3-Resource/Database/Innodb/내부구조",
+    "3-Resource/Database/Innodb/adaptive hash index.md",
     "3-Resource/DataStructure/B-tree.md",
     "real-resource-image/Pasted image 20240508232205.png",
     "real-resource-image/Pasted image 20240508232003.png",
@@ -213,7 +215,6 @@
     "3-Resource/Concept/영속성.md",
     "2-Area/0-Sung-ho/피부.md",
     "5-Temp/마인드셋/변화.md",
-    "5-Temp/코드짤떄/어떤 소프트웨어, 코드를 작성할 것인가.md",
     "real-resource-image/Pasted image 20240507224723.png",
     "real-resource-image/Pasted image 20240507224703.png",
     "real-resource-image/Pasted image 20240507224650.png",
@@ -225,7 +226,6 @@
     "3-Resource/Database/Mysql Engine",
     "3-Resource/Testing",
     "5-Temp/마인드셋/개발자란?",
-    "5-Temp/마인드셋/협업",
     "Untitled.canvas"
   ]
 }
