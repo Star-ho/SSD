@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 19:30:02
+updatedAt: 2024-05-12 20:05:40
 ---
 
 ## Extent
@@ -28,7 +28,7 @@ updatedAt: 2024-05-12 19:30:02
 		- 첫번빼 비트는 페이지가 free한지 여부
 		- 두번째 비트는 clean한지 여부
 			- 현재 사용되지 않는다면 1로 할당됨
-	- 
+- extent를 참조하는 다른 구조에서는 extent's descriptor의 FSP_HDR 또는 XDES
 
 
 

@@ -752,8 +752,6 @@
     "5-Temp/blind 자바 버전업, nosql은 언제쓰면 좋을까 정리하기.md": "3ecba7249c53ca0334cc9a8328f10b3b27cf7dc1548f7fdcb4b3c859e3baf345",
     "3-Resource/DataStructure/B-tree.md": "c513307b4c76da9d8e308a7f559e9596cfeb1668305aad48a4e2344ef03e340d",
     "3-Resource/Computer-Siece/제일급함.md": "e7836ff27ff94432039ec7aceb35f08e38c132fcc33a252bdb025d7153ae0ae2",
-    "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md": "94bd093df67a2b6ca568c2c08c6be98d8eaa44d2405fe81bf78e6ea7badd54fc",
-    "3-Resource/Database/Innodb/내부구조/page, space, idb file structure.md": "942a2335c4b39f741bc57aeabc34712315bb38f6728f056833ba5b6389ecda9b",
     "2-Area/개발 외의 것들/개발.md": "a3d46c6dfab3dea72cbd0e4822b9d706462aaad56ff52c3748c9a36b2bd9b9b1",
     "2-Area/개발 외의 것들/인생...md": "dcd842f4ac63e5c50287c30d28d341a82e44aee24b379bffe9e5cd357b8fdd4d",
     "2-Area/개발 외의 것들/림프관 마사지.md": "9cd7cc3aa241c62bc13f762dd40aed33c9fcd5555f8376f5f86e709780f7a1d3",
@@ -761,6 +759,8 @@
     "2-Area/개발 외의 것들/피부.md": "6f30bdbc00b790923331fd92efd3cb584da53aaa0424d4a04077b9ceaa2f0e14",
     "2-Area/개발 외의 것들/운전 팁.md": "7026fe7bc4accc8a50e650e8d216d0d219d93bfde6c908aa9e03e977fe858b21",
     "2-Area/개발 외의 것들/영양제.md": "bf2fa76d946bdd6567461ab434e7a1afcd82fc682073c6ecc5bce789dd946e5d",
-    "2-Area/개발 외의 것들/명상.md": "c4db008a0cd4298d00a56eb3b55c64ee4479f74a97c8dea7e083e3acb857244a"
+    "2-Area/개발 외의 것들/명상.md": "c4db008a0cd4298d00a56eb3b55c64ee4479f74a97c8dea7e083e3acb857244a",
+    "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md": "5f1e88dbe52d6ff54f9f198ea9998db5e1e086e47b60d4e72c817a15274c6d65",
+    "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md": "942a2335c4b39f741bc57aeabc34712315bb38f6728f056833ba5b6389ecda9b"
   }
 }
