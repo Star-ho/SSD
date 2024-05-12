@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 20:47:26
+updatedAt: 2024-05-12 22:04:39
 ---
 
 ## Extent
@@ -88,6 +88,10 @@ updatedAt: 2024-05-12 20:47:26
 	- INODE pages(많은 INODE 항목을 포함하는 페이지 유형)
 - InnoDB의 INODE는 단순히 file segment(FSEG)를 설명할 뿐이며, 앞으로 "file segment INODE"라 칭함
 
+![center](Pasted%20image%2020240512220333.png)
+
+- 각각의 INODE page는 85개의 file segment INODE entries(entry당 16KiB page)를 포함함
+- 추가로 INODE page는 
 ### INODE Page
 - INODE페이지에는 85개의 파일 segment INODE항목(16KiB)이 포함되어 있으며 각각 192bytes임
 - 다음 INODE페이지 리스트에 사용되는 리스트 노드가 포함되어 있음
