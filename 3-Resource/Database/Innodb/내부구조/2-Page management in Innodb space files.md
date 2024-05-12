@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 23:55:40
+updatedAt: 2024-05-13 00:04:06
 ---
 
 ## Extent
@@ -143,11 +143,8 @@ updatedAt: 2024-05-12 23:55:40
 
 ### 인덱스에 대한 전체 multi level 
 ![center](Pasted%20image%2020240512234938.png)
-- index root pages는 두개의 inodes를 가르키며, 전체 extents 여러 목록ㅇ
-	- inodes 각각은 fragment array(fragment list에서 최대 32개의 개별 페이지를 가르킴)
-
+- index root pages는 두개의 inodes(file segment)를 가르키며, 각각은 fragment array(fragment list에서 최대 32개의 개별 페이지를 가르킴)전체 extents 목록(extent descriptor의 리스트 포인터를 사용하여 연결된)을 가짐
 - extent descriptor는 extent를 참조할 뿐 아니라, extent내 free page를 추적하는 데도 사용됨
-
 
 참고
 https://blog.jcole.us/2013/01/04/page-management-in-innodb-space-files/
