@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 23:05:17
+updatedAt: 2024-05-12 23:15:43
 ---
 
 ## Extent
@@ -88,18 +88,30 @@ updatedAt: 2024-05-12 23:05:17
 	- INODE pages(많은 INODE 항목을 포함하는 페이지 유형)
 - InnoDB의 INODE는 단순히 file segment(FSEG)를 설명할 뿐이며, 앞으로 "file segment INODE"라 칭함
 
+
+### INODE pages
 ![center](Pasted%20image%2020240512220333.png)
 
 - 각각의 INODE page는 85개의 file segment INODE entries(총 16KiB page)를 포함함
 	- 각각의 INODE page는 192바이트임
 - INODE page는 FSP_HDR의 FSP 헤더 구조에서 설명했던 List node가 있음
 	- 해당 List node는 INODE pages를 위한 것, 해당 INODE page의 INODE가 아님!
-	- 
-- 
-### INODE Page
-- INODE페이지에는 85개의 파일 segment INODE항목(16KiB)이 포함되어 있으며 각각 192bytes임
-- 다음 INODE페이지 리스트에 사용되는 리스트 노드가 포함되어 있음
-
+	- FREE_INODES
+		- 적어도 하나의 free file segment INODE entry가 있는 INODE pages의 리스트
+	- FULL_INODES
+		- free file segment INODE entry가 하나도 없는 INODE pages의 리스트
+		- file per table space를 사용하는 경우, 테이블에 42개 이상의 인덱스가 없는 한 각 file per table space 안에 있는 해당 목록은 비어있음
+			- 각각의 index는 정확히 두개의 file segment INODE entry를 사용하기 때문
+### INODE ENTRY
+![center](Pasted%20image%2020240512231201.png)
+- File Segment ID
+	- file segment ID는 해당 file segment INODE entry를 의미함
+		- ID가 0이면 해당 entry는 사용되지 않은 것을 의미
+	- Magic Number
+		- 값이 97937874이면 file segment INODE entry가 초기화 되었다는 것을 의미
+	- Number of used pages in the NOT_FULL list
+		- space의 FREE_FLAG list(FSP header에 있는)와 정확히 같음
+		- 
 
 
 
