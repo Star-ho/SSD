@@ -181,8 +181,8 @@
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
-    "3-Resource/Database/Innodb/adaptive hash index.md",
     "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+    "3-Resource/Database/Innodb/adaptive hash index.md",
     "2-Area/개발 외의 것들/피부.md",
     "2-Area/0-Sung-ho/좋은 개발자가 되는법.md",
     "2-Area/개발 외의 것들/운전 팁.md",

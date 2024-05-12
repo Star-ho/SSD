@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 20:05:40
+updatedAt: 2024-05-12 20:10:27
 ---
 
 ## Extent
@@ -28,12 +28,17 @@ updatedAt: 2024-05-12 20:05:40
 		- 첫번빼 비트는 페이지가 free한지 여부
 		- 두번째 비트는 clean한지 여부
 			- 현재 사용되지 않는다면 1로 할당됨
-- extent를 참조하는 다른 구조에서는 extent's descriptor의 FSP_HDR 또는 XDES
+- extent를 참조하는 다른 구조에서는 extent's descriptor가 있는 FSP_HDR 또는 XDES 페이지 번호와, descriptor entry가 존재하는 페이지의 byte offset을 조합하여 위치를 나타냄
+	- page 0 offset 150은 첫번째 페이지에서 150번째 오프셋의 XDES Entry를 참조
+		- 0-63페이지를 가지고 있는 XDES Entry임
+	- page 16384 offset 270은 16384페이지에서 270번째 오프셋의 XDES Entry를 참조
+		- 16576-16639페이지를 가지고 있는 XDES Entry임
+		- page 16384는 실제로 첫 번째 XDES 페이지를 의미함
 
 
 
 ## List - free list
-- 여러 관련 구조를 함께 연결할 수 있는 일반적인 구조체
+- List는 여러 관련 구조를 함께 연결할 수 있는 일반적인 구조체
 ### List base node
 - 하이레벨구조(FSP헤더와 같은)에서 한번만 저장됨
 - 리스트의 길이 및 리스트의 처음과 마지막 리스트 노드의 정보를 포함함
