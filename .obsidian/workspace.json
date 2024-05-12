@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/0-Sung-ho/명상.md",
+                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "클린",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/0-Sung-ho/명상.md",
+                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/0-Sung-ho/명상.md",
+                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/0-Sung-ho/명상.md"
+                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md"
               }
             }
           }
@@ -180,13 +180,17 @@
   },
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
-    "2-Area/0-Sung-ho/분업.md",
-    "2-Area/0-Sung-ho/명상.md",
-    "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
-    "2-Area/0-Sung-ho/운전 팁.md",
+    "2-Area/개발 외의 것들/피부.md",
     "2-Area/0-Sung-ho/좋은 개발자가 되는법.md",
-    "2-Area/0-Sung-ho/피부.md",
+    "2-Area/개발 외의 것들/운전 팁.md",
     "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
+    "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
+    "2-Area/개발 외의 것들/명상.md",
+    "2-Area/0-Sung-ho/분업.md",
+    "2-Area/0-Sung-ho/인생 팁/어떤걸 살때 할인하는걸 찾고싶다면?.md",
+    "2-Area/개발 외의 것들/운동.md",
+    "2-Area/개발 외의 것들/인생...md",
+    "2-Area/개발 외의 것들/영양제.md",
     "real-resource-image/Pasted image 20240512175239.png",
     "real-resource-image/Pasted image 20240512174953.png",
     "3-Resource/Database/Innodb/내부구조/page, space, idb file structure.md",
@@ -214,11 +218,7 @@
     "5-Temp/마인드셋/협업/변경에 유연한구조.md",
     "2-Area/생각정리/레거시.md",
     "5-Temp/dataJpaTest.md",
-    "5-Temp/Untitled.md",
-    "5-Temp/blind 자바 버전업, nosql은 언제쓰면 좋을까 정리하기.md",
-    "3-Resource/Untitled.md",
     "3-Resource/Algorithm",
-    "3-Resource/Spring/Dynamic update.md",
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",
     "5-Temp/TIP/Untitled",
