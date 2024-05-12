@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 22:47:23
+updatedAt: 2024-05-12 23:05:17
 ---
 
 ## Extent
@@ -92,8 +92,9 @@ updatedAt: 2024-05-12 22:47:23
 
 - 각각의 INODE page는 85개의 file segment INODE entries(총 16KiB page)를 포함함
 	- 각각의 INODE page는 192바이트임
-- INODE page는 FSP_HDR의 FSP 헤더 구조에서 설명한것과 같은 INODE pages를 위한 list Node를 가지고 있음
-	- **해당 INODE pages의 list가 아닌, INODE page들을 위한 리스트** < 확인필요
+- INODE page는 FSP_HDR의 FSP 헤더 구조에서 설명했던 List node가 있음
+	- 해당 List node는 INODE pages를 위한 것, 해당 INODE page의 INODE가 아님!
+	- 
 - 
 ### INODE Page
 - INODE페이지에는 85개의 파일 segment INODE항목(16KiB)이 포함되어 있으며 각각 192bytes임
