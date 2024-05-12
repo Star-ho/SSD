@@ -15,7 +15,12 @@ updatedAt: 2024-05-12 17:46:17
 
 ### Extent decriptor
 ![center](Pasted%20image%2020240512175239.png)
-- File Segment ID : extent가 파일 세그먼트에 속할시시, extent가 속한 파일 세그먼트 id, 
+- File Segment ID
+	- extent가 파일 세그먼트에 속할시시, extent가 속한 파일 세그먼트 id
+- List node for XDES list
+	- double linked extent descriptor 목록의 이전 및 다음 extent를 가르키는 포인터
+- State
+	- 
 
 
 
