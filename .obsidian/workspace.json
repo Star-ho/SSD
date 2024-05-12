@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md"
+                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
+    "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
+    "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
     "real-resource-image/Pasted image 20240512220333.png",
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
-    "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
     "real-resource-image/Pasted image 20240512201947.png",
     "real-resource-image/Pasted image 20240512201700.png",
     "real-resource-image/Pasted image 20240512201648.png",
@@ -204,7 +205,6 @@
     "3-Resource/Computer-Siece/제일급함.md",
     "real-resource-image/Pasted image 20240511225238.png",
     "real-resource-image/Pasted image 20240511112813.png",
-    "real-resource-image/Pasted image 20240511112606.png",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure/B-tree.md",
     "3-Resource/DataStructure",
