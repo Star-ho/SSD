@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 17:46:17
+updatedAt: 2024-05-12 19:30:02
 ---
 
 ## Extent
@@ -20,6 +20,14 @@ updatedAt: 2024-05-12 17:46:17
 - List node for XDES list
 	- double linked extent descriptor 목록의 이전 및 다음 extent를 가르키는 포인터
 - State
+	- extent의 현재 상태를 나타냄
+		- 4가지 상태가 있으며 아래에 자세히 설명
+		- FREE, FREE_FRAG, FULL_FRAG, FSEG
+- Page State Bitmap
+	- 2개의 비트로 페이지의 패이지가 free한지, clean 한지 나타냄
+		- 첫번빼 비트는 페이지가 free한지 여부
+		- 두번째 비트는 clean한지 여부
+			- 현재 사용되지 않는다면 1로 할당됨
 	- 
 
 

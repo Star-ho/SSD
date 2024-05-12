@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
+                "file": "2-Area/0-Sung-ho/명상.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
+                "file": "2-Area/0-Sung-ho/명상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
+                "file": "2-Area/0-Sung-ho/명상.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md"
+                "file": "2-Area/0-Sung-ho/명상.md"
               }
             }
           }
@@ -180,10 +180,16 @@
   },
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
+    "2-Area/0-Sung-ho/분업.md",
+    "2-Area/0-Sung-ho/명상.md",
+    "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
+    "2-Area/0-Sung-ho/운전 팁.md",
+    "2-Area/0-Sung-ho/좋은 개발자가 되는법.md",
+    "2-Area/0-Sung-ho/피부.md",
+    "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
     "real-resource-image/Pasted image 20240512175239.png",
     "real-resource-image/Pasted image 20240512174953.png",
     "3-Resource/Database/Innodb/내부구조/page, space, idb file structure.md",
-    "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
     "real-resource-image/Pasted image 20240511233507.png",
     "real-resource-image/Pasted image 20240511231613.png",
     "3-Resource/Computer-Siece/제일급함.md",
@@ -196,7 +202,6 @@
     "real-resource-image/Pasted image 20240508232205.png",
     "real-resource-image/Pasted image 20240508232003.png",
     "real-resource-image/Pasted image 20240508231341.png",
-    "real-resource-image/Pasted image 20240508231331.png",
     "3-Resource/DataStructure",
     "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
@@ -214,11 +219,6 @@
     "3-Resource/Untitled.md",
     "3-Resource/Algorithm",
     "3-Resource/Spring/Dynamic update.md",
-    "3-Resource/JVM/vm option.md",
-    "3-Resource/Tip/디버깅.md",
-    "3-Resource/Tool/드로윙 툴.md",
-    "3-Resource/JVM/JLS, JSR, JEP.md",
-    "3-Resource/Concept/영속성.md",
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",
     "5-Temp/TIP/Untitled",

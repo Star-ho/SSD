@@ -21,7 +21,7 @@
     "2-Area/0-Sung-ho/인생 팁/집구할떄.md": "5859035a259d4ca117d91ad9a0e6ddb8cf92eab04ecc68894b3864a37ac92a2f",
     "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md": "8b78c3f41d6b2c65d36804185bc1cb5754d48f6a6556cca5dc39775e42eaf009",
     "2-Area/0-Sung-ho/글쓸때.md": "e869e677fac9a1b381ae46a05288a424bd4f267491a915ee69c5d0c40a8f276c",
-    "2-Area/0-Sung-ho/명상.md": "da7db97ec6837bddcccebdaae7b42f5cbe879db765c291eefcc50eb88b2d5a88",
+    "2-Area/0-Sung-ho/명상.md": "c4db008a0cd4298d00a56eb3b55c64ee4479f74a97c8dea7e083e3acb857244a",
     "2-Area/0-Sung-ho/좋은 개발자가 되는법.md": "a616c442f5f1775c68cd1d98b09031f9b9f2fc6818cf3d5378cdadb5296f379a",
     "2-Area/0-Sung-ho/회고록/2023 회고록.md": "adc50091e9b95f90b424ec7341ce3a359ffa0110611fda6e08b79df93108c240",
     "2-Area/0-Sung-ho/회고록/이번에 로그시스템을 만든것에 대한 회고.md": "e25b2ac79b1719ec1fe495cbbf49f824cdd56ce6cc44ba075b296626dc31d218",
@@ -760,7 +760,7 @@
     "5-Temp/blind 자바 버전업, nosql은 언제쓰면 좋을까 정리하기.md": "3ecba7249c53ca0334cc9a8328f10b3b27cf7dc1548f7fdcb4b3c859e3baf345",
     "3-Resource/DataStructure/B-tree.md": "c513307b4c76da9d8e308a7f559e9596cfeb1668305aad48a4e2344ef03e340d",
     "3-Resource/Computer-Siece/제일급함.md": "e7836ff27ff94432039ec7aceb35f08e38c132fcc33a252bdb025d7153ae0ae2",
-    "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md": "c86d3bd6404de9accd2b67aa2859b541dabb9385a1584ff43f3c60e416986463",
+    "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md": "94bd093df67a2b6ca568c2c08c6be98d8eaa44d2405fe81bf78e6ea7badd54fc",
     "3-Resource/Database/Innodb/내부구조/page, space, idb file structure.md": "942a2335c4b39f741bc57aeabc34712315bb38f6728f056833ba5b6389ecda9b"
   }
 }
