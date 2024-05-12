@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 20:10:27
+updatedAt: 2024-05-12 20:35:43
 ---
 
 ## Extent
@@ -62,7 +62,17 @@ updatedAt: 2024-05-12 20:10:27
 	- space확장은 여러 단계에 걸쳐 이루어지므로, 모든 페이지가 초기화 되지 않음(일부는 0으로 채워질 수 있음)
 - Highest page number initialized (free limit)
 	- FIL헤더가 초기화된 가장 높은 페이지 번호로, 페이지자체에 페이지 번호를 저장함
-
+	- free lmit은 항상 이 크기보다 작거나 같음
+- Flags
+	- space와 연관된 플래그
+- Next Unused Segment ID
+	- 다음에 할당될 파일 세그먼트에 사용될 파일 세그먼트 ID
+- Number of pages used in the FREE_FRAG list
+	- 목록의 모든 extents를 순회하지 않고 FREE_FRAG갯수를 확인할 수 있게하기 위한 필드
+- 다음 extent descriptor list의 List base node도 저장됨
+	- FREE_FRAG
+		- 여유페이지가 남아있는 extent는 전체 exent를 할당하지 않고 개별 페이지를 다른 용도로 할당하여 조각으로 사용할 수 있도록 할당됨
+		- 
 ## 파일 segment INODE
 - INODE페이지에는 85개의 파일 segment INODE항목(16KiB)이 포함되어 있으며 각각 192bytes임
 - 다음 INODE페이지 리스트에 사용되는 리스트 노드가 포함되어 있음
