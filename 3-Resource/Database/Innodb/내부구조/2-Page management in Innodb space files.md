@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 20:35:43
+updatedAt: 2024-05-12 20:45:41
 ---
 
 ## Extent
@@ -22,8 +22,7 @@ updatedAt: 2024-05-12 20:35:43
 	- double linked extent descriptor 목록의 이전 및 다음 extent를 가르키는 포인터
 - State
 	- extent의 현재 상태를 나타냄
-		- 4가지 상태가 있으며 아래에 자세히 설명
-		- FREE, FREE_FRAG, FULL_FRAG, FSEG
+		- 해당 extent가 동일한 space목록에 속하는 FREE, FREE_FRAG, FULL_FRAG
 - Page State Bitmap
 	- 2개의 비트로 페이지의 패이지가 free한지, clean 한지 나타냄
 		- 첫번빼 비트는 페이지가 free한지 여부
@@ -71,8 +70,15 @@ updatedAt: 2024-05-12 20:35:43
 	- 목록의 모든 extents를 순회하지 않고 FREE_FRAG갯수를 확인할 수 있게하기 위한 필드
 - 다음 extent descriptor list의 List base node도 저장됨
 	- FREE_FRAG
-		- 여유페이지가 남아있는 extent는 전체 exent를 할당하지 않고 개별 페이지를 다른 용도로 할당하여 조각으로 사용할 수 있도록 할당됨
-		- 
+		- 여유페이지가 남아있는 extent를 나타냄
+			- 여유 페이지가 있는 extent는 개별 페이지를 다른 용도로 사용 가능함
+		- 예를들어, FSP_HDR 이나 XDES 페이지가 있는 모든 extent는 FREE_FRAG 목록에 배치뒤어 남은 free page를 다른 용도로 할당할 수 있음
+	- FULL_FRAG
+		- FREE_FRAG와 똑같지만, 여유페이지가 없는 extent를 나타냄
+		- extent가 가득차면 FULL_FRAG로 이동되며, 페이지가 해제되어 가득차 있지 않으면 FREE_FRAG로 이동됨
+	- FREE
+		- 완전히 사용되지 않고, 특정 용도로 전체 할당할 수 있는 extent를 의미함
+		- FREE extent는 파일세그먼트(적절한 INODE 목록에 배치되기 위해)에 할당되거나, 개별 페이지 사용을 위해 FREE_FRAG목록이로 이동될 수 있음
 ## 파일 segment INODE
 - INODE페이지에는 85개의 파일 segment INODE항목(16KiB)이 포함되어 있으며 각각 192bytes임
 - 다음 INODE페이지 리스트에 사용되는 리스트 노드가 포함되어 있음
