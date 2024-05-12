@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 23:15:43
+updatedAt: 2024-05-12 23:22:08
 ---
 
 ## Extent
@@ -111,7 +111,10 @@ updatedAt: 2024-05-12 23:15:43
 		- 값이 97937874이면 file segment INODE entry가 초기화 되었다는 것을 의미
 	- Number of used pages in the NOT_FULL list
 		- space의 FREE_FLAG list(FSP header에 있는)와 정확히 같음
-		- 
+		- NOT_FULL 리스트 수 빠르게 확인할 수 있게 하기 위한 필드
+	- Fragment Array
+		- space에 있는 FREE_FAG 또는 FULL_FRAG "fagment"의 extent리스트의 extent에 개별적으로 할당된 32페이지의 배열의 요소
+		- 해당 array가 꽉 차면, 오직 full extents만 file segment에 할당될 수 있음
 
 
 
