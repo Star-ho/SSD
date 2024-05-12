@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 23:45:46
+updatedAt: 2024-05-12 23:55:40
 ---
 
 ## Extent
@@ -134,7 +134,19 @@ updatedAt: 2024-05-12 23:45:46
 - 각 인덱스는 leaf페이지에 하나의 세그먼트와, non-leaf페이지에 하나의 파일 세그먼트를 사용함
 - 이 정보는 FSEG header 구조에 저장되어 있음
 ![center](Pasted%20image%2020240512234447.png)
-- space ID는 불필요한 것으로, 항상 현재 sapce와 동ㅇ
+- space ID는 불필요한 것으로, 항상 현재 sapce와 동일함
+- page number와 offset은 file segment INODE entryfmf rkfmzla
+- 두 파일 세그먼트는 완전히 비어있어도 항상 존재함
+	- 예를 들면 새로 만든 테이블에서 존재하는 페이지는 루트페이지이며 리프페이지 이기도 하지만, internal file segment에 존재하므로 나중에 옮길 필요가 없음
+	- leaf file segment의INODE list와 fragment는 모두 비어있음
+	- internal file segment INODE list는 모두 비어있고, 단일 루트 페이지는 fragment array에 있음
+
+### 인덱스에 대한 전체 multi level 
+![center](Pasted%20image%2020240512234938.png)
+- index root pages는 두개의 inodes를 가르키며, 전체 extents 여러 목록ㅇ
+	- inodes 각각은 fragment array(fragment list에서 최대 32개의 개별 페이지를 가르킴)
+
+- extent descriptor는 extent를 참조할 뿐 아니라, extent내 free page를 추적하는 데도 사용됨
 
 
 참고
