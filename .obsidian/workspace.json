@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/내부구조.md",
+                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/내부구조.md",
+                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/내부구조.md",
+                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/내부구조.md"
+                "file": "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md"
               }
             }
           }
@@ -180,10 +180,13 @@
   },
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
+    "real-resource-image/Pasted image 20240512175239.png",
+    "real-resource-image/Pasted image 20240512174953.png",
+    "3-Resource/Database/Innodb/내부구조/page, space, idb file structure.md",
+    "3-Resource/Database/Innodb/내부구조/Page management in Innodb space files.md",
     "real-resource-image/Pasted image 20240511233507.png",
     "real-resource-image/Pasted image 20240511231613.png",
     "3-Resource/Computer-Siece/제일급함.md",
-    "3-Resource/Database/Innodb/내부구조/내부구조.md",
     "real-resource-image/Pasted image 20240511225238.png",
     "real-resource-image/Pasted image 20240511112813.png",
     "real-resource-image/Pasted image 20240511112606.png",
@@ -194,8 +197,6 @@
     "real-resource-image/Pasted image 20240508232003.png",
     "real-resource-image/Pasted image 20240508231341.png",
     "real-resource-image/Pasted image 20240508231331.png",
-    "real-resource-image/Pasted image 20240508231106.png",
-    "real-resource-image/Pasted image 20240508225722.png",
     "3-Resource/DataStructure",
     "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
@@ -218,7 +219,6 @@
     "3-Resource/Tool/드로윙 툴.md",
     "3-Resource/JVM/JLS, JSR, JEP.md",
     "3-Resource/Concept/영속성.md",
-    "2-Area/0-Sung-ho/피부.md",
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",
     "5-Temp/TIP/Untitled",

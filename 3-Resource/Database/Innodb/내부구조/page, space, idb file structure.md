@@ -1,6 +1,6 @@
 ---
 date: 2024-05-10 22:40:29
-updatedAt: 2024-05-11 23:39:13
+updatedAt: 2024-05-12 17:45:53
 tags:
   - "#InnoDB"
   - InnoDB-Architecture
@@ -9,7 +9,6 @@ categories:
   - Database
 ---
 ## Page
-
 - 각 스페이스는 16KiB의 페이지로 나누어짐
 	- UNIV_PAGE_SIZE를 변경하거나, InnoDB 압축을 사용하는경우 변경 가능
 - 오프셋 이라고하는 32bit 정수 페이지 번호가 할당됨
@@ -89,29 +88,6 @@ categories:
 - 런타임에 인덱스를 생하는 fast index creation을 무시하고, 필수 초기 3페이지 이후 공간에 할당된 페이지들은 테이블 생성에 정의된 순서대로 테이블에 있는 각 인덱스 루트 페이지가 됨
 - 3번째 페이지는 clustered index의 루트페이지, 4번째 페이지는 첫번째 secondary index의 루트페이지임
 - InnoDB의 부기 구조는 대부분 시스템 공간에 저장되므로, 테이블별 공간에 할당된 대부분의 페이지는 INDEX유형이며, 테이블 데이터를 저장함
-
-## Extent
-- 64개의 연속된 페이지인 1MiB블록
-	- 고정된 위치에 FSP 및 XDES페이질르 할당하여 사용중인 extent와 사용중인 extent내의 페이지를 추적함
-
-
-## List - free list
-- 여러 관련 구조를 함께 연결할 수 있는 일반적인 구조체
-### List base node
-- 하이레벨구조(FSP헤더와 같은)에서 한번만 저장됨
-- 리스트의 길이 및 리스트의 처음과 마지막 리스트 노드의 정보를 포함함
-
-### List Node
-- 이전과 다음 노드에 대한 포인터를 저장함
-
-- 모든 포인터는 페이지 번호(같은 space내에 있는)와 리스트 노드를 찾을 수 있는 해당 페이지 내의 byte offset으로 구성됨
-- 모든 포인터는 리스트 노드의 시작을 가르킴
-- 반드시 서로 연결된 구조는 아님
-
-
-## 파일 segment INODE
-- INODE페이지에는 85개의 파일 segment INODE항목(16KiB)이 포함되어 있으며 각각 192bytes임
-- 다음 INODE페이지 리스트에 사용되는 리스트 노드가 포함되어 있음
 
 ---
 index는 물리적으로 정렬되지 않음
