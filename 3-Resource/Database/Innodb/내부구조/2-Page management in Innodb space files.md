@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 23:35:33
+updatedAt: 2024-05-12 23:45:46
 ---
 
 ## Extent
@@ -116,7 +116,25 @@ updatedAt: 2024-05-12 23:35:33
 	- Fragment Array
 		- space에 있는 FREE_FRAG 또는 FULL_FRAG 리스트("fragment"의 extent) 안의 extent로부터 개별적으로 할당된 32페이지의 배열
 		- 해당 array가 꽉 차면, 오직 full extents만 file segment에 할당될 수 있음
-- table이 커지면 각 file segment는 배열이 가득 찰때까지, 각 file segment에 개별 pages들을 할당하고, 
+- table이 커지면 각 file segment는 배열이 가득 찰때까지, 각 file segment에 개별 pages들을 할당하고, 이후 1개의 extent를 할당함, 결국에는 4개의 extent가 할당됨
+- extent descriptors의 list base node또한 각각의 file segment INODE entry에 나타남
+	- FREE
+		- 완전히 사용되지 않고, 해당 file segment에 할당된 extents
+	- NOT_FULL
+		- 해당 file segment에 할당된 사용된 페이지가 하나 이상 있는 extents
+		- 마지막 사용가능한 페이지가 사용되면, extents는 FULL list로 이동함
+	- FULL
+		- 해당 file segment에 할당된 사용가능한 페이지가 없는 extent
+		- 페이지가 여유가 생기면, NOT_FULL 목록이도 이동함
+	- 마지막으로 사용된 page가 NOT_FULL 목록의 범위에서 해제되면, 해당 extent는 file segment's의 FREE로 이동될 수 있지만, 실제로는 space의 FREE list로 이동됨
+
+## Index는 어떻게 file segments를 사용할까
+- 인덱스 페이지에 대한 설명은 없지만, 한가지 작은 측면을 살펴볼 수 있음
+- 각 인덱스의 FSEG의 루트페이지는 인덱스에서 사용하는 파일 세거믄트를 설명하는 file segment INODE entry에 대한 포인터가 포함되어 있음
+- 각 인덱스는 leaf페이지에 하나의 세그먼트와, non-leaf페이지에 하나의 파일 세그먼트를 사용함
+- 이 정보는 FSEG header 구조에 저장되어 있음
+![center](Pasted%20image%2020240512234447.png)
+- space ID는 불필요한 것으로, 항상 현재 sapce와 동ㅇ
 
 
 참고
