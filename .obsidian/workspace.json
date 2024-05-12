@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
+                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
+                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
+                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md"
+                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
+    "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
     "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
     "real-resource-image/Pasted image 20240512220333.png",
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
@@ -217,7 +218,6 @@
     "5-Temp/JVM/java object memory layout.md",
     "5-Temp/JVM/JAVA lombok.md",
     "5-Temp/마인드셋/협업/변경에 유연한구조.md",
-    "2-Area/생각정리/레거시.md",
     "3-Resource/Algorithm",
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",
