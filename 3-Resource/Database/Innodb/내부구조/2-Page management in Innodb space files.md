@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-12 20:45:41
+updatedAt: 2024-05-12 20:47:26
 ---
 
 ## Extent
@@ -17,12 +17,14 @@ updatedAt: 2024-05-12 20:45:41
 ### Extent decriptor
 ![center](Pasted%20image%2020240512175239.png)
 - File Segment ID
-	- extent가 파일 세그먼트에 속할시시, extent가 속한 파일 세그먼트 id
+	- extent가 파일 세그먼트에 속할시, extent가 속한 파일 세그먼트 id
 - List node for XDES list
 	- double linked extent descriptor 목록의 이전 및 다음 extent를 가르키는 포인터
 - State
-	- extent의 현재 상태를 나타냄
-		- 해당 extent가 동일한 space목록에 속하는 FREE, FREE_FRAG, FULL_FRAG
+	- extent의 현재 상태를 나타냄(4가지 상태가 있음)
+		- 해당 extent가 동일한 space목록에 속하는 FREE, FREE_FRAG, FULL_FRAG 상태
+			- 아래에서 자세한 설명
+		- 해당 extent가 파일 세그먼트 ID필드에 저장된 ID를 가진 파일 세그먼트에 속함을 의미하는 FSEG상태
 - Page State Bitmap
 	- 2개의 비트로 페이지의 패이지가 free한지, clean 한지 나타냄
 		- 첫번빼 비트는 페이지가 free한지 여부
@@ -79,6 +81,19 @@ updatedAt: 2024-05-12 20:45:41
 	- FREE
 		- 완전히 사용되지 않고, 특정 용도로 전체 할당할 수 있는 extent를 의미함
 		- FREE extent는 파일세그먼트(적절한 INODE 목록에 배치되기 위해)에 할당되거나, 개별 페이지 사용을 위해 FREE_FRAG목록이로 이동될 수 있음
-## 파일 segment INODE
+## file segment, INODE
+- InnoDB는 파일시스템에서 사용하는 file segment, INODE를 오버로드해서 사용함
+- InnoDB는 inode를 다음 2가지 유형에 사용함
+	- INODE entires(하나의 작은 구조)
+	- INODE pages(많은 INODE 항목을 포함하는 페이지 유형)
+- InnoDB의 INODE는 단순히 file segment(FSEG)를 설명할 뿐이며, 앞으로 "file segment INODE"라 칭함
+
+### INODE Page
 - INODE페이지에는 85개의 파일 segment INODE항목(16KiB)이 포함되어 있으며 각각 192bytes임
 - 다음 INODE페이지 리스트에 사용되는 리스트 노드가 포함되어 있음
+
+
+
+
+참고
+https://blog.jcole.us/2013/01/04/page-management-in-innodb-space-files/

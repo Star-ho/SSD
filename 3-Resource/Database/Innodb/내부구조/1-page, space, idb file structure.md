@@ -1,6 +1,6 @@
 ---
 date: 2024-05-10 22:40:29
-updatedAt: 2024-05-12 17:45:53
+updatedAt: 2024-05-12 20:48:28
 tags:
   - "#InnoDB"
   - InnoDB-Architecture
@@ -89,8 +89,8 @@ categories:
 - 3번째 페이지는 clustered index의 루트페이지, 4번째 페이지는 첫번째 secondary index의 루트페이지임
 - InnoDB의 부기 구조는 대부분 시스템 공간에 저장되므로, 테이블별 공간에 할당된 대부분의 페이지는 INDEX유형이며, 테이블 데이터를 저장함
 
----
-index는 물리적으로 정렬되지 않음
-그냥 링크드 리스트에 있는 순서임
 
-각각의 페이지는 다음페이지와 이전페이지의 포인터를 가지고 있음
+
+참고
+
+https://blog.jcole.us/2013/01/03/the-basics-of-innodb-space-file-layout/
