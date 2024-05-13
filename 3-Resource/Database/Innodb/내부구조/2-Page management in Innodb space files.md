@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-13 00:04:06
+updatedAt: 2024-05-13 22:40:44
 ---
 
 ## Extent
@@ -130,7 +130,7 @@ updatedAt: 2024-05-13 00:04:06
 
 ## Index는 어떻게 file segments를 사용할까
 - 인덱스 페이지에 대한 설명은 없지만, 한가지 작은 측면을 살펴볼 수 있음
-- 각 인덱스의 FSEG의 루트페이지는 인덱스에서 사용하는 파일 세거믄트를 설명하는 file segment INODE entry에 대한 포인터가 포함되어 있음
+- 각 인덱스의 FSEG의 루트페이지는 인덱스에서 사용하는 파일 세그먼트를 설명하는 file segment INODE entry에 대한 포인터가 포함되어 있음
 - 각 인덱스는 leaf페이지에 하나의 세그먼트와, non-leaf페이지에 하나의 파일 세그먼트를 사용함
 - 이 정보는 FSEG header 구조에 저장되어 있음
 ![center](Pasted%20image%2020240512234447.png)

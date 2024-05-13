@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc0c5974283724de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,17 +191,17 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "c5c2080b453e20d0",
+  "active": "fc0c5974283724de",
   "lastOpenFiles": [
+    "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
+    "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
     "real-resource-image/Pasted image 20240512234938.png",
     "real-resource-image/Pasted image 20240512234447.png",
     "real-resource-image/Pasted image 20240512231229.png",
     "real-resource-image/Pasted image 20240512231201.png",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
-    "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
     "real-resource-image/Pasted image 20240512220333.png",
-    "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
     "real-resource-image/Pasted image 20240512201947.png",
     "real-resource-image/Pasted image 20240512201700.png",
     "real-resource-image/Pasted image 20240512201648.png",
@@ -205,7 +218,6 @@
     "2-Area/개발 외의 것들/영양제.md",
     "real-resource-image/Pasted image 20240512175239.png",
     "real-resource-image/Pasted image 20240512174953.png",
-    "real-resource-image/Pasted image 20240511233507.png",
     "3-Resource/Computer-Siece/제일급함.md",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure/B-tree.md",
