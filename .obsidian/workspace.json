@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
+                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9124aa80c28c449e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Resource/Database/Innodb/내부구조/정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
+                "file": "3-Resource/Database/Innodb/내부구조/정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
+                "file": "3-Resource/Database/Innodb/내부구조/정리.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md"
+                "file": "3-Resource/Database/Innodb/내부구조/정리.md"
               }
             }
           }
@@ -191,9 +203,10 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "fc0c5974283724de",
+  "active": "9124aa80c28c449e",
   "lastOpenFiles": [
     "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+    "3-Resource/Database/Innodb/내부구조/정리.md",
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
     "real-resource-image/Pasted image 20240512234938.png",
     "real-resource-image/Pasted image 20240512234447.png",
