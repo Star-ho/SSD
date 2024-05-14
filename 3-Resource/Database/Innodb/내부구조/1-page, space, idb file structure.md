@@ -1,6 +1,6 @@
 ---
 date: 2024-05-10 22:40:29
-updatedAt: 2024-05-12 20:48:28
+updatedAt: 2024-05-14 22:37:41
 tags:
   - "#InnoDB"
   - InnoDB-Architecture
@@ -85,7 +85,7 @@ categories:
 
 ![center](Pasted%20image%2020240511233507.png)
 
-- 런타임에 인덱스를 생하는 fast index creation을 무시하고, 필수 초기 3페이지 이후 공간에 할당된 페이지들은 테이블 생성에 정의된 순서대로 테이블에 있는 각 인덱스 루트 페이지가 됨
+- 런타임에 인덱스를 생성하는 fast index creation을 제외하고, 필수 초기 3페이지 이후 공간에 할당된 페이지들은 테이블 생성에 정의된 순서대로 테이블에 있는 각 인덱스 루트 페이지가 됨
 - 3번째 페이지는 clustered index의 루트페이지, 4번째 페이지는 첫번째 secondary index의 루트페이지임
 - InnoDB의 부기 구조는 대부분 시스템 공간에 저장되므로, 테이블별 공간에 할당된 대부분의 페이지는 INDEX유형이며, 테이블 데이터를 저장함
 

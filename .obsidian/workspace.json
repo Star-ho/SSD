@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+                "file": "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+                "file": "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+                "file": "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md"
+                "file": "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md"
               }
             }
           }
@@ -191,10 +191,10 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "fc0c5974283724de",
   "lastOpenFiles": [
-    "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
     "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+    "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
     "real-resource-image/Pasted image 20240512234938.png",
     "real-resource-image/Pasted image 20240512234447.png",
     "real-resource-image/Pasted image 20240512231229.png",
