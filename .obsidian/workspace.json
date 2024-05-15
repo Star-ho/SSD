@@ -203,8 +203,9 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "9124aa80c28c449e",
   "lastOpenFiles": [
+    "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
     "3-Resource/Database/Innodb/내부구조/정리.md",
     "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
@@ -242,7 +243,6 @@
     "5-Temp/Softeware Architecture/도메인 생명주기.md",
     "5-Temp/Softeware Architecture/SOA vs msa.md",
     "5-Temp/JVM/java object memory layout.md",
-    "5-Temp/JVM/JAVA lombok.md",
     "3-Resource/Algorithm",
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",
