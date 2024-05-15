@@ -1,6 +1,6 @@
 ---
 date: 2024-05-10 22:40:29
-updatedAt: 2024-05-14 22:37:41
+updatedAt: 2024-05-15 23:18:46
 tags:
   - "#InnoDB"
   - InnoDB-Architecture
@@ -24,7 +24,8 @@ categories:
 ### FIL Header / Trailer
 ![center](Pasted%20image%2020240511112813.png)
 - page type은 페이지의 다른 부분을 파싱하기 위해 필수적인 부분임
-- 페이지는 file space management, extent management, the transaction system, the data dictionary, undo logs, blobs, indexes (table data)를 위해 할당됨
+	- page type은 file space management, extent management, the transaction system, the data dictionary, undo logs, blobs, indexes가 할당될 수 있음
+	- 페이지는 앞서 나열한 페이지가 될 수 있다는것을 의미함
 - 페이지가 초기화 될때, page number(Offset)이 할당됨
 	- 해당 필들드에서 읽은 페이지번호가 파일에 오프셋을 기준으로 해야하는 페이지 번호가 일치하는지 확인하여, 읽기가 올바른지 확인함
 	- 이 필드가 초기화되면 페이자가 초기화되었다는 것을 의미함
@@ -48,7 +49,7 @@ categories:
 - 많은 페이지가 연결된것
 - 효율적으로 페이지를 관리하기 위헤 1MiB 블록 단위로 페이지를 관리함
 	- 이를 extent라 부름
-
+- 파티션을 나누면 각각의 space가 나누어짐
 ### Space File 구조
 
 ![center](Pasted%20image%2020240511225238.png)
