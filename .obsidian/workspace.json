@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/JVM/jvm option for Container.md",
+                "file": "3-Resource/JVM/JVM memory structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "InitialRAMPercentage",
+                "query": "tag:#JVM-option",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/JVM/jvm option for Container.md",
+                "file": "3-Resource/JVM/JVM memory structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/JVM/jvm option for Container.md",
+                "file": "3-Resource/JVM/JVM memory structure.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/JVM/jvm option for Container.md"
+                "file": "3-Resource/JVM/JVM memory structure.md"
               }
             }
           }
@@ -218,8 +218,9 @@
   },
   "active": "f50ee639dda3bc4f",
   "lastOpenFiles": [
-    "3-Resource/Database/Innodb/내부구조/정리.md",
     "3-Resource/JVM/jvm option for Container.md",
+    "3-Resource/JVM/JVM memory structure.md",
+    "3-Resource/Database/Innodb/내부구조/정리.md",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
     "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
@@ -256,7 +257,6 @@
     "5-Temp/Concept/느슨한 정족수.md",
     "5-Temp/Softeware Architecture/도메인 생명주기.md",
     "5-Temp/Softeware Architecture/SOA vs msa.md",
-    "5-Temp/JVM/java object memory layout.md",
     "3-Resource/Algorithm",
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",
