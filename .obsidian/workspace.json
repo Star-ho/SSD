@@ -25,38 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9124aa80c28c449e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "3-Resource/Database/Innodb/내부구조/정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f50ee639dda3bc4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Temp/z-etc/sftp 명령어.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/z-etc/sftp 명령어.md",
+                "file": "3-Resource/Database/Innodb/내부구조/정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/z-etc/sftp 명령어.md",
+                "file": "3-Resource/Database/Innodb/내부구조/정리.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/z-etc/sftp 명령어.md"
+                "file": "3-Resource/Database/Innodb/내부구조/정리.md"
               }
             }
           }
@@ -216,14 +192,15 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "f50ee639dda3bc4f",
+  "active": "fc0c5974283724de",
   "lastOpenFiles": [
-    "3-Resource/JVM/JVM memory structure.md",
-    "3-Resource/JVM/jvm option for Container.md",
+    "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
     "3-Resource/Database/Innodb/내부구조/정리.md",
+    "3-Resource/JVM/jvm option for Container.md",
+    "3-Resource/JVM/JVM memory structure.md",
+    "5-Temp/z-etc/sftp 명령어.md",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
-    "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
     "real-resource-image/Pasted image 20240512234938.png",
     "real-resource-image/Pasted image 20240512234447.png",
     "real-resource-image/Pasted image 20240512231229.png",
@@ -256,7 +233,6 @@
     "5-Temp/Concept/end to end exactly once processing.md",
     "5-Temp/Concept/느슨한 정족수.md",
     "5-Temp/Softeware Architecture/도메인 생명주기.md",
-    "5-Temp/Softeware Architecture/SOA vs msa.md",
     "3-Resource/Algorithm",
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",
