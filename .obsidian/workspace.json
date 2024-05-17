@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md",
+                "file": "5-Temp/Spring/스프링부트 해부학.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md",
+                "file": "5-Temp/Spring/스프링부트 해부학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md",
+                "file": "5-Temp/Spring/스프링부트 해부학.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md"
+                "file": "5-Temp/Spring/스프링부트 해부학.md"
               }
             }
           }
@@ -194,6 +193,8 @@
   },
   "active": "fc0c5974283724de",
   "lastOpenFiles": [
+    "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md",
+    "5-Temp/Spring/스프링부트 해부학.md",
     "5-Temp/Computer Science/Socket file 구조.md",
     "3-Resource/Database/Innodb/내부구조/정리.md",
     "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
@@ -231,8 +232,6 @@
     "3-Resource/DataStructure",
     "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
     "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
-    "5-Temp/Concept/end to end exactly once processing.md",
-    "5-Temp/Concept/느슨한 정족수.md",
     "3-Resource/Algorithm",
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",

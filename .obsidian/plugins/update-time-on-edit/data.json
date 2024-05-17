@@ -763,6 +763,7 @@
     "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md": "b760d8371677f456594512992da1b87e45ed053a08614c8a4d4c13460025db10",
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md": "e87268ceee8ddfcad6b7bdecd6cce94076eb20df269e5f314dbabcd05872da64",
     "3-Resource/Database/Innodb/내부구조/정리.md": "3405f5c6bba159940ea1314c9ae24f4acd4c517737f7878fdcb215257a94ceee",
-    "5-Temp/Computer Science/Socket file 구조.md": "8e0b92704d111e60cd3f9d5ac10498e55bc8ad8320cc61ec4a5edc635db9b720"
+    "5-Temp/Computer Science/Socket file 구조.md": "8e0b92704d111e60cd3f9d5ac10498e55bc8ad8320cc61ec4a5edc635db9b720",
+    "5-Temp/Spring/스프링부트 해부학.md": "edd55a985906a083438daae444b81edc92214fc08aacf1d0dc2e816c7f8b89db"
   }
 }
