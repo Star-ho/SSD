@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-19 22:36:57
+updatedAt: 2024-05-19 23:40:13
 tags:
   - InnoDB
   - InnoDB-Architecture
@@ -154,3 +154,5 @@ categories:
 
 참고
 https://blog.jcole.us/2013/01/04/page-management-in-innodb-space-files/
+https://dev.mysql.com/blog-archive/innodb-tablespace-space-management/
+https://dev.mysql.com/blog-archive/extent-descriptor-page-of-innodb/

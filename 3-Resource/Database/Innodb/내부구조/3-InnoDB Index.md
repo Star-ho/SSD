@@ -1,6 +1,6 @@
 ---
 date: 2024-05-19 22:44:51
-updatedAt: 2024-05-19 23:33:57
+updatedAt: 2024-05-19 23:39:58
 ---
 ## Index
 - 물리적인 인덱스 구조를 알기전, InnoDB에서 Index에 대해 중요하게 알아야하는 아래 3가지에 대해 알아야 함
@@ -75,5 +75,14 @@ updatedAt: 2024-05-19 23:33:57
 	- 둘다 Barracuda가 만들어질때까지, 공식적인 이름이 없었음
 - COMPACT형식은 각 레코드에 중복 저장되어 data dictionary에 있는 정보(필드수, nullable한 필드, 동적 길이 필드)를 대부부분 제거함
 
-## recorde pointer에 대한 추가설명
-- record pointer는 INDEX Header안에 있는 Last Insert Position field, System record와 user record
+## record pointer에 대한 추가설명
+- record pointer는 INDEX Header안에 있는 Last Insert Position field, System record와 user record의 next pointer, page directory안에 있는 모든값 등 여러 다른 위치에서 사용됨
+- 모든 레코드는 헤더(가변 길이 일수 있는)와 실제 레코드 데이터(가변 길이 일수 있는)를 포함함
+- record pointer는 레코드 데이터의 첫번째 바이트 위치를 가르키며, 실제로는 header와 record 데이터 사이에 위치함
+- 이를 통해 역방향으로 헤더를 읽고, 정방향으로 레코드 데이터를 읽음
+- 시스템 및 사용자 필드에서 next record pointer를 기준으로 헤더는 항상 거꾸로 읽어야 하므로 가변 width레코드 데이터를 
+
+
+
+
+https://blog.jcole.us/2013/01/07/the-physical-structure-of-innodb-index-pages/
