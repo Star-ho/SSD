@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
+                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Spring/스프링부트 해부학.md",
+                "file": "5-Temp/Spring/특히 jackson 라이브러같은건.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Spring/스프링부트 해부학.md",
+                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Spring/스프링부트 해부학.md",
+                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Spring/스프링부트 해부학.md"
+                "file": "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md"
               }
             }
           }
@@ -191,18 +190,22 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "fc0c5974283724de",
+  "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
-    "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md",
-    "5-Temp/Spring/스프링부트 해부학.md",
-    "5-Temp/Computer Science/Socket file 구조.md",
     "3-Resource/Database/Innodb/내부구조/정리.md",
+    "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
     "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+    "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
+    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
+    "5-Temp/Spring/스프링으로 만드는 프로젝트 예시.md",
+    "5-Temp/Spring/스프링부트 해부학.md",
+    "5-Temp/Spring/스프링 쉘.md",
+    "5-Temp/Spring/스프링 트랜잭션 매니저.md",
+    "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md",
+    "5-Temp/Computer Science/Socket file 구조.md",
     "3-Resource/JVM/jvm option for Container.md",
     "3-Resource/JVM/JVM memory structure.md",
     "5-Temp/z-etc/sftp 명령어.md",
-    "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
-    "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
     "real-resource-image/Pasted image 20240512234938.png",
     "real-resource-image/Pasted image 20240512234447.png",
     "real-resource-image/Pasted image 20240512231229.png",
@@ -223,15 +226,10 @@
     "2-Area/0-Sung-ho/인생 팁/어떤걸 살때 할인하는걸 찾고싶다면?.md",
     "2-Area/개발 외의 것들/운동.md",
     "2-Area/개발 외의 것들/인생...md",
-    "2-Area/개발 외의 것들/영양제.md",
     "real-resource-image/Pasted image 20240512175239.png",
     "real-resource-image/Pasted image 20240512174953.png",
-    "3-Resource/Computer-Siece/제일급함.md",
     "3-Resource/Database/Innodb/내부구조",
-    "3-Resource/DataStructure/B-tree.md",
     "3-Resource/DataStructure",
-    "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
-    "5-Temp/Computer Science/Concept/bytebuf, bytebuffer.md",
     "3-Resource/Algorithm",
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",

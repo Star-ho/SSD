@@ -1,6 +1,12 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-13 22:40:44
+updatedAt: 2024-05-19 22:36:57
+tags:
+  - InnoDB
+  - InnoDB-Architecture
+  - hugo_blog
+categories:
+  - Database
 ---
 
 ## Extent
@@ -135,7 +141,7 @@ updatedAt: 2024-05-13 22:40:44
 - 이 정보는 FSEG header 구조에 저장되어 있음
 ![center](Pasted%20image%2020240512234447.png)
 - space ID는 불필요한 것으로, 항상 현재 sapce와 동일함
-- page number와 offset은 file segment INODE entryfmf rkfmzla
+- page number와 offset은 file segment INODE entry를 가르킴
 - 두 파일 세그먼트는 완전히 비어있어도 항상 존재함
 	- 예를 들면 새로 만든 테이블에서 존재하는 페이지는 루트페이지이며 리프페이지 이기도 하지만, internal file segment에 존재하므로 나중에 옮길 필요가 없음
 	- leaf file segment의INODE list와 fragment는 모두 비어있음
