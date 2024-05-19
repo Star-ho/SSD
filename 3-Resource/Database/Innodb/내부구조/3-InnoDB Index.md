@@ -1,6 +1,6 @@
 ---
 date: 2024-05-19 22:44:51
-updatedAt: 2024-05-19 23:13:59
+updatedAt: 2024-05-19 23:23:59
 ---
 ## Index
 - 물리적인 인덱스 구조를 알기전, InnoDB에서 Index에 대해 중요하게 알아야하는 아래 3가지에 대해 알아야 함
@@ -45,4 +45,18 @@ updatedAt: 2024-05-19 23:13:59
 	- 해당 페이지 안에있는 record들의 포맷을 의미함
 		- Number of Heap Record필드의 상위비트(0x8000)비트에 저장됨
 	- 현재 COMPACT와 REDUNDANT가 가능함
-
+		- 뒤에 자세히 설명함
+- Number of Heap Records
+	- infimum과 supremum 시스템 레코드, 삭제된garbage records를 포함한 페이지 내의 총 레코드 수를 의미함
+- Heap Top Position
+	- 현재 사용된 공간의 마지막 바이트 오프셋을 가르킴
+	- heap 상단과 page directory의 마지막의 모든 공간은 여유공간임
+- Garbage Space
+	- garbage 레코드 콕록아네 있는 삭제된 레코드가 소비한 총 바이트 수를 저장함
+- Last Insert Position
+	- 페이지 내의 마지막으로 추가된 레코드의 바이트 오프셋을 저장함
+- Page Direction
+	- 현재 LEFT, RIGHT, NO_DIRECTION 세가지 값이 사용됨
+	- 페이지가 순차적으로 insert되는지, 무작위로 insert되는지를 나타냄
+	- 각 insert시 마지막 insert위치의 레코드를 일고, 해당 키를 insert된 레코드 키와 비교하여 insert방향을 결정함
+- Number of 
