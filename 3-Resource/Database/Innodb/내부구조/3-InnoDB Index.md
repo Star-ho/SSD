@@ -1,6 +1,6 @@
 ---
 date: 2024-05-19 22:44:51
-updatedAt: 2024-05-19 22:45:05
+updatedAt: 2024-05-19 23:13:59
 ---
 ## Index
 - 물리적인 인덱스 구조를 알기전, InnoDB에서 Index에 대해 중요하게 알아야하는 아래 3가지에 대해 알아야 함
@@ -19,9 +19,30 @@ updatedAt: 2024-05-19 22:45:05
 	- 모든 페이지 유형에 일반적이고 공통적임
 	- 다른 페이지 유형들과 다른점은, previous page와 next page 포인터가 인덱스 키를 기준으로 동일한 수준의 이전페이지와 다음페이지를 오름차순으로 가르킴
 	- 이로인해 모든 페이지가 이중으로 연결된 double-linked list가 형성됨
-- FSEG Header
+- FSEG header
 	- 이전 글에서 보았던, index root page의 FSEG헤더에는 포함됨
 		- 해당 인덱스에서 사용하는 파일 세그먼트에 대한 포인터가 포함되어 있음
-	- 다른 index page는 FSEG Header를 사용되지 않고 0으로 채워짐
-- 
+	- 다른 index page는 FSEG header를 사용되지 않고 0으로 채워짐
+- INDEX header
+	- Index 페이지 관리와 record관리에 필요한 필드가 포함되어 있음
+	- 자세한 설명은 아래에 있음
+- System records
+	- 인덱스의 각 페이지에는 infimum과 supremum로 불리는 system record가 존재함
+	- 이러한 레코드들은 페이지의 고정된 장소에 저장되어, 패이지 내에서 바로 접근이 가능함
+- User records
+	- 실제 데이터임
+	- 각 레코드는 가변길이의 헤더와, 실제 데이터 컬럼을 가지고 있음
+	- 헤더에는 오름차순으로 정렬된 singly-linked list를 구현하기 위한 next record 포인터를 포함함
+	- 자세한 설명은 아래에 있음
+- The page directory
+	- FIL 트레일러에서 시작하여 페이지의 top에서 아래쪽으로 커지며(메모리 스택과 유사한 구조라고 생각됨), 페이지의 일부 레코드(4~8번째 레코드마다)에 대한 포인터를 포함함
+
+## INDEX Header
+![center](Pasted%20image%2020240519231114.png)
+- Index ID
+	- 해당 페이지가 속해있는 index의 ID를 의미함
+- Format Flag
+	- 해당 페이지 안에있는 record들의 포맷을 의미함
+		- Number of Heap Record필드의 상위비트(0x8000)비트에 저장됨
+	- 현재 COMPACT와 REDUNDANT가 가능함
 
