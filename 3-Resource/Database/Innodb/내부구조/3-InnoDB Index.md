@@ -1,6 +1,6 @@
 ---
 date: 2024-05-19 22:44:51
-updatedAt: 2024-05-19 23:23:59
+updatedAt: 2024-05-19 23:33:57
 ---
 ## Index
 - 물리적인 인덱스 구조를 알기전, InnoDB에서 Index에 대해 중요하게 알아야하는 아래 3가지에 대해 알아야 함
@@ -59,4 +59,21 @@ updatedAt: 2024-05-19 23:23:59
 	- 현재 LEFT, RIGHT, NO_DIRECTION 세가지 값이 사용됨
 	- 페이지가 순차적으로 insert되는지, 무작위로 insert되는지를 나타냄
 	- 각 insert시 마지막 insert위치의 레코드를 일고, 해당 키를 insert된 레코드 키와 비교하여 insert방향을 결정함
-- Number of 
+- Number of Inserts in Page Direction
+	- 한번 페이지 방향이 설정된 후 방향을 바꾸지 않은 모든 다음 삽입은 이값을 증가시킴
+		- 한번 페이지 방향이 설정된 후에 같은 방향으로 insert된 레코들 수를 의미
+- Number of Directory Slots
+	- 페이지 디렉토리의 크기(16바이트 오프셋인 slot의 단위)
+- Page Level
+	- index에서 해당 페이지의 level을 의미
+	- Leaf 페이의 레벨은 0이고, B+트리를 따라 올라감
+	- 일반적으로 3레벨 B+트리에서 루트는 레벨2, internal non-leaf page중 일부가 level 1, leaf page는 level 0임
+	- 항후 게시글에서 추가로 설명함
+
+## Record format: REDUNDANT vs COMPACT
+- COMPACT 레코드 형식은, Barracuda테이블의 새로운 형식이고, REDUNDANT레코드 형식은 Antelope테이블의 기존 형식임
+	- 둘다 Barracuda가 만들어질때까지, 공식적인 이름이 없었음
+- COMPACT형식은 각 레코드에 중복 저장되어 data dictionary에 있는 정보(필드수, nullable한 필드, 동적 길이 필드)를 대부부분 제거함
+
+## recorde pointer에 대한 추가설명
+- record pointer는 INDEX Header안에 있는 Last Insert Position field, System record와 user record
