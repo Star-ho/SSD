@@ -764,6 +764,7 @@
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md": "e87268ceee8ddfcad6b7bdecd6cce94076eb20df269e5f314dbabcd05872da64",
     "3-Resource/Database/Innodb/내부구조/정리.md": "8c6569fb95f0eede498edbcc57fb046bc78291e877382c159069d99bfb8e80f1",
     "5-Temp/Computer Science/Socket file 구조.md": "8e0b92704d111e60cd3f9d5ac10498e55bc8ad8320cc61ec4a5edc635db9b720",
-    "5-Temp/Spring/스프링부트 해부학.md": "edd55a985906a083438daae444b81edc92214fc08aacf1d0dc2e816c7f8b89db"
+    "5-Temp/Spring/스프링부트 해부학.md": "edd55a985906a083438daae444b81edc92214fc08aacf1d0dc2e816c7f8b89db",
+    "3-Resource/Database/Innodb/내부구조/3-InnoDB Index.md": "79caca60f9f3b51ef66777dcfe29a2056f51018d0dce42a27ee86916a7e3c49d"
   }
 }
