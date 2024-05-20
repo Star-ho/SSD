@@ -1,6 +1,6 @@
 ---
 date: 2024-05-19 22:44:51
-updatedAt: 2024-05-20 22:27:24
+updatedAt: 2024-05-20 22:37:28
 ---
 ## Index
 - 물리적인 인덱스 구조를 알기전, InnoDB에서 Index에 대해 중요하게 알아야하는 아래 3가지에 대해 알아야 함
@@ -108,8 +108,27 @@ updatedAt: 2024-05-20 22:27:24
 
 - 또한 FIL헤더의 "next page"포인터를 사용하면 전체 인덱스를 오름차순으로 한페이지에서 다른 페이지로 쉽게 스캔 가능
 	- FIL헤더로 인해 오름차순 테이블 스캔도 간단히 구현 가능
-1. 
+1. 인덱스 안의 첫번째 page에서 시작
+	- 이 페이지는 B+트리 탐색을 통해 찾을 수 있음(향후 게시글에서 설명)
+2. infimum record를 읽고, next record 포인터를 따라감
+3. record가 supremum이라면 step 5로 이동하고, 아니라면 레코드 내용을 읽고 처리함
+4. "next record"포인터를 따라가 step 3으로 돌아감
+5. "next page" 포인터가 NULL을 가르키면 종료하고 아니라면 "next page"포인터를 따라 step 2로 돌아감
 
+*레코드가 doubly-linked가 아닌 singly-linked이므로 내림차순 탐색은 쉽지 않음
+
+## Page directory
+- page directory는 FIL trailer에서 시작하여 user record방향으로 커짐
+- page directory는 4-8개의 레코드 포인터를 가지고 있으며, infimum과 supremum값을 포함함
+
+![center](Pasted%20image%2020240520223401.png)
+- page directory는 단순히 페이지 레코드에 대한 16비트 오프센 포인터인 동적 크기 배열(dynamically-sized array)임
+- 향후 게시물에 자세하게 설명할 예정
+
+## Free space
+- user record(위쪽으로 증가함)와 page directory(아래로 증가함) 사이의 공간을 free space로 간주함
+- 두 섹션이 중간에 만나서 여유공간이 소진되면 페이지가 가득 찬것으로 간주함
+	- garbage를 제거하기 위한 re-organizing으로
 
 
 
