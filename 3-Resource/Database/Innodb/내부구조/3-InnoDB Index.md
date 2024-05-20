@@ -1,6 +1,6 @@
 ---
 date: 2024-05-19 22:44:51
-updatedAt: 2024-05-19 23:39:58
+updatedAt: 2024-05-20 22:17:34
 ---
 ## Index
 - 물리적인 인덱스 구조를 알기전, InnoDB에서 Index에 대해 중요하게 알아야하는 아래 3가지에 대해 알아야 함
@@ -84,6 +84,9 @@ updatedAt: 2024-05-19 23:39:58
 	- 이로인해, 항상 가변 width레코드 데이터를 파싱할 필요없이 페이지의 모든 레코드를 매우 효율적으로 읽을 수 있음
 
 ## System records: infimum and supremum
+- 모든 INDEX 페이지는 고정된 위치에 infimum과 supremum이라는 시스템 레코드가 포함함
+![center](Pasted%20image%2020240520221729.png)
+
 
 
 
