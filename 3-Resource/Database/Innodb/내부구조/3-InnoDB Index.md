@@ -1,6 +1,6 @@
 ---
 date: 2024-05-19 22:44:51
-updatedAt: 2024-05-20 22:37:28
+updatedAt: 2024-05-20 22:38:12
 ---
 ## Index
 - 물리적인 인덱스 구조를 알기전, InnoDB에서 Index에 대해 중요하게 알아야하는 아래 3가지에 대해 알아야 함
@@ -128,7 +128,7 @@ updatedAt: 2024-05-20 22:37:28
 ## Free space
 - user record(위쪽으로 증가함)와 page directory(아래로 증가함) 사이의 공간을 free space로 간주함
 - 두 섹션이 중간에 만나서 여유공간이 소진되면 페이지가 가득 찬것으로 간주함
-	- garbage를 제거하기 위한 re-organizing으로
+	- garbage를 제거하기 위한 re-organizing으로 공간을 확보할 수 없을때도 가득 찬것으로 간주함
 
 
 
