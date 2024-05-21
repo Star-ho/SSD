@@ -1,6 +1,6 @@
 ---
 date: 2024-05-20 23:10:14
-updatedAt: 2024-05-20 23:10:50
+updatedAt: 2024-05-20 23:33:08
 ---
 ## B+Tree, root, leaf, level 용어정리
 - B+Tree는InnoDB 인덱스의 구조
@@ -34,4 +34,23 @@ updatedAt: 2024-05-20 23:10:50
 
 ![center](Pasted%20image%2020240520232622.png)
 - 대부분의 인덱스는 2개 이상의 페이지로 구성되며, 여러 페이지가 오름차순 및 내림차순으로 링크되어 있음
-- 각각의 페이지는 
+- 각각의 페이지는 FIL헤더 안에 이전페이지와 다음 페이지를 가르키는 point를 가지고 있음
+	- 이로인해 INDEX 페이지들은 동일한 레벨에서 double linked list구조를 가짐
+
+![center](Pasted%20image%2020240520232907.png)
+- 위 그림은 B+Tree내의 단일 index page임
+
+## 실제로 살펴보기
+- 실제로 그림에서 사용중인 테스트 테이블을 생성하고, 데이터를 삽입해보자!
+```sql
+ CREATE TABLE t_btree (
+   i INT NOT NULL,
+   s CHAR(10) NOT NULL,
+   PRIMARY KEY(i)
+ ) ENGINE=InnoDB;
+ 
+ INSERT INTO t_btree (i, s)
+   VALUES (0, "A"), (1, "B"), (2, "C");
+```
+- 매우 작고 비현실적이지만, 레코드와 레코드 순회가 어떻게 이루어 지는지 알기 위해 적절한 테이블임
+- 
