@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
+                "file": "2-Area/0-Sung-ho/퇴사할때(퇴사할때 아니면 절대열어보지말것).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
+                "file": "2-Area/0-Sung-ho/퇴사할때(퇴사할때 아니면 절대열어보지말것).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
+                "file": "2-Area/0-Sung-ho/퇴사할때(퇴사할때 아니면 절대열어보지말것).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md"
+                "file": "2-Area/0-Sung-ho/퇴사할때(퇴사할때 아니면 절대열어보지말것).md"
               }
             }
           }
@@ -192,8 +192,8 @@
   },
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
-    "2-Area/0-Sung-ho/퇴사할떄.md",
     "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
+    "2-Area/0-Sung-ho/퇴사할때(퇴사할때 아니면 절대열어보지말것).md",
     "real-resource-image/Pasted image 20240520232907.png",
     "real-resource-image/Pasted image 20240520232622.png",
     "real-resource-image/Pasted image 20240520232449.png",
