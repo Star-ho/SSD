@@ -1,6 +1,6 @@
 ---
 date: 2024-05-20 23:10:14
-updatedAt: 2024-05-21 21:55:01
+updatedAt: 2024-05-22 18:42:44
 ---
 ## B+Tree, root, leaf, level 용어정리
 - B+Tree는InnoDB 인덱스의 구조
@@ -53,3 +53,17 @@ updatedAt: 2024-05-21 21:55:01
    VALUES (0, "A"), (1, "B"), (2, "C");
 ```
 - 매우 작고 비현실적이지만, 레코드와 레코드 순회가 어떻게 이루어 지는지 알기 위해 적절한 테이블임
+
+### 실제 기본 table space 파일 구조 확인
+- 실제 테이블을 확인해보면, 이전에 보았던 테이블들과 같이 FSP_HDR, IBUF_BITMAP, INODE 페이지가 있고, 루트 인덱스가 있는 INDEX페이지, 아직 사용되지 않은 FREE 페이지 2개가 존재함
+```zsh
+$ innodb_space -f t_btree.ibd space-page-type-regions
+start       end         count       type                
+0           0           1           FSP_HDR             
+1           1           1           IBUF_BITMAP         
+2           2           1           INODE               
+3           3           1           INDEX               
+4           5           2           FREE (ALLOCATED)
+```
+
+
