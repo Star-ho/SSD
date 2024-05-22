@@ -1,6 +1,6 @@
 ---
 date: 2024-05-20 23:10:14
-updatedAt: 2024-05-22 22:34:06
+updatedAt: 2024-05-22 22:43:08
 ---
 ## B+Tree, root, leaf, level 용어정리
 - B+Tree는InnoDB 인덱스의 구조
@@ -128,4 +128,72 @@ ROOT NODE #3: 3 records, 96 bytes
 ![center](Pasted%20image%2020240522223300.png)
 - multi level 인덱스는 위와같이 나타남
 - 이전에 설명했듯이, 모든 페이지는 각각 doubly-linked 되어있고, 각 페이지 안의 레코드들은 오름차순으로 singly-linked되어있음
-- Non-lea
+- Non-leaf페이지는 실제 키보다는 자식의 페이지 넘버를 포함한 포인터를 가지고 있음
+
+```zsh
+$ innodb_space -f t.ibd -r ./simple_t_describer.rb -d SimpleTDescriber -p 3 index-recurse
+
+ROOT NODE #3: 2 records, 26 bytes
+  NODE POINTER RECORD >= (i=252) -> #36
+  INTERNAL NODE #36: 1117 records, 14521 bytes
+    NODE POINTER RECORD >= (i=252) -> #4
+    LEAF NODE #4: 446 records, 9812 bytes
+      RECORD: (i=1) -> ()
+      RECORD: (i=2) -> ()
+      RECORD: (i=3) -> ()
+      RECORD: (i=4) -> ()
+
+<many lines omitted>
+
+    NODE POINTER RECORD >= (i=447) -> #1676
+    LEAF NODE #1676: 444 records, 9768 bytes
+      RECORD: (i=447) -> ()
+      RECORD: (i=448) -> ()
+      RECORD: (i=449) -> ()
+      RECORD: (i=450) -> ()
+
+<many lines omitted>
+
+    NODE POINTER RECORD >= (i=891) -> #771
+    LEAF NODE #771: 512 records, 11264 bytes
+      RECORD: (i=891) -> ()
+      RECORD: (i=892) -> ()
+      RECORD: (i=893) -> ()
+```
+- 10만개의 row를 가지는 간단한 테이블은 위와같은 구조리르 가짐
+	- ROOT, INTERNAL, LEAF NODE를 가지고 있음
+- 일부 페이지는 완전히 꽉차있으며, 468개의 레코드가 16KB페이지의 거의 15KB를 차지하고 있음을 알 수 있음
+
+```zsh
+$ innodb_space -f t.ibd -r ./simple_t_describer.rb -d SimpleTDescriber -p 36 page-dump
+
+{:format=>:compact,
+ :offset=>125,
+ :header=>
+  {:next=>11877,
+   :type=>:node_pointer,
+   :heap_number=>2,
+   :n_owned=>0,
+   :min_rec=>true,
+   :deleted=>false,
+   :field_nulls=>nil,
+   :field_lengths=>[0],
+   :field_externs=>[false]},
+ :next=>11877,
+ :type=>:clustered,
+ :key=>[{:name=>"i", :type=>"INT UNSIGNED", :value=>252, :extern=>nil}],
+ :child_page_number=>4}
+```
+- 위는 non-leaf 페이지임
+- :key 배열이 나타나고, 정확한 키보다는 자식레코드의 최소키를 포함하고 있음
+- :row 필드가 없으며, child_page_number가 해당 필드를 대신함
+
+### 특별한 root page
+- 인덱스가 처음 생성될때 루트페이지가 할당되고, 해당 페이지 번호가 데이터 사전에 저장되므로 루트페이지는 절대 재배치하거나 제거할 수 없음
+- 루트페이지가 가득 차면, 루트페이지와 두개의 리프 페이지로 구성된 작은 트리를 형성하여 분할해야함
+- 하지만 루트 페이지 자체는 재배치 할 수 없으므로 분할할 수 없음
+- 대신 새 빈페이지가 할당되고, 루트 레코드가 그 페이지르 이동되며(루트페이지가 한단계 상향됨) 새페이지가 두개로 분할됨
+- 그러면 루트페이지는 바로 그 아래 레벨에 하위페이지(node pointer라 부름)로 가득 찰 때까지 다시 분할할 필요가 없으며, 실제로 수천개의 페이지가 될 수 있음
+
+
+https://blog.jcole.us/2013/01/10/btree-index-structures-in-innodb/
