@@ -1,6 +1,6 @@
 ---
 date: 2024-05-20 23:10:14
-updatedAt: 2024-05-22 18:42:44
+updatedAt: 2024-05-22 18:47:57
 ---
 ## B+Tree, root, leaf, level 용어정리
 - B+Tree는InnoDB 인덱스의 구조
@@ -67,3 +67,38 @@ start       end         count       type
 ```
 
 
+- space-index-pages-summary 명령은 각 페이지에 레코드가 몇개 있는지 알려준다
+	- 3개가 있을것으로 예상함
+```zsh
+$ innodb_space -f t_btree.ibd space-index-pages-summary
+page        index   level   data    free    records 
+3           18      0       96      16156   3       
+4           0       0       0       16384   0       
+5           0       0       0       16384   0
+```
+
+### 실제 레코드 확인
+```zsh
+$ innodb_space -f t_btree.ibd -r ./simple_t_btree_describer.rb -d SimpleTBTreeDescriber -p 3 page-dump
+
+{:format=>:compact,
+ :offset=>125,
+ :header=>
+  {:next=>157,
+   :type=>:conventional,
+   :heap_number=>2,
+   :n_owned=>0,
+   :min_rec=>false,
+   :deleted=>false,
+   :field_nulls=>nil,
+   :field_lengths=>[0, 0, 0, 0],
+   :field_externs=>[false, false, false, false]},
+ :next=>157,
+ :type=>:clustered,
+ :key=>[{:name=>"i", :type=>"INT", :value=>0, :extern=>nil}],
+ :transaction_id=>"0000000f4745",
+ :roll_pointer=>
+  {:is_insert=>true, :rseg_id=>8, :undo_log=>{:page=>312, :offset=>272}},
+ :row=>[{:name=>"s", :type=>"CHAR(10)", :value=>"A", :extern=>nil}]}
+```
+- 
