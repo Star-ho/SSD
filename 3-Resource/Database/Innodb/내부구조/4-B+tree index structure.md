@@ -1,6 +1,6 @@
 ---
 date: 2024-05-20 23:10:14
-updatedAt: 2024-05-22 18:47:57
+updatedAt: 2024-05-22 22:34:06
 ---
 ## B+Tree, root, leaf, level 용어정리
 - B+Tree는InnoDB 인덱스의 구조
@@ -101,4 +101,31 @@ $ innodb_space -f t_btree.ibd -r ./simple_t_btree_describer.rb -d SimpleTBTreeDe
   {:is_insert=>true, :rseg_id=>8, :undo_log=>{:page=>312, :offset=>272}},
  :row=>[{:name=>"s", :type=>"CHAR(10)", :value=>"A", :extern=>nil}]}
 ```
-- 
+- :format
+	- 레코드가 Barracuda 포맷 테이블 내의 compact포맷인것을 의미
+		- 반대로 Antelope 테이블 내의 redundant가 있음
+- :key
+	- 인덱스의 키 필드 배열
+- :row
+	- 키가아닌 필드의 배열
+- :transaction_id and :roll_pointer
+	- 각 레코드에 포함된 MVCC를 위한 내부 필드
+- :header내의 :next
+	- 실제로는 상대저 오프셋(32)가 들어가며, 편의를 위해 계산된 오프셋이 표시됨
+
+### 인덱스 재귀
+- index-recurse모드를 사용하면 전체 인덱스를 재귀하는 멋지고 간단한 출력을 얻을 수 있음
+	- 예시는 단일 페이지 인덱스이므로 매우 짧음
+```zsh
+$ innodb_space -f t_btree.ibd -r ./simple_t_btree_describer.rb -d SimpleTBTreeDescriber -p 3 index-recurse
+ROOT NODE #3: 3 records, 96 bytes
+  RECORD: (i=0) -> (s=A)
+  RECORD: (i=1) -> (s=B)
+  RECORD: (i=2) -> (s=C)
+```
+
+### 간단하지 않은 인덱스 트리 구축
+![center](Pasted%20image%2020240522223300.png)
+- multi level 인덱스는 위와같이 나타남
+- 이전에 설명했듯이, 모든 페이지는 각각 doubly-linked 되어있고, 각 페이지 안의 레코드들은 오름차순으로 singly-linked되어있음
+- Non-lea
