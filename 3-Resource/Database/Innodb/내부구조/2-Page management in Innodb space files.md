@@ -1,10 +1,10 @@
 ---
 date: 2024-05-12 17:45:54
-updatedAt: 2024-05-19 23:40:13
+updatedAt: 2024-05-22 23:06:57
 tags:
   - InnoDB
-  - InnoDB-Architecture
   - hugo_blog
+  - InnoDB-File-Structure
 categories:
   - Database
 ---

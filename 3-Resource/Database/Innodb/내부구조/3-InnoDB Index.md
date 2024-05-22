@@ -1,6 +1,12 @@
 ---
 date: 2024-05-19 22:44:51
-updatedAt: 2024-05-20 22:38:12
+updatedAt: 2024-05-22 23:06:34
+tags:
+  - InnoDB
+  - InnoDB-File-Structure
+  - hugo_blog
+categories:
+  - Database
 ---
 ## Index
 - 물리적인 인덱스 구조를 알기전, InnoDB에서 Index에 대해 중요하게 알아야하는 아래 3가지에 대해 알아야 함

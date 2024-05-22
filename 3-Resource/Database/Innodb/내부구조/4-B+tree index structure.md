@@ -1,6 +1,12 @@
 ---
 date: 2024-05-20 23:10:14
-updatedAt: 2024-05-22 22:43:08
+updatedAt: 2024-05-22 23:06:19
+tags:
+  - InnoDB
+  - hugo_blog
+  - InnoDB-File-Structure
+categories:
+  - Database
 ---
 ## B+Tree, root, leaf, level 용어정리
 - B+Tree는InnoDB 인덱스의 구조

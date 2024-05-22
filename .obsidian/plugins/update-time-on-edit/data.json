@@ -760,13 +760,13 @@
     "2-Area/개발 외의 것들/운전 팁.md": "7026fe7bc4accc8a50e650e8d216d0d219d93bfde6c908aa9e03e977fe858b21",
     "2-Area/개발 외의 것들/영양제.md": "bf2fa76d946bdd6567461ab434e7a1afcd82fc682073c6ecc5bce789dd946e5d",
     "2-Area/개발 외의 것들/명상.md": "c4db008a0cd4298d00a56eb3b55c64ee4479f74a97c8dea7e083e3acb857244a",
-    "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md": "09f95cd23f66d4462f156dc7aa467d03a48a7761d5defd9ef79f120d3361f1a6",
-    "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md": "e87268ceee8ddfcad6b7bdecd6cce94076eb20df269e5f314dbabcd05872da64",
+    "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md": "2d620cbdb4eb2d8f0d602758a54b10d20bbdb3473e3466bee2dc5dbe8b5ec579",
+    "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md": "c25ac49eb5f1252c3cf7324529b2ad620f90ae5f594157f4e59c9e4ce45d5005",
     "3-Resource/Database/Innodb/내부구조/정리.md": "8c6569fb95f0eede498edbcc57fb046bc78291e877382c159069d99bfb8e80f1",
     "5-Temp/Computer Science/Socket file 구조.md": "8e0b92704d111e60cd3f9d5ac10498e55bc8ad8320cc61ec4a5edc635db9b720",
     "5-Temp/Spring/스프링부트 해부학.md": "edd55a985906a083438daae444b81edc92214fc08aacf1d0dc2e816c7f8b89db",
-    "3-Resource/Database/Innodb/내부구조/3-InnoDB Index.md": "857841103ef000db4416981838e8aa35cccbd728b067efd9269e5a809be97c29",
-    "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md": "7b334f6b10b3ed7341dbba9b58d04c1a5bacadc37f48638fbfa38902b86c6137",
+    "3-Resource/Database/Innodb/내부구조/3-InnoDB Index.md": "e4c2800cae7bcfd5da8f85e3937e19e718d658909956f1a18c6c4dec52fe0414",
+    "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md": "f7fdac816d7f7ec41ded5d8ce5b29db8e3909831dfab56bb6372c634009f0218",
     "2-Area/0-Sung-ho/퇴사할때(퇴사할때 아니면 절대열어보지말것).md": "16cac8b1f51167abe8a43662e3e7b7deb4716272c95bb1da0ce6fe3ccc1ef35e",
     "3-Resource/Database/Innodb/내부구조/5-physical structure of records in InnoDB.md": "299c4e74bf9e60f40f075c1af078ca9ecb711915f7281557d1b65471930e6961"
   }
