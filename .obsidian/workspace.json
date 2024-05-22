@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Database/backward index scan.md",
+                "file": "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Database/backward index scan.md",
+                "file": "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Database/backward index scan.md",
+                "file": "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Database/backward index scan.md"
+                "file": "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md"
               }
             }
           }
@@ -194,6 +194,7 @@
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
     "2-Area/0-Sung-ho/퇴사할때(퇴사할때 아니면 절대열어보지말것).md",
+    "5-Temp/Database/backward index scan.md",
     "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
     "real-resource-image/Pasted image 20240520232907.png",
     "real-resource-image/Pasted image 20240520232622.png",
@@ -229,7 +230,6 @@
     "2-Area/0-Sung-ho/어떤 개발자가 될것인가.md",
     "2-Area/개발 외의 것들/명상.md",
     "2-Area/0-Sung-ho/분업.md",
-    "2-Area/0-Sung-ho/인생 팁/어떤걸 살때 할인하는걸 찾고싶다면?.md",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure",
     "3-Resource/Algorithm",
