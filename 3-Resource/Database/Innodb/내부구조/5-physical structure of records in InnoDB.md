@@ -1,6 +1,6 @@
 ---
 date: 2024-05-22 22:43:24
-updatedAt: 2024-05-24 15:20:04
+updatedAt: 2024-05-24 15:40:13
 tags:
   - InnoDB
   - InnoDB-File-Structure
@@ -46,6 +46,14 @@ categories:
 
 - record header는 row당 최소 5 byte이며, 가변길이 필드에 의해 더 길어질 수 있음
 
-
+### Clustered indexes
+![center](Pasted%20image%2020240524153758.png#center)
+- Cluster Key Fields
+	- 클러스 키 필드는 문자 그대로 함께 연결됨
+	- InnoDB는 column유형 별 내부 저장소 형식의 raw byte를 단이 바이트 스트림으로 연결하기만 함
+- Transaction ID
+	- 이 레코드를 마지막으로 수정한 트랜잭션의 48비트 정수 트랜직션 ID
+- Roll Pointer
+	- 
 
 https://blog.jcole.us/2013/01/10/the-physical-structure-of-records-in-innodb/
