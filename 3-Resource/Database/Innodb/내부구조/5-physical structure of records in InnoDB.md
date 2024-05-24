@@ -20,6 +20,32 @@ categories:
 
 ### The record header
 ![center](Pasted%20image%2020240524152545.png#center)
+- Next Record offset
+	- 현재 레코드에서 페이지 내 다음 레코드의 시작점까지의 상대적 오프셋
+- Record Type
+	- 레코드 유형으로 일반(0), 노드 포인터(1), 최소값(2), 최상위(3)의 4가지 값만 지원됨
+- Order
+	- 이 레코드가 힙에 삽입된 순서임
+	- Infimum, supremum을 포함한 힙 레코드는 0번부터 번호가 매겨짐, Infimum은 항상 0, supremum은 항상 1임
+	- 삽입된 사용자 레코드는 2부터 번호가 매겨짐
+- Number of Records Owned
+	- 페이지 디렉토리에서 현재 레코드가 '소유'한 레코드수
+	- 향후 포스트에서 설명할 예정
+- Info Flag
+	- 레코드에 대한 boolean flag를 지정하는 4비트 비트맵
+	- 현재 두개의 플래그만 정의도어 있음
+		- min_rec(1)는 이 레코드가 B+Tree의 non-leaf에서 최소 레코드임을 의미함
+		- deleted(2)는 레코드가 삭제 표시되어 있으며, 향후 purge operation에 의해 실제로 삭제될 것임을 의미함
+- Nullable field bitmap(optional)
+	- 필드가 NULL인지 여부를 저장하기 위한 필드, nullable한 필드당 1비트를 사용하고, byte로 반올림됨
+	- 필드가 NULL인 경우 해당 필드 값은 레코드의 키 또는 행부분에서 제거됨
+	- Null이 필드가 없는 경우 이 비트맵은 존재하지 않음
+- Variable file lengths array(optional)
+	- 가변길이 필드당 8비트 또는 16비트 정수 배열(필드의 최대크기에 따라 다름)로 해당 필드에 대한 데이터 길이를 저장
+	- 가변길이 필드가 없는경우, 이 배열은 없음
+
+- record header는 row당 최소 5 byte이며, 가변길이 필드에 의해 더 길어질 수 있음
+
 
 
 https://blog.jcole.us/2013/01/10/the-physical-structure-of-records-in-innodb/
