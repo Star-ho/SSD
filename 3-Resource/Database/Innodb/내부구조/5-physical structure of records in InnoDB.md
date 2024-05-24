@@ -1,6 +1,6 @@
 ---
 date: 2024-05-22 22:43:24
-updatedAt: 2024-05-24 16:16:58
+updatedAt: 2024-05-24 16:26:56
 tags:
   - InnoDB
   - InnoDB-File-Structure
@@ -66,8 +66,19 @@ categories:
 - 클러스터 키는 NUL이 될 수 없으므로 nullable field bitmap도 없음
 
 ### Secondary indexes
-- InnoDB의 Secondary Index는 clustered key와 전체 구조가 동일하지만, non-key대신 primary key(PKV)라고 하는 clustered key field를 포함함
+- InnoDB의 Secondary Index는 clustered key와 전체 구조가 동일하지만, non-key대신 Primary Key Value(PKV)라고 하는 clustered key field를 포함함
 - Secondary Index와 clustered key사이에 겹치는 필드가 있는 경우, Secondary Index레코드에 저장된 clustered key에서 겹치는 필드가 제거됨
-- 예를들어, 테이블에 기본키
+- 예를들어, 테이블에 primary key(a,b,c)와 secondary Index(a,d)가 있는경우, 인덱스 내의 secondary key는 (a,d)가 되지만, PKV에는 (b,c)만 포함됨
+
+![center](Pasted%20image%2020240524161849.png#center)
+- sendary key fields는 clusterd key와 마찬가지로 단일 바이트 스트림으로 연결됨
+- clustered key 필드는 정확한 동일한 방식으로 함께 연결되어 PKV를 만듬
+
+![center](Pasted%20image%2020240524162016.png#center)
+- Secondary index의 non-leaf page는 PKV가 레코드에 포함되며, 이는 레코드 값이 아닌, 레코드 키의 일부로 간주됨
+- Secondary index는 고유하지 않을 수 있지만, 페이지 내의 각 레코드는 unique 식별자가 필요함
+	- 그러므로 고유성을 보장하기 위해 PKV가 레코드에 포함되어 있어야함
+- 즉, Secondary key의 non-leaf에 있는 레코드는 leaf 페이지의 레코드보다 4바이트 커짐
+
 
 https://blog.jcole.us/2013/01/10/the-physical-structure-of-records-in-innodb/
