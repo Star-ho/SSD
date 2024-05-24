@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/3-InnoDB Index.md",
+                "file": "3-Resource/Database/Innodb/내부구조/정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/3-InnoDB Index.md",
+                "file": "3-Resource/Database/Innodb/내부구조/정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/3-InnoDB Index.md",
+                "file": "3-Resource/Database/Innodb/내부구조/정리.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Innodb/내부구조/3-InnoDB Index.md"
+                "file": "3-Resource/Database/Innodb/내부구조/정리.md"
               }
             }
           }
@@ -204,30 +204,30 @@
   },
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
+    "3-Resource/Database/Innodb/내부구조/7-Mysql 8.0에서는?.md",
+    "3-Resource/Database/Innodb/내부구조/5-physical structure of records in InnoDB.md",
+    "3-Resource/Database/Innodb/내부구조/6-Efficiently traversing InnoDB B+Trees with the page directory.md",
+    "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
+    "3-Resource/Database/Innodb/내부구조/정리.md",
+    "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
+    "3-Resource/Database/Innodb/내부구조/3-InnoDB Index.md",
     "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
-    "3-Resource/Database/Innodb/내부구조/7-Mysql 8.0에서는?.md",
     "real-resource-image/Pasted image 20240524172847.png",
     "real-resource-image/Pasted image 20240524172742.png",
     "real-resource-image/Pasted image 20240524172057.png",
     "real-resource-image/Pasted image 20240524171103.png",
-    "3-Resource/Database/Innodb/내부구조/정리.md",
-    "3-Resource/Database/Innodb/내부구조/6-Efficiently traversing InnoDB B+Trees with the page directory.md",
-    "3-Resource/Database/Innodb/내부구조/5-physical structure of records in InnoDB.md",
     "real-resource-image/Pasted image 20240524162016.png",
     "real-resource-image/Pasted image 20240524161849.png",
     "real-resource-image/Pasted image 20240524160646.png",
     "real-resource-image/Pasted image 20240524153758.png",
     "real-resource-image/Pasted image 20240524152545.png",
-    "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
     "2-Area/Series/Server/5-Apache Tomcat.md",
     "2-Area/Series/Server/4-Jakarta Servlet.md",
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "real-resource-image/Pasted image 20240520232314.png",
-    "3-Resource/Database/Innodb/내부구조/3-InnoDB Index.md",
     "2-Area/0-Sung-ho/퇴사할때(퇴사할때 아니면 절대열어보지말것).md",
     "5-Temp/Database/backward index scan.md",
-    "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "5-Temp/Spring/특히 jackson 라이브러같은건.md",
     "5-Temp/Spring/스프링으로 만드는 프로젝트 예시.md",
     "5-Temp/Spring/스프링부트 해부학.md",
