@@ -1,6 +1,6 @@
 ---
 date: 2024-05-22 22:43:24
-updatedAt: 2024-05-24 16:26:56
+updatedAt: 2024-05-24 16:29:38
 tags:
   - InnoDB
   - InnoDB-File-Structure
@@ -80,5 +80,11 @@ categories:
 	- 그러므로 고유성을 보장하기 위해 PKV가 레코드에 포함되어 있어야함
 - 즉, Secondary key의 non-leaf에 있는 레코드는 leaf 페이지의 레코드보다 4바이트 커짐
 
+### row당 오버헤드
+- 위의 그림을 보면 InnoDB에 필요한 행당 오버헤드를 쉽게 계산할 수 있음
+- clusterd key leaf에는 헤더에 최소 5바이트, 트랜잭션 ID에 6파인트, 롤포인터에 7바이트, row당 총 18바이트가 필요함
+- 매우 작은 테이블(2-3개의 정수컬럼을 가지는 테이블)의 경우 오버헤드가 상당히 높을 수 있음
+
+- 또한 페이지당 오버헤드가 상당하여, 비 효율적으로 페이지를 채우면 많은 야의 공간을 차지할 수 있음
 
 https://blog.jcole.us/2013/01/10/the-physical-structure-of-records-in-innodb/
