@@ -1,6 +1,6 @@
 ---
 date: 2024-05-22 22:43:24
-updatedAt: 2024-05-24 16:06:56
+updatedAt: 2024-05-24 16:16:58
 tags:
   - InnoDB
   - InnoDB-File-Structure
@@ -59,6 +59,15 @@ categories:
 - Non-Key Fields
 	- 기본키가 아닌 실제 행데이터가 단일 바이트 스트림으로 연결되어 있음
 
-![center](Pasted%20image%2020240524160646.png#c)
+![center](Pasted%20image%2020240524160646.png#center)
+- non-leaf 페이지의 레코드 포맷임
+- non-leaf page는 MVCC가 아니기에, Transaction ID와 Roll Pointer filed는 없음
+- non-key field 대신에 이 노드 포인터가 가르키는 하위 페이지 번호가 포함됨
+- 클러스터 키는 NUL이 될 수 없으므로 nullable field bitmap도 없음
+
+### Secondary indexes
+- InnoDB의 Secondary Index는 clustered key와 전체 구조가 동일하지만, non-key대신 primary key(PKV)라고 하는 clustered key field를 포함함
+- Secondary Index와 clustered key사이에 겹치는 필드가 있는 경우, Secondary Index레코드에 저장된 clustered key에서 겹치는 필드가 제거됨
+- 예를들어, 테이블에 기본키
 
 https://blog.jcole.us/2013/01/10/the-physical-structure-of-records-in-innodb/
