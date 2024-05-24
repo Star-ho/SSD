@@ -1,6 +1,6 @@
 ---
 date: 2024-05-24 16:30:40
-updatedAt: 2024-05-24 17:23:24
+updatedAt: 2024-05-24 17:30:02
 tags:
   - InnoDB
   - InnoDB-File-Structure
@@ -35,6 +35,10 @@ categories:
 ## 여전히 page들은 doubly-linked list인가?
 ![](Pasted%20image%2020240524172057.png)
 - 데이터가 들어있는 페이지의 일부이다
-- page들이 prevPage, nextPage를 가지고 있고 INDEX페이지들은 앞 뒤 페이지를 참조하는 다는것을 알 수 있음
+- page들이 prevPage, nextPage를 가지고 있고 INDEX페이지들은 앞 뒤 페이지를 참조하는 것을 알 수 있음
+	- doubly-linked list구조 확인
 
 ## index record들은 singly-linked list구조인가?
+![center](Pasted%20image%2020240524172847.png)
+- 하나의 offset만 존재하며, 현재 primaryKeyPosition값에서 offset을 더하면, 다음 primaryKeyPosition이 되는 것을 알 수 있음
+	- singly-linked list구조 확인

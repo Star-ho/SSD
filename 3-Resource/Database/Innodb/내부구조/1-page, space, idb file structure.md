@@ -1,6 +1,6 @@
 ---
 date: 2024-05-10 22:40:29
-updatedAt: 2024-05-22 23:07:03
+updatedAt: 2024-05-24 17:31:03
 tags:
   - "#InnoDB"
   - hugo_blog
@@ -27,13 +27,12 @@ categories:
 	- page type은 file space management, extent management, the transaction system, the data dictionary, undo logs, blobs, indexes가 할당될 수 있음
 	- 페이지는 앞서 나열한 페이지가 될 수 있다는것을 의미함
 - 페이지가 초기화 될때, page number(Offset)이 할당됨
-	- 해당 필들드에서 읽은 페이지번호가 파일에 오프셋을 기준으로 해야하는 페이지 번호가 일치하는지 확인하여, 읽기가 올바른지 확인함
+	- 해당 필드에서 읽은 페이지번호가 파일에 오프셋을 기준으로 해야하는 페이지 번호가 일치하는지 확인하여, 읽기가 올바른지 확인함
 	- 이 필드가 초기화되면 페이자가 초기화되었다는 것을 의미함
 - 해당 페이지의 유형과 같은 이전 페이지와 다음페이지 포인터가 헤더가 저장되어 있음
 	- 이 필드들로 페이지를 double-linked list 구조가 됨
 	- 인덱스 페이지를 동일한 수순으로 연결하는데 사용되므로 전체 인덱스 스캔을 효율적으로 수행할 수 있음
 	- 대부분의 페이지 유형은 이 필드들을 사용하지 않음
-
 
 ## Space - tablespace
 - 각 테이블당 하나의 space가 존재
