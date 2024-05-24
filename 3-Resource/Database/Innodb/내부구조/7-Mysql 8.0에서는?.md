@@ -1,6 +1,6 @@
 ---
 date: 2024-05-24 16:30:40
-updatedAt: 2024-05-24 17:11:51
+updatedAt: 2024-05-24 17:23:24
 tags:
   - InnoDB
   - InnoDB-File-Structure
@@ -22,8 +22,8 @@ categories:
 
 ## 무엇을 알아볼 것인가?
 - space page구조
-- index page들은 doubly-linked list 구조인지
-- index record들은 singly-linked list구조인지
+- page들은 doubly-linked list 구조인가?
+- index record들은 singly-linked list구조인가?
 
 ## Space page 구조
 ![center](Pasted%20image%2020240524171103.png#center)
@@ -32,4 +32,9 @@ categories:
 	- SDI는 데이터베이스 객체에 대한 메타데이터를 저장하는 용도
 	- 자세한 정보는 [링크](https://dev.mysql.com/doc/refman/8.0/en/serialized-dictionary-information.html)참고
 
-## 여전히 index page들은 doubly-linked list인가?
+## 여전히 page들은 doubly-linked list인가?
+![](Pasted%20image%2020240524172057.png)
+- 데이터가 들어있는 페이지의 일부이다
+- page들이 prevPage, nextPage를 가지고 있고 INDEX페이지들은 앞 뒤 페이지를 참조하는 다는것을 알 수 있음
+
+## index record들은 singly-linked list구조인가?
