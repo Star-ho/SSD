@@ -1,6 +1,6 @@
 ---
 date: 2024-05-22 22:43:24
-updatedAt: 2024-05-24 15:40:13
+updatedAt: 2024-05-24 16:06:56
 tags:
   - InnoDB
   - InnoDB-File-Structure
@@ -54,6 +54,11 @@ categories:
 - Transaction ID
 	- 이 레코드를 마지막으로 수정한 트랜잭션의 48비트 정수 트랜직션 ID
 - Roll Pointer
-	- 
+	- 해당 레코드를 마지막으로 수정한 트랜잭션의 undu record의 rollback segment 위치를 포함하고 있는 구조체
+	- 이 필드의 roll pointer 구조는 1비트의 "삽입중" 플래그, 7비트의 rollback segment ID, 4바이트 페이지 번호, 2바이트의 undo log위치의 페이지 오프셋으로 이루어짐
+- Non-Key Fields
+	- 기본키가 아닌 실제 행데이터가 단일 바이트 스트림으로 연결되어 있음
+
+![center](Pasted%20image%2020240524160646.png#c)
 
 https://blog.jcole.us/2013/01/10/the-physical-structure-of-records-in-innodb/
