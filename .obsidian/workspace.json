@@ -204,6 +204,7 @@
   },
   "active": "c5c2080b453e20d0",
   "lastOpenFiles": [
+    "real-resource-image/Pasted image 20240524171103.png",
     "3-Resource/Database/Innodb/내부구조/정리.md",
     "3-Resource/Database/Innodb/내부구조/7-Mysql 8.0에서는?.md",
     "3-Resource/Database/Innodb/내부구조/6-Efficiently traversing InnoDB B+Trees with the page directory.md",
@@ -240,7 +241,6 @@
     "5-Temp/z-etc/sftp 명령어.md",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
-    "3-Resource/Database/Innodb/adaptive hash index.md",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure",
     "3-Resource/Algorithm",
