@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Executer.execute",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,7 +203,7 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "c5c2080b453e20d0",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
     "3-Resource/Database/Innodb/내부구조/사용했던 명령어들.md",
     "2-Area/Series/Server/Virtual Thread 3.md",
