@@ -1,6 +1,6 @@
 ---
 date: 2024-05-25 16:39:39
-updatedAt: 2024-05-25 19:41:08
+updatedAt: 2024-05-25 19:53:47
 ---
 ## Thread가 block되면 바로 context switching이 발생하는지
 - ㅇㅇ 바로 발생함
@@ -58,3 +58,5 @@ Threading.class에서 virtual쓰레드 사용여부 확인
 EmbeddedWebServerFactoryCustomizerAutoConfiguration.class에서 어떤 WebserverFactory사용할건지 결정
 
 TomcatVirtualThreadsWebServerFactoryCustomizer.class에서 VirtualThreadExecutor설정
+VirtualThreadExecutor는 executor메소드 호출시, Thread.ofVirtual로 쓰레드르 생성하는 Thread Builder를 만들고, 받은 명령어를 실행함 
+
