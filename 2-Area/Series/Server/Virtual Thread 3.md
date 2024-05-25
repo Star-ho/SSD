@@ -1,6 +1,6 @@
 ---
 date: 2024-05-25 16:39:39
-updatedAt: 2024-05-25 17:06:49
+updatedAt: 2024-05-25 17:07:27
 ---
 ## Thread가 block되면 바로 context switching이 발생하는지
 ## Reactor에서 스택이 끊기는 이유
@@ -33,14 +33,13 @@ http-nio prefix는 tomcat에서 붙임
 1. system property에 `jdk.virtualThreadScheduler.parallelism`로 설정된값
 2. Runtime.getRuntime().availableProcessors()로 얻은 프로세서 갯수
 	- jvm옵션으로 실제 프로세서와 다르게 설정가능
-
 ### maxPoolSize
 1. system property에  `jdk.virtualThreadScheduler.maxPoolSize`와 parallelism과 비교해서 작은값
 2. 256과 parallelism과 비교해서 작은값
 
 ### minRunnable
-
 - system property에 `jdk.virtualThreadScheduler.minRunnable`
+- parallelism/2와 1중 큰값
 
 ---
 
