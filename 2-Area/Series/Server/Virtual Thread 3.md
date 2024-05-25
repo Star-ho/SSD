@@ -1,8 +1,9 @@
 ---
 date: 2024-05-25 16:39:39
-updatedAt: 2024-05-25 17:07:27
+updatedAt: 2024-05-25 19:41:08
 ---
 ## Thread가 block되면 바로 context switching이 발생하는지
+- ㅇㅇ 바로 발생함
 ## Reactor에서 스택이 끊기는 이유
 
 
