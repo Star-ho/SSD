@@ -772,6 +772,6 @@
     "3-Resource/Database/Innodb/내부구조/6-Efficiently traversing InnoDB B+Trees with the page directory.md": "1ad2cbe16942e3e2dddfa9609847fd2aa28cad837bedd1829f62c03c5c6a376f",
     "3-Resource/Database/Innodb/내부구조/7-Mysql 8.0에서는?.md": "1f9ae1f777b6ee0ebc22eb8239848c582877fda9b798e141329ba61bea0d3674",
     "3-Resource/Database/Innodb/내부구조/사용했던 명령어들.md": "a54c35bb35bedf6faffdcbc7418e0323dc345100470b4b4cf320c306e95bcec1",
-    "2-Area/Series/Server/Virtual Thread 3.md": "57b90c0ea3ff19422b793ef2a815385e697a0d265df9054d1f3536d3f5b5258c"
+    "2-Area/Series/Server/Virtual Thread 3.md": "f1f3dc179c15b299d7d2943efe40192b24acfbe262a57c9c8809b8d4d284f219"
   }
 }
