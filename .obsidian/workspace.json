@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/발표자료.md",
+                "file": "2-Area/Series/Server/발표자료 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/발표자료.md",
+                "file": "2-Area/Series/Server/발표자료 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/발표자료.md",
+                "file": "2-Area/Series/Server/발표자료 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/발표자료.md"
+                "file": "2-Area/Series/Server/발표자료 2.md"
               }
             }
           }
@@ -192,10 +192,11 @@
   },
   "active": "c0d134a703f451ac",
   "lastOpenFiles": [
+    "2-Area/Series/Server/발표자료.md",
+    "2-Area/Series/Server/발표자료 2.md",
     "2-Area/Series/Server/15 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
     "2-Area/Series/Server/4-Jakarta Servlet.md",
     "2-Area/Series/Server/5-Apache Tomcat.md",
-    "2-Area/Series/Server/발표자료.md",
     "2-Area/Series/Server/16 - Virtual Thread 3.md",
     "3-Resource/Database/Innodb/내부구조/사용했던 명령어들.md",
     "3-Resource/Database/Innodb/내부구조/정리.md",
@@ -228,7 +229,6 @@
     "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md",
     "5-Temp/Computer Science/Socket file 구조.md",
     "3-Resource/JVM/jvm option for Container.md",
-    "3-Resource/JVM/JVM memory structure.md",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure",
     "3-Resource/Algorithm",
