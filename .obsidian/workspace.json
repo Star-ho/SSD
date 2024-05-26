@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2-Area/Series/Server/발표자료.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74717cbba45bb632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2-Area/Series/Server/발표자료 2.md",
                 "mode": "source",
                 "source": false
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,16 +203,17 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "c0d134a703f451ac",
+  "active": "74717cbba45bb632",
   "lastOpenFiles": [
+    "2-Area/Series/Server/발표자료.md",
+    "2-Area/Series/Server/발표자료 2.md",
+    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
     "2-Area/Series/Server/16 - Virtual Thread 3.md",
     "2-Area/Series/Server/15 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
     "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
     "2-Area/Series/Server/11-Reactor Java(2).md",
     "2-Area/Series/Server/10-Reactor Java(1).md",
     "2-Area/Series/Server/9-Reactive Streams.md",
-    "2-Area/Series/Server/발표자료 2.md",
-    "2-Area/Series/Server/발표자료.md",
     "2-Area/Series/Server/4-Jakarta Servlet.md",
     "2-Area/Series/Server/5-Apache Tomcat.md",
     "3-Resource/Database/Innodb/내부구조/사용했던 명령어들.md",
@@ -225,7 +239,6 @@
     "real-resource-image/Pasted image 20240520232314.png",
     "2-Area/0-Sung-ho/퇴사할때(퇴사할때 아니면 절대열어보지말것).md",
     "5-Temp/Database/backward index scan.md",
-    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
     "5-Temp/Spring/스프링으로 만드는 프로젝트 예시.md",
     "5-Temp/Spring/스프링부트 해부학.md",
     "5-Temp/Spring/스프링 쉘.md",
