@@ -628,7 +628,7 @@
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md": "0d0cb8397acf6bc8fbc9fc7515bfb24029d5bee8ec80f0640119424e750a57f4",
     "2-Area/Series/Server/15 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md": "9a7272fba69e4c2a98af1fef0014d8f82773248aa49ccc045f68d1ac36a3d47b",
     "2-Area/Series/Server/14-Virtual Thread 2.md": "fed49826836a764f548014ebc5441c4be3de499a7d72d32a260b9cfd5b0e89e2",
-    "2-Area/Series/Server/13-Virtual Thread 1.md": "52850b7ae74d8fbbd1c3784e7c35142dfcb3f0f43fec166d1b9632bb7a3ddce6",
+    "2-Area/Series/Server/13-Virtual Thread 1.md": "44121233f6529d57fc7a185a44d977e456396afa888e1f3540c9c819fbf4cae9",
     "5-Temp/Database/b tree b+ tree.md": "386db46f6fc2ca449f05a94cf91a6dde579912b08d4c59fdbbb9a72a45b0771b",
     "5-Temp/JVM/java lock관련 정리.md": "0d4bcee67beb0010a6c7954a82dfc2bad6eeb4d14a3aef6d10c8e5819b10c895",
     "5-Temp/테스트/쿼리 테스트시.md": "021cc6f291fde00af0bd2072c7b9ca705b98ca2a4d79f9e100ee9602c381e865",
@@ -773,7 +773,7 @@
     "3-Resource/Database/Innodb/내부구조/7-Mysql 8.0에서는?.md": "1f9ae1f777b6ee0ebc22eb8239848c582877fda9b798e141329ba61bea0d3674",
     "3-Resource/Database/Innodb/내부구조/사용했던 명령어들.md": "a54c35bb35bedf6faffdcbc7418e0323dc345100470b4b4cf320c306e95bcec1",
     "2-Area/Series/Server/16 - Virtual Thread 3.md": "8e7deb5ad5eaa60260aa3d8f5c6dcb362034c22be4deb1c754f11496e4a62c93",
-    "2-Area/Series/Server/발표자료.md": "564cebe4f9da063f5341024ec718fa4002f975d4c43c4ebcfe066f4069e5279a",
-    "2-Area/Series/Server/발표자료 2.md": "6ef1708ea4e7b6b02ae9b26e6954f544ed865094bd62cc2952ccb19de41e752b"
+    "2-Area/Series/Server/발표자료.md": "0fdf83598afdcbbc5c63277d974845e0cf8597ac9b2f9e8ecbbd91dbbc8f4ab2",
+    "2-Area/Series/Server/발표자료 2.md": "689472fee52756da78c6bbe447373d48f2b0f74d01a2d942da41b291dfb2ba43"
   }
 }

@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/발표자료.md",
+                "file": "2-Area/Series/Server/발표자료 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/발표자료.md",
+                "file": "2-Area/Series/Server/발표자료 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/발표자료.md"
+                "file": "2-Area/Series/Server/발표자료 2.md"
               }
             }
           }
@@ -204,12 +203,13 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "74717cbba45bb632",
   "lastOpenFiles": [
     "2-Area/Series/Server/발표자료.md",
-    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
+    "2-Area/Series/Server/13-Virtual Thread 1.md",
     "2-Area/Series/Server/발표자료 2.md",
     "2-Area/Series/Server/16 - Virtual Thread 3.md",
+    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
     "2-Area/Series/Server/15 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
     "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
     "2-Area/Series/Server/11-Reactor Java(2).md",
@@ -242,7 +242,6 @@
     "5-Temp/Database/backward index scan.md",
     "5-Temp/Spring/스프링으로 만드는 프로젝트 예시.md",
     "5-Temp/Spring/스프링부트 해부학.md",
-    "5-Temp/Spring/스프링 쉘.md",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure",
     "3-Resource/Algorithm",
