@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Executer.execute",
+                "query": "syncronized에서는 왜 pinning? reen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/발표자료 2.md",
+                "file": "2-Area/Series/Server/발표자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/발표자료 2.md",
+                "file": "2-Area/Series/Server/발표자료.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/발표자료 2.md"
+                "file": "2-Area/Series/Server/발표자료.md"
               }
             }
           }
@@ -203,7 +204,7 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "74717cbba45bb632",
+  "active": "eb1d575bd97691ba",
   "lastOpenFiles": [
     "2-Area/Series/Server/발표자료.md",
     "5-Temp/Spring/특히 jackson 라이브러같은건.md",
