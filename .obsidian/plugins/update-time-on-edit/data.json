@@ -593,7 +593,6 @@
     "5-Temp/마인드셋/개발자란?/중급 이상의 자료.md": "29f86f93818c8f086c7deb3b0e8d608ecd34520c1fe3b7c66e7b22ed0c27f582",
     "5-Temp/마인드셋/기술내용 외의 글/스트레스.md": "4af0e1472737c7675ccaf66c8d627b2cfb5fc96db2de74c5727b1778091512b5",
     "5-Temp/JVM/String pool.md": "d151e09762f7261f68317a00774bb8e71ba6f55254324390a7922ee8aa251204",
-    "5-Temp/JVM/버츄얼쓰레드.md": "0f3666455a813c9fea0def448f058676acab51b2fda720f2bfdcdc139af02f25",
     "5-Temp/Spring/JPA에서 말하는 엔티티란?.md": "37f0b02d38a4afa182dfcf8908e4b32406845f4136fea4b6cfff1a77bf5b8bb6",
     "5-Temp/Computer Science/sequential file io vs memory performance.md": "944fcc59f6b349ccddd8f8f1d2022f7bccf4b8cda121d56845cdab70a2ff8521",
     "5-Temp/Database/Postgresql random vs sequential io performance.md": "a63287d1be2d9f5330a3c8743fef1eaeda4cf0691313615c77a2a1c1a7f32c8e",
@@ -795,6 +794,10 @@
     "3-Resource/Tool/siege 부하테스트툴.md": "175970e3ac9c5afa01a32cb0ea4b0ad45d45d9e7cef7137635b4b2357b52c312",
     "5-Temp/Spring/dataJpaTest.md": "788c05d1110e6c99b0aa124bf6ce060c6ea61daa2b51015991c53eaea84cba27",
     "5-Temp/Team!/오버 엔지니어링이란?.md": "e1c4e2fbaf8fcbc5a63b72ab9321352f292f2be01bca089cedf1a6d54361657a",
-    "5-Temp/Team!/문제 해결 이란.md": "eef0ecd7e4021c29264421bcb27bf836d90d37bede5f077159e31cc17d293a54"
+    "5-Temp/Team!/문제 해결 이란.md": "eef0ecd7e4021c29264421bcb27bf836d90d37bede5f077159e31cc17d293a54",
+    "5-Temp/InfraStructure/Zookeeper, Central Dogma.md": "cc6550c4bbe00f3459921823e4d27c1f109d11509d92a52ab767c217e2374855",
+    "5-Temp/InfraStructure/Service mesh vs service discovery.md": "462b2cc8a8b26bcaf328db3f475b4465ced73e8d9ebc0fd3d62792c23cad1dcd",
+    "5-Temp/Concept/데이터 정합성을 보장하는 방법.md": "8cfe84dd2d83d24e86167e7cd4794f6339c42bd019556f1b589ec0e4a9811fe1",
+    "5-Temp/Softeware Architecture/변경에 유연한 구조.md": "e91d6f0e1da105881f3bb97bc010cb1b3eb6c65ffbf0e31c431d0f2d7d114f84"
   }
 }
