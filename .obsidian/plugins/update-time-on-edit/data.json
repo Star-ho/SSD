@@ -799,6 +799,7 @@
     "5-Temp/InfraStructure/Service mesh vs service discovery.md": "462b2cc8a8b26bcaf328db3f475b4465ced73e8d9ebc0fd3d62792c23cad1dcd",
     "5-Temp/Concept/데이터 정합성을 보장하는 방법.md": "8cfe84dd2d83d24e86167e7cd4794f6339c42bd019556f1b589ec0e4a9811fe1",
     "5-Temp/Softeware Architecture/변경에 유연한 구조.md": "e91d6f0e1da105881f3bb97bc010cb1b3eb6c65ffbf0e31c431d0f2d7d114f84",
-    "5-Temp/Database/No Sql은 언제 쓰는게 적합할까?.md": "6d4a8dcd481203fd7914136352855c25b3bad43fa5eb506d95c7ebcfc4e45f92"
+    "5-Temp/Database/No Sql은 언제 쓰는게 적합할까?.md": "6d4a8dcd481203fd7914136352855c25b3bad43fa5eb506d95c7ebcfc4e45f92",
+    "5-Temp/InfraStructure/카프카는 왜 빠를까?.md": "548ea81b40cd3f682bef98e736215102be38b664e75f31710e6f379452c9a1a5"
   }
 }
