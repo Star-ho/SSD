@@ -778,6 +778,10 @@
     "5-Temp/z-etc/켄트 벡의 Tidy First.md": "572a9832802cdcbce61deeda6fcea220431acc8b7ddcc1dac0c5f4dd9c5fe8d9",
     "5-Temp/Spring/JPA 쿼리 변환 순서.md": "a2284f48f0f67ed8b43feaf3630732b201d79670db9d580c856dea1ac5fc1f83",
     "5-Temp/Spring/TransactionalEventListener 사용하실때 exception.md": "81055a275ceb1e498acd44095dd557a7c7c1e03ae8e4210280502ba1413b05d9",
-    "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md": "f85d411d80687c6249c319d8e8818fab0ce62e0ce387ec33e52a2928572b0dad"
+    "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md": "f85d411d80687c6249c319d8e8818fab0ce62e0ce387ec33e52a2928572b0dad",
+    "5-Temp/Database/Lock.md": "9ce99b2ab8d0645ff0498a23c007231f4e7202eb27f5029b6572f3dd4f178b1d",
+    "5-Temp/Softeware Architecture/스프링 부트에는 embedded web server가 있는데 굳이 ngnix같은 웹 서버를 따로 둘 필요가 있을까요?.md": "6c6866d4e10c09e764eb4577b4b1153046338e360b41c5832a9cbe8803e047f3",
+    "5-Temp/Softeware Architecture/혹시 멀티 모듈구조에서 api 모듈에 controller,service,repository 가 같이 있는 경우가 있나요?.md": "d605da51cbe436c551266bd1cae608327b6abab09cd1f74c1c64d1fead13786c",
+    "5-Temp/Softeware Architecture/보통 로그저장할때 어떻게 관리하시나요.md": "0649ba3c4625aafaa60df9db19fafe8c7210be2f6416de3d09363a43313319b4"
   }
 }

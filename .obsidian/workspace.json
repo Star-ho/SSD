@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md",
+                "file": "5-Temp/Softeware Architecture/보통 로그저장할때 어떻게 관리하시나요.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md",
+                "file": "5-Temp/Softeware Architecture/보통 로그저장할때 어떻게 관리하시나요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md",
+                "file": "5-Temp/Softeware Architecture/보통 로그저장할때 어떻게 관리하시나요.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md"
+                "file": "5-Temp/Softeware Architecture/보통 로그저장할때 어떻게 관리하시나요.md"
               }
             }
           }
@@ -205,8 +205,12 @@
   },
   "active": "74717cbba45bb632",
   "lastOpenFiles": [
-    "5-Temp/Spring/TransactionalEventListener 사용하실때 exception.md",
+    "5-Temp/Softeware Architecture/혹시 멀티 모듈구조에서 api 모듈에 controller,service,repository 가 같이 있는 경우가 있나요?.md",
+    "5-Temp/Softeware Architecture/보통 로그저장할때 어떻게 관리하시나요.md",
+    "5-Temp/Softeware Architecture/스프링 부트에는 embedded web server가 있는데 굳이 ngnix같은 웹 서버를 따로 둘 필요가 있을까요?.md",
+    "5-Temp/Database/Lock.md",
     "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md",
+    "5-Temp/Spring/TransactionalEventListener 사용하실때 exception.md",
     "5-Temp/Spring/JPA 쿼리 변환 순서.md",
     "5-Temp/z-etc/켄트 벡의 Tidy First.md",
     "2-Area/Series/Server/발표자료 2.md",
@@ -228,9 +232,6 @@
     "3-Resource/Database/Innodb/내부구조/6-Efficiently traversing InnoDB B+Trees with the page directory.md",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
-    "3-Resource/Database/Innodb/내부구조/3-InnoDB Index.md",
-    "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
-    "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
     "real-resource-image/Pasted image 20240524172847.png",
     "real-resource-image/Pasted image 20240524172742.png",
     "real-resource-image/Pasted image 20240524172057.png",
@@ -240,7 +241,6 @@
     "real-resource-image/Pasted image 20240524160646.png",
     "real-resource-image/Pasted image 20240524153758.png",
     "real-resource-image/Pasted image 20240524152545.png",
-    "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "real-resource-image/Pasted image 20240520232314.png",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure",
