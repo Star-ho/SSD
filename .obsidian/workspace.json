@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/발표자료 2.md",
+                "file": "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/발표자료 2.md",
+                "file": "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/발표자료 2.md",
+                "file": "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/발표자료 2.md"
+                "file": "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md"
               }
             }
           }
@@ -205,9 +205,13 @@
   },
   "active": "74717cbba45bb632",
   "lastOpenFiles": [
+    "5-Temp/Spring/TransactionalEventListener 사용하실때 exception.md",
+    "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md",
+    "5-Temp/Spring/JPA 쿼리 변환 순서.md",
+    "5-Temp/z-etc/켄트 벡의 Tidy First.md",
+    "2-Area/Series/Server/발표자료 2.md",
     "2-Area/Series/Server/발표자료.md",
     "2-Area/Series/Server/13-Virtual Thread 1.md",
-    "2-Area/Series/Server/발표자료 2.md",
     "2-Area/Series/Server/16 - Virtual Thread 3.md",
     "5-Temp/Spring/특히 jackson 라이브러같은건.md",
     "2-Area/Series/Server/15 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
@@ -238,10 +242,6 @@
     "real-resource-image/Pasted image 20240524152545.png",
     "2-Area/Series/Server/6-spring mvc request 처리 과정.md",
     "real-resource-image/Pasted image 20240520232314.png",
-    "2-Area/0-Sung-ho/퇴사할때(퇴사할때 아니면 절대열어보지말것).md",
-    "5-Temp/Database/backward index scan.md",
-    "5-Temp/Spring/스프링으로 만드는 프로젝트 예시.md",
-    "5-Temp/Spring/스프링부트 해부학.md",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure",
     "3-Resource/Algorithm",
