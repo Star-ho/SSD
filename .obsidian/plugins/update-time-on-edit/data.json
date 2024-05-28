@@ -793,13 +793,16 @@
     "5-Temp/Spring/ApplicationContextAware.md": "69d8db16a272e5a6f95c56a8f372096ba225c760e87eb2872c436d72bc4932d7",
     "3-Resource/Tool/siege 부하테스트툴.md": "175970e3ac9c5afa01a32cb0ea4b0ad45d45d9e7cef7137635b4b2357b52c312",
     "5-Temp/Spring/dataJpaTest.md": "788c05d1110e6c99b0aa124bf6ce060c6ea61daa2b51015991c53eaea84cba27",
-    "5-Temp/Team!/오버 엔지니어링이란?.md": "e1c4e2fbaf8fcbc5a63b72ab9321352f292f2be01bca089cedf1a6d54361657a",
-    "5-Temp/Team!/문제 해결 이란.md": "eef0ecd7e4021c29264421bcb27bf836d90d37bede5f077159e31cc17d293a54",
     "5-Temp/InfraStructure/Zookeeper, Central Dogma.md": "cc6550c4bbe00f3459921823e4d27c1f109d11509d92a52ab767c217e2374855",
     "5-Temp/InfraStructure/Service mesh vs service discovery.md": "462b2cc8a8b26bcaf328db3f475b4465ced73e8d9ebc0fd3d62792c23cad1dcd",
     "5-Temp/Concept/데이터 정합성을 보장하는 방법.md": "8cfe84dd2d83d24e86167e7cd4794f6339c42bd019556f1b589ec0e4a9811fe1",
     "5-Temp/Softeware Architecture/변경에 유연한 구조.md": "e91d6f0e1da105881f3bb97bc010cb1b3eb6c65ffbf0e31c431d0f2d7d114f84",
     "5-Temp/Database/No Sql은 언제 쓰는게 적합할까?.md": "6d4a8dcd481203fd7914136352855c25b3bad43fa5eb506d95c7ebcfc4e45f92",
-    "5-Temp/InfraStructure/카프카는 왜 빠를까?.md": "548ea81b40cd3f682bef98e736215102be38b664e75f31710e6f379452c9a1a5"
+    "5-Temp/InfraStructure/카프카는 왜 빠를까?.md": "548ea81b40cd3f682bef98e736215102be38b664e75f31710e6f379452c9a1a5",
+    "5-Temp/Team culture/오버 엔지니어링이란?.md": "e1c4e2fbaf8fcbc5a63b72ab9321352f292f2be01bca089cedf1a6d54361657a",
+    "5-Temp/Team culture/문제 해결 이란.md": "eef0ecd7e4021c29264421bcb27bf836d90d37bede5f077159e31cc17d293a54",
+    "5-Temp/Team culture/스포티파이 스쿼드 모델.md": "5ce136bd3bf0a7c446145fd2ce93d49c0912c4149655b243427091bc39e5e9f7",
+    "5-Temp/Team culture/협업에서 제일 중요한거.md": "edc167a9e4af964457d92c1ea47287d13bf49a0cc1e31c4519a921f014a7b5c9",
+    "5-Temp/Concept/인증, 인가.md": "b12f0e705003d23862d47be0f642058a9dd89a85b0e869f12bda4893df80729e"
   }
 }

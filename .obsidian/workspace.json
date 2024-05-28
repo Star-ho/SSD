@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/카프카는 왜 빠를까?.md",
+                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "syncronized에서는 왜 pinning? reen",
+                "query": "elastic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/카프카는 왜 빠를까?.md",
+                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/카프카는 왜 빠를까?.md",
+                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/카프카는 왜 빠를까?.md"
+                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md"
               }
             }
           }
@@ -205,19 +206,24 @@
   },
   "active": "74717cbba45bb632",
   "lastOpenFiles": [
-    "5-Temp/Database/No Sql은 언제 쓰는게 적합할까?.md",
+    "5-Temp/Concept/인증, 인가.md",
+    "5-Temp/Team culture/협업에서 제일 중요한거.md",
+    "5-Temp/z-etc/boundedElastic.md",
+    "5-Temp/Team culture/스포티파이 스쿼드 모델.md",
+    "5-Temp/z-etc/Untitled.md",
     "5-Temp/InfraStructure/카프카는 왜 빠를까?.md",
+    "5-Temp/Database/No Sql은 언제 쓰는게 적합할까?.md",
     "5-Temp/Softeware Architecture/변경에 유연한 구조.md",
     "5-Temp/JVM/리스폰스 딜리게이터 델리게이터패턴.md",
     "5-Temp/JVM/버츄얼쓰레드.md",
     "5-Temp/Concept/데이터 정합성을 보장하는 방법.md",
     "5-Temp/InfraStructure/Service mesh vs service discovery.md",
     "5-Temp/InfraStructure/Zookeeper, Central Dogma.md",
-    "5-Temp/Team!/문제 해결 이란.md",
-    "5-Temp/Team!/오버 엔지니어링이란?.md",
-    "5-Temp/Team!/API Design First.md",
+    "5-Temp/Team culture/문제 해결 이란.md",
+    "5-Temp/Team culture/오버 엔지니어링이란?.md",
+    "5-Temp/Team culture/API Design First.md",
     "5-Temp/자바, 스프링 버전업.md",
-    "5-Temp/Team!",
+    "5-Temp/Team culture",
     "5-Temp/Spring/dataJpaTest.md",
     "5-Temp/Untitled.md",
     "5-Temp/blind 자바 버전업, nosql은 언제쓰면 좋을까 정리하기.md",
@@ -227,11 +233,6 @@
     "5-Temp/Computer Science/Network/서버에서 클라이언트 요청을 어떻게 처리할까?.md",
     "5-Temp/JVM/exception runtimeException Throwable.md",
     "5-Temp/Spring/oncePerRequestFilter, filter 두번 적용되는거 재현해보기.md",
-    "5-Temp/Computer Science/Bool 형 자료형.md",
-    "5-Temp/Database/test용 쿼리.md",
-    "5-Temp/TIP/macos 젠킨스 설정파일 위치포트변경.md",
-    "5-Temp/z-etc/빌드가 너무 느릴때.md",
-    "5-Temp/Computer Science/프로세스와 스레드의 차이.md",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
     "real-resource-image/Pasted image 20240524172742.png",
