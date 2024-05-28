@@ -782,6 +782,11 @@
     "5-Temp/Database/Lock.md": "9ce99b2ab8d0645ff0498a23c007231f4e7202eb27f5029b6572f3dd4f178b1d",
     "5-Temp/Softeware Architecture/스프링 부트에는 embedded web server가 있는데 굳이 ngnix같은 웹 서버를 따로 둘 필요가 있을까요?.md": "6c6866d4e10c09e764eb4577b4b1153046338e360b41c5832a9cbe8803e047f3",
     "5-Temp/Softeware Architecture/혹시 멀티 모듈구조에서 api 모듈에 controller,service,repository 가 같이 있는 경우가 있나요?.md": "d605da51cbe436c551266bd1cae608327b6abab09cd1f74c1c64d1fead13786c",
-    "5-Temp/Softeware Architecture/보통 로그저장할때 어떻게 관리하시나요.md": "0649ba3c4625aafaa60df9db19fafe8c7210be2f6416de3d09363a43313319b4"
+    "5-Temp/Softeware Architecture/보통 로그저장할때 어떻게 관리하시나요.md": "0649ba3c4625aafaa60df9db19fafe8c7210be2f6416de3d09363a43313319b4",
+    "5-Temp/테스트/테스트 고전파 레포지토리 작성 팁.md": "bc538cb03459c6f58fe916562a454a5dcd64119101683cfeca5c690ed98e98aa",
+    "5-Temp/Database/오로라 엔진.md": "9b60fdd44a90116907e9555cc01b9abd64d6d95af420d96432a3a208451e56d0",
+    "5-Temp/Concept/defensive copy.md": "4638512597b04e35e1fd57887be95f894dee459ef3fdb2c6531701b6d834f997",
+    "5-Temp/z-etc/빌드가 너무 느릴때.md": "b25f56335f3b7299ae6ffe02a42884f22706b5c4a6c6e08886c9894055c3b14b",
+    "5-Temp/TIP/macos 젠킨스 설정파일 위치포트변경.md": "53a9703ca87adff1da87e917aeecf8842e789833efe424f47fa63e2420fd6545"
   }
 }
