@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Spring/oncePerRequestFilter,filter 두번 적용되는거 재현해보기.md",
+                "file": "5-Temp/Team!/문제 해결 이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Spring/oncePerRequestFilter,filter 두번 적용되는거 재현해보기.md",
+                "file": "5-Temp/Team!/문제 해결 이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Spring/oncePerRequestFilter,filter 두번 적용되는거 재현해보기.md",
+                "file": "5-Temp/Team!/문제 해결 이란.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Spring/oncePerRequestFilter,filter 두번 적용되는거 재현해보기.md"
+                "file": "5-Temp/Team!/문제 해결 이란.md"
               }
             }
           }
@@ -205,8 +205,21 @@
   },
   "active": "74717cbba45bb632",
   "lastOpenFiles": [
+    "5-Temp/Team!/오버 엔지니어링이란?.md",
+    "5-Temp/Team!/문제 해결 이란.md",
+    "5-Temp/Team!/API Design First.md",
+    "5-Temp/자바, 스프링 버전업.md",
+    "5-Temp/Team!",
+    "5-Temp/Spring/dataJpaTest.md",
+    "5-Temp/Untitled.md",
+    "5-Temp/blind 자바 버전업, nosql은 언제쓰면 좋을까 정리하기.md",
+    "3-Resource/Tool/siege 부하테스트툴.md",
+    "3-Resource/kafka.md",
+    "5-Temp/Spring/ApplicationContextAware.md",
+    "5-Temp/Computer Science/Network/서버에서 클라이언트 요청을 어떻게 처리할까?.md",
+    "5-Temp/JVM/exception runtimeException Throwable.md",
+    "5-Temp/Spring/oncePerRequestFilter, filter 두번 적용되는거 재현해보기.md",
     "5-Temp/Computer Science/Bool 형 자료형.md",
-    "5-Temp/Spring/oncePerRequestFilter,filter 두번 적용되는거 재현해보기.md",
     "5-Temp/Database/test용 쿼리.md",
     "5-Temp/TIP/macos 젠킨스 설정파일 위치포트변경.md",
     "5-Temp/z-etc/빌드가 너무 느릴때.md",
@@ -219,18 +232,6 @@
     "5-Temp/Softeware Architecture/스프링 부트에는 embedded web server가 있는데 굳이 ngnix같은 웹 서버를 따로 둘 필요가 있을까요?.md",
     "5-Temp/Database/Lock.md",
     "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md",
-    "5-Temp/Spring/TransactionalEventListener 사용하실때 exception.md",
-    "5-Temp/Spring/JPA 쿼리 변환 순서.md",
-    "5-Temp/z-etc/켄트 벡의 Tidy First.md",
-    "2-Area/Series/Server/발표자료 2.md",
-    "2-Area/Series/Server/발표자료.md",
-    "2-Area/Series/Server/13-Virtual Thread 1.md",
-    "2-Area/Series/Server/16 - Virtual Thread 3.md",
-    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
-    "2-Area/Series/Server/15 - 가상스레드 vs 리액티브 스트림즈 vs 코루틴.md",
-    "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
-    "2-Area/Series/Server/11-Reactor Java(2).md",
-    "2-Area/Series/Server/10-Reactor Java(1).md",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
     "real-resource-image/Pasted image 20240524172742.png",
@@ -250,7 +251,6 @@
     "5-Temp/TIP/Untitled",
     "3-Resource/Database/Mysql Explain Plan",
     "3-Resource/Database/Mysql Engine",
-    "3-Resource/Testing",
     "Untitled.canvas"
   ]
 }
