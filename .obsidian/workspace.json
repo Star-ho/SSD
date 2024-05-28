@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
+                "file": "5-Temp/Concept/인증, 인가.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/z-etc/대용량 트래픽 상황 답찾기.md",
+                "file": "5-Temp/Concept/인증, 인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/z-etc/대용량 트래픽 상황 답찾기.md",
+                "file": "5-Temp/Concept/인증, 인가.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/z-etc/대용량 트래픽 상황 답찾기.md"
+                "file": "5-Temp/Concept/인증, 인가.md"
               }
             }
           }
@@ -202,10 +203,16 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "c0d134a703f451ac",
+  "active": "74717cbba45bb632",
   "lastOpenFiles": [
-    "5-Temp/0122-12-29.md",
+    "5-Temp/InfraStructure/elastic-search/elasticsearch shard, replica.md",
+    "5-Temp/InfraStructure/elastic-search/elasticsearch index template.md",
+    "5-Temp/InfraStructure/elastic-search/elastic search master node vs data node.md",
+    "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
+    "5-Temp/InfraStructure/elastic-search/Elastic Search Document.md",
+    "5-Temp/InfraStructure/elastic-search/Elastic search.md",
     "5-Temp/z-etc/대용량 트래픽 상황 답찾기.md",
+    "5-Temp/0122-12-29.md",
     "5-Temp/z-etc/문제2.md",
     "5-Temp/z-etc/모니터링 툴.md",
     "5-Temp/z-etc/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
@@ -214,15 +221,9 @@
     "5-Temp/InfraStructure/codebuild queued, provisioning.md",
     "5-Temp/InfraStructure/역정규화.md",
     "2-Area/Series/Server/발표자료.md",
-    "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
-    "5-Temp/InfraStructure/elastic-search/Elastic Search Document.md",
-    "5-Temp/InfraStructure/elastic-search/Elastic search.md",
     "5-Temp/InfraStructure/elastic-search/es rollover.md",
     "5-Temp/InfraStructure/elastic-search/es green yellow red.md",
-    "5-Temp/InfraStructure/elastic-search/elasticsearch shard, replica.md",
     "5-Temp/InfraStructure/elastic-search/elasticsearch rollover.md",
-    "5-Temp/InfraStructure/elastic-search/elasticsearch index template.md",
-    "5-Temp/InfraStructure/elastic-search/elastic search master node vs data node.md",
     "3-Resource/Infrastructure/Elastic Search 노드.md",
     "2-Area/Series/Server/1-Applet.md",
     "5-Temp/Concept/인증, 인가.md",
