@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/발표자료.md",
+                "file": "5-Temp/z-etc/대용량 트래픽 상황 답찾기.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elastic",
+                "query": "shard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
+                "file": "5-Temp/z-etc/대용량 트래픽 상황 답찾기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
+                "file": "5-Temp/z-etc/대용량 트래픽 상황 답찾기.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md"
+                "file": "5-Temp/z-etc/대용량 트래픽 상황 답찾기.md"
               }
             }
           }
@@ -204,35 +202,35 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "74717cbba45bb632",
+  "active": "c0d134a703f451ac",
   "lastOpenFiles": [
+    "5-Temp/0122-12-29.md",
+    "5-Temp/z-etc/대용량 트래픽 상황 답찾기.md",
+    "5-Temp/z-etc/문제2.md",
+    "5-Temp/z-etc/모니터링 툴.md",
+    "5-Temp/z-etc/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
+    "5-Temp/z-etc/따닥 방지.md",
+    "5-Temp/monitering, observility/cloudwatch vs grafana, prometheus.md",
+    "5-Temp/InfraStructure/codebuild queued, provisioning.md",
+    "5-Temp/InfraStructure/역정규화.md",
+    "2-Area/Series/Server/발표자료.md",
+    "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
+    "5-Temp/InfraStructure/elastic-search/Elastic Search Document.md",
+    "5-Temp/InfraStructure/elastic-search/Elastic search.md",
+    "5-Temp/InfraStructure/elastic-search/es rollover.md",
+    "5-Temp/InfraStructure/elastic-search/es green yellow red.md",
+    "5-Temp/InfraStructure/elastic-search/elasticsearch shard, replica.md",
+    "5-Temp/InfraStructure/elastic-search/elasticsearch rollover.md",
+    "5-Temp/InfraStructure/elastic-search/elasticsearch index template.md",
+    "5-Temp/InfraStructure/elastic-search/elastic search master node vs data node.md",
+    "3-Resource/Infrastructure/Elastic Search 노드.md",
+    "2-Area/Series/Server/1-Applet.md",
     "5-Temp/Concept/인증, 인가.md",
     "5-Temp/Team culture/협업에서 제일 중요한거.md",
     "5-Temp/z-etc/boundedElastic.md",
     "5-Temp/Team culture/스포티파이 스쿼드 모델.md",
     "5-Temp/z-etc/Untitled.md",
-    "5-Temp/InfraStructure/카프카는 왜 빠를까?.md",
-    "5-Temp/Database/No Sql은 언제 쓰는게 적합할까?.md",
-    "5-Temp/Softeware Architecture/변경에 유연한 구조.md",
-    "5-Temp/JVM/리스폰스 딜리게이터 델리게이터패턴.md",
-    "5-Temp/JVM/버츄얼쓰레드.md",
-    "5-Temp/Concept/데이터 정합성을 보장하는 방법.md",
-    "5-Temp/InfraStructure/Service mesh vs service discovery.md",
-    "5-Temp/InfraStructure/Zookeeper, Central Dogma.md",
-    "5-Temp/Team culture/문제 해결 이란.md",
-    "5-Temp/Team culture/오버 엔지니어링이란?.md",
-    "5-Temp/Team culture/API Design First.md",
-    "5-Temp/자바, 스프링 버전업.md",
     "5-Temp/Team culture",
-    "5-Temp/Spring/dataJpaTest.md",
-    "5-Temp/Untitled.md",
-    "5-Temp/blind 자바 버전업, nosql은 언제쓰면 좋을까 정리하기.md",
-    "3-Resource/Tool/siege 부하테스트툴.md",
-    "3-Resource/kafka.md",
-    "5-Temp/Spring/ApplicationContextAware.md",
-    "5-Temp/Computer Science/Network/서버에서 클라이언트 요청을 어떻게 처리할까?.md",
-    "5-Temp/JVM/exception runtimeException Throwable.md",
-    "5-Temp/Spring/oncePerRequestFilter, filter 두번 적용되는거 재현해보기.md",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
     "real-resource-image/Pasted image 20240524172742.png",

@@ -1,16 +1,16 @@
 ---
 date: 2023-10-05T23:32:36
-updatedAt: 2024-04-21 18:34:36+2070
+updatedAt: 2024-05-28 23:27:39
 tags: 
 ---
-node 
+## node 
 - elastic search 인스턴스
 
-index 
+## index 
 - 데이터가 저장되는 공간
 - 하나의 인덱스가 여러 shard를 가질 수 있음
 
-shard 
+## shard 
 - 인덱스의 모든 데이터중 일부만 보관
 	- shard에 모든 데이터가 들어가지만, 하나의 shard에 다 들어가는게 아닌, 여러 shard에 나누어져 들어감
 - 개수를 수정하려면 reindex해야함
