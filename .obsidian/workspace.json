@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Concept/인증, 인가.md",
+                "file": "3-Resource/Concept/인증, 인가.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Concept/인증, 인가.md",
+                "file": "3-Resource/Concept/인증, 인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Concept/인증, 인가.md",
+                "file": "3-Resource/Concept/인증, 인가.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Concept/인증, 인가.md"
+                "file": "3-Resource/Concept/인증, 인가.md"
               }
             }
           }
@@ -203,7 +203,7 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "74717cbba45bb632",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
     "5-Temp/InfraStructure/elastic-search/elasticsearch shard, replica.md",
     "5-Temp/InfraStructure/elastic-search/elasticsearch index template.md",
@@ -226,7 +226,7 @@
     "5-Temp/InfraStructure/elastic-search/elasticsearch rollover.md",
     "3-Resource/Infrastructure/Elastic Search 노드.md",
     "2-Area/Series/Server/1-Applet.md",
-    "5-Temp/Concept/인증, 인가.md",
+    "3-Resource/Concept/인증, 인가.md",
     "5-Temp/Team culture/협업에서 제일 중요한거.md",
     "5-Temp/z-etc/boundedElastic.md",
     "5-Temp/Team culture/스포티파이 스쿼드 모델.md",
