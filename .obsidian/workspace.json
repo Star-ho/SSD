@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Concept/인증, 인가.md",
+                "file": "5-Temp/0-이직자료/Google Enginner 분들의 링크드인 이력서 참고해 보시면 좋아요.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shard",
+                "query": "이력서",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Concept/인증, 인가.md",
+                "file": "5-Temp/0-이직자료/Google Enginner 분들의 링크드인 이력서 참고해 보시면 좋아요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Concept/인증, 인가.md",
+                "file": "5-Temp/0-이직자료/Google Enginner 분들의 링크드인 이력서 참고해 보시면 좋아요.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Concept/인증, 인가.md"
+                "file": "5-Temp/0-이직자료/Google Enginner 분들의 링크드인 이력서 참고해 보시면 좋아요.md"
               }
             }
           }
@@ -203,8 +203,18 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "74717cbba45bb632",
   "lastOpenFiles": [
+    "5-Temp/0-이직자료/f-lab 이력서 모음.md",
+    "5-Temp/0-이직자료/etc....md",
+    "5-Temp/0-이직자료/지원동기 작성시 팁.md",
+    "5-Temp/0-이직자료/이직시 업무단위가 어떻게 나눠지는지 pr확인하자.md",
+    "5-Temp/0-이직자료/이직 연봉 협상때.md",
+    "5-Temp/0-이직자료/Google Enginner 분들의 링크드인 이력서 참고해 보시면 좋아요.md",
+    "5-Temp/0-이직자료/웹플럭스 사용이유.md",
+    "5-Temp/0-이직자료/기술적으로 어려웠던 경험.md",
+    "5-Temp/0-이직자료/글로벌 빅태크 면접경험.md",
+    "3-Resource/Concept/인증, 인가.md",
     "5-Temp/InfraStructure/elastic-search/elasticsearch shard, replica.md",
     "5-Temp/InfraStructure/elastic-search/elasticsearch index template.md",
     "5-Temp/InfraStructure/elastic-search/elastic search master node vs data node.md",
@@ -221,16 +231,6 @@
     "5-Temp/InfraStructure/codebuild queued, provisioning.md",
     "5-Temp/InfraStructure/역정규화.md",
     "2-Area/Series/Server/발표자료.md",
-    "5-Temp/InfraStructure/elastic-search/es rollover.md",
-    "5-Temp/InfraStructure/elastic-search/es green yellow red.md",
-    "5-Temp/InfraStructure/elastic-search/elasticsearch rollover.md",
-    "3-Resource/Infrastructure/Elastic Search 노드.md",
-    "2-Area/Series/Server/1-Applet.md",
-    "3-Resource/Concept/인증, 인가.md",
-    "5-Temp/Team culture/협업에서 제일 중요한거.md",
-    "5-Temp/z-etc/boundedElastic.md",
-    "5-Temp/Team culture/스포티파이 스쿼드 모델.md",
-    "5-Temp/z-etc/Untitled.md",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
