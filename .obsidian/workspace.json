@@ -11,8 +11,12 @@
             "id": "27b42eab2817c8d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2-Area/Series/Server/16 - Virtual Thread 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "이력서",
+                "query": "NioEndpoint",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/0-이직자료/Google Enginner 분들의 링크드인 이력서 참고해 보시면 좋아요.md",
+                "file": "2-Area/Series/Server/16 - Virtual Thread 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/0-이직자료/Google Enginner 분들의 링크드인 이력서 참고해 보시면 좋아요.md",
+                "file": "2-Area/Series/Server/16 - Virtual Thread 3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/0-이직자료/Google Enginner 분들의 링크드인 이력서 참고해 보시면 좋아요.md"
+                "file": "2-Area/Series/Server/16 - Virtual Thread 3.md"
               }
             }
           }
@@ -174,14 +179,14 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "27b42eab2817c8d6",
   "lastOpenFiles": [
+    "5-Temp/0-이직자료/Google Enginner 분들의 링크드인 이력서 참고해 보시면 좋아요.md",
     "5-Temp/0-이직자료/f-lab 이력서 모음.md",
     "5-Temp/0-이직자료/etc....md",
     "5-Temp/0-이직자료/지원동기 작성시 팁.md",
     "5-Temp/0-이직자료/이직시 업무단위가 어떻게 나눠지는지 pr확인하자.md",
     "5-Temp/0-이직자료/이직 연봉 협상때.md",
-    "5-Temp/0-이직자료/Google Enginner 분들의 링크드인 이력서 참고해 보시면 좋아요.md",
     "5-Temp/0-이직자료/웹플럭스 사용이유.md",
     "5-Temp/0-이직자료/기술적으로 어려웠던 경험.md",
     "5-Temp/0-이직자료/글로벌 빅태크 면접경험.md",
