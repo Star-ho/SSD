@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f6a5113a2734e790",
+        "id": "c272b0a293c90984",
         "type": "tabs",
         "children": [
           {
-            "id": "27b42eab2817c8d6",
+            "id": "586d854caf3ffce3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Resource/Concept/OLTP, OLAP, DW, DL.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "snowlake",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Concept/OLTP, OLAP, DW, DL.md",
+                "file": "2-Area/개발 외의 것들/개발.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Concept/OLTP, OLAP, DW, DL.md",
+                "file": "2-Area/개발 외의 것들/개발.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Concept/OLTP, OLAP, DW, DL.md"
+                "file": "2-Area/개발 외의 것들/개발.md"
               }
             }
           }
@@ -179,8 +174,9 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "eb1d575bd97691ba",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "3-Resource/Concept/OLTP, OLAP, DW, DL.md",
     "5-Temp/Computer Science/Network/동기, 비동기 IO.md",
     "5-Temp/Database/Tools/DB마이그레이션은 툴.md",
     "2-Area/Series/Server/16 - Virtual Thread 3.md",
@@ -206,7 +202,6 @@
     "5-Temp/z-etc/모니터링 툴.md",
     "5-Temp/z-etc/메서드 파라미터에 어노테이션걸어서 cookie 가져오기.md",
     "5-Temp/z-etc/따닥 방지.md",
-    "5-Temp/monitering, observility/cloudwatch vs grafana, prometheus.md",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
