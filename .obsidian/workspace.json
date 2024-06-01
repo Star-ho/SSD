@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/999-Reactor netty.md",
+                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/999-Reactor netty.md",
+                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/999-Reactor netty.md",
+                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/999-Reactor netty.md"
+                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "586d854caf3ffce3",
   "lastOpenFiles": [
+    "2-Area/Series/Server/999-Reactor netty.md",
     "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
     "2-Area/Series/Server/13-Virtual Thread 1.md",
     "2-Area/Series/Server/11-Reactor Java(2).md",
@@ -205,7 +206,6 @@
     "5-Temp/0-이직자료/etc....md",
     "5-Temp/0-이직자료/지원동기 작성시 팁.md",
     "5-Temp/0-이직자료/이직시 업무단위가 어떻게 나눠지는지 pr확인하자.md",
-    "5-Temp/0-이직자료/이직 연봉 협상때.md",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
