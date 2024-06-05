@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
+                "file": "3-Resource/Concept/인증, 인가.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "인증,",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
+                "file": "3-Resource/Concept/인증, 인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
+                "file": "3-Resource/Concept/인증, 인가.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md"
+                "file": "3-Resource/Concept/인증, 인가.md"
               }
             }
           }
@@ -180,13 +181,13 @@
   },
   "active": "586d854caf3ffce3",
   "lastOpenFiles": [
-    "2-Area/Series/Server/999-Reactor netty.md",
+    "2-Area/Series/coroutine/2-CoroutineScope.md",
+    "2-Area/Series/coroutine/0-Coroutine.md",
+    "2-Area/Series/Server/10-Reactor Java(1).md",
+    "2-Area/Series/Server/11-Reactor Java(2).md",
     "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
     "2-Area/Series/Server/13-Virtual Thread 1.md",
-    "2-Area/Series/Server/11-Reactor Java(2).md",
-    "2-Area/Series/Server/10-Reactor Java(1).md",
-    "2-Area/Series/coroutine/0-Coroutine.md",
-    "2-Area/Series/coroutine/2-CoroutineScope.md",
+    "2-Area/Series/Server/999-Reactor netty.md",
     "2-Area/Series/coroutine/3-CoroutinDispatcher.md",
     "2-Area/Series/coroutine/4-Coroutine suspend.md",
     "2-Area/Series/coroutine/5-Coroutine  CPS.md",
