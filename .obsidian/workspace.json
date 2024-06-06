@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Concept/인증, 인가.md",
+                "file": "5-Temp/Message driven vs Event Driven.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Concept/인증, 인가.md",
+                "file": "5-Temp/Message driven vs Event Driven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Concept/인증, 인가.md",
+                "file": "5-Temp/Message driven vs Event Driven.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Concept/인증, 인가.md"
+                "file": "5-Temp/Message driven vs Event Driven.md"
               }
             }
           }
@@ -179,8 +178,10 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "586d854caf3ffce3",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "3-Resource/Concept/인증, 인가.md",
+    "5-Temp/Message driven vs Event Driven.md",
     "2-Area/Series/coroutine/2-CoroutineScope.md",
     "2-Area/Series/coroutine/0-Coroutine.md",
     "2-Area/Series/Server/10-Reactor Java(1).md",
@@ -205,8 +206,6 @@
     "5-Temp/0-이직자료/Google Enginner 분들의 링크드인 이력서 참고해 보시면 좋아요.md",
     "5-Temp/0-이직자료/f-lab 이력서 모음.md",
     "5-Temp/0-이직자료/etc....md",
-    "5-Temp/0-이직자료/지원동기 작성시 팁.md",
-    "5-Temp/0-이직자료/이직시 업무단위가 어떻게 나눠지는지 pr확인하자.md",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
