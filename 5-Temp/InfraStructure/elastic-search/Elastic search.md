@@ -1,7 +1,10 @@
 ---
 date: 2023-10-05T23:26:11
-updatedAt: 2024-05-28 23:39:12
-tags: 
+updatedAt: 2024-06-16 23:22:12
+tags:
+  - Elastic-Search
+categories:
+  - ElasticSearch
 ---
 - 분산 시스템으로 구성되어 대용량 데이터와 빠른 검색 가능
 	- node와 샤드에 대해 알면 좋음

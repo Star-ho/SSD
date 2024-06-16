@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
+                "file": "5-Temp/Spring/Untitled/나도 써보자 해부학.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "역인덱스",
+                "query": "tag:Elastic-Search",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
+                "file": "5-Temp/Spring/Untitled/나도 써보자 해부학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
+                "file": "5-Temp/Spring/Untitled/나도 써보자 해부학.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md"
+                "file": "5-Temp/Spring/Untitled/나도 써보자 해부학.md"
               }
             }
           }
@@ -179,11 +178,28 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "586d854caf3ffce3",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
+    "5-Temp/Spring/스프링부트 해부학.md",
+    "5-Temp/Spring/Untitled/나도 써보자 해부학.md",
+    "5-Temp/Spring/스프링 트랜잭션 매니저.md",
+    "5-Temp/Spring/스프링 쉘.md",
+    "5-Temp/Spring/스프링 볼트 vault.md",
+    "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
+    "5-Temp/Spring/스웨거 어노테이션.md",
+    "5-Temp/Spring/@Transactional에 대해.md",
+    "5-Temp/Spring/@Condition.md",
+    "5-Temp/Spring/서블릿 에러 핸들링.md",
+    "5-Temp/Spring/Untitled",
+    "5-Temp/Spring/Spring bean.md",
     "5-Temp/InfraStructure/elastic-search/Elastic search.md",
-    "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
+    "5-Temp/InfraStructure/elastic-search/es rollover.md",
     "5-Temp/InfraStructure/elastic-search/elasticsearch shard, replica.md",
+    "5-Temp/InfraStructure/elastic-search/elasticsearch rollover.md",
+    "5-Temp/InfraStructure/elastic-search/elasticsearch index template.md",
+    "5-Temp/InfraStructure/elastic-search/elastic search master node vs data node.md",
+    "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
+    "5-Temp/InfraStructure/elastic-search/Elastic Search Document.md",
     "3-Resource/Infrastructure/Elastic Search Data Tier.md",
     "3-Resource/JVM/JAVA Timezone 설정.md",
     "5-Temp/Softeware Architecture/DDD 패키지구조.md",
@@ -191,22 +207,6 @@
     "3-Resource/Concept/인증, 인가.md",
     "2-Area/Series/coroutine/2-CoroutineScope.md",
     "2-Area/Series/coroutine/0-Coroutine.md",
-    "2-Area/Series/Server/10-Reactor Java(1).md",
-    "2-Area/Series/Server/11-Reactor Java(2).md",
-    "2-Area/Series/Server/12-Reactor Scheduler(BoundedElasticScheduler).md",
-    "2-Area/Series/Server/13-Virtual Thread 1.md",
-    "2-Area/Series/Server/999-Reactor netty.md",
-    "2-Area/Series/coroutine/3-CoroutinDispatcher.md",
-    "2-Area/Series/coroutine/4-Coroutine suspend.md",
-    "2-Area/Series/coroutine/5-Coroutine  CPS.md",
-    "2-Area/Series/coroutine/6-Coroutine builder.md",
-    "2-Area/Series/coroutine/7-Job.md",
-    "2-Area/Series/coroutine/Coroutine.md",
-    "2-Area/Series/coroutine/Coroutine And Reactor Java.md",
-    "2-Area/Series/coroutine/vs thread.md",
-    "2-Area/Series/java-database-connect/jpa.md",
-    "2-Area/개발 외의 것들/개발.md",
-    "3-Resource/Concept/OLTP, OLAP, DW, DL.md",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
@@ -226,7 +226,6 @@
     "3-Resource/JVM/tool, plugin",
     "5-Temp/TIP/Untitled",
     "3-Resource/Database/Mysql Explain Plan",
-    "3-Resource/Database/Mysql Engine",
     "Untitled.canvas"
   ]
 }
