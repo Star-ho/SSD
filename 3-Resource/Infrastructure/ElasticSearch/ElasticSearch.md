@@ -1,6 +1,6 @@
 ---
 date: 2023-10-05T23:26:11
-updatedAt: 2024-06-17 23:00:55
+updatedAt: 2024-06-17 23:11:38
 tags:
   - Elastic-Search
 categories:
@@ -22,6 +22,7 @@ categories:
 
 ## Node
 - 하나의 ElasticSearch 인스턴스
+- 하나이상의 Node가 모여 Cluster를 구성
 - node는 여러 role을 가질 수 있음
 	- master, data, data_content, data_hot, data_warm, data_cold, data_frozen, ingest, ml, remote_cluster_client, transform
 ### Master node
@@ -30,9 +31,15 @@ categories:
 ### Data node
 - 인덱싱한 문서가 포함된 샤드를 보관
 - CRUD, 검색, 집계와 같은 데이터 관련 작업 처리
-	- I/O, 메모리, CPU 집약저긴 작업
+	- I/O, 메모리, CPU 집약적인 작업
+- hot, warm, cold 등 여러 data노드들이 있음
 > https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html#generic-data-node
 
-
+## Shard
+- 인덱스가 분리된거
+- 하나의 Lucene인스턴스
+- document가 저장되어있고
+- 자체로 검색엔진임
+- primary샤드수를 바꾸려면 reindexing해야함
 
 logstash filter plugin  <br>[https://www.elastic.co/guide/en/logstash/current/filter-plugins.html](https://www.elastic.co/guide/en/logstash/current/filter-plugins.html)<br><br>logsatsh jvm setting  <br>[https://www.elastic.co/guide/en/logstash/current/jvm-settings.html](https://www.elastic.co/guide/en/logstash/current/jvm-settings.html)<br><br>fileabeat custom index name  <br>[https://medium.com/@ketan.bhadoriya/how-to-create-a-custom-index-name-in-filebeat-68151138e090](https://medium.com/@ketan.bhadoriya/how-to-create-a-custom-index-name-in-filebeat-68151138e090)<br><br>docker mounted file not immidatly update  <br>[https://medium.com/@jonsbun/why-need-to-be-careful-when-mounting-single-files-into-a-docker-container-4f929340834](https://medium.com/@jonsbun/why-need-to-be-careful-when-mounting-single-files-into-a-docker-container-4f929340834)|
