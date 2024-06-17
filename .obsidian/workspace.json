@@ -13,34 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc6589ee212f4aec",
+            "id": "946996a7f36fca3b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "d3820e09af69c4d8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
+                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Elastic-Search",
+                "query": "나도",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md"
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md"
               }
             }
           }
@@ -194,13 +185,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "hugo-publish:hugo sync": false
     }
   },
-  "active": "d3820e09af69c4d8",
+  "active": "586d854caf3ffce3",
   "lastOpenFiles": [
-    "5-Temp/Spring/스프링부트 해부학.md",
+    "3-Resource/Infrastructure/ElasticSearch/Elastic Search 노드.md",
+    "3-Resource/Infrastructure/ElasticSearch/Elastic Search Index.md",
+    "3-Resource/Infrastructure/ElasticSearch/Elastic Search Document.md",
+    "3-Resource/Infrastructure/ElasticSearch/Elastic Search Data Tier.md",
+    "3-Resource/Infrastructure/ElasticSearch/elasticsearch shard, replica.md",
+    "3-Resource/Infrastructure/ElasticSearch/elasticsearch rollover.md",
+    "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
+    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
     "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
+    "5-Temp/InfraStructure/elastic-search/es rollover.md",
+    "3-Resource/Infrastructure/ElasticSearch/elastic search master node vs data node.md",
+    "5-Temp/Spring/스프링부트 해부학.md",
     "5-Temp/Spring/스프링 트랜잭션 매니저.md",
     "5-Temp/Spring/스프링 쉘.md",
     "5-Temp/Spring/스프링 볼트 vault.md",
@@ -211,21 +214,11 @@
     "5-Temp/Spring/서블릿 에러 핸들링.md",
     "5-Temp/Spring/스프링 부트 해부학",
     "5-Temp/Spring/Spring bean.md",
-    "5-Temp/InfraStructure/elastic-search/Elastic search.md",
-    "5-Temp/InfraStructure/elastic-search/es rollover.md",
-    "5-Temp/InfraStructure/elastic-search/elasticsearch shard, replica.md",
-    "5-Temp/InfraStructure/elastic-search/elasticsearch rollover.md",
-    "5-Temp/InfraStructure/elastic-search/elasticsearch index template.md",
-    "5-Temp/InfraStructure/elastic-search/elastic search master node vs data node.md",
-    "5-Temp/InfraStructure/elastic-search/Elastic Search Index.md",
-    "5-Temp/InfraStructure/elastic-search/Elastic Search Document.md",
-    "3-Resource/Infrastructure/Elastic Search Data Tier.md",
     "3-Resource/JVM/JAVA Timezone 설정.md",
     "5-Temp/Softeware Architecture/DDD 패키지구조.md",
     "5-Temp/Message driven vs Event Driven.md",
     "3-Resource/Concept/인증, 인가.md",
     "2-Area/Series/coroutine/2-CoroutineScope.md",
-    "2-Area/Series/coroutine/0-Coroutine.md",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
