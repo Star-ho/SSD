@@ -797,12 +797,9 @@
     "5-Temp/Message driven vs Event Driven.md": "ffded5cf28992d9f4e1b115b2e2a6565043cc3999f3cafb9e5c9ff8d7e3f6fa2",
     "3-Resource/JVM/JAVA Timezone 설정.md": "7fe4c5d0b217b09c019f62bc1eda67228461529616cd5e785b1a24df8a8507b9",
     "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md": "40402c0bf31c73c2d5330d720e4345e72210a60b08d177a6b40a9e1e15ae68d5",
-    "3-Resource/Infrastructure/ElasticSearch/Elastic Search Index.md": "b1a9a44c10239c8aa115e4f8988e0ccdeedd3589a9e296b503f6ac0b92f9c33b",
-    "3-Resource/Infrastructure/ElasticSearch/elastic search master node vs data node.md": "ebd2829ceb1d4b01d982e1e465d695811c0c4ebba886c743d8da2ef7a0666762",
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md": "775018baa2171841335ffb8a54629076229555e80c77c3fcf5392016b42dda36",
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch rollover.md": "c60c8351e179aa31e6e3dad2aea307e150eb905e67c7ebe7ac10112e3d5afa90",
-    "3-Resource/Infrastructure/ElasticSearch/elasticsearch shard, replica.md": "24084e917a731ddb3a8d0dd1950d41b1fa1942b26f8386caa5d4f7329030109a",
     "3-Resource/Infrastructure/ElasticSearch/Elastic Search Data Tier.md": "92a4af311b13931bb611793efb3e6e10780622b3b34c566f18d78ae5fd50f7b8",
-    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md": "c0d2a9d19e76fa84dbf19952368e5c396ec167cbf362e0deacdbf70e01585d6a"
+    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md": "41c657763efeb3f4db8d887fe7754aff5b666c48d25d8c4a1a3fa71fc52ae990"
   }
 }
