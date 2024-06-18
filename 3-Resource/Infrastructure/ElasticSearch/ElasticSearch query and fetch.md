@@ -29,4 +29,29 @@ updatedAt: 2024-06-18 22:30:56
 ![](Pasted%20image%2020240618223931.png|center)
 
 - 이 분할방식은 분산된 환경에서 효과적이고 확장가능한 검색작업을 보장함
-	- Query phase에서는 검색 커리가 각 샤드 복사본을 탐새
+	- Query phase에서는 검색 커리가 각 샤드 복사본을 탐색하여 로컬 검색을 시작하고, 일치하는 문서의 우선순위가 지정된 목록을 컴파일함
+		- 이 단계는 검색 결과를 구체화 하는 초기단계임
+	- Fetch phase에서는 원하는 검색 결과를 제공함
+		- 이 단계는 쿼리 실행과 검색 결과 사이의 가교 역할을 하며 검색 프로세스의 철저함을 보장함
+
+## 추가 정보
+- Elasticsearch의 query와 fetch phases에서 slow logs를 enable하면, 검색 성능을 모니터링 및 죄적화가 가능함
+```HTTp
+PUT *,-.*/_settings  
+{  
+"index.search.slowlog.threshold.query.warn": "1s",  
+"index.search.slowlog.threshold.fetch.warn": "100ms"  
+}  
+  
+#or with curl  
+  
+curl -XPUT "http://localhost:9200/*,-.*/_settings" -H "Content-Type: application/json" -d'  
+{  
+"index.search.slowlog.threshold.query.warn": "1s",  
+"index.search.slowlog.threshold.fetch.warn": "100ms"  
+}'
+```
+
+
+
+https://medium.com/@musabdogan/elasticsearchs-distributed-search-query-and-fetch-phases-df869d35f4b3
