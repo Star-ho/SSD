@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md"
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md"
               }
             }
           }
@@ -192,11 +192,12 @@
   },
   "active": "586d854caf3ffce3",
   "lastOpenFiles": [
-    "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
     "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
+    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
+    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
+    "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
     "3-Resource/Infrastructure/ElasticSearch/Elastic Search Index.md",
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch shard, replica.md",
-    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
     "3-Resource/Infrastructure/ElasticSearch/Elastic Search Data Tier.md",
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch rollover.md",
     "3-Resource/Infrastructure/ElasticSearch/elastic search master node vs data node.md",
@@ -218,7 +219,6 @@
     "3-Resource/JVM/JAVA Timezone 설정.md",
     "5-Temp/Softeware Architecture/DDD 패키지구조.md",
     "5-Temp/Message driven vs Event Driven.md",
-    "3-Resource/Concept/인증, 인가.md",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
