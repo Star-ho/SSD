@@ -800,6 +800,7 @@
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md": "775018baa2171841335ffb8a54629076229555e80c77c3fcf5392016b42dda36",
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch rollover.md": "c60c8351e179aa31e6e3dad2aea307e150eb905e67c7ebe7ac10112e3d5afa90",
     "3-Resource/Infrastructure/ElasticSearch/Elastic Search Data Tier.md": "92a4af311b13931bb611793efb3e6e10780622b3b34c566f18d78ae5fd50f7b8",
-    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md": "41c657763efeb3f4db8d887fe7754aff5b666c48d25d8c4a1a3fa71fc52ae990"
+    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md": "41c657763efeb3f4db8d887fe7754aff5b666c48d25d8c4a1a3fa71fc52ae990",
+    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md": "164b51b0f3f02df8ca86873cc4ba826afefe219a4a02108b360b3209211e667e"
   }
 }
