@@ -1,6 +1,6 @@
 ---
 date: 2024-06-18 22:30:18
-updatedAt: 2024-06-18 22:30:56
+updatedAt: 2024-06-18 23:32:06
 ---
 - search쿼리는 도착지를 고정할 수 없고, 잠재적으로 매칭되는 index또는 indices안의 모든 샤드를 검색해야하기에 어려움
 - 일치하는 문서를 찾는 것 뿐만아니라, 검색 api는 결과를 사용자에게 표시하기 전에 통합되고 정리된 목록으로 결합해야함
@@ -35,7 +35,7 @@ updatedAt: 2024-06-18 22:30:56
 		- 이 단계는 쿼리 실행과 검색 결과 사이의 가교 역할을 하며 검색 프로세스의 철저함을 보장함
 
 ## 추가 정보
-- Elasticsearch의 query와 fetch phases에서 slow logs를 enable하면, 검색 성능을 모니터링 및 죄적화가 가능함
+- Elasticsearch의 query와 fetch phases에서 slow logs를 enable하면, 검색 성능을 모니터링 및 최적화가 가능함
 ```HTTp
 PUT *,-.*/_settings  
 {  
