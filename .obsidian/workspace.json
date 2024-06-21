@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "586d854caf3ffce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Temp/Spring/밸리데이터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "946996a7f36fca3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd9d0bb4e8278050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Temp/Spring/밸리데이터.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "나도",
+                "query": "밸리",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Spring/밸리데이터.md",
+                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Spring/밸리데이터.md",
+                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Spring/밸리데이터.md"
+                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md"
               }
             }
           }
@@ -190,11 +191,12 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "586d854caf3ffce3",
+  "active": "946996a7f36fca3b",
   "lastOpenFiles": [
-    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
     "5-Temp/Spring/밸리데이터.md",
+    "5-Temp/Spring/Untitled.md",
     "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
+    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
     "real-resource-image/Pasted image 20240618223931.png",
     "real-resource-image/Pasted image 20240618223803.png",
     "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
@@ -220,7 +222,6 @@
     "5-Temp/Spring/스프링 부트 해부학",
     "5-Temp/Spring/Spring bean.md",
     "3-Resource/JVM/JAVA Timezone 설정.md",
-    "5-Temp/Softeware Architecture/DDD 패키지구조.md",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
