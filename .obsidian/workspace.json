@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
+                "file": "3-Resource/Concept/Stream.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
+                "file": "3-Resource/Concept/Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
+                "file": "3-Resource/Concept/Stream.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md"
+                "file": "3-Resource/Concept/Stream.md"
               }
             }
           }
@@ -193,9 +192,10 @@
   },
   "active": "946996a7f36fca3b",
   "lastOpenFiles": [
+    "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
+    "3-Resource/Concept/Stream.md",
     "5-Temp/Spring/밸리데이터.md",
     "5-Temp/Spring/Untitled.md",
-    "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
     "real-resource-image/Pasted image 20240618223931.png",
     "real-resource-image/Pasted image 20240618223803.png",
@@ -221,7 +221,6 @@
     "5-Temp/Spring/서블릿 에러 핸들링.md",
     "5-Temp/Spring/스프링 부트 해부학",
     "5-Temp/Spring/Spring bean.md",
-    "3-Resource/JVM/JAVA Timezone 설정.md",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
