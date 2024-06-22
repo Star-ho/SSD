@@ -1,21 +1,21 @@
 ---
 date: 2024-06-18 22:30:18
-updatedAt: 2024-06-18 23:32:06
+updatedAt: 2024-06-22 19:22:19
 ---
 - search쿼리는 도착지를 고정할 수 없고, 잠재적으로 매칭되는 index또는 indices안의 모든 샤드를 검색해야하기에 어려움
 - 일치하는 문서를 찾는 것 뿐만아니라, 검색 api는 결과를 사용자에게 표시하기 전에 통합되고 정리된 목록으로 결합해야함
 - 기본적으로, 엘라스틱서치는 Query Then Fetch라는 검색방법을 사용함
 
 ## 단계
-1. 클라이언트가 Elasticsearch로 쿼리 전송
-2. 쿼리를 각 샤드로 브로드캐스팅
+1. 클라이언트가 Elasticsearch로 쿼리 전송(조정노드)
+2. 쿼리를 각 샤드로 브로드캐스팅(조정노드)
 3. 로컬 용어/빈도를 사용해 일치하는 모든 문서 찾기 및 점수계산
 4. 결과의 우선 대기열 구축(정렬, 페이지네이션 등)
 5. 요청 노드에 결과에 대한 메타데이터를 반환함
 	- 실제 문서는 아직 전송되지 않고 점소만 전송됨
 6. 모든 샤드의 점수가 요청 노드에서 병합 및 정렬되고, 쿼리 기준에 따라 문서가 선택됨
 7. 끝으로, 실제 문서가 있는 개별 샤드에서 실제 문서가 검색됨
-8. 결과를 클라이언트에 반환한
+8. 결과를 클라이언트에 반환(조정노드)
 
 - 조정 노드는 1,2,8단계에서 사용됨
 
@@ -55,3 +55,4 @@ curl -XPUT "http://localhost:9200/*,-.*/_settings" -H "Content-Type: application
 
 
 https://medium.com/@musabdogan/elasticsearchs-distributed-search-query-and-fetch-phases-df869d35f4b3
+https://steve-mushero.medium.com/elasticsearch-search-data-flow-2a5f799aac6a
