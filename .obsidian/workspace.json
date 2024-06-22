@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md"
+                "file": "3-Resource/Infrastructure/ElasticSearch/Analyzer.md"
               }
             }
           }
@@ -192,8 +192,9 @@
   },
   "active": "946996a7f36fca3b",
   "lastOpenFiles": [
-    "3-Resource/Infrastructure/ElasticSearch/elasticsearch rollover.md",
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
+    "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
+    "3-Resource/Infrastructure/ElasticSearch/elasticsearch rollover.md",
     "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
     "3-Resource/Concept/Stream과 IO.md",
     "5-Temp/Spring/밸리데이터.md",
@@ -220,7 +221,6 @@
     "5-Temp/Spring/스프링 트랜잭션 매니저.md",
     "5-Temp/Spring/스프링 쉘.md",
     "5-Temp/Spring/스프링 볼트 vault.md",
-    "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
     "5-Temp/Spring/스프링 부트 해부학",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
