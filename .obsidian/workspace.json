@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Concept/Stream과 JAVA.md",
+                "file": "3-Resource/Concept/Stream과 IO.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Concept/Stream과 JAVA.md",
+                "file": "3-Resource/Concept/Stream과 IO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Concept/Stream과 JAVA.md",
+                "file": "3-Resource/Concept/Stream과 IO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Concept/Stream과 JAVA.md"
+                "file": "3-Resource/Concept/Stream과 IO.md"
               }
             }
           }
@@ -193,7 +193,7 @@
   "active": "946996a7f36fca3b",
   "lastOpenFiles": [
     "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
-    "3-Resource/Concept/Stream과 JAVA.md",
+    "3-Resource/Concept/Stream과 IO.md",
     "5-Temp/Spring/밸리데이터.md",
     "5-Temp/Spring/Untitled.md",
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",

@@ -803,6 +803,6 @@
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md": "41c657763efeb3f4db8d887fe7754aff5b666c48d25d8c4a1a3fa71fc52ae990",
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md": "1ca8fa176443e3bec3dc0b7c8dcd17e5469fd11263ad8f1ccd46c767d305151d",
     "5-Temp/Spring/밸리데이터.md": "8ebe7ae50248a7c9da2975b711bfae55cec2f0a8982f9e64f19fe00088b1ae2c",
-    "3-Resource/Concept/Stream과 JAVA.md": "efd15bc79cbbfe2a91f9a13fe809892977cf52dc6ed9c93c5d563bdbb9c3c6d7"
+    "3-Resource/Concept/Stream과 IO.md": "96eac90795a6dfbe6ab0783b3d0eb020737b0e8ce71de521772e6f8265fa183c"
   }
 }
