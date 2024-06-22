@@ -805,6 +805,6 @@
     "3-Resource/Spring/jpa/JPA 영속성전이, 프록시객체.md": "a04e1daea27ec4cfc3821147f4c06c246e6579011d21f031824f57ab683de6f3",
     "3-Resource/Spring/jpa/Dynamic update.md": "07c8eba2a1a795a356485c6125c639c0c899928a915dcca4d69a6fc0dcbb8003",
     "3-Resource/Infrastructure/ElasticSearch/Analyzer.md": "117c0ee3b23365663a270ec5edfdaf68cd22e036d761cc2074fda0bb3b649941",
-    "3-Resource/Infrastructure/ElasticSearch/Lucene.md": "37e65a3adfd6a0c52483d68d250f66c92b3b617bbda4328f4592df42502a5861"
+    "3-Resource/Infrastructure/ElasticSearch/Lucene.md": "c96fd022d4a98fa24bd82ee801bcd3313f9faa80759672fda1ea2666cd3ac066"
   }
 }
