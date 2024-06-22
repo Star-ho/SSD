@@ -1,6 +1,6 @@
 ---
 date: 2024-06-17 23:16:44
-updatedAt: 2024-06-23 00:07:25
+updatedAt: 2024-06-23 00:11:10
 ---
 # Lucene 용어정리
 - document
@@ -89,3 +89,5 @@ updatedAt: 2024-06-23 00:07:25
 - 자주 바뀌는 값을  Lucene인덱스에 저장하는 것은 좋지 않음 
 
 https://j.blaszyk.me/tech-blog/exploring-apache-lucene-index/
+https://j.blaszyk.me/tech-blog/exploring-apache-lucene-search-and-ranking/
+https://j.blaszyk.me/tech-blog/exploring-apache-lucene-scale/
