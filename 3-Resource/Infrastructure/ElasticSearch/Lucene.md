@@ -1,6 +1,6 @@
 ---
 date: 2024-06-17 23:16:44
-updatedAt: 2024-06-22 23:37:24
+updatedAt: 2024-06-22 23:47:26
 ---
 # Lucene 용어정리
 - document
@@ -41,8 +41,18 @@ updatedAt: 2024-06-22 23:37:24
 	- postings list
 		- 각 term의 목록을 생성하여, 해당 term이 나타나는 문서를 표시함
 ![|center|600](Pasted%20image%2020240622233603.png)
-- Lucene의 Inverted ind
+- Lucene의 Inverted index로 색인된 3개의 document임\
+- 각 document의 내용은 inverted index에 삽입되는 term으로 tokenized됨
+- Terms Dictionary가 정렬되어 있기 때문에, 바이너리 검색처럼 용어를 빠르게 찾을 수 있으며, posting-structure에서 해당 용어의어가 나타난것을 찾을 수 있음
+- 특정 document에서 관련된 term을 나열하는 forward index와 반대됨
 
+## DocValues
+- 색인 시점에 document와 value를 매핑한 column-oriented field이며, inverted된것이 아님
+- DocValues를 사용하면 단일 디스크 검색으로 여러 document의 field를 검색할 수 있으므로 정렬 및 그룹화를 위한 조회 속도가 빨라짐
+- 쿼리에서 전체 document를 검색하는 경우가 아니라면, stored field 보다 DocValues를 선호해야함
+
+## Stored Field
+- DocValues와 유사하게, document field를 값을 효과적유지한 다음 필요할 때 검색할 수 있도록 저장도
 
 
 
