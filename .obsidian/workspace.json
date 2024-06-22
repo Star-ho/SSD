@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Analyzer.md"
+                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md"
               }
             }
           }
@@ -192,9 +192,9 @@
   },
   "active": "946996a7f36fca3b",
   "lastOpenFiles": [
+    "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
     "real-resource-image/Pasted image 20240622211925.png",
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
-    "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
     "real-resource-image/Pasted image 20240622211444.png",
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch rollover.md",
     "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
@@ -231,7 +231,6 @@
     "real-resource-image/Pasted image 20240524171103.png",
     "real-resource-image/Pasted image 20240524162016.png",
     "real-resource-image/Pasted image 20240524161849.png",
-    "real-resource-image/Pasted image 20240524160646.png",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure",
     "3-Resource/Algorithm",
