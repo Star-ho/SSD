@@ -22,7 +22,7 @@ updatedAt: 2024-06-22 21:13:31
 	- 토큰 유형
 		- ex) `<ALPHANUM>`, `<HANGUL>`, or `<NUM>`
 ### 4. TokenFilter
-- 토큰필터를 통과함
+- Tokenizer에서 받은 토큰을 수정(대->소 문자로 변환), 삭제(stopword제거), 추가(ex) 동의어)함
 ### 5. Output
 
 ![|center](Pasted%20image%2020240622211925.png)
@@ -30,3 +30,4 @@ updatedAt: 2024-06-22 21:13:31
 https://www.elastic.co/blog/found-text-analysis-part-1
 https://www.elastic.co/blog/found-text-analysis-part-2
 https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-charfilters.html
+https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-tokenizers.html
