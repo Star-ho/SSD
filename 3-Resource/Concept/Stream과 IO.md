@@ -19,7 +19,5 @@ categories:
 
 
 
-
-
 - https://en.wikipedia.org/wiki/Stream_(computing)
-- https://stackoverflow.com/questions/28459498/why-are-java-streams-once-off
+- https://vishalrana9915.medium.com/understanding-streams-511d36cf682c

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Concept/Stream과 IO.md",
+                "file": "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48c01342a2589611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Resource/Spring/jpa/Hibernate batch size.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Concept/Stream과 IO.md",
+                "file": "3-Resource/Spring/jpa/Hibernate batch size.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Concept/Stream과 IO.md",
+                "file": "3-Resource/Spring/jpa/Hibernate batch size.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Concept/Stream과 IO.md"
+                "file": "3-Resource/Spring/jpa/Hibernate batch size.md"
               }
             }
           }
@@ -190,11 +203,17 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "946996a7f36fca3b",
+  "active": "48c01342a2589611",
   "lastOpenFiles": [
+    "3-Resource/Spring/jpa/Interceptor.md",
+    "3-Resource/Spring/jpa/JPA 영속성전이, 프록시객체.md",
+    "3-Resource/Spring/jpa/JPA entity manager.md",
+    "3-Resource/Spring/jpa/Hibernate.md",
+    "3-Resource/Spring/jpa/Hibernate batch size.md",
+    "3-Resource/Spring/jpa",
+    "5-Temp/Spring/밸리데이터.md",
     "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
     "3-Resource/Concept/Stream과 IO.md",
-    "5-Temp/Spring/밸리데이터.md",
     "5-Temp/Spring/Untitled.md",
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
     "real-resource-image/Pasted image 20240618223931.png",
@@ -215,12 +234,7 @@
     "5-Temp/Spring/스프링 쉘.md",
     "5-Temp/Spring/스프링 볼트 vault.md",
     "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
-    "5-Temp/Spring/스웨거 어노테이션.md",
-    "5-Temp/Spring/@Transactional에 대해.md",
-    "5-Temp/Spring/@Condition.md",
-    "5-Temp/Spring/서블릿 에러 핸들링.md",
     "5-Temp/Spring/스프링 부트 해부학",
-    "5-Temp/Spring/Spring bean.md",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "real-resource-image/Pasted image 20240524172847.png",
@@ -237,7 +251,6 @@
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",
     "5-Temp/TIP/Untitled",
-    "3-Resource/Database/Mysql Explain Plan",
     "Untitled.canvas"
   ]
 }

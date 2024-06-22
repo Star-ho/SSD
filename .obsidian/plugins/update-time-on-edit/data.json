@@ -473,10 +473,6 @@
     "3-Resource/Tool/jooq.md": "4c389e20da430b0b9fb96deb18e76ed7c106f0898cc6c5887933a9e87d958000",
     "3-Resource/Tool/kotlin-jdsl.md": "cb943d2e7ed44e83bbd1d475ffeb51afcf699cbae30d745d234933f882cac1ed",
     "3-Resource/Tool/Codecove.md": "3aac8b1a7eb459d20bf3463d2ffd9975b93be28229dee9ffe366469896764627",
-    "3-Resource/Spring/JPA entity manager.md": "e5adea7ac2bd2764ff85203de42a2488fa0250c4354f70b6071227ebc3878e7e",
-    "3-Resource/Spring/JPA 영속성전이, 프록시객체.md": "a04e1daea27ec4cfc3821147f4c06c246e6579011d21f031824f57ab683de6f3",
-    "3-Resource/Spring/Hibernate.md": "1287592e75d052c6055549daf12a05b9995d7a68c6b18c010e2b4eef0b52afff",
-    "3-Resource/Spring/Hibernate Associate(하이버네이트 연관관계).md": "acde29b8407c1acc50b4c964092f0ae0952985f74b4d3ccecc9701e3929aba6e",
     "real-resource-document/시스템 설계 청사진.md": "79829126eba6eec208b93f8482ca7c6a9b28658cefce38d61f28647ab8c22157",
     "SSD.md": "6e299f5c03a1c6651b9f38afa4bdbbb2cbea1ac2486ff808119008a2440af569",
     "1-Project/intellij 단축키 외우기.md": "3a0dc69d51265e10c63964e293585ccae644f9e2e46c211d19f16b23f94da894",
@@ -697,10 +693,8 @@
     "3-Resource/Frontend/빌드시간 단축.md": "e7f86ed715d5777ca3fb3f65a0b51a230248c10f23ea865e92f253a9f66af024",
     "3-Resource/Security/BGP hijacking.md": "339e9ba97c77e0f6c3764262674c9db3f2395a8a4111e17c653477eb8dcecc5d",
     "3-Resource/Spring/spring boot yaml.md": "1091422316860f616bcbaa06d282d37b416f57c75ec8b37e6ade41c6d8b54a08",
-    "3-Resource/Spring/Dynamic update.md": "07c8eba2a1a795a356485c6125c639c0c899928a915dcca4d69a6fc0dcbb8003",
     "3-Resource/Spring/Handler.md": "6409ffec47858da3f8be88a40cc4ead9be959e1c377b69e50440f1d0afc0cf1f",
     "3-Resource/Spring/HandlerMethodArgumentResolver.md": "ae48475e613116951ff5743d98ec3f19b94e1d284a475964ff829ad4e9de98f2",
-    "3-Resource/Spring/Interceptor.md": "c294d4fa3de4241b3a31c7e1f1c4527df0b4200e66bc9fa139f6840887734de2",
     "3-Resource/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md": "4c771dc029e8f01066bef1217be8f31cd2e75a05d7fdbc502e6061b110f791eb",
     "3-Resource/Spring/Querydsl transform connection leak.md": "7f46cbc7dd9ec19d57b2380f800e2288a6330cd61283be92638ce5eb923c413b",
     "3-Resource/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md": "ff8831b13f30603b213e59c87adc50ea5667985ae5431a114f326521d1ae1660",
@@ -803,6 +797,12 @@
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md": "41c657763efeb3f4db8d887fe7754aff5b666c48d25d8c4a1a3fa71fc52ae990",
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md": "1ca8fa176443e3bec3dc0b7c8dcd17e5469fd11263ad8f1ccd46c767d305151d",
     "5-Temp/Spring/밸리데이터.md": "8ebe7ae50248a7c9da2975b711bfae55cec2f0a8982f9e64f19fe00088b1ae2c",
-    "3-Resource/Concept/Stream과 IO.md": "96eac90795a6dfbe6ab0783b3d0eb020737b0e8ce71de521772e6f8265fa183c"
+    "3-Resource/Concept/Stream과 IO.md": "e519bbef541fa725a5f30c9cc51b8e9b2b5fd2404dad24d19d0759cb5f6529df",
+    "3-Resource/Spring/jpa/Interceptor.md": "c294d4fa3de4241b3a31c7e1f1c4527df0b4200e66bc9fa139f6840887734de2",
+    "3-Resource/Spring/jpa/Hibernate.md": "1287592e75d052c6055549daf12a05b9995d7a68c6b18c010e2b4eef0b52afff",
+    "3-Resource/Spring/jpa/Hibernate Associate(하이버네이트 연관관계).md": "acde29b8407c1acc50b4c964092f0ae0952985f74b4d3ccecc9701e3929aba6e",
+    "3-Resource/Spring/jpa/JPA entity manager.md": "e5adea7ac2bd2764ff85203de42a2488fa0250c4354f70b6071227ebc3878e7e",
+    "3-Resource/Spring/jpa/JPA 영속성전이, 프록시객체.md": "a04e1daea27ec4cfc3821147f4c06c246e6579011d21f031824f57ab683de6f3",
+    "3-Resource/Spring/jpa/Dynamic update.md": "07c8eba2a1a795a356485c6125c639c0c899928a915dcca4d69a6fc0dcbb8003"
   }
 }
