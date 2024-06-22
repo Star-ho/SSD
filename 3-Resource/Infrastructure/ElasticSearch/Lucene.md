@@ -1,6 +1,6 @@
 ---
 date: 2024-06-17 23:16:44
-updatedAt: 2024-06-22 23:47:26
+updatedAt: 2024-06-22 23:57:24
 ---
 # Lucene 용어정리
 - document
@@ -52,9 +52,24 @@ updatedAt: 2024-06-22 23:47:26
 - 쿼리에서 전체 document를 검색하는 경우가 아니라면, stored field 보다 DocValues를 선호해야함
 
 ## Stored Field
-- DocValues와 유사하게, document field를 값을 효과적유지한 다음 필요할 때 검색할 수 있도록 저장도
+- DocValues와 유사하게, document field를 값을 효과적유지한 다음 필요할 때 검색할 수 있도록 저장된 것
+- 행 방식으로 구성됨
+- field집합이 주어지면, 각 document에 대해 이 field의 값이 행으로 연결됨
+- 이후 row는 Lucene Document ID에 따라 디스크에 순처적으로 저장됨
+- 각 행은 해당 문서에 정의된 필드수와 데이터 유형에따라 크기가 다름
+- 각 행에 대한 포인터는 빠르게 접근할 수 있도록 저장됨
+- 검색 쿼리가 일부 field가 아닌, 전체 document를 반환하는 경우에 유리함
 
+# Insertion(삽입)
+- Inverted index를 구축할때, 검색속도, 압축, 인덱싱 속도, 새로운 변경사항이 표시되는데 걸리는 시간 등을 우선적으로 고려해야함
+- 검색 속도와 index 압축은 서로 관련이 있음
+- 작은 index로 검색할때는 처리해야하는 데이터 양이 줄어들고, 메모리에 더 많은 데이터를 저장할 수 있음
+- 둘 다, 특히 압축은 색인 속도가 느려지는 문제가 있음
 
+![|center|800](Pasted%20image%2020240622235513.png)
+- 새 document가 추가되면, index 변경사항이 먼저 메모리에 버퍼링됨
+	- 결과적으로, 인덱스 파일 전체가 디스크에 flush됨
+	- 이렇게 
 
 
 
