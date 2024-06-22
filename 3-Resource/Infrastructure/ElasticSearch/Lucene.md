@@ -1,6 +1,6 @@
 ---
 date: 2024-06-17 23:16:44
-updatedAt: 2024-06-22 23:11:59
+updatedAt: 2024-06-22 23:37:24
 ---
 # Lucene 용어정리
 - document
@@ -31,9 +31,17 @@ updatedAt: 2024-06-22 23:11:59
 # Lucene에 저장된 데이터
 ## Inverted Index
 - term과 term을 포함한 document를 매핑하는 데이터 구조
-- 
+- document의 텍스트를 분석하고 term을 추출하여 구축됨
+- Inverted Index로 term 또는 term집합이 포함된 document를 찾는 방법을 제공하여 빠르고 효율적인 검색이 가능함
+- 특정 document와 일치하는 검색어가 얼마나 많은지 파악하여 검색결과의 관련성 순위를 매기는 방법을 제공함
 
-
+- term dictionary와 postings list의 2개의 substructure로 구성되어있음
+	- term dictionary
+		- document 안에 포함된 모든 term의  정렬된 list로 그룹화함
+	- postings list
+		- 각 term의 목록을 생성하여, 해당 term이 나타나는 문서를 표시함
+![|center|600](Pasted%20image%2020240622233603.png)
+- Lucene의 Inverted ind
 
 
 
