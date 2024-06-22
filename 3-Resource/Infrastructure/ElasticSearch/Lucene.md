@@ -1,6 +1,6 @@
 ---
 date: 2024-06-17 23:16:44
-updatedAt: 2024-06-22 23:57:24
+updatedAt: 2024-06-23 00:07:25
 ---
 # Lucene 용어정리
 - document
@@ -67,14 +67,25 @@ updatedAt: 2024-06-22 23:57:24
 - 둘 다, 특히 압축은 색인 속도가 느려지는 문제가 있음
 
 ![|center|800](Pasted%20image%2020240622235513.png)
-- 새 document가 추가되면, index 변경사항이 먼저 메모리에 버퍼링됨
-	- 결과적으로, 인덱스 파일 전체가 디스크에 flush됨
-	- 이렇게 
+- 새 document가 추가되면, index 변경사항이 먼저 메모리에 버퍼링되고, index파일 전체가 디스크에 flush됨
+- 이렇게 작성된 파일은 index 세그먼트를 구성함
+- Lucene index segment는 write-once파일로, segment가 저장소에 저장되면 절대 변경되지 않음
+- index는 실제로 전체 index의 하위 집합으로, 여러 파일로 구성됨
+	- index의 영구적인 조각화를 방지하기 위해, segment는 주기적으로 병합됨
+- 위의 예에서는 각각 하나의 문서로 구성된 2개의 세그먼트가 있고, 오른쪽에서 세그먼트 병합의 결과를 볼 수 있음
+	- 2개의 세그먼트가 병합되어 새로운 세그먼트가 형성됨
+-> 단일 document추가는 세그먼트를 추가해야 하므로 비용이 많이듬, 
 
+# Deletions(삭제)
+- 각 segment에 대해 Lucene은 segment별 비트를 유지함
+- 비트가 1에서 0으로 바뀌면 document가 삭제되었다는 신호가 Lucene에 전달됨
+- 그 이후 모든 검색은 삭제된 문서를 건너뜀
+- 병합 후에는 결과 segment가 삭제된 document가 포함되지 않으므로, segment가 병병합될 때 까지는 삭제된 document가 소비한 바이트가 회되지 않음
+- 기존 segment document를 제자리에서 삭제하려면 비용이 너무 많이듬
 
-
-
-
-
+# Update
+- 이전에 색인된 document를 수정하는것은 document를 cheap하게 삭제한다음, 다시 삽입하는것
+- document를 수정하는 것음 처음에 추가하는 것보다 훨씬 더 많이듬
+- 자주 바뀌는 값을  Lucene인덱스에 저장하는 것은 좋지 않음 
 
 https://j.blaszyk.me/tech-blog/exploring-apache-lucene-index/
