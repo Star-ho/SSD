@@ -1,6 +1,6 @@
 ---
 date: 2024-01-23T22:39:11
-updatedAt: 2024-04-21 18:34:36+3320
+updatedAt: 2024-06-23 23:11:58
 tags:
   - Spring
   - ORM
@@ -24,10 +24,10 @@ categories:
 ## FetchType
 - 해당 필드를 가져올 시기를 결정
 - Lazy
-	- oneToMany의 default FetchType
+	- *ToMany(oneToMany,ManyToMany)의 default FetchType
 	- 해당 필드를 엑세스할때 가져옴
 - Eager
-	- ManyToOne의 default FetchType
+	- *ToOne(ManyToOne,OneToOne)의 default FetchType
 	- 소유자의 로딩의 일부로 해당 필드를 가져옴
 		- 소유자 로딩시 바로 가져옴
 **fetch=EAGER가 의미가 있는 유일한 시나리오는 연관된 객체가 두 번째 수준 캐시에서 발견될 확률이 항상 매우 높다고 생각하는 경우. **

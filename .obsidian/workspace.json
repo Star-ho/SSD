@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
+                "file": "3-Resource/Spring/jpa/Hibernate Associate(하이버네이트 연관관계).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
+                "file": "3-Resource/Spring/jpa/Hibernate Associate(하이버네이트 연관관계).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
+                "file": "3-Resource/Spring/jpa/Hibernate Associate(하이버네이트 연관관계).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Weekly-Read/좋은 데이터 찾는법.md"
+                "file": "3-Resource/Spring/jpa/Hibernate Associate(하이버네이트 연관관계).md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
-    "3-Resource/Database/Innodb/내부구조/7-Mysql 8.0에서는?.md",
     "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
+    "3-Resource/Database/Innodb/내부구조/7-Mysql 8.0에서는?.md",
     "2-Area/Weekly-Read",
     "2-Area/0-Sung-ho/Untitled.md",
     "3-Resource/Database/Innodb/내부구조/5-physical structure of records in InnoDB.md",
