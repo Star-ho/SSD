@@ -5,7 +5,7 @@ tags:
   - ElasticSearch
   - hugo_blog
 categories:
-  - Infrastructure
+  - ElasticSearch
 ---
 - Data Tier는 Content, Hot, Warm, Cold, Frozen 5개의 티어로 나눔
 
