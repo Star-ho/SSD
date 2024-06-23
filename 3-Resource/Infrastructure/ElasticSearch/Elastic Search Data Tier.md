@@ -1,8 +1,8 @@
 ---
 date: 2023-10-04T22:54:59
-updatedAt: 2024-06-17 22:43:35
+updatedAt: 2024-06-23 20:37:25
 tags:
-  - Elastic-Search
+  - ElasticSearch
   - hugo_blog
 categories:
   - Infrastructure

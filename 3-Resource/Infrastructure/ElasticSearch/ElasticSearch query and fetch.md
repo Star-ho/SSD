@@ -1,6 +1,13 @@
 ---
 date: 2024-06-18 22:30:18
-updatedAt: 2024-06-22 19:44:36
+updatedAt: 2024-06-23 20:37:56
+tags:
+  - ElasticSearch
+  - Concept
+  - need-to-deep-dive
+  - hugo_blog
+categories:
+  - ElasticSearch
 ---
 - search쿼리는 도착지를 고정할 수 없고, 잠재적으로 매칭되는 index또는 indices안의 모든 샤드를 검색해야하기에 어려움
 - 일치하는 문서를 찾는 것 뿐만아니라, 검색 api는 결과를 사용자에게 표시하기 전에 통합되고 정리된 목록으로 결합해야함

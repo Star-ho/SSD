@@ -1,6 +1,12 @@
 ---
 date: 2024-06-22 21:13:08
-updatedAt: 2024-06-22 21:13:31
+updatedAt: 2024-06-23 20:37:31
+tags:
+  - ElasticSearch
+  - Analyzer
+  - hugo_blog
+categories:
+  - ElasticSearch
 ---
 - document의 문자열 필드가 역 인덱스의 term으로 변환되는 방식을 결정하는 알고리즘
 - 궁극적인 목표는 문자열을 일련의 토큰으로 변환하는것

@@ -1,9 +1,10 @@
 ---
 date: 2023-10-05T23:26:11
-updatedAt: 2024-06-17 23:15:57
+updatedAt: 2024-06-23 20:37:20
 tags:
-  - Elastic-Search
+  - ElasticSearch
   - hugo_blog
+  - Concept
 categories:
   - ElasticSearch
 ---

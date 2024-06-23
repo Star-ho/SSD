@@ -1,6 +1,11 @@
 ---
 date: 2024-06-17 23:16:44
-updatedAt: 2024-06-23 00:11:10
+updatedAt: 2024-06-23 20:36:51
+tags:
+  - Lucene
+  - ElasticSearch
+categories:
+  - ElasticSearch
 ---
 # Lucene 용어정리
 - document

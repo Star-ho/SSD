@@ -1,6 +1,13 @@
 ---
 date: 2024-06-23 10:45:30
-updatedAt: 2024-06-23 11:32:31
+updatedAt: 2024-06-23 20:38:19
+tags:
+  - ElasticSearch
+  - wrtie
+  - Deep-dive
+  - hugo_blog
+categories:
+  - ElasticSearch
 ---
 ![|center](Pasted%20image%2020240623104840.png)
 ## 1. coordinateing stage
