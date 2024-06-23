@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md"
+                "file": "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md"
               }
             }
           }
@@ -192,6 +192,9 @@
   },
   "active": "946996a7f36fca3b",
   "lastOpenFiles": [
+    "real-resource-image/Pasted image 20240623104840.png",
+    "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
+    "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
     "real-resource-image/Pasted image 20240622235513.png",
     "real-resource-image/Pasted image 20240622233603.png",
     "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
@@ -211,7 +214,6 @@
     "5-Temp/Spring/Untitled.md",
     "real-resource-image/Pasted image 20240618223931.png",
     "real-resource-image/Pasted image 20240618223803.png",
-    "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
     "3-Resource/Infrastructure/ElasticSearch/Elastic Search Index.md",
@@ -223,7 +225,6 @@
     "5-Temp/InfraStructure/elastic-search/es rollover.md",
     "5-Temp/Spring/스프링부트 해부학.md",
     "5-Temp/Spring/스프링 트랜잭션 매니저.md",
-    "5-Temp/Spring/스프링 쉘.md",
     "5-Temp/Spring/스프링 부트 해부학",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
@@ -231,7 +232,6 @@
     "real-resource-image/Pasted image 20240524172742.png",
     "real-resource-image/Pasted image 20240524172057.png",
     "real-resource-image/Pasted image 20240524171103.png",
-    "real-resource-image/Pasted image 20240524162016.png",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure",
     "3-Resource/Algorithm",
