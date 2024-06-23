@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Elastic-Search",
+                "query": "2020240618223803",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md"
+                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md"
               }
             }
           }
@@ -190,14 +190,14 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "946996a7f36fca3b",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
+    "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
     "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
     "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch rollover.md",
-    "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
     "3-Resource/Infrastructure/ElasticSearch/Elastic Search Data Tier.md",
     "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
     "3-Resource/Infrastructure/ElasticSearch/Elastic Search 노드.md",
