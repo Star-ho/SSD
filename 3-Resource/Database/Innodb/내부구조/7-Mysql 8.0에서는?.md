@@ -1,6 +1,6 @@
 ---
 date: 2024-05-24 16:30:40
-updatedAt: 2024-05-24 17:30:02
+updatedAt: 2024-06-23 21:05:18
 tags:
   - InnoDB
   - InnoDB-File-Structure
@@ -26,7 +26,7 @@ categories:
 - index record들은 singly-linked list구조인가?
 
 ## Space page 구조
-![center](Pasted%20image%2020240524171103.png#center)
+![center](Pasted%20image%2020240524171103.png)
 - 매우 작은 테이블의 구조를 나타냄
 - 5버전대와의 차이점은 SDI페이지가 생겼다는 것이고, 이외에는 동일하다
 	- SDI는 데이터베이스 객체에 대한 메타데이터를 저장하는 용도

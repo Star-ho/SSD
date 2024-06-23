@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "946996a7f36fca3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd9d0bb4e8278050",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/Spring/밸리데이터.md",
+                "file": "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,9 +48,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2020240618223803",
+                "query": "#center",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse"
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
+                "file": "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
+                "file": "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md"
+                "file": "2-Area/Weekly-Read/좋은 데이터 찾는법.md"
               }
             }
           }
@@ -190,25 +178,34 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "ce4cc2e525a18e14",
+  "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
+    "3-Resource/Database/Innodb/내부구조/7-Mysql 8.0에서는?.md",
+    "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
+    "2-Area/Weekly-Read",
+    "2-Area/0-Sung-ho/Untitled.md",
+    "3-Resource/Database/Innodb/내부구조/5-physical structure of records in InnoDB.md",
+    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
+    "5-Temp/Pasted image 20240618223803.png|center.md",
+    "5-Temp/Spring/밸리데이터.md",
+    "real-resource-image/Pasted image 20240622211925.png",
+    "real-resource-image/Pasted image 20240622233603.png",
+    "real-resource-image/Pasted image 20240622235513.png",
+    "real-resource-image/Pasted image 20240623104840.png",
+    "real-resource-image/Pasted image 20231002231423.png",
+    "real-resource-image/Pasted image 20230924231237.png",
+    "real-resource-image/KakaoTalk_Image_2023-11-15-22-24-02.png",
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
-    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
     "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
     "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch rollover.md",
     "3-Resource/Infrastructure/ElasticSearch/Elastic Search Data Tier.md",
     "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
     "3-Resource/Infrastructure/ElasticSearch/Elastic Search 노드.md",
-    "real-resource-image/Pasted image 20240623104840.png",
-    "real-resource-image/Pasted image 20240622235513.png",
-    "real-resource-image/Pasted image 20240622233603.png",
-    "real-resource-image/Pasted image 20240622211925.png",
     "real-resource-image/Pasted image 20240622211444.png",
     "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
     "3-Resource/Concept/Stream과 IO.md",
-    "5-Temp/Spring/밸리데이터.md",
     "3-Resource/Spring/jpa/Hibernate batch size.md",
     "3-Resource/Spring/jpa/Interceptor.md",
     "3-Resource/Spring/jpa/JPA 영속성전이, 프록시객체.md",
@@ -221,22 +218,14 @@
     "3-Resource/Infrastructure/ElasticSearch/Elastic Search Index.md",
     "3-Resource/Infrastructure/ElasticSearch/elasticsearch shard, replica.md",
     "3-Resource/Infrastructure/ElasticSearch/elastic search master node vs data node.md",
-    "3-Resource/Infrastructure/ElasticSearch/Elastic Search Document.md",
-    "5-Temp/InfraStructure/elastic-search/es rollover.md",
-    "5-Temp/Spring/스프링부트 해부학.md",
-    "5-Temp/Spring/스프링 트랜잭션 매니저.md",
     "5-Temp/Spring/스프링 부트 해부학",
     "5-Temp/Team culture",
     "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
-    "real-resource-image/Pasted image 20240524172847.png",
-    "real-resource-image/Pasted image 20240524172742.png",
-    "real-resource-image/Pasted image 20240524172057.png",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure",
     "3-Resource/Algorithm",
     "5-Temp/monitering, observility",
     "3-Resource/JVM/tool, plugin",
-    "5-Temp/TIP/Untitled",
     "Untitled.canvas"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 date: 2024-05-22 22:43:24
-updatedAt: 2024-05-24 16:29:38
+updatedAt: 2024-06-23 21:05:06
 tags:
   - InnoDB
   - InnoDB-File-Structure
@@ -19,7 +19,7 @@ categories:
 - InnoDB는 종종 레코드의 시작점 위치인 N을 원본으로 지칭함
 
 ### The record header
-![center](Pasted%20image%2020240524152545.png#center)
+![center](Pasted%20image%2020240524152545.png)
 - Next Record offset
 	- 현재 레코드에서 페이지 내 다음 레코드의 시작점까지의 상대적 오프셋
 - Record Type
@@ -47,7 +47,7 @@ categories:
 - record header는 row당 최소 5 byte이며, 가변길이 필드에 의해 더 길어질 수 있음
 
 ### Clustered indexes
-![center](Pasted%20image%2020240524153758.png#center)
+![center](Pasted%20image%2020240524153758.png)
 - Cluster Key Fields
 	- 클러스 키 필드는 문자 그대로 함께 연결됨
 	- InnoDB는 column유형 별 내부 저장소 형식의 raw byte를 단이 바이트 스트림으로 연결하기만 함
@@ -59,7 +59,7 @@ categories:
 - Non-Key Fields
 	- 기본키가 아닌 실제 행데이터가 단일 바이트 스트림으로 연결되어 있음
 
-![center](Pasted%20image%2020240524160646.png#center)
+![center](Pasted%20image%2020240524160646.png)
 - non-leaf 페이지의 레코드 포맷임
 - non-leaf page는 MVCC가 아니기에, Transaction ID와 Roll Pointer filed는 없음
 - non-key field 대신에 이 노드 포인터가 가르키는 하위 페이지 번호가 포함됨
@@ -70,11 +70,11 @@ categories:
 - Secondary Index와 clustered key사이에 겹치는 필드가 있는 경우, Secondary Index레코드에 저장된 clustered key에서 겹치는 필드가 제거됨
 - 예를들어, 테이블에 primary key(a,b,c)와 secondary Index(a,d)가 있는경우, 인덱스 내의 secondary key는 (a,d)가 되지만, PKV에는 (b,c)만 포함됨
 
-![center](Pasted%20image%2020240524161849.png#center)
+![center](Pasted%20image%2020240524161849.png)
 - sendary key fields는 clusterd key와 마찬가지로 단일 바이트 스트림으로 연결됨
 - clustered key 필드는 정확한 동일한 방식으로 함께 연결되어 PKV를 만듬
 
-![center](Pasted%20image%2020240524162016.png#center)
+![center](Pasted%20image%2020240524162016.png)
 - Secondary index의 non-leaf page는 PKV가 레코드에 포함되며, 이는 레코드 값이 아닌, 레코드 키의 일부로 간주됨
 - Secondary index는 고유하지 않을 수 있지만, 페이지 내의 각 레코드는 unique 식별자가 필요함
 	- 그러므로 고유성을 보장하기 위해 PKV가 레코드에 포함되어 있어야함

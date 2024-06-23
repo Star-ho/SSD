@@ -1,6 +1,6 @@
 ---
 date: 2024-06-18 22:30:18
-updatedAt: 2024-06-23 20:37:56
+updatedAt: 2024-06-23 21:03:46
 tags:
   - ElasticSearch
   - Concept
@@ -48,11 +48,11 @@ categories:
 ## Query Phase(3,4,5,6)
 - 검색 쿼리는 모든 샤드에 전성되어 로컬 실행이 시작되고, 일치하는 문서가 포함된 우선순위 대기열이 생성됨
 
-![](Pasted%20image%2020240618223803.png|center)
+![|center](Pasted%20image%2020240618223803.png)
 
 ## Fetch Phase(7)
 - query Phase가 연관된 문서를 확인하는 반면에,  Fetch phase에서는 각각의 샤드에서 실제 문서를 가져오는 역할을 담당함
-![](Pasted%20image%2020240618223931.png|center)
+![](Pasted%20image%2020240618223931.png)
 
 - 이 분할방식은 분산된 환경에서 효과적이고 확장가능한 검색작업을 보장함
 	- Query phase에서는 검색 커리가 각 샤드 복사본을 탐색하여 로컬 검색을 시작하고, 일치하는 문서의 우선순위가 지정된 목록을 컴파일함
