@@ -1,6 +1,6 @@
 ---
 date: 2024-06-23 10:45:30
-updatedAt: 2024-06-23 11:03:41
+updatedAt: 2024-06-23 11:12:36
 ---
 ![|center](Pasted%20image%2020240623104840.png)
 ## 1. coordinateing stage
@@ -15,21 +15,26 @@ updatedAt: 2024-06-23 11:03:41
 	- 사용자에게 승인된 모든 인덱스 및 삭제 작업을 처리했음을 보장하는 정상 샤드 복사본 직합
 	- primary는 이 불변성을 유지할 책임이 있으므로, 모든 작업을 해당 세트의 replica에 복제해야함
 - 기본 샤드의 요청 흐름
-	2-1. 들어오는 연산의 유효성을 검사하고, 유효하지 않은 경우 거부함
-		ex) 숫자 필드에 객체 필드가 들어오는경우
-	2-2. local에서 작업을 수행하고, 관련 document를 indexing하거나 삭제함
-	- 유효성을 검사하고 필요할경우 거부함(키워드가 너무 길어 Lucene에 색인할 수 없는경우)
+	2-2. translog를 작성함
+	- translog는 장애발생시 복구를 위해 사용
+	2-2. 충분한 수의 replica가 승인하면, primary는 승인을 반환
+		2-2-1 local에서 작업을 수행하고, 관련 document를 indexing하거나 삭제함
+		- 유효성을 검사하고 필요할경우 거부함(키워드가 너무 길어 Lucene에 색인할 수 없는경우)
 	2-3. in-sync copies set의 각 replica에게 작업을 전송함
 	- 복제본이 여러개인 경우, 병렬로 수행됨
 	2-4. 모든 in-sync copies set이 작업을 성공적으로 수행하고, primary에 응답하면 primary는 클라이언트에 대한 요청이 정상적으로 완료되었음을 알 수 있음
+> 문서 두개가 다른내용임, [문서1](https://www.elastic.co/blog/found-elasticsearch-top-down) [문서2](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-replication.html#basic-write-model) 
+> 이중 문서1이 조금 더 nosql의 정의와 맞는 부분이 있어 문서1의 내용으로 작성함
+## 3. replica stage
+- 각 in-sync replica는 로컬에서 인덱싱 작업을 수행하며 복사본을 가짐
 
-- 각 in-sync replica는 로컬에서 인덱싱 작업을 수행하며 복사본을 가짐, 이를 replica stage라고 함 
 
-- 위의 indexing단게는 순차적으로 진행되며, 내부 재시도를 가능하기 위해 lifetime을 가지고 있음
-- 조정 단계는 여러 기본샤드가 분산되어 있을 수 있는 
+###  위의 indexing단계는 순차적으로 진행되며, 내부 재시도를 가능하기 위해 lifetime을 가지고 있음
+
 
 
 https://www.elastic.co/blog/found-elasticsearch-top-down
 https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up
 https://www.javaadvent.com/2022/12/elasticsearch-internals.html
+https://medium.com/geekculture/elasticsearch-internals-4c4c9ec077fa
 https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-replication.html#basic-write-model
