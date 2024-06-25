@@ -807,6 +807,7 @@
     "3-Resource/Infrastructure/ElasticSearch/Analyzer.md": "05650abca1fed5774f48955de361eb3e576d9957e0f99798b249efc4cb24c656",
     "3-Resource/Infrastructure/ElasticSearch/Lucene.md": "ca5478a7f2db52aae53180d5ca4c47920026a70cf2caf4394da000f8abe49bdf",
     "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md": "ff276011b2324a08bd371e9196078ded1766cabdb1cde77e0d8a56d7443c6808",
-    "2-Area/Weekly-Read/좋은 데이터 찾는법.md": "222f765df188031fd004b7fa2370a3bed2f86f78a8209d99929f3b76ff2304dc"
+    "2-Area/Weekly-Read/좋은 데이터 찾는법.md": "222f765df188031fd004b7fa2370a3bed2f86f78a8209d99929f3b76ff2304dc",
+    "5-Temp/InfraStructure/messsge-queue/mq vs kafka.md": "ecc6f4d0142511964d6396b5e12b767434a6b10ab3902fd937e4394d1e696bf1"
   }
 }
