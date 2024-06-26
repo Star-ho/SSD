@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "해부학",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -178,7 +178,7 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "fd9d0bb4e8278050",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
     "5-Temp/JVM/java class 파일 구조.md",
     "5-Temp/JVM/Kotlin과 Java의 Nested and Inner Classes.md",
