@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
+                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md"
+                "file": "3-Resource/Infrastructure/ElasticSearch/Lucene.md"
               }
             }
           }
@@ -180,6 +180,11 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
+    "3-Resource/Infrastructure/ElasticSearch/elasticsearch rollover.md",
+    "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
+    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
+    "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
+    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
     "3-Resource/Infrastructure/ElasticSearch/Elastic Search Data Tier.md",
     "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
     "5-Temp/JVM/Kotlin과 Java의 Nested and Inner Classes.md",
@@ -201,11 +206,6 @@
     "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md",
     "5-Temp/Database/Lock.md",
     "5-Temp/Spring/oncePerRequestFilter, filter 두번 적용되는거 재현해보기.md",
-    "5-Temp/JVM/exception runtimeException Throwable.md",
-    "5-Temp/Spring/ApplicationContextAware.md",
-    "5-Temp/Spring/JPA 쿼리 변환 순서.md",
-    "3-Resource/Spring/jpa/Hibernate Associate(하이버네이트 연관관계).md",
-    "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
     "2-Area/Weekly-Read",
     "real-resource-image/Pasted image 20240622211925.png",
     "real-resource-image/Pasted image 20240622233603.png",
