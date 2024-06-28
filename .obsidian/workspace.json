@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Spring/spring boot yaml.md",
-                "mode": "preview",
+                "file": "3-Resource/Spring/Spring vs Spring boot.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Spring/spring boot yaml.md",
+                "file": "3-Resource/Spring/Spring vs Spring boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Spring/spring boot yaml.md",
+                "file": "3-Resource/Spring/Spring vs Spring boot.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Spring/spring boot yaml.md"
+                "file": "3-Resource/Spring/Spring vs Spring boot.md"
               }
             }
           }
@@ -180,6 +180,14 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
+    "5-Temp/Spring/dataJpaTest.md",
+    "3-Resource/Spring/Spring vs Spring boot.md",
+    "5-Temp/Spring/Untitled.md",
+    "5-Temp/Spring/globalrollbackonparticipationfailure.md",
+    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
+    "5-Temp/Spring/스프링 쉘.md",
+    "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
+    "3-Resource/Spring/spring boot yaml.md",
     "3-Resource/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
     "3-Resource/Spring/Querydsl transform connection leak.md",
     "3-Resource/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
@@ -198,14 +206,6 @@
     "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
     "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
     "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
-    "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
-    "3-Resource/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
-    "3-Resource/JVM/Concurrent/4-Volitile.md",
-    "3-Resource/JVM/Concurrent/2-Semaphore.md",
-    "3-Resource/JVM/Concurrent/0-Lock 정의 & synchronized.md",
-    "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
-    "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
-    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
     "2-Area/Weekly-Read",
     "real-resource-image/Pasted image 20240622211925.png",
     "real-resource-image/Pasted image 20240622233603.png",
