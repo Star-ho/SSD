@@ -1,12 +1,12 @@
 ---
 date: 2023-09-30T14:43:28
-updatedAt: 2024-04-21 18:34:36+2800
+updatedAt: 2024-06-28 23:12:25
 tags:
   - Spring
 categories:
   - Spring
 ---
-```
+```java
 @AutoConfiguration(after = { ReactiveWebServerFactoryAutoConfiguration.class, CodecsAutoConfiguration.class,
 		ReactiveMultipartAutoConfiguration.class, ValidationAutoConfiguration.class,
 		WebSessionIdResolverAutoConfiguration.class })

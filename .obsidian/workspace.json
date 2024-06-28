@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
-                "mode": "source",
+                "file": "3-Resource/Spring/spring boot yaml.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
+                "file": "3-Resource/Spring/spring boot yaml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
+                "file": "3-Resource/Spring/spring boot yaml.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md"
+                "file": "3-Resource/Spring/spring boot yaml.md"
               }
             }
           }
@@ -180,32 +180,32 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
+    "3-Resource/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
+    "3-Resource/Spring/Querydsl transform connection leak.md",
+    "3-Resource/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
+    "3-Resource/Spring/Interceptor.md",
+    "3-Resource/Spring/Handler.md",
+    "3-Resource/Spring/HandlerMethodArgumentResolver.md",
+    "3-Resource/Spring/jpa/JPA entity manager.md",
+    "3-Resource/Spring/jpa/JPA 영속성전이, 프록시객체.md",
+    "3-Resource/Spring/jpa/Hibernate batch size.md",
+    "3-Resource/Spring/jpa/Hibernate Associate(하이버네이트 연관관계).md",
+    "3-Resource/Spring/jpa/Hibernate.md",
+    "3-Resource/Spring/jpa/Dynamic update.md",
+    "3-Resource/JVM/tool, plugin/buck.md",
+    "3-Resource/JVM/tool, plugin/Bazel.md",
+    "3-Resource/JVM/Java built in Annotation.md",
+    "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
+    "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
+    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
+    "3-Resource/JVM/Garbage Collection/0-Garbage Collection Concept.md",
+    "3-Resource/JVM/Concurrent/5-ExecutorService & CountDownLatch.md",
+    "3-Resource/JVM/Concurrent/4-Volitile.md",
+    "3-Resource/JVM/Concurrent/2-Semaphore.md",
+    "3-Resource/JVM/Concurrent/0-Lock 정의 & synchronized.md",
+    "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
     "3-Resource/Infrastructure/ElasticSearch/Analyzer.md",
     "3-Resource/Infrastructure/ElasticSearch/ElasticSearch.md",
-    "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md",
-    "3-Resource/Infrastructure/ElasticSearch/elasticsearch rollover.md",
-    "3-Resource/Infrastructure/ElasticSearch/ElasticSearch query and fetch.md",
-    "3-Resource/Infrastructure/ElasticSearch/elasticsearch index template.md",
-    "3-Resource/Infrastructure/ElasticSearch/Elastic Search Data Tier.md",
-    "3-Resource/Infrastructure/ElasticSearch/Lucene.md",
-    "5-Temp/JVM/Kotlin과 Java의 Nested and Inner Classes.md",
-    "5-Temp/JVM/java class 파일 구조.md",
-    "5-Temp/Spring/스프링 부트 해부학/나도 써보자 해부학.md",
-    "5-Temp/Database/인덱스는 어떤테이블에?.md",
-    "3-Resource/JVM/kotlin vs java.md",
-    "5-Temp/Database/쿼리튜닝/쿼리 실행 순서.md",
-    "5-Temp/코드짤떄/클래스 하나당 100줄.md",
-    "5-Temp/InfraStructure/messsge-queue/pub sub vs message queue vs message broker vs streaming platform.md",
-    "5-Temp/InfraStructure/messsge-queue/mq vs kafka.md",
-    "5-Temp/InfraStructure/messsge-queue/message driven, event driven.md",
-    "5-Temp/InfraStructure/messsge-queue/RabbitMQ vs Kafka.md",
-    "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
-    "5-Temp/blind 자바 버전업, nosql은 언제쓰면 좋을까 정리하기.md",
-    "5-Temp/Spring/dataJpaTest.md",
-    "3-Resource/Computer-Siece/제일급함.md",
-    "5-Temp/Computer Science/Socket file 구조.md",
-    "5-Temp/Database/user level lock은 disk or memory중 어디저장?.md",
-    "5-Temp/Database/Lock.md",
     "2-Area/Weekly-Read",
     "real-resource-image/Pasted image 20240622211925.png",
     "real-resource-image/Pasted image 20240622233603.png",
