@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Concept/Session vs JWT.md",
+                "file": "3-Resource/Concept/OpenTelemetry.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Concept/Session vs JWT.md",
+                "file": "3-Resource/Concept/OpenTelemetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Concept/Session vs JWT.md",
+                "file": "3-Resource/Concept/OpenTelemetry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Concept/Session vs JWT.md"
+                "file": "3-Resource/Concept/OpenTelemetry.md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
-    "3-Resource/Concept/SPI(Service Provider Interface).md",
     "3-Resource/Concept/Session vs JWT.md",
+    "3-Resource/Concept/SPI(Service Provider Interface).md",
     "5-Temp/0-이직자료/면접자료/면접대비 자료.md",
     "5-Temp/0-이직자료/면접자료/책임과 권한.md",
     "5-Temp/0-이직자료/면접자료/면접 가이드.md",
