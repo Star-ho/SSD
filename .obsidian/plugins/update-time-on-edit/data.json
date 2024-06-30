@@ -489,7 +489,6 @@
     "5-Temp/Softeware Architecture/Anemic Domain Model.md": "de0ebc1d3eade1bc19e380200eca91492c9217b0b7d8d4e8137b652f9718bebc",
     "5-Temp/0-이직자료/기술적으로 어려웠던 경험.md": "11f1e73afcf591f547d4dad921add055be4281b3645f7a52491474471b9e35bc",
     "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md": "a41628202af57c5c49752ac90a10d51efa5118491d61fc8c61005ef47d625725",
-    "2-Area/Series/Async-messaging/Async-messaging.md": "b308250f34cba3fa735d6a13167e826cf1a762a2d52205439939da2d41224e82",
     "2-Area/Series/cache/Caching Strategy.md": "965165a2901ec2a5596cfd67f5dc368931a61abc10a3dbc1ce1ffa2e364098e6",
     "2-Area/Series/cache/Cache Passivation, Expiration, Eviction.md": "e3d6a0cf4283e8884a882179d82a7f1dc3a4937a333c4fa396f201b58f675edd",
     "2-Area/Series/Concurrency/1-Mutex(Lock).md": "df0f6028bbac1df0965975e37a8669d9fd86281bf6f6606843d4c4d20fc5e674",
@@ -815,6 +814,10 @@
     "2-Area/Weekly-Read/림프관 마사지.md": "9cd7cc3aa241c62bc13f762dd40aed33c9fcd5555f8376f5f86e709780f7a1d3",
     "2-Area/Weekly-Read/개발.md": "a3d46c6dfab3dea72cbd0e4822b9d706462aaad56ff52c3748c9a36b2bd9b9b1",
     "2-Area/Weekly-Read/건강.md": "33d3614cb8a61427c65a8675a49707272258e464ef387821c408c982991b267c",
-    "3-Resource/Concept/Session vs JWT.md": "6084c4e293544fd6b4e7a59fc4ee57bc81bba1917500d21b671c2371dc2e85b4"
+    "3-Resource/Concept/Session vs JWT.md": "6084c4e293544fd6b4e7a59fc4ee57bc81bba1917500d21b671c2371dc2e85b4",
+    "3-Resource/Infrastructure/Message Queue/Async-messaging.md": "b308250f34cba3fa735d6a13167e826cf1a762a2d52205439939da2d41224e82",
+    "3-Resource/Infrastructure/Message Queue/akka.md": "fcb2fc0e224d5a861c4cf728c76d95104cb16c01f38ea01a392def0a3cde1d42",
+    "3-Resource/Infrastructure/Message Queue/Kafka Component.md": "435ecffb21ba7d2090cc4498b1a5c1bd7650f05d8ce566687f5722aca3b535ec",
+    "3-Resource/Infrastructure/Message Queue/Message 사용 예제.md": "6ac6e948efcdfe3726e0849a730e6c29cf0f2ee940c131a1b724561567128f5d"
   }
 }

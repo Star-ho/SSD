@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Concept/OpenTelemetry.md",
+                "file": "3-Resource/Infrastructure/Message Queue/Message 사용 예제.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Concept/OpenTelemetry.md",
+                "file": "3-Resource/Infrastructure/Message Queue/Message 사용 예제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Concept/OpenTelemetry.md",
+                "file": "3-Resource/Infrastructure/Message Queue/Message 사용 예제.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Concept/OpenTelemetry.md"
+                "file": "3-Resource/Infrastructure/Message Queue/Message 사용 예제.md"
               }
             }
           }
@@ -180,6 +180,20 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
+    "3-Resource/Infrastructure/Message Queue/Kafka Read.md",
+    "3-Resource/Infrastructure/Message Queue/Message 사용 예제.md",
+    "3-Resource/Infrastructure/Message Queue/Kafka Write.md",
+    "3-Resource/Infrastructure/Message Queue/Kafka Coordinater.md",
+    "3-Resource/Infrastructure/Message Queue/Kafka Component.md",
+    "3-Resource/Infrastructure/Message Queue/akka.md",
+    "3-Resource/Infrastructure/Message Queue/Message Queue 사용이유.md",
+    "3-Resource/Infrastructure/Message Queue/Async-messaging.md",
+    "3-Resource/Infrastructure/Message Queue.md",
+    "3-Resource/Infrastructure/Message Queue",
+    "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
+    "3-Resource/Concept/HTTP Method PUT vs PATCH.md",
+    "3-Resource/Concept/OLTP, OLAP, DW, DL.md",
+    "3-Resource/Concept/OpenTelemetry.md",
     "3-Resource/Concept/Session vs JWT.md",
     "3-Resource/Concept/SPI(Service Provider Interface).md",
     "5-Temp/0-이직자료/면접자료/면접대비 자료.md",
@@ -189,23 +203,10 @@
     "5-Temp/0-이직자료/면접자료/기초cs.md",
     "3-Resource/Software-Design/Saga Pattern.md",
     "3-Resource/Architechure/OOD.md",
-    "2-Area/Series/Async-messaging/Async-messaging.md",
     "2-Area/개발 외의 것들/피부.md",
     "2-Area/개발 외의 것들/인생...md",
     "2-Area/개발 외의 것들/운전 팁.md",
     "2-Area/개발 외의 것들/운동.md",
-    "2-Area/개발 외의 것들/영양제.md",
-    "2-Area/Weekly-Read/건강.md",
-    "2-Area/Weekly-Read/림프관 마사지.md",
-    "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
-    "2-Area/Weekly-Read/개발.md",
-    "2-Area/생각정리/테스트코드.md",
-    "2-Area/생각정리/팀원으로서 마인드셋.md",
-    "2-Area/생각정리/혁펜하임 공부법.md",
-    "2-Area/생각정리/황성호 공부법.md",
-    "2-Area/Series/coroutine/코루틴.md",
-    "5-Temp/InfraStructure/messsge-queue/카프카 쓸때 고려해야할점.md",
-    "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
     "2-Area/Weekly-Read",
     "real-resource-image/Pasted image 20240622211925.png",
     "real-resource-image/Pasted image 20240622233603.png",
@@ -225,7 +226,6 @@
     "3-Resource/DataStructure",
     "3-Resource/Algorithm",
     "5-Temp/monitering, observility",
-    "3-Resource/JVM/tool, plugin",
     "Untitled.canvas"
   ]
 }
