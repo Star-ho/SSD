@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Infrastructure/Message Queue/eventually consistence를 사용할때 사용자에게 알려주는 법.md",
+                "file": "3-Resource/Infrastructure/Message Queue/비동기 작업에서 사용자에게 작업 완료를 알려주는법.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Infrastructure/Message Queue/eventually consistence를 사용할때 사용자에게 알려주는 법.md",
+                "file": "3-Resource/Infrastructure/Message Queue/비동기 작업에서 사용자에게 작업 완료를 알려주는법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Infrastructure/Message Queue/eventually consistence를 사용할때 사용자에게 알려주는 법.md",
+                "file": "3-Resource/Infrastructure/Message Queue/비동기 작업에서 사용자에게 작업 완료를 알려주는법.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Infrastructure/Message Queue/eventually consistence를 사용할때 사용자에게 알려주는 법.md"
+                "file": "3-Resource/Infrastructure/Message Queue/비동기 작업에서 사용자에게 작업 완료를 알려주는법.md"
               }
             }
           }
@@ -181,15 +181,15 @@
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
     "3-Resource/Infrastructure/Message Queue/Message Queue 사용이유.md",
-    "3-Resource/Infrastructure/Message Queue/eventually consistence를 사용할때 사용자에게 알려주는 법.md",
     "3-Resource/Infrastructure/Message Queue/Message 사용 예제.md",
-    "3-Resource/Infrastructure/Message Queue/Apache Pulsar.md",
-    "3-Resource/Infrastructure/Message Queue/Kafka Read.md",
     "3-Resource/Infrastructure/Message Queue/Kafka Write.md",
     "3-Resource/Infrastructure/Message Queue/Kafka Coordinater.md",
     "3-Resource/Infrastructure/Message Queue/Kafka Component.md",
-    "3-Resource/Infrastructure/Message Queue/akka.md",
     "3-Resource/Infrastructure/Message Queue/Async-messaging.md",
+    "3-Resource/Infrastructure/Message Queue/Apache Pulsar.md",
+    "3-Resource/Infrastructure/Message Queue/akka.md",
+    "3-Resource/Infrastructure/Message Queue/비동기 작업에서 사용자에게 작업 완료를 알려주는법.md",
+    "3-Resource/Infrastructure/Message Queue/Kafka Read.md",
     "3-Resource/Infrastructure/Message Queue.md",
     "3-Resource/Infrastructure/Message Queue",
     "3-Resource/Concept/동기 & 비동기, 블로킹 & 논블로킹.md",
