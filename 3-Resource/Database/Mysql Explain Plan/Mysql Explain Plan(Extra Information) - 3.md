@@ -1,6 +1,6 @@
 ---
 date: 2024-05-03 23:35:47
-updatedAt: 2024-05-04 22:51:26
+updatedAt: 2024-06-30 23:37:25
 tags:
   - hugo_blog
   - Explain-Plan
@@ -20,7 +20,7 @@ categories:
 ## Using index
 - 커버링 인덱스가 사용되었음을 의미함
 - 실제 테이블데이터를 읽지 않고, 인덱스만 조회함
-- 쿼리가 하나의 인덱스에서 조회에 필요한 모든 데이터를 가지고 있을경우 사용됨
+- 쿼리가 하나의 인덱스에서 조회에 필요한 모든 데이터를 가지고 있을 경우 사용됨
 ## Using index condition
 - 인덱스를 먼저 읽은 후 필요할 경우 테이블 데이터를 읽음
 - 테이블 데이터를 필요할때 까지 읽는것을 미룸
@@ -41,7 +41,7 @@ categories:
 - where절을 사용하여 행을 제한한것을 의미함
 - 모든 행을 가져오는 경우가 아니라면, using where이 사용되지 않으면서 join type이 ALL이나 index이면 쿼리에 문제가 있는 것일 수 있음
 
-#### **Using index for skip scan**
+## Using index for skip scan
 #### **12.5 Using join buffer(Block Nested Loop, hash join)**
 
 #### **Using where**

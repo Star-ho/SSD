@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Software-Design/객체지향 프로그래밍 - Object Oriented Programming.md",
+                "file": "5-Temp/Database/JOIN을 쓰는 이유.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "캡슐화",
+                "query": "join을 ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Software-Design/객체지향 프로그래밍 - Object Oriented Programming.md",
+                "file": "5-Temp/Database/JOIN을 쓰는 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Software-Design/객체지향 프로그래밍 - Object Oriented Programming.md",
+                "file": "5-Temp/Database/JOIN을 쓰는 이유.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Software-Design/객체지향 프로그래밍 - Object Oriented Programming.md"
+                "file": "5-Temp/Database/JOIN을 쓰는 이유.md"
               }
             }
           }
@@ -178,10 +178,25 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "fd9d0bb4e8278050",
+  "active": "ce4cc2e525a18e14",
   "lastOpenFiles": [
-    "2-Area/Software-Design/OOP.md",
+    "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
+    "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
+    "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md",
+    "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
+    "3-Resource/Database/Innodb/Change Buffer.md",
+    "3-Resource/Database/Innodb/Buffer Pool.md",
+    "3-Resource/Database/Innodb/adaptive hash index.md",
+    "3-Resource/Database/Innodb/내부구조/5-physical structure of records in InnoDB.md",
+    "3-Resource/Database/Innodb/내부구조/6-Efficiently traversing InnoDB B+Trees with the page directory.md",
+    "3-Resource/Database/Innodb/내부구조/4-B+tree index structure.md",
+    "3-Resource/Database/Innodb/내부구조/3-InnoDB Index.md",
+    "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md",
+    "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
+    "3-Resource/Database/Innodb/내부구조/정리.md",
+    "3-Resource/Database/Innodb/내부구조/사용했던 명령어들.md",
     "2-Area/Software-Design/객체지향 프로그래밍 - Object Oriented Programming.md",
+    "2-Area/Software-Design/OOP.md",
     "5-Temp/코드짤떄/DTO.md",
     "5-Temp/0-이직자료/면접자료/책임과 권한.md",
     "5-Temp/0-이직자료/면접자료/면접대비 자료.md",
@@ -192,20 +207,6 @@
     "5-Temp/Softeware Architecture/DDD.md",
     "5-Temp/Softeware Architecture/DDD 패키지구조.md",
     "5-Temp/Softeware Architecture/OOD.md",
-    "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md",
-    "2-Area/생각정리/클래스, 메서드,.md",
-    "2-Area/Software-Design/Service.md",
-    "2-Area/Software-Design/Entity, VO.md",
-    "2-Area/Software-Design/Aggregate 생명주기(Factory, Repository).md",
-    "2-Area/Software-Design/Aggregate.md",
-    "2-Area/Software-Design/협력, 책임, 역할.md",
-    "2-Area/Software-Design/필드를 노출시키면 안되는 이유.md",
-    "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
-    "2-Area/Weekly-Read/개발.md",
-    "3-Resource/Infrastructure/Message Queue/Message 사용 예제.md",
-    "3-Resource/Infrastructure/Message Queue/Message Queue 사용이유.md",
-    "3-Resource/Infrastructure/Message Queue/비동기 작업에서 사용자에게 작업 완료를 알려주는법.md",
-    "3-Resource/Infrastructure/Message Queue/Kafka Write.md",
     "3-Resource/Infrastructure/Message Queue",
     "2-Area/Weekly-Read",
     "real-resource-image/Pasted image 20240622211925.png",
@@ -221,7 +222,6 @@
     "real-resource-image/Pasted image 20240618223803.png",
     "5-Temp/Spring/스프링 부트 해부학",
     "5-Temp/Team culture",
-    "3-Resource/Database/Innodb/내부구조/InnoDB_Structures.pdf",
     "3-Resource/Database/Innodb/내부구조",
     "3-Resource/DataStructure",
     "3-Resource/Algorithm",

@@ -8,7 +8,9 @@ updatedAt: 2024-06-30 23:17:33
 
 ## 특징
 ### 캡슐화
-- 서로 연관되어있
+- 서로 연관되어있는 속성과 기능들을 하나의 캡슐로 만들어 외부로 부터 보호하는것
+	- 데이터 보호 - 외부로부터 클래시에 정의된 속성과 기능들을 보호
+	- 데이터 은닉 - 내부의 동작을 감추고 외부에는 필요한 부분만 노출
 ### 추상화
 - 중요한 부분을 강조하기 위해 불필요한 세부사항을 제거하고, 본질적이고 공통적인 부분만 추출하여 표현하는 것
 ### 상속
@@ -27,10 +29,11 @@ updatedAt: 2024-06-30 23:17:33
 - 변경에는 닫혀있고, 확장에는 열려있어야함
 
 ### 리스코프 치환 원칙 (Liskov Substitution Principle)
-- 부모와 자식간 위치를 바꾸어도 동작해야함
+- 프로그램의 정확성을 깨뜨리지 않으면서 하위 타입의 인스턴스로 바꿀 수 있어야 함
 
 ### 인터페이스 분리 원칙 (Interface Segregation Principle)
 - 필요한 인터페이스만 상속받아야함
+	- 특정 클라이언트를 위한 인터페이스 여러개가 범용 인터페이스 하나보다 낫다
 
 ### 의존 역전 원칙 (Dependency Inversion Principle)
 - 구체화된것 보다는 추상적인것을 의존해야함
@@ -42,3 +45,10 @@ updatedAt: 2024-06-30 23:17:33
 관심사의 분리
 https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html
 It is what I sometimes have called "the separation of concerns", which, even if not perfectly possible, is yet the only available technique for effective ordering of one's thoughts, that I know of. This is what I mean by "focussing one's attention upon some aspect": it does not mean ignoring the other aspects, it is just doing justice to the fact that from this aspect's point of view, the other is irrelevant. It is being one- and multiple-track minded simultaneously.
+
+
+
+https://www.codestates.com/blog/content/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8A%B9%EC%A7%95
+
+
+#argent 
