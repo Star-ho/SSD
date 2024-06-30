@@ -537,7 +537,6 @@
     "2-Area/Software-Design/Service.md": "158648dbba5b5c4b5a9b1f5d30b7185c6704c4ffcaf62175017ab64f4b9b5e3f",
     "2-Area/Software-Design/협력, 책임, 역할.md": "c37eb546e82005c2ea0fa2fbecb4e7bffb77e568d637f8e2cb825f3505c2259b",
     "5-Temp/Operating-System/OS에서 file descriptor, thread를 제한하는 이유.md": "91c5060cbe5f3160d173b0a8052cd137074c0aacb57c5d2ce5cd8c7f9985d115",
-    "5-Temp/Spring/@Condition.md": "7c70468436e2d1f8466ab46e999381a130b644893ffea3f86a80cfba1bc0e24f",
     "5-Temp/JVM/threshold가 낮은 객체들이 eden에 쌓일때.md": "22dc0256f1fabe222b8c53129a628389bf12ea3ad9cafbd5b6fce6f461eb4a9f",
     "5-Temp/Database/mysql/Hint 동작 역할.md": "c1ccab0dc62af4b80cf23999d7ff1dc93554dbe2530f9fcc342331ef683ffe17",
     "5-Temp/Computer Science/동기 비동기.md": "022e52e9fa525fdfcb91366d2358f8f20b997e7e44d9566dc3b6b866672a1ff9",
@@ -675,7 +674,6 @@
     "3-Resource/Database/그룹별 순위 가져오기.md": "ed62d540edac756c099cfc61df09c24740f36f62dab38c88352f137373e18467",
     "3-Resource/Database/데비지움, CDC.md": "a9139bcbffa71a915b927b199345ce4d374dd35989efebb114510a403ec9296d",
     "3-Resource/Database/맵리듀스.md": "47592365fc4f0111ec23c7b556debccf5c7ff20e1ed9cbc57a6dfd000a64804d",
-    "3-Resource/Database/오픈스택.md": "ca7c9016e00be5d026fb48a4360ca73ff57ca74e546af39944dc19b1c5d167bc",
     "3-Resource/Database/DB 날려먹었을때 복구방법.md": "d6e87941209324b6afd8374795bd98f4b2e33ab403ef2463294c99a55df69610",
     "3-Resource/Database/HikariCP.md": "f721ada5a4330d9287175b412a620a79a1bd0a33e22629b116f7e7654c9c4e0f",
     "3-Resource/Database/Mysql Connection check query.md": "eaf1433de203a3d4b16a699fd6fe6d5798f1cac1335222b0164ef74ee627b165",
@@ -814,6 +812,8 @@
     "5-Temp/JVM/Kotlin과 Java의 Nested and Inner Classes.md": "f31f3d5463bde73af8c3be32c097c0c4e6d8d716f8f62ddc72e6819ae6094b5a",
     "5-Temp/JVM/java class 파일 구조.md": "dc5e259d8d7f6ca3fe02a2e7b0035f0fa9f4705b18c7cba20ece678316ee5f1f",
     "3-Resource/Spring/Interceptor.md": "c294d4fa3de4241b3a31c7e1f1c4527df0b4200e66bc9fa139f6840887734de2",
-    "3-Resource/Spring/Spring vs Spring boot.md": "d6afbd12306efb7bd69b3eeb295b8cb5daa32bf63f9d8c0920aa75e00b907663"
+    "3-Resource/Spring/Spring vs Spring boot.md": "d6afbd12306efb7bd69b3eeb295b8cb5daa32bf63f9d8c0920aa75e00b907663",
+    "5-Temp/Spring/스프링 부트 해부학/오픈스택.md": "ca7c9016e00be5d026fb48a4360ca73ff57ca74e546af39944dc19b1c5d167bc",
+    "5-Temp/InfraStructure/@Condition.md": "7c70468436e2d1f8466ab46e999381a130b644893ffea3f86a80cfba1bc0e24f"
   }
 }

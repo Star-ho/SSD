@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
+                "file": "5-Temp/InfraStructure/Redis/redis vs memcached.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
+                "file": "5-Temp/InfraStructure/Redis/redis vs memcached.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
+                "file": "5-Temp/InfraStructure/Redis/redis vs memcached.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md"
+                "file": "5-Temp/InfraStructure/Redis/redis vs memcached.md"
               }
             }
           }
@@ -180,32 +180,32 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
-    "3-Resource/Spring/Spring vs Spring boot.md",
-    "5-Temp/Spring/dataJpaTest.md",
-    "5-Temp/Spring/Untitled.md",
-    "5-Temp/Spring/globalrollbackonparticipationfailure.md",
-    "5-Temp/Spring/특히 jackson 라이브러같은건.md",
-    "5-Temp/Spring/스프링 쉘.md",
-    "5-Temp/Spring/스프링 깊은이해 예시가 있을까요.md",
-    "3-Resource/Spring/spring boot yaml.md",
-    "3-Resource/Spring/Servlet에서 handler와 interceptor가 적용되는 과정.md",
-    "3-Resource/Spring/Querydsl transform connection leak.md",
-    "3-Resource/Spring/mvc와 reactive둘의 dependency가 걸려있는 reactive사용하기.md",
-    "3-Resource/Spring/Interceptor.md",
-    "3-Resource/Spring/Handler.md",
-    "3-Resource/Spring/HandlerMethodArgumentResolver.md",
-    "3-Resource/Spring/jpa/JPA entity manager.md",
-    "3-Resource/Spring/jpa/JPA 영속성전이, 프록시객체.md",
-    "3-Resource/Spring/jpa/Hibernate batch size.md",
-    "3-Resource/Spring/jpa/Hibernate Associate(하이버네이트 연관관계).md",
-    "3-Resource/Spring/jpa/Hibernate.md",
-    "3-Resource/Spring/jpa/Dynamic update.md",
-    "3-Resource/JVM/tool, plugin/buck.md",
-    "3-Resource/JVM/tool, plugin/Bazel.md",
-    "3-Resource/JVM/Java built in Annotation.md",
-    "3-Resource/JVM/Garbage Collection/Full garbage collection.md",
-    "3-Resource/JVM/Garbage Collection/2-Garbage Collection Types.md",
-    "3-Resource/JVM/Garbage Collection/1-Garbage Collection Process.md",
+    "5-Temp/InfraStructure/Redis/redis에 대해 공부해보자.md",
+    "5-Temp/InfraStructure/Redis/redis vs mysql memeory db.md",
+    "5-Temp/InfraStructure/Redis/redis vs memcached.md",
+    "5-Temp/InfraStructure/Redis/redis transaction.md",
+    "5-Temp/InfraStructure/Redis/redis jemalloc.md",
+    "5-Temp/InfraStructure/Redis/Redis cache strategy.md",
+    "5-Temp/InfraStructure/Redis/redis 테이블 컬럼.md",
+    "5-Temp/InfraStructure/Redis/redis 직렬화 역직렬화 이슈.md",
+    "5-Temp/InfraStructure/Redis/redis 고려해볼점.md",
+    "5-Temp/InfraStructure/Redis/Redis.md",
+    "5-Temp/InfraStructure/Redis/레디스는 왜 싱글 쓰레드 일까?.md",
+    "5-Temp/InfraStructure/Redis/레디스는 싱글쓰레드.md",
+    "5-Temp/InfraStructure/Redis/레디스 용량 줄이기.md",
+    "5-Temp/InfraStructure/Redis/레디스 속도.md",
+    "5-Temp/InfraStructure/Redis/가령 캐시디비로 redis를 썻다고하면, 캐시디비랑 관계형디비 차이가 뭐냐부터 해서.md",
+    "5-Temp/InfraStructure/카프카는 왜 빠를까?.md",
+    "5-Temp/InfraStructure/카프카 순서보장.md",
+    "5-Temp/Spring/스프링 부트 해부학/오픈스택.md",
+    "3-Resource/Infrastructure/Split brain.md",
+    "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
+    "3-Resource/Database/정규화 역정규화.md",
+    "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
+    "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
+    "3-Resource/Database/Mysql Engine/Optimizer(옵티마이저).md",
+    "3-Resource/Database/Mysql Engine/Parser.md",
+    "3-Resource/Database/Mysql Engine/쿼리 실행 구조.md",
     "2-Area/Weekly-Read",
     "real-resource-image/Pasted image 20240622211925.png",
     "real-resource-image/Pasted image 20240622233603.png",
