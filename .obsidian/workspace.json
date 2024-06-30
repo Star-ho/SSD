@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/Weekly-Read/명상.md",
+                "file": "3-Resource/Concept/Session vs JWT.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/Weekly-Read/명상.md",
+                "file": "3-Resource/Concept/Session vs JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/Weekly-Read/명상.md",
+                "file": "3-Resource/Concept/Session vs JWT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/Weekly-Read/명상.md"
+                "file": "3-Resource/Concept/Session vs JWT.md"
               }
             }
           }
@@ -180,32 +180,32 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
+    "5-Temp/0-이직자료/면접자료/면접대비 자료.md",
+    "3-Resource/Concept/Session vs JWT.md",
+    "5-Temp/0-이직자료/면접자료/책임과 권한.md",
+    "5-Temp/0-이직자료/면접자료/면접 가이드.md",
+    "5-Temp/0-이직자료/면접자료/면접.md",
+    "5-Temp/0-이직자료/면접자료/기초cs.md",
+    "3-Resource/Software-Design/Saga Pattern.md",
+    "3-Resource/Architechure/OOD.md",
+    "2-Area/Series/Async-messaging/Async-messaging.md",
+    "2-Area/개발 외의 것들/피부.md",
+    "2-Area/개발 외의 것들/인생...md",
+    "2-Area/개발 외의 것들/운전 팁.md",
+    "2-Area/개발 외의 것들/운동.md",
+    "2-Area/개발 외의 것들/영양제.md",
+    "2-Area/Weekly-Read/건강.md",
     "2-Area/Weekly-Read/림프관 마사지.md",
     "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
-    "2-Area/Weekly-Read/명상.md",
     "2-Area/Weekly-Read/개발.md",
-    "2-Area/개발 외의 것들/운동.md",
     "2-Area/생각정리/테스트코드.md",
     "2-Area/생각정리/팀원으로서 마인드셋.md",
     "2-Area/생각정리/혁펜하임 공부법.md",
     "2-Area/생각정리/황성호 공부법.md",
     "2-Area/Series/coroutine/코루틴.md",
-    "2-Area/개발 외의 것들/영양제.md",
-    "2-Area/개발 외의 것들/피부.md",
-    "2-Area/개발 외의 것들/인생...md",
-    "2-Area/개발 외의 것들/운전 팁.md",
     "5-Temp/InfraStructure/messsge-queue/카프카 쓸때 고려해야할점.md",
     "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
     "5-Temp/InfraStructure/messsge-queue/Kafka Queue.md",
-    "5-Temp/InfraStructure/Redis/redis vs memcached.md",
-    "5-Temp/InfraStructure/Redis/redis에 대해 공부해보자.md",
-    "5-Temp/InfraStructure/Redis/redis vs mysql memeory db.md",
-    "5-Temp/InfraStructure/Redis/redis transaction.md",
-    "5-Temp/InfraStructure/Redis/redis jemalloc.md",
-    "5-Temp/InfraStructure/Redis/Redis cache strategy.md",
-    "5-Temp/InfraStructure/Redis/redis 테이블 컬럼.md",
-    "5-Temp/InfraStructure/Redis/redis 직렬화 역직렬화 이슈.md",
-    "5-Temp/InfraStructure/Redis/redis 고려해볼점.md",
     "2-Area/Weekly-Read",
     "real-resource-image/Pasted image 20240622211925.png",
     "real-resource-image/Pasted image 20240622233603.png",
