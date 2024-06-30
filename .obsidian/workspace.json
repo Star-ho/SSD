@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/InfraStructure/Redis/redis vs memcached.md",
+                "file": "2-Area/Weekly-Read/명상.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/InfraStructure/Redis/redis vs memcached.md",
+                "file": "2-Area/Weekly-Read/명상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/InfraStructure/Redis/redis vs memcached.md",
+                "file": "2-Area/Weekly-Read/명상.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/InfraStructure/Redis/redis vs memcached.md"
+                "file": "2-Area/Weekly-Read/명상.md"
               }
             }
           }
@@ -180,32 +180,32 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
+    "2-Area/Weekly-Read/림프관 마사지.md",
+    "2-Area/Weekly-Read/좋은 데이터 찾는법.md",
+    "2-Area/Weekly-Read/명상.md",
+    "2-Area/Weekly-Read/개발.md",
+    "2-Area/개발 외의 것들/운동.md",
+    "2-Area/생각정리/테스트코드.md",
+    "2-Area/생각정리/팀원으로서 마인드셋.md",
+    "2-Area/생각정리/혁펜하임 공부법.md",
+    "2-Area/생각정리/황성호 공부법.md",
+    "2-Area/Series/coroutine/코루틴.md",
+    "2-Area/개발 외의 것들/영양제.md",
+    "2-Area/개발 외의 것들/피부.md",
+    "2-Area/개발 외의 것들/인생...md",
+    "2-Area/개발 외의 것들/운전 팁.md",
+    "5-Temp/InfraStructure/messsge-queue/카프카 쓸때 고려해야할점.md",
+    "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
+    "5-Temp/InfraStructure/messsge-queue/Kafka Queue.md",
+    "5-Temp/InfraStructure/Redis/redis vs memcached.md",
     "5-Temp/InfraStructure/Redis/redis에 대해 공부해보자.md",
     "5-Temp/InfraStructure/Redis/redis vs mysql memeory db.md",
-    "5-Temp/InfraStructure/Redis/redis vs memcached.md",
     "5-Temp/InfraStructure/Redis/redis transaction.md",
     "5-Temp/InfraStructure/Redis/redis jemalloc.md",
     "5-Temp/InfraStructure/Redis/Redis cache strategy.md",
     "5-Temp/InfraStructure/Redis/redis 테이블 컬럼.md",
     "5-Temp/InfraStructure/Redis/redis 직렬화 역직렬화 이슈.md",
     "5-Temp/InfraStructure/Redis/redis 고려해볼점.md",
-    "5-Temp/InfraStructure/Redis/Redis.md",
-    "5-Temp/InfraStructure/Redis/레디스는 왜 싱글 쓰레드 일까?.md",
-    "5-Temp/InfraStructure/Redis/레디스는 싱글쓰레드.md",
-    "5-Temp/InfraStructure/Redis/레디스 용량 줄이기.md",
-    "5-Temp/InfraStructure/Redis/레디스 속도.md",
-    "5-Temp/InfraStructure/Redis/가령 캐시디비로 redis를 썻다고하면, 캐시디비랑 관계형디비 차이가 뭐냐부터 해서.md",
-    "5-Temp/InfraStructure/카프카는 왜 빠를까?.md",
-    "5-Temp/InfraStructure/카프카 순서보장.md",
-    "5-Temp/Spring/스프링 부트 해부학/오픈스택.md",
-    "3-Resource/Infrastructure/Split brain.md",
-    "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
-    "3-Resource/Database/정규화 역정규화.md",
-    "3-Resource/Database/mysql 락걸린 쿼리 확인.md",
-    "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
-    "3-Resource/Database/Mysql Engine/Optimizer(옵티마이저).md",
-    "3-Resource/Database/Mysql Engine/Parser.md",
-    "3-Resource/Database/Mysql Engine/쿼리 실행 구조.md",
     "2-Area/Weekly-Read",
     "real-resource-image/Pasted image 20240622211925.png",
     "real-resource-image/Pasted image 20240622233603.png",

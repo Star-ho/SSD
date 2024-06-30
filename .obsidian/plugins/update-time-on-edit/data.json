@@ -733,14 +733,11 @@
     "5-Temp/blind 자바 버전업, nosql은 언제쓰면 좋을까 정리하기.md": "3ecba7249c53ca0334cc9a8328f10b3b27cf7dc1548f7fdcb4b3c859e3baf345",
     "3-Resource/DataStructure/B-tree.md": "c513307b4c76da9d8e308a7f559e9596cfeb1668305aad48a4e2344ef03e340d",
     "3-Resource/Computer-Siece/제일급함.md": "e7836ff27ff94432039ec7aceb35f08e38c132fcc33a252bdb025d7153ae0ae2",
-    "2-Area/개발 외의 것들/개발.md": "a3d46c6dfab3dea72cbd0e4822b9d706462aaad56ff52c3748c9a36b2bd9b9b1",
     "2-Area/개발 외의 것들/인생...md": "dcd842f4ac63e5c50287c30d28d341a82e44aee24b379bffe9e5cd357b8fdd4d",
-    "2-Area/개발 외의 것들/림프관 마사지.md": "9cd7cc3aa241c62bc13f762dd40aed33c9fcd5555f8376f5f86e709780f7a1d3",
     "2-Area/개발 외의 것들/운동.md": "7d4ff2c0a64dc8f3f462200c7b0a637a9e97e1eb48c720353d9de8f29adbf399",
     "2-Area/개발 외의 것들/피부.md": "6f30bdbc00b790923331fd92efd3cb584da53aaa0424d4a04077b9ceaa2f0e14",
     "2-Area/개발 외의 것들/운전 팁.md": "7026fe7bc4accc8a50e650e8d216d0d219d93bfde6c908aa9e03e977fe858b21",
     "2-Area/개발 외의 것들/영양제.md": "bf2fa76d946bdd6567461ab434e7a1afcd82fc682073c6ecc5bce789dd946e5d",
-    "2-Area/개발 외의 것들/명상.md": "c4db008a0cd4298d00a56eb3b55c64ee4479f74a97c8dea7e083e3acb857244a",
     "3-Resource/Database/Innodb/내부구조/2-Page management in Innodb space files.md": "b3e98579c8ed59d9013b5d9eb0edd45ec654562f563cd468c437317f61691d63",
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md": "857a45e04cb4b3349ff75361b809cd16bf3b3c17021502708b6648b934ecb478",
     "3-Resource/Database/Innodb/내부구조/정리.md": "bd669be76af03b7dd1b9f0b5e14b82385e1e0307e82ffdd464c45a29fd35b9ad",
@@ -804,7 +801,7 @@
     "3-Resource/Infrastructure/ElasticSearch/Analyzer.md": "05650abca1fed5774f48955de361eb3e576d9957e0f99798b249efc4cb24c656",
     "3-Resource/Infrastructure/ElasticSearch/Lucene.md": "ca5478a7f2db52aae53180d5ca4c47920026a70cf2caf4394da000f8abe49bdf",
     "3-Resource/Infrastructure/ElasticSearch/Elasticsearch write.md": "ff276011b2324a08bd371e9196078ded1766cabdb1cde77e0d8a56d7443c6808",
-    "2-Area/Weekly-Read/좋은 데이터 찾는법.md": "222f765df188031fd004b7fa2370a3bed2f86f78a8209d99929f3b76ff2304dc",
+    "2-Area/Weekly-Read/좋은 데이터 찾는법.md": "56b3cae1e2dad3e44ec6a650501ec6f1f615d97eec45a0469c13b350853e4215",
     "5-Temp/InfraStructure/messsge-queue/mq vs kafka.md": "ecc6f4d0142511964d6396b5e12b767434a6b10ab3902fd937e4394d1e696bf1",
     "5-Temp/InfraStructure/messsge-queue/message driven, event driven.md": "e945971fa6e87d93162266872a1c81d561f83bd7cabd0dece96caff88ee22c3a",
     "5-Temp/코드짤떄/클래스 하나당 100줄.md": "0bd8043d814efcf2dff835869fb8047b0b93f8cb4d688feaeb8ff7255d468045",
@@ -814,6 +811,9 @@
     "3-Resource/Spring/Interceptor.md": "c294d4fa3de4241b3a31c7e1f1c4527df0b4200e66bc9fa139f6840887734de2",
     "3-Resource/Spring/Spring vs Spring boot.md": "d6afbd12306efb7bd69b3eeb295b8cb5daa32bf63f9d8c0920aa75e00b907663",
     "5-Temp/Spring/스프링 부트 해부학/오픈스택.md": "ca7c9016e00be5d026fb48a4360ca73ff57ca74e546af39944dc19b1c5d167bc",
-    "5-Temp/InfraStructure/@Condition.md": "7c70468436e2d1f8466ab46e999381a130b644893ffea3f86a80cfba1bc0e24f"
+    "5-Temp/InfraStructure/@Condition.md": "7c70468436e2d1f8466ab46e999381a130b644893ffea3f86a80cfba1bc0e24f",
+    "2-Area/Weekly-Read/명상.md": "c4db008a0cd4298d00a56eb3b55c64ee4479f74a97c8dea7e083e3acb857244a",
+    "2-Area/Weekly-Read/림프관 마사지.md": "9cd7cc3aa241c62bc13f762dd40aed33c9fcd5555f8376f5f86e709780f7a1d3",
+    "2-Area/Weekly-Read/개발.md": "a3d46c6dfab3dea72cbd0e4822b9d706462aaad56ff52c3748c9a36b2bd9b9b1"
   }
 }
