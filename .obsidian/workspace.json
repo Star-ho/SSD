@@ -180,8 +180,9 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
-    "5-Temp/0-이직자료/면접자료/면접대비 자료.md",
+    "3-Resource/Concept/SPI(Service Provider Interface).md",
     "3-Resource/Concept/Session vs JWT.md",
+    "5-Temp/0-이직자료/면접자료/면접대비 자료.md",
     "5-Temp/0-이직자료/면접자료/책임과 권한.md",
     "5-Temp/0-이직자료/면접자료/면접 가이드.md",
     "5-Temp/0-이직자료/면접자료/면접.md",
@@ -205,7 +206,6 @@
     "2-Area/Series/coroutine/코루틴.md",
     "5-Temp/InfraStructure/messsge-queue/카프카 쓸때 고려해야할점.md",
     "5-Temp/InfraStructure/messsge-queue/어지간한 queue가 레디스보다 write throughput은 좋을거 같은데.md",
-    "5-Temp/InfraStructure/messsge-queue/Kafka Queue.md",
     "2-Area/Weekly-Read",
     "real-resource-image/Pasted image 20240622211925.png",
     "real-resource-image/Pasted image 20240622233603.png",
