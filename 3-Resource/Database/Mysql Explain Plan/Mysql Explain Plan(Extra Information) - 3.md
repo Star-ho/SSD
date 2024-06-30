@@ -42,6 +42,9 @@ categories:
 - 모든 행을 가져오는 경우가 아니라면, using where이 사용되지 않으면서 join type이 ALL이나 index이면 쿼리에 문제가 있는 것일 수 있음
 
 ## Using index for skip scan
-#### **12.5 Using join buffer(Block Nested Loop, hash join)**
 
-#### **Using where**
+
+## Using join buffer(Block Nested Loop, hash join)
+
+
+#argent 
