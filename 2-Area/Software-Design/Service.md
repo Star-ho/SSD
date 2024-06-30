@@ -1,6 +1,6 @@
 ---
 date: 2024-03-02T22:41:32
-updatedAt: 2024-04-21 18:36:36+4040
+updatedAt: 2024-06-30 23:16:56
 tags:
   - Software-design
   - hugo_blog
@@ -16,7 +16,6 @@ categories: Software-Design
 3. 연산이 상태를 갖고있지 않음
 
 ### Service의 계층
-
 - 응용
 - 도메인
 - 인프라스트럭처 계층
