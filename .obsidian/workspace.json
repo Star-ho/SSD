@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Temp/0-이직자료/면접자료/기초cs.md",
+                "file": "2-Area/Software-Design/객체지향 프로그래밍 - Object Oriented Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Temp/0-이직자료/면접자료/기초cs.md",
+                "file": "2-Area/Software-Design/객체지향 프로그래밍 - Object Oriented Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Temp/0-이직자료/면접자료/기초cs.md",
+                "file": "2-Area/Software-Design/객체지향 프로그래밍 - Object Oriented Programming.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Temp/0-이직자료/면접자료/기초cs.md"
+                "file": "2-Area/Software-Design/객체지향 프로그래밍 - Object Oriented Programming.md"
               }
             }
           }
@@ -180,13 +180,19 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
-    "5-Temp/0-이직자료/면접자료/면접.md",
-    "5-Temp/0-이직자료/면접자료/면접 가이드.md",
-    "5-Temp/0-이직자료/면접자료/면접대비 자료.md",
-    "5-Temp/0-이직자료/면접자료/책임과 권한.md",
+    "2-Area/Software-Design/OOP.md",
     "2-Area/Software-Design/객체지향 프로그래밍 - Object Oriented Programming.md",
     "5-Temp/코드짤떄/DTO.md",
-    "5-Temp/Softeware Architecture/OOP.md",
+    "5-Temp/0-이직자료/면접자료/책임과 권한.md",
+    "5-Temp/0-이직자료/면접자료/면접대비 자료.md",
+    "5-Temp/0-이직자료/면접자료/면접 가이드.md",
+    "5-Temp/0-이직자료/면접자료/면접.md",
+    "5-Temp/0-이직자료/면접자료/기초cs.md",
+    "5-Temp/Softeware Architecture/DDD 트랜잭션.md",
+    "5-Temp/Softeware Architecture/DDD.md",
+    "5-Temp/Softeware Architecture/DDD 패키지구조.md",
+    "5-Temp/Softeware Architecture/OOD.md",
+    "5-Temp/Softeware Architecture/OOP 도메인 객체 setter.md",
     "2-Area/생각정리/클래스, 메서드,.md",
     "2-Area/Software-Design/Service.md",
     "2-Area/Software-Design/Entity, VO.md",
@@ -200,12 +206,6 @@
     "3-Resource/Infrastructure/Message Queue/Message Queue 사용이유.md",
     "3-Resource/Infrastructure/Message Queue/비동기 작업에서 사용자에게 작업 완료를 알려주는법.md",
     "3-Resource/Infrastructure/Message Queue/Kafka Write.md",
-    "3-Resource/Infrastructure/Message Queue/Kafka Coordinater.md",
-    "3-Resource/Infrastructure/Message Queue/Kafka Component.md",
-    "3-Resource/Infrastructure/Message Queue/Async-messaging.md",
-    "3-Resource/Infrastructure/Message Queue/Apache Pulsar.md",
-    "3-Resource/Infrastructure/Message Queue/akka.md",
-    "3-Resource/Infrastructure/Message Queue/Kafka Read.md",
     "3-Resource/Infrastructure/Message Queue",
     "2-Area/Weekly-Read",
     "real-resource-image/Pasted image 20240622211925.png",
