@@ -1,6 +1,6 @@
 ---
 date: 2024-05-03 23:35:47
-updatedAt: 2024-07-01 13:25:12
+updatedAt: 2024-07-01 13:26:52
 tags:
   - hugo_blog
   - Explain-Plan
@@ -61,7 +61,12 @@ EXPLAIN SELECT f1, f2 FROM t1 WHERE f2 > 40;
 - 11번 쿼리는 f1의 인덱스는 뛰어넘고, f2 인덱스 만 사용해서 결과를 가져옴
 - f1의 인덱스에서 고유값을 찾고, 고유값마다 f2의 인덱스에 걸린 조건을 찾아 결과를 가져옴
 	- 단일 인덱스에 대한 여러 개별 검색이 이루어지고, 결합시 접두사 열의 영향이 제거됨
+
 ## Using join buffer(Block Nested Loop, hash join)
 
 
-#argent 
+
+
+
+
+
