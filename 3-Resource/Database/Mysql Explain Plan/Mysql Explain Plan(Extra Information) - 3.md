@@ -1,6 +1,6 @@
 ---
 date: 2024-05-03 23:35:47
-updatedAt: 2024-06-30 23:37:25
+updatedAt: 2024-07-01 13:25:12
 tags:
   - hugo_blog
   - Explain-Plan
@@ -42,8 +42,25 @@ categories:
 - 모든 행을 가져오는 경우가 아니라면, using where이 사용되지 않으면서 join type이 ALL이나 index이면 쿼리에 문제가 있는 것일 수 있음
 
 ## Using index for skip scan
+```sql
+CREATE TABLE t1 (f1 INT NOT NULL, f2 INT NOT NULL, PRIMARY KEY(f1, f2));
+INSERT INTO t1 VALUES
+  (1,1), (1,2), (1,3), (1,4), (1,5),
+  (2,1), (2,2), (2,3), (2,4), (2,5);
+INSERT INTO t1 SELECT f1, f2 + 5 FROM t1;
+INSERT INTO t1 SELECT f1, f2 + 10 FROM t1;
+INSERT INTO t1 SELECT f1, f2 + 20 FROM t1;
+INSERT INTO t1 SELECT f1, f2 + 40 FROM t1;
+ANALYZE TABLE t1;
 
-
+EXPLAIN SELECT f1, f2 FROM t1 WHERE f2 > 40;
+```
+- 11번 라인의 쿼리문이 실행되면 Using index for skip scan이 적용됨
+- 11번 라인의 쿼리는 인덱스가 f1, f2가 걸려있는데, f2만 사용해서 조건을 걸었음
+	- f1만을 사용하거나, f1, f2를 사용하면 Using Index로 나타남
+- 11번 쿼리는 f1의 인덱스는 뛰어넘고, f2 인덱스 만 사용해서 결과를 가져옴
+- f1의 인덱스에서 고유값을 찾고, 고유값마다 f2의 인덱스에 걸린 조건을 찾아 결과를 가져옴
+	- 단일 인덱스에 대한 여러 개별 검색이 이루어지고, 결합시 접두사 열의 영향이 제거됨
 ## Using join buffer(Block Nested Loop, hash join)
 
 
