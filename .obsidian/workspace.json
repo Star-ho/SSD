@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md",
+                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md",
+                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md",
+                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md"
+                "file": "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md"
               }
             }
           }
@@ -192,9 +192,9 @@
   },
   "active": "fd9d0bb4e8278050",
   "lastOpenFiles": [
-    "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan - 1.md",
     "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(Extra Information) - 3.md",
+    "3-Resource/Database/Mysql Explain Plan/Mysql Explain Plan(조인타입) - 2.md",
     "3-Resource/Infrastructure/Sentry 데이터가 꽉 차서 서버가 터졌을때.md",
     "5-Temp/Database/JOIN을 쓰는 이유.md",
     "3-Resource/Database/Innodb/내부구조/1-page, space, idb file structure.md",
