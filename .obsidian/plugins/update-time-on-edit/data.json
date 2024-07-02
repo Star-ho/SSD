@@ -812,7 +812,7 @@
     "5-Temp/InfraStructure/@Condition.md": "7c70468436e2d1f8466ab46e999381a130b644893ffea3f86a80cfba1bc0e24f",
     "2-Area/Weekly-Read/림프관 마사지.md": "9cd7cc3aa241c62bc13f762dd40aed33c9fcd5555f8376f5f86e709780f7a1d3",
     "2-Area/Weekly-Read/개발.md": "a3d46c6dfab3dea72cbd0e4822b9d706462aaad56ff52c3748c9a36b2bd9b9b1",
-    "2-Area/Weekly-Read/건강.md": "33d3614cb8a61427c65a8675a49707272258e464ef387821c408c982991b267c",
+    "2-Area/Weekly-Read/건강.md": "1d74ceb9f4310f2e57a80db31021e042feeb159704fe9468ee54a4042c89a10b",
     "3-Resource/Concept/Session vs JWT.md": "6084c4e293544fd6b4e7a59fc4ee57bc81bba1917500d21b671c2371dc2e85b4",
     "3-Resource/Infrastructure/Message Queue/Async-messaging.md": "b308250f34cba3fa735d6a13167e826cf1a762a2d52205439939da2d41224e82",
     "3-Resource/Infrastructure/Message Queue/akka.md": "fcb2fc0e224d5a861c4cf728c76d95104cb16c01f38ea01a392def0a3cde1d42",
@@ -821,6 +821,7 @@
     "3-Resource/Infrastructure/Message Queue/Message Queue 사용이유.md": "74dbf64422a901e6ccb5793fc789b18ad65da2375c364ac567e58c63262105aa",
     "3-Resource/Infrastructure/Message Queue/비동기 작업에서 사용자에게 작업 완료를 알려주는법.md": "4dd894cb85556ebd5f1f7b5c80fa52356199d8182959e17698d7906bc9deebfb",
     "2-Area/Software-Design/객체지향 프로그래밍 - Object Oriented Programming.md": "534509e0ee82d5e960f48e79e71ae9cc8ea4baa555b3cee4e207641c2d378350",
-    "2-Area/Weekly-Read/말을 잘하는법.md": "fcb9ac29075649ac01061d060fb7b2d22a40fd305962d2ef40f37e5efa9e9dd7"
+    "2-Area/Weekly-Read/말을 잘하는법.md": "fcb9ac29075649ac01061d060fb7b2d22a40fd305962d2ef40f37e5efa9e9dd7",
+    "2-Area/Weekly-Read/면접준비.md": "6fa45f0796dc2917718d0a0b55d8aed404bb6763963b461a3c03a5df03bca806"
   }
 }
